@@ -9,7 +9,7 @@
 
         Lampa.Listener.follow('request_before', function (e) {
             if (Lampa.Storage.get('language', '') == 'uk' && e.params.url.indexOf('/feed/all') != -1) {
-                e.params.url = 'https://lampa-ua-pack.github.io/news/data.uk.json';
+                e.params.url = 'https://siaivo.isroot.in/lampa-ua-pack/feed/data.uk.json';
             }
         });
 
