@@ -153,10 +153,6 @@ def main():
     if HASH_FILE.exists():
         old_hash = HASH_FILE.read_text().strip()
 
-    # Завжди зберігаємо оригінальний data.json (без змін)
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(original_data, f, ensure_ascii=False, indent=2)
-
     # Якщо хеш не змінився, не оновлюємо data.uk.json (економимо запити до TMDb)
     if old_hash == new_hash and DATA_UK_FILE.exists():
         print("✅ Hash unchanged – Ukrainian file already up to date.")
