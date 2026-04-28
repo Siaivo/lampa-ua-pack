@@ -2,6 +2,119 @@
   "secuses": true,
   "result": [
     {
+      "id": 2669,
+      "time": 1777356361800,
+      "card_id": "1561758",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/8PK61ixYoSX3kXWyCMH4ats79k4.jpg",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "id": 1561758,
+        "original_language": "pl",
+        "title": "Біда людей єдна",
+        "original_title": "Podlasie",
+        "names": [
+          "Біда людей єдна",
+          "Все за одного",
+          "It Takes a Village",
+          "Podlasie - Wszyscy za jedną",
+          "Podlasie"
+        ],
+        "overview": "Коли через невдалу інвестицію та шахраїв Галина опиняється на межі втрати свого будинку та ферми, її родина та мешканці всього села Бодзки вирішують об’єднатися. Вони розробляють шалений план: перетворити своє віддалене містечко на головну туристичну принаду регіону, щоб зібрати гроші та врятувати Галину від фінансового крах",
+        "poster_path": "/3C5U150EzKPqaf4J4Fd6CZQg9Xb.jpg",
+        "release_date": "2026-04-01",
+        "video": false,
+        "vote_average": 4.722,
+        "vote_count": 10,
+        "popularity": 3.7914,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "11857507",
+        "imdb_id": "tt38681815",
+        "status": "released",
+        "last_air_date": "2026-04-04",
+        "countries": [
+          "Poland"
+        ],
+        "genres": [
+          "Мелодрама",
+          "Комедія"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2668,
+      "time": 1777311355892,
+      "card_id": "85552",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 85552,
+        "original_language": "en",
+        "name": "Ейфорія",
+        "original_name": "Euphoria",
+        "names": [
+          "Эйфория",
+          "Euphoria",
+          "Ейфорія"
+        ],
+        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
+        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
+        "first_air_date": "2019-06-16",
+        "video": false,
+        "vote_average": 8.281,
+        "vote_count": 10441,
+        "popularity": 301.9964,
+        "PG": 18,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1178445",
+        "kp_rating": "7.5",
+        "imdb_id": "tt8772296",
+        "imdb_rating": "8.2",
+        "status": "returning series",
+        "last_air_date": "2026-04-27",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 3
+        },
+        "episode": {
+          "air_date": "2026-04-26",
+          "episode_number": 3,
+          "name": "Серія 3",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 59,
+          "still_path": "/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg",
+          "vote_average": 7.8
+        },
+        "genres": [
+          "Драма"
+        ],
+        "countries": [
+          "United States of America",
+          "Israel"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e3",
+      "premiere": 0
+    },
+    {
       "id": 2667,
       "time": 1777270306655,
       "card_id": "124364",
@@ -55,8 +168,8 @@
           "overview": "",
           "season_number": 4,
           "runtime": 54,
-          "still_path": "/4LNl4W9ARO2a843SgE3XMj1uOn9.jpg",
-          "vote_average": 4.6
+          "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
+          "vote_average": 5.375
         },
         "genres": [
           "Детектив",
@@ -84,13 +197,13 @@
         ],
         "id": 1269644,
         "original_language": "de",
-        "title": "Amrum",
+        "title": "Амрум",
         "original_title": "Amrum",
         "names": [
           "Амрум",
           "Amrum"
         ],
-        "overview": "Остров Амрум, весна 1945 года. В последние дни войны 12-летний Наннинг, сын убеждённой нацистки и офицера СС, охотится на тюленей в коварном море, рыбачит по ночам и работает на соседней ферме, чтобы помочь матери прокормить семью. Несмотря на тяготы, жизнь на прекрасном, продуваемом всеми ветрами острове кажется ему раем. Но когда наконец наступает мир, и власти нацистов приходит конец, он обнаруживает, что враг находится гораздо ближе, чем он мог себе представить.",
+        "overview": "Союзні війська вже за 50 кілометрів від Берліна, отже скоро війна завершиться. 12-річний хлопчик на віддаленому німецькому острові з усіх сил намагається допомогти хворій матері прогодувати сім’ю. Незважаючи на підступне море, він полює на тюленів, ходить на риболовлю вночі та працює на сусідній фермі. Але коли нарешті настає мир, він розуміє, що все, що знав з дитинства – брехня, а ворог набагато ближче, ніж він уявляв…",
         "poster_path": "/veKogeWV5xVrg41HrLCspiwHNDy.jpg",
         "release_date": "2025-10-09",
         "video": false,
@@ -468,7 +581,7 @@
           "season_number": 2,
           "runtime": 52,
           "still_path": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
-          "vote_average": 8.656
+          "vote_average": 8.7
         },
         "genres": [
           "Драма",
@@ -538,7 +651,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.283
+          "vote_average": 7.328
         },
         "genres": [
           "Науково фантастичний",
@@ -737,7 +850,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gheN0HmOUZAag4N38HascquineZ.jpg",
-          "vote_average": 9.583
+          "vote_average": 9.6
         },
         "genres": [
           "Кримінал",
@@ -956,7 +1069,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/zihcg1uqGZLotlSBCzGmv125XfC.jpg",
-          "vote_average": 7.643
+          "vote_average": 7.3
         },
         "genres": [
           "Драма"
@@ -1025,7 +1138,7 @@
           "season_number": 4,
           "runtime": 54,
           "still_path": "/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg",
-          "vote_average": 6.1
+          "vote_average": 6.31
         },
         "genres": [
           "Детектив",
@@ -1578,8 +1691,8 @@
           "overview": "",
           "season_number": 2,
           "runtime": 53,
-          "still_path": "/ppn1k3YcDIc35F4hHVzxsk82N1d.jpg",
-          "vote_average": 8.063
+          "still_path": "/3Pw0G3sjFcd0qgtYqkvtIvTHxGQ.jpg",
+          "vote_average": 8.1
         },
         "genres": [
           "Драма",
@@ -1727,7 +1840,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg",
-          "vote_average": 7.732
+          "vote_average": 7.762
         },
         "genres": [
           "Науково фантастичний",
@@ -1905,7 +2018,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/hbz0xyNFagcXKcBAYbxDJ31wn9M.jpg",
-          "vote_average": 6.804
+          "vote_average": 6.8
         },
         "genres": [
           "Драма"
@@ -1926,7 +2039,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+        "backdrop_path": "/jSxeFrFCajefwka3TTRY4k8XVEX.jpg",
         "genre_ids": [
           27,
           35
@@ -2570,7 +2683,7 @@
           "season_number": 2,
           "runtime": 59,
           "still_path": "/1K8Zw52TkvObE2OqKYTtWUkdwTc.jpg",
-          "vote_average": 8.5
+          "vote_average": 8.714
         },
         "genres": [
           "Драма",
@@ -2718,7 +2831,7 @@
           "overview": "",
           "season_number": 2,
           "runtime": 54,
-          "still_path": "/7to2nHUwwVLVtS8snTYXE9qkEHU.jpg",
+          "still_path": "/etlRB0qE3YKlVgIEjwBzQ3y4BJ0.jpg",
           "vote_average": 8.0
         },
         "genres": [
@@ -2733,105 +2846,7 @@
       "type": "episode",
       "hash": "s2;e4",
       "premiere": 0
-    },
-    {
-      "id": 2619,
-      "time": 1775736373645,
-      "card_id": "1226863",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-        "genre_ids": [
-          16,
-          12,
-          14,
-          10751,
-          35
-        ],
-        "id": 1226863,
-        "original_language": "en",
-        "title": "Супер Маріо Галактика в кіно",
-        "original_title": "The Super Mario Galaxy Movie",
-        "names": [
-          "Супер Маріо Галактика в кіно",
-          "Супер Марио: Галактическое кино",
-          "The Super Mario Galaxy Movie"
-        ],
-        "overview": "“Супер Маріо: Галактика в кіно“ — анімаційний фільм, заснований на всесвіті культової однойменної гри, який продовжує історію стрічки “Брати Супер Маріо в кіно“. Фільм 2023 року став світовим хітом, зібравши понад 1,3 мільярда доларів у світовому прокаті.",
-        "poster_path": "/hC8jFgDfsJVVXnXj1zV0DFsJepC.jpg",
-        "release_date": "2026-04-01",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 255,
-        "popularity": 338.5845,
-        "PG": 6,
-        "release_quality": "webdl",
-        "kinopoisk_id": "5934685",
-        "kp_rating": "6.5",
-        "imdb_id": "tt28650488",
-        "status": "released",
-        "last_air_date": "2026-04-02",
-        "countries": [
-          "Japan",
-          "United States of America"
-        ],
-        "genres": [
-          "Сімейний",
-          "Комедія",
-          "Пригоди",
-          "Фентезі",
-          "Мультфільм"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2618,
-      "time": 1775733601710,
-      "card_id": "1185806",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
-        "id": 1185806,
-        "title": "Щенячий патруль: Динофільм",
-        "original_title": "PAW Patrol: The Dino Movie",
-        "overview": "Після того, як їхній корабель потрапляє в загадковий шторм, цуценята з «Щенячого патруля» зазнають аварійної посадки на незвіданому тропічному острові, населеному динозаврами. Там вони знайомляться з Рексом — песиком, який уже багато років живе на острові та став справжнім експертом у всьому, що пов’язане з динозаврами. Тим часом заклятий ворог команди, мер Гамдінгер, нахабно видобуваючи природні ресурси острова, випадково спричиняє виверження величезного сплячого вулкана. Цуценята «Щенячого патруля» опиняються в центрі серії надскладних рятувальних місій динозаврських масштабів — більших, ніж будь-коли раніше. Тепер вони мають зупинити Гамдінгера, перш ніж усе життя на острові опиниться під загрозою зникнення.",
-        "poster_path": "/2y1Dtqmv9xmJJ2KpLswmT97f8YW.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          16,
-          12,
-          10751,
-          35
-        ],
-        "popularity": 5.7985,
-        "release_date": "2026-08-05",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "aHw4PuLCUIc",
-        "imdb_id": "tt29356163",
-        "genres": [
-          "Мультфільм",
-          "Пригоди",
-          "Сімейний",
-          "Комедія"
-        ],
-        "countries": [
-          "Canada",
-          "France",
-          "United States of America"
-        ]
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.466331481933594
+  "duration": 6.685157775878906
 }
