@@ -2,6 +2,75 @@
   "secuses": true,
   "result": [
     {
+      "id": 2674,
+      "time": 1777473355900,
+      "card_id": "76479",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "id": 76479,
+        "original_language": "en",
+        "name": "Хлопаки",
+        "original_name": "The Boys",
+        "names": [
+          "Хлопаки",
+          "Пацаны",
+          "The Boys",
+          "Хлопці / Хлопаки"
+        ],
+        "overview": "Події розгортаються в альтернативному світі, де супергерої є звичним явищем. Вони щоденно по кілька разів рятують світ, знімаються у фільмах і стають обличчями рекламних кампаній відомих брендів. Втім, є і зворотня сторона медалі: кожен день тисячі людей страждають від дій супергероїв, для яких людське життя насправді не коштує зовсім нічого. Але є невеличка групка відчайдухів, яких такий стан справ не влаштовує, вони мають мету – покарати знахабнілих надлюдей та вивести їх на чисту воду…",
+        "poster_path": "/iNKkWK11okzbenMvJY87aOHNfll.jpg",
+        "first_air_date": "2019-07-25",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 11979,
+        "popularity": 593.6623,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "460586",
+        "kp_rating": "8.3",
+        "imdb_id": "tt1190634",
+        "imdb_rating": "8.6",
+        "status": "returning series",
+        "last_air_date": "2026-04-29",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 8,
+          "5": 5
+        },
+        "episode": {
+          "air_date": "2026-04-29",
+          "episode_number": 5,
+          "name": "Серія 5",
+          "overview": "",
+          "season_number": 5,
+          "runtime": 68,
+          "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
+          "vote_average": 4.667
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s5;e5",
+      "premiere": 0
+    },
+    {
       "id": 2673,
       "time": 1777458962257,
       "card_id": "1292695",
@@ -43,9 +112,9 @@
           "South Africa"
         ],
         "genres": [
-          "Жахи",
           "Бойовик",
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -867,7 +936,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.382
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1546,7 +1615,7 @@
           "season_number": 2,
           "runtime": 50,
           "still_path": "/sQTZIZGSXcI5TAbgJfhez9zyNAq.jpg",
-          "vote_average": 7.528
+          "vote_average": 7.5
         },
         "genres": [
           "Драма"
@@ -1652,7 +1721,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/cXRz241o7dRK9eF6l0oASJc1tuX.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.5
         },
         "genres": [
           "Драма",
@@ -2234,7 +2303,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/hbz0xyNFagcXKcBAYbxDJ31wn9M.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.938
         },
         "genres": [
           "Драма"
@@ -2437,7 +2506,7 @@
           "season_number": 2,
           "runtime": 42,
           "still_path": "/9ckc3UUzcRYRLuMeWJL7Ra1Mm8x.jpg",
-          "vote_average": 7.925
+          "vote_average": 7.9
         },
         "genres": [
           "Драма"
@@ -2660,7 +2729,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "id": 270476,
         "name": "Відоус-Бей",
         "original_name": "Widow's Bay",
@@ -2802,50 +2871,7 @@
       "type": "trailer",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2624,
-      "time": 1775808492409,
-      "card_id": "1401586",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/tt2lisqeBShFbGp1pDJzZyk9SRD.jpg",
-        "id": 1401586,
-        "title": "Їжак Сонік 4",
-        "original_title": "Sonic the Hedgehog 4",
-        "overview": "Сонику и его друзьям предстоит сразиться с новым ранее невиданным врагом - Метал Соником, в этом ему поможет новый союзник ежиха Эми Роуз.",
-        "poster_path": "/t8uoHBODkFlSQJRL6qc4IclUBlH.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          35,
-          28,
-          10751,
-          878
-        ],
-        "popularity": 7.0416,
-        "release_date": "2027-03-11",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "YShjCIA9aXk",
-        "imdb_id": "tt16744566",
-        "genres": [
-          "Комедія",
-          "Бойовик",
-          "Сімейний",
-          "Фантастика"
-        ],
-        "countries": [
-          "United States of America",
-          "Japan"
-        ]
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.732444763183594
+  "duration": 5.852142333984375
 }
