@@ -51,12 +51,12 @@
         "episode": {
           "air_date": "2026-04-29",
           "episode_number": 5,
-          "name": "Серія 5",
-          "overview": "",
+          "name": "Одноразові",
+          "overview": "Сьогодні о 21:00/20:00 за центральним часом спеціальний репортаж на @VoughtNews: Зрада в Тінселтауні! З'ясуйте, хто з ваших улюблених зірок зорянець!",
           "season_number": 5,
-          "runtime": 68,
+          "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 4.667
+          "vote_average": 7.7
         },
         "genres": [
           "Науково фантастичний",
@@ -77,7 +77,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/xnb15logFGJRniA7Ud3NILSPPhs.jpg",
+        "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
         "genre_ids": [
           28,
           27,
@@ -93,7 +93,7 @@
           "They Will Kill You"
         ],
         "overview": "Жінка влаштовується на роботу господаркою у «висотку» в Нью-Йорку, не підозрюючи про історію загадкових зникнень у будівлі. Невдовзі вона розуміє, що громада об'єднана таємницею.",
-        "poster_path": "/nSXCFSvI2p5WLgMrOHACbVnEJSR.jpg",
+        "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
         "release_date": "2026-03-25",
         "video": false,
         "vote_average": 6.521,
@@ -162,7 +162,8 @@
         "genres": [
           "Трилер",
           "Кримінал",
-          "Драма"
+          "Драма",
+          "Телефільм"
         ]
       },
       "type": "uhd",
@@ -385,7 +386,7 @@
           "season_number": 3,
           "runtime": 59,
           "still_path": "/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.7
         },
         "genres": [
           "Драма"
@@ -449,12 +450,12 @@
         "episode": {
           "air_date": "2026-04-26",
           "episode_number": 2,
-          "name": "Серія 2",
-          "overview": "",
+          "name": "Сутичка",
+          "overview": "Жахлива знахідка викликає хвилю обурення в місті, а Джейд і Табіта намагаються впоратися з цим відкриттям.",
           "season_number": 4,
           "runtime": 55,
           "still_path": "/esqLUHHzxgRqHStvvvb7qDTde6X.jpg",
-          "vote_average": 5.4
+          "vote_average": 5.615
         },
         "genres": [
           "Детектив",
@@ -566,7 +567,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
+        "backdrop_path": "/rclsLNvqaoqatO2O0S5ajlmk6yf.jpg",
         "genre_ids": [
           16,
           10765,
@@ -610,7 +611,7 @@
           "season_number": 1,
           "runtime": 28,
           "still_path": "/ls5Ctm2zIjMlEVpItcv3JU5GLRA.jpg",
-          "vote_average": 6.2
+          "vote_average": 5.667
         },
         "genres": [
           "Мультфільм",
@@ -936,7 +937,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.5
         },
         "genres": [
           "Науково фантастичний",
@@ -1548,7 +1549,7 @@
           "season_number": 2,
           "runtime": 40,
           "still_path": "/6y16mpHEyWJmY7CREy2vmdhE0tG.jpg",
-          "vote_average": 8.0
+          "vote_average": 7.714
         },
         "genres": [
           "Науково фантастичний",
@@ -2125,7 +2126,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg",
-          "vote_average": 7.762
+          "vote_average": 7.9
         },
         "genres": [
           "Науково фантастичний",
@@ -2324,7 +2325,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/jSxeFrFCajefwka3TTRY4k8XVEX.jpg",
+        "backdrop_path": "/waUDWpsm3oCrzU9P4XnsBAh2cso.jpg",
         "genre_ids": [
           27,
           35
@@ -2873,5 +2874,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.852142333984375
+  "duration": 6.5167999267578125
 }
