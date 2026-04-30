@@ -2,6 +2,54 @@
   "secuses": true,
   "result": [
     {
+      "id": 2675,
+      "time": 1777536360618,
+      "card_id": "1290417",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1290417,
+        "original_language": "en",
+        "title": "Лютий напад",
+        "original_title": "Thrash",
+        "names": [
+          "Лютий напад",
+          "Хищный рывок",
+          "Thrash"
+        ],
+        "overview": "Катастрофічний ураган спустошує прибережне місто. Тепер жителям затоплених вулиць треба пережити підвищення рівня моря, що кишить кровожерливими акулами.",
+        "poster_path": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
+        "release_date": "2026-04-10",
+        "video": false,
+        "vote_average": 6.01,
+        "vote_count": 431,
+        "popularity": 126.432,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "8883351",
+        "kp_rating": "5.3",
+        "imdb_id": "tt32362890",
+        "status": "released",
+        "last_air_date": "2026-04-12",
+        "countries": [
+          "United States of America",
+          "Australia"
+        ],
+        "genres": [
+          "Жахи",
+          "Трилер"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2674,
       "time": 1777473355900,
       "card_id": "76479",
@@ -56,7 +104,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.7
+          "vote_average": 7.563
         },
         "genres": [
           "Науково фантастичний",
@@ -455,7 +503,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/esqLUHHzxgRqHStvvvb7qDTde6X.jpg",
-          "vote_average": 5.615
+          "vote_average": 5.6
         },
         "genres": [
           "Детектив",
@@ -1978,7 +2026,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.0
         },
         "genres": [
           "Драма",
@@ -2199,7 +2247,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/jNtElnMNH3i2L45noWugZXat8Tb.jpg",
-          "vote_average": 6.111
+          "vote_average": 6.1
         },
         "genres": [
           "Кримінал",
@@ -2831,48 +2879,7 @@
       "type": "episode",
       "hash": "s2;e2",
       "premiere": 0
-    },
-    {
-      "id": 2625,
-      "time": 1775826472288,
-      "card_id": "1288445",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xYro90dW4z7es4JG1vo1bmZ0lUN.jpg",
-        "id": 1288445,
-        "title": "Заколот",
-        "original_title": "Mutiny",
-        "overview": "Колишній спецпризначенець і офіцер поліції Нью-Йорка Коул Рід нині працює у сфері приватної охорони. Та коли його звинувачують у вбивстві тайського мільярдера Тібу, він змушений тікати й самостійно шукати справжнього злочинця — і невдовзі виходить на слід міжнародної змови.",
-        "poster_path": "/rtWM5cgSswZq8EomxTd9cQ0NKN6.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          28,
-          80,
-          53
-        ],
-        "popularity": 7.7374,
-        "release_date": "2026-08-19",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "x29173yRDXw",
-        "imdb_id": "tt32338669",
-        "genres": [
-          "Бойовик",
-          "Кримінал",
-          "Трилер"
-        ],
-        "countries": [
-          "United Kingdom",
-          "United States of America"
-        ]
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.5167999267578125
+  "duration": 7.1026458740234375
 }
