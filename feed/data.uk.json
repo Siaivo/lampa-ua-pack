@@ -2,6 +2,52 @@
   "secuses": true,
   "result": [
     {
+      "id": 2677,
+      "time": 1777615929573,
+      "card_id": "1314481",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 1314481,
+        "original_language": "en",
+        "title": "Диявол носить Прада 2",
+        "original_title": "The Devil Wears Prada 2",
+        "names": [
+          "Диявол носить Прада 2",
+          "Дьявол носит Prada 2",
+          "The Devil Wears Prada 2"
+        ],
+        "overview": "Майже через двадцять років Меріл Стріп, Енн Гетевей, Емілі Блант і Стенлі Туччі повертаються на модні вулиці Нью-Йорка та до бездоганно стильних кабінетів видання «Подіум» у довгоочікуваному сиквелі культового фільму 2006 року, що став визначальним для цілого покоління.",
+        "poster_path": "/xrRCThaRSIzUxDTo0q9tTXjdh9v.jpg",
+        "release_date": "2026-04-29",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 38,
+        "popularity": 89.8749,
+        "PG": 13,
+        "release_quality": "ts",
+        "kinopoisk_id": "6373982",
+        "imdb_id": "tt33612209",
+        "status": "released",
+        "last_air_date": "2026-04-30",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Комедія",
+          "Драма"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2676,
       "time": 1777545355919,
       "card_id": "79744",
@@ -112,8 +158,7 @@
         "status": "released",
         "last_air_date": "2026-04-12",
         "countries": [
-          "United States of America",
-          "Australia"
+          "United States of America"
         ],
         "genres": [
           "Жахи",
@@ -578,7 +623,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/esqLUHHzxgRqHStvvvb7qDTde6X.jpg",
-          "vote_average": 6.2
+          "vote_average": 6.5
         },
         "genres": [
           "Детектив",
@@ -690,7 +735,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/rclsLNvqaoqatO2O0S5ajlmk6yf.jpg",
+        "backdrop_path": "/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
         "genre_ids": [
           16,
           10765,
@@ -2035,8 +2080,7 @@
         "status": "released",
         "last_air_date": "2026-04-12",
         "countries": [
-          "United States of America",
-          "Australia"
+          "United States of America"
         ],
         "genres": [
           "Жахи",
@@ -2448,7 +2492,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/waUDWpsm3oCrzU9P4XnsBAh2cso.jpg",
+        "backdrop_path": "/jSxeFrFCajefwka3TTRY4k8XVEX.jpg",
         "genre_ids": [
           27,
           35
@@ -2845,49 +2889,7 @@
       "type": "episode",
       "hash": "s2;e7",
       "premiere": 0
-    },
-    {
-      "id": 2627,
-      "time": 1775844512329,
-      "card_id": "270476",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
-        "id": 270476,
-        "name": "Відоус-Бей",
-        "original_name": "Widow's Bay",
-        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
-        "poster_path": "/ltaUu37hmMcb4qKH9TwsRXhmTCI.jpg",
-        "media_type": "tv",
-        "original_language": "en",
-        "genre_ids": [
-          35,
-          18,
-          9648
-        ],
-        "popularity": 3.8034,
-        "first_air_date": "2026-04-28",
-        "vote_average": 0,
-        "vote_count": 0,
-        "origin_country": [
-          "US"
-        ],
-        "trailer_id": "VcpYPxKeGAc",
-        "imdb_id": "tt33332385",
-        "genres": [
-          "Драма",
-          "Детектив",
-          "Комедія"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.9429931640625
+  "duration": 6.00067138671875
 }
