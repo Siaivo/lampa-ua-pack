@@ -54,7 +54,7 @@
           "season_number": 2,
           "runtime": 59,
           "still_path": "/djqGUjMqU7AxqYAbfxnCo2Be7wO.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.333
         },
         "genres": [
           "Драма",
@@ -190,7 +190,7 @@
           "overview": "",
           "season_number": 2,
           "runtime": 48,
-          "still_path": "/wKXM5uTJPnoQsqwl6E6EvFvtfSW.jpg",
+          "still_path": "/mjUSg9caDYA6qb4svR1cFJPMAxc.jpg",
           "vote_average": 8.1
         },
         "genres": [
@@ -429,7 +429,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.72
+          "vote_average": 7.731
         },
         "genres": [
           "Науково фантастичний",
@@ -759,7 +759,7 @@
           "season_number": 3,
           "runtime": 59,
           "still_path": "/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg",
-          "vote_average": 7.7
+          "vote_average": 7.714
         },
         "genres": [
           "Драма"
@@ -1310,7 +1310,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.474
+          "vote_average": 7.487
         },
         "genres": [
           "Науково фантастичний",
@@ -1728,7 +1728,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/zihcg1uqGZLotlSBCzGmv125XfC.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.389
         },
         "genres": [
           "Драма"
@@ -2939,5 +2939,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.7504730224609375
+  "duration": 5.796623229980469
 }
