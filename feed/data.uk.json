@@ -2,6 +2,73 @@
   "secuses": true,
   "result": [
     {
+      "id": 2680,
+      "time": 1777702324472,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзі та сусіди",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзі та сусіди",
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
+        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.563,
+        "vote_count": 198,
+        "popularity": 38.1807,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-05-01",
+        "seasons": {
+          "1": 9,
+          "2": 5
+        },
+        "episode": {
+          "air_date": "2026-04-30",
+          "episode_number": 5,
+          "name": "На півдорозі до невидимості",
+          "overview": "Барні розбирається з перевіркою спортзалів «Міцна дупа у Ніка», яку проводить Еш. Куп і Джек летять за кордон улещувати великого інвестора. Нік влаштовує новосілля.",
+          "season_number": 2,
+          "runtime": 59,
+          "still_path": "/djqGUjMqU7AxqYAbfxnCo2Be7wO.jpg",
+          "vote_average": 7.5
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s2;e5",
+      "premiere": 0
+    },
+    {
       "id": 2679,
       "time": 1777648324456,
       "card_id": "202411",
@@ -2431,7 +2498,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg",
-          "vote_average": 7.867
+          "vote_average": 7.894
         },
         "genres": [
           "Науково фантастичний",
@@ -2870,55 +2937,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2630,
-      "time": 1775903863289,
-      "card_id": "1307373",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qLp9td9ZfOe7G6wHhrepKtIH5Qe.jpg",
-        "genre_ids": [
-          53,
-          80,
-          18
-        ],
-        "id": 1307373,
-        "original_language": "en",
-        "title": "Wasteman",
-        "original_title": "Wasteman",
-        "names": [
-          "Мусорщик",
-          "Wasteman"
-        ],
-        "overview": "Надежды Тейлора на новую жизнь после условно-досрочного освобождения рушатся с появлением его сокамерника Ди. Ди берет Тейлора под свое крыло, но жестокое нападение ставит их отношения под угрозу, заставляя Тейлора выбирать между защитой Ди и собственными шансами на свободу.",
-        "poster_path": "/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
-        "release_date": "2026-02-20",
-        "video": false,
-        "vote_average": 7.6,
-        "vote_count": 7,
-        "popularity": 8.91,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "9002462",
-        "imdb_id": "tt29028515",
-        "imdb_rating": "7.7",
-        "status": "released",
-        "last_air_date": "2026-04-10",
-        "countries": [
-          "United Kingdom"
-        ],
-        "genres": [
-          "Кримінал",
-          "Драма",
-          "Трилер"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.951728820800781
+  "duration": 4.7504730224609375
 }
