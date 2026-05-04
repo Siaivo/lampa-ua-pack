@@ -382,7 +382,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+        "backdrop_path": "/bPqv6PSsqa2tgO1qb2Gq2iQ1VXf.jpg",
         "genre_ids": [
           27,
           53
@@ -477,7 +477,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.717
+          "vote_average": 7.766
         },
         "genres": [
           "Науково фантастичний",
@@ -876,7 +876,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.587
+          "vote_average": 6.354
         },
         "genres": [
           "Детектив",
@@ -1218,7 +1218,7 @@
           "season_number": 2,
           "runtime": 44,
           "still_path": "/uktOfZpCC4hNSBJZ9rpZf9wFZHo.jpg",
-          "vote_average": 8.25
+          "vote_average": 8.333
         },
         "genres": [
           "Науково фантастичний",
@@ -1358,7 +1358,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.475
+          "vote_average": 7.439
         },
         "genres": [
           "Науково фантастичний",
@@ -1433,7 +1433,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/a103TuPbdItnmw4d4yDFQngJywu.jpg",
-          "vote_average": 7.913
+          "vote_average": 7.64
         },
         "genres": [
           "Мультфільм",
@@ -1970,7 +1970,7 @@
           "season_number": 2,
           "runtime": 40,
           "still_path": "/6y16mpHEyWJmY7CREy2vmdhE0tG.jpg",
-          "vote_average": 8.0
+          "vote_average": 7.778
         },
         "genres": [
           "Науково фантастичний",
@@ -2305,7 +2305,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+        "backdrop_path": "/bPqv6PSsqa2tgO1qb2Gq2iQ1VXf.jpg",
         "genre_ids": [
           27,
           53
@@ -2474,7 +2474,7 @@
           "season_number": 4,
           "runtime": 54,
           "still_path": "/gRKy50PZtmIGH7TSxfnfUuDg3IV.jpg",
-          "vote_average": 8.58
+          "vote_average": 8.519
         },
         "genres": [
           "Мультфільм",
@@ -2546,7 +2546,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg",
-          "vote_average": 7.898
+          "vote_average": 7.84
         },
         "genres": [
           "Науково фантастичний",
@@ -2941,5 +2941,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.884361267089844
+  "duration": 4.340431213378906
 }
