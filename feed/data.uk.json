@@ -477,7 +477,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.766
+          "vote_average": 7.8
         },
         "genres": [
           "Науково фантастичний",
@@ -1123,7 +1123,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/p8777bPIlyFYcjqP2hU8htoz1RG.jpg",
+        "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
         "genre_ids": [
           28,
           53
@@ -1358,7 +1358,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.439
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1776,7 +1776,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/zihcg1uqGZLotlSBCzGmv125XfC.jpg",
-          "vote_average": 6.864
+          "vote_average": 6.9
         },
         "genres": [
           "Драма"
@@ -1845,7 +1845,7 @@
           "season_number": 4,
           "runtime": 54,
           "still_path": "/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg",
-          "vote_average": 6.636
+          "vote_average": 6.471
         },
         "genres": [
           "Детектив",
@@ -2172,10 +2172,10 @@
         ],
         "id": 289219,
         "original_language": "en",
-        "name": "Зоряні війни. Дарт Мол: Король тіней",
+        "name": "Зоряні війни: Мол - Король тіней",
         "original_name": "Star Wars: Maul - Shadow Lord",
         "names": [
-          "Зоряні війни. Дарт Мол: Король тіней",
+          "Зоряні війни: Мол - Король тіней",
           "Звёздные войны. Дарт Мол: Повелитель теней",
           "Star Wars: Maul - Shadow Lord"
         ],
@@ -2203,9 +2203,9 @@
           "United States of America"
         ],
         "genres": [
+          "Екшн і Пригоди",
           "Мультфільм",
-          "Науково фантастичний",
-          "Екшн і Пригоди"
+          "Науково фантастичний"
         ]
       },
       "type": "now",
@@ -2724,7 +2724,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/hbz0xyNFagcXKcBAYbxDJ31wn9M.jpg",
-          "vote_average": 6.635
+          "vote_average": 6.6
         },
         "genres": [
           "Драма"
@@ -2941,5 +2941,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.340431213378906
+  "duration": 3.7392578125
 }
