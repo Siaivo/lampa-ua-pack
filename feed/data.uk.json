@@ -2,6 +2,57 @@
   "secuses": true,
   "result": [
     {
+      "id": 2683,
+      "time": 1777962903655,
+      "card_id": "1007757",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wpabGmGA3IaJNGudbzGritmR8Km.jpg",
+        "genre_ids": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "id": 1007757,
+        "original_language": "en",
+        "title": "У чужій шкурі",
+        "original_title": "Swapped",
+        "names": [
+          "У чужій шкурі",
+          "В чужой шкуре",
+          "Swapped"
+        ],
+        "overview": "Крихітна лісова істота й велична птаха зненацька міняються тілами й мусять триматися разом, щоб пережити найдивовижнішу пригоду свого життя.",
+        "poster_path": "/lW8andsu4nCD2zcUjw58WeLhBxs.jpg",
+        "release_date": "2026-05-01",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 5.6176,
+        "PG": 6,
+        "release_quality": "webdl",
+        "kinopoisk_id": "6739719",
+        "imdb_id": "tt29552248",
+        "status": "released",
+        "last_air_date": "2026-05-02",
+        "countries": [
+          "United States of America",
+          "Spain"
+        ],
+        "genres": [
+          "Мультфільм",
+          "Сімейний",
+          "Фентезі"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2682,
       "time": 1777923298041,
       "card_id": "124364",
@@ -56,7 +107,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
-          "vote_average": 6.6
+          "vote_average": 6.773
         },
         "genres": [
           "Детектив",
@@ -172,7 +223,7 @@
           "season_number": 2,
           "runtime": 59,
           "still_path": "/djqGUjMqU7AxqYAbfxnCo2Be7wO.jpg",
-          "vote_average": 7.333
+          "vote_average": 8.0
         },
         "genres": [
           "Драма",
@@ -239,7 +290,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/2xCzo9a0UN5RTFP84farSXlSD15.jpg",
-          "vote_average": 7.875
+          "vote_average": 8.3
         },
         "genres": [
           "Науково фантастичний",
@@ -429,7 +480,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gBXrmvRXYllskJl0X8wG0SOLE50.jpg",
-          "vote_average": 9.591
+          "vote_average": 9.6
         },
         "genres": [
           "Кримінал",
@@ -946,7 +997,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.34
+          "vote_average": 6.423
         },
         "genres": [
           "Детектив",
@@ -1915,7 +1966,7 @@
           "season_number": 4,
           "runtime": 54,
           "still_path": "/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg",
-          "vote_average": 6.471
+          "vote_average": 6.514
         },
         "genres": [
           "Детектив",
@@ -2901,51 +2952,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2633,
-      "time": 1775924561969,
-      "card_id": "224377",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5Dyl2vj73s7S6NhIBtNbBLlZPmH.jpg",
-        "id": 224377,
-        "name": "Гаррі Поттер",
-        "original_name": "Harry Potter",
-        "overview": "В свой 11-ый день рождения Гарри узнаёт, что является самым настоящим волшебником, и его приглашают учиться в школу магии. Поступив, он с головой погружается в мир магии и волшебства, даже не представляя какие испытания ждут его впереди.",
-        "poster_path": "/SJCnXVBJZh7X7ePLt6XMp6TZAj.jpg",
-        "media_type": "tv",
-        "original_language": "en",
-        "genre_ids": [
-          10765,
-          10759,
-          10751
-        ],
-        "popularity": 9.2514,
-        "first_air_date": "2026-12-25",
-        "vote_average": 0,
-        "vote_count": 0,
-        "origin_country": [
-          "GB",
-          "US"
-        ],
-        "trailer_id": "MWtma9a-qYw",
-        "imdb_id": "tt13918446",
-        "genres": [
-          "Науково фантастичний",
-          "Екшн і Пригоди",
-          "Сімейний"
-        ],
-        "countries": [
-          "United Kingdom",
-          "United States of America"
-        ]
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.6772003173828125
+  "duration": 8.064346313476562
 }
