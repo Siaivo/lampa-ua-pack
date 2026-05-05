@@ -2,6 +2,76 @@
   "secuses": true,
   "result": [
     {
+      "id": 2682,
+      "time": 1777923298041,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Ззовні",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
+        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.169,
+        "vote_count": 2679,
+        "popularity": 567.3258,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-05-04",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 3
+        },
+        "episode": {
+          "air_date": "2026-05-03",
+          "episode_number": 3,
+          "name": "Весело ми йдемо",
+          "overview": "Бойд намагається врятувати Акосту від неї самої, тоді як Джулі глибше занурюється у свої нові здібності. Табіта наважується на відчайдушний крок, а Віктор приєднується до Ітана у пошуках відповідей.",
+          "season_number": 4,
+          "runtime": 48,
+          "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
+          "vote_average": 6.6
+        },
+        "genres": [
+          "Детектив",
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e3",
+      "premiere": 0
+    },
+    {
       "id": 2681,
       "time": 1777832234159,
       "card_id": "683205",
@@ -169,7 +239,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/2xCzo9a0UN5RTFP84farSXlSD15.jpg",
-          "vote_average": 8.5
+          "vote_average": 7.875
         },
         "genres": [
           "Науково фантастичний",
@@ -477,7 +547,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.838
         },
         "genres": [
           "Науково фантастичний",
@@ -876,7 +946,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.354
+          "vote_average": 6.34
         },
         "genres": [
           "Детектив",
@@ -1102,7 +1172,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/aWimIbgbIo0bxhP1sN9cgK6WfSU.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.3
         },
         "genres": [
           "Драма",
@@ -1218,7 +1288,7 @@
           "season_number": 2,
           "runtime": 44,
           "still_path": "/uktOfZpCC4hNSBJZ9rpZf9wFZHo.jpg",
-          "vote_average": 8.333
+          "vote_average": 8.5
         },
         "genres": [
           "Науково фантастичний",
@@ -1433,7 +1503,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/a103TuPbdItnmw4d4yDFQngJywu.jpg",
-          "vote_average": 7.64
+          "vote_average": 7.6
         },
         "genres": [
           "Мультфільм",
@@ -1970,7 +2040,7 @@
           "season_number": 2,
           "runtime": 40,
           "still_path": "/6y16mpHEyWJmY7CREy2vmdhE0tG.jpg",
-          "vote_average": 7.778
+          "vote_average": 7.8
         },
         "genres": [
           "Науково фантастичний",
@@ -2037,7 +2107,7 @@
           "season_number": 2,
           "runtime": 50,
           "still_path": "/sQTZIZGSXcI5TAbgJfhez9zyNAq.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.553
         },
         "genres": [
           "Драма"
@@ -2474,7 +2544,7 @@
           "season_number": 4,
           "runtime": 54,
           "still_path": "/gRKy50PZtmIGH7TSxfnfUuDg3IV.jpg",
-          "vote_average": 8.519
+          "vote_average": 8.5
         },
         "genres": [
           "Мультфільм",
@@ -2546,7 +2616,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg",
-          "vote_average": 7.84
+          "vote_average": 7.8
         },
         "genres": [
           "Науково фантастичний",
@@ -2745,7 +2815,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/jSxeFrFCajefwka3TTRY4k8XVEX.jpg",
+        "backdrop_path": "/j8LJ9ZiiXZmpRAlPnacnrsUXyFf.jpg",
         "genre_ids": [
           27,
           35
@@ -2875,71 +2945,7 @@
       "type": "trailer",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2632,
-      "time": 1775922694845,
-      "card_id": "250307",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 250307,
-        "original_language": "en",
-        "name": "Пітт",
-        "original_name": "The Pitt",
-        "names": [
-          "Пітт",
-          "Больница Питт",
-          "The Pitt",
-          "Питт"
-        ],
-        "overview": "Співробітники травматологічного медичного центру Піттсбурга працюють цілодобово, рятуючи життя в переповненому і недофінансованому відділенні невідкладної допомоги.",
-        "poster_path": "/6HvgPcPKRnzUt352r8HHCJlodEa.jpg",
-        "first_air_date": "2025-01-09",
-        "video": false,
-        "vote_average": 8.697,
-        "vote_count": 602,
-        "popularity": 104.8027,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6589776",
-        "kp_rating": "8.7",
-        "imdb_id": "tt31938062",
-        "imdb_rating": "8.9",
-        "status": "returning series",
-        "last_air_date": "2026-04-10",
-        "seasons": {
-          "1": 15,
-          "2": 14
-        },
-        "episode": {
-          "air_date": "2026-04-09",
-          "episode_number": 14,
-          "name": "Серія 14",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 42,
-          "still_path": "/9ckc3UUzcRYRLuMeWJL7Ra1Mm8x.jpg",
-          "vote_average": 7.9
-        },
-        "genres": [
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e14",
-      "premiere": 0
     }
   ],
-  "duration": 3.7392578125
+  "duration": 7.6772003173828125
 }
