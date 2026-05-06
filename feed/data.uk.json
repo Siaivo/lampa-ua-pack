@@ -60,7 +60,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 9.5
+          "vote_average": 9.6
         },
         "genres": [
           "Кримінал",
@@ -148,7 +148,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/wpabGmGA3IaJNGudbzGritmR8Km.jpg",
+        "backdrop_path": "/yrm7UeCVh0RdfunUPMtTd8ea1TQ.jpg",
         "genre_ids": [
           12,
           16,
@@ -183,7 +183,9 @@
           "Spain"
         ],
         "genres": [
+          "Пригоди",
           "Мультфільм",
+          "Драма",
           "Сімейний",
           "Фентезі"
         ]
@@ -247,7 +249,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
-          "vote_average": 6.773
+          "vote_average": 7.0
         },
         "genres": [
           "Детектив",
@@ -363,7 +365,7 @@
           "season_number": 2,
           "runtime": 59,
           "still_path": "/djqGUjMqU7AxqYAbfxnCo2Be7wO.jpg",
-          "vote_average": 8.0
+          "vote_average": 7.75
         },
         "genres": [
           "Драма",
@@ -499,8 +501,8 @@
           "overview": "",
           "season_number": 2,
           "runtime": 48,
-          "still_path": "/mjUSg9caDYA6qb4svR1cFJPMAxc.jpg",
-          "vote_average": 8.222
+          "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
+          "vote_average": 8.2
         },
         "genres": [
           "Драма",
@@ -620,7 +622,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gBXrmvRXYllskJl0X8wG0SOLE50.jpg",
-          "vote_average": 9.542
+          "vote_average": 9.5
         },
         "genres": [
           "Кримінал",
@@ -1137,7 +1139,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.423
+          "vote_average": 6.4
         },
         "genres": [
           "Детектив",
@@ -1619,7 +1621,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.429
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1818,7 +1820,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gheN0HmOUZAag4N38HascquineZ.jpg",
-          "vote_average": 9.625
+          "vote_average": 9.6
         },
         "genres": [
           "Кримінал",
@@ -2734,7 +2736,7 @@
           "overview": "В ходе масштабного столкновения ничто не идет по плану.",
           "season_number": 4,
           "runtime": 54,
-          "still_path": "/fnzlcPTlo30Anx81oDeS4uaEEyS.jpg",
+          "still_path": "/vEyYNzrfpLCefYhILeUmdBcLp0M.jpg",
           "vote_average": 8.5
         },
         "genres": [
@@ -3000,5 +3002,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.4100799560546875
+  "duration": 8.112052917480469
 }
