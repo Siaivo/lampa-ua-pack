@@ -55,7 +55,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/3hfKhjeS2paNcBojTijENVrur6v.jpg",
-          "vote_average": 7.333
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -123,9 +123,9 @@
           "name": "Серія 6",
           "overview": "",
           "season_number": 5,
-          "runtime": 63,
+          "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 5.8
+          "vote_average": 6.958
         },
         "genres": [
           "Науково фантастичний",
@@ -190,7 +190,7 @@
           "season_number": 1,
           "runtime": 26,
           "still_path": "/6AgKrtdQuSF8zDtBOGFJAKnAPGo.jpg",
-          "vote_average": 9.55
+          "vote_average": 8.9
         },
         "genres": [
           "Екшн і Пригоди",
@@ -264,7 +264,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 9.667
+          "vote_average": 9.7
         },
         "genres": [
           "Кримінал",
@@ -331,7 +331,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.6
         },
         "genres": [
           "Драма"
@@ -453,7 +453,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.1
         },
         "genres": [
           "Детектив",
@@ -706,7 +706,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.0
         },
         "genres": [
           "Драма",
@@ -944,7 +944,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.786
+          "vote_average": 7.8
         },
         "genres": [
           "Науково фантастичний",
@@ -1755,7 +1755,7 @@
           "season_number": 2,
           "runtime": 52,
           "still_path": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.4
         },
         "genres": [
           "Драма",
@@ -2865,7 +2865,7 @@
           "season_number": 2,
           "runtime": 53,
           "still_path": "/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg",
-          "vote_average": 7.95
+          "vote_average": 8.0
         },
         "genres": [
           "Драма",
@@ -2940,7 +2940,7 @@
           "overview": "В ходе масштабного столкновения ничто не идет по плану.",
           "season_number": 4,
           "runtime": 54,
-          "still_path": "/vEyYNzrfpLCefYhILeUmdBcLp0M.jpg",
+          "still_path": "/clFquw7mJk4krWPi2hmpxv8RY6A.jpg",
           "vote_average": 8.5
         },
         "genres": [
@@ -3028,5 +3028,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.5127716064453125
+  "duration": 6.4609832763671875
 }
