@@ -2,6 +2,113 @@
   "secuses": true,
   "result": [
     {
+      "id": 2692,
+      "time": 1778232902773,
+      "card_id": "931285",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+        "genre_ids": [
+          28,
+          14,
+          12
+        ],
+        "id": 931285,
+        "original_language": "en",
+        "title": "Мортал Комбат ІІ",
+        "original_title": "Mortal Kombat II",
+        "names": [
+          "Мортал Комбат ІІ",
+          "Мортал Комбат 2",
+          "Mortal Kombat 2",
+          "Mortal Kombat II"
+        ],
+        "overview": "Від студії New Line Cinema — новий вибуховий розділ культової франшизи, створеної за мотивами легендарної відеогри Mortal Kombat II. Цього разу у фанатському бойовому строю — вже з самим Джонні Кейджем — чемпіони зіштовхуються один з одним у безжальному, кривавому протистоянні без правил. Їхня мета — зупинити темне правління Шао Кана, що загрожує самому існуванню Земного царства та його захисників.",
+        "poster_path": "/4ppObTbqkmi7HunEOjqDmpE26NT.jpg",
+        "release_date": "2026-05-06",
+        "video": false,
+        "vote_average": 7.618,
+        "vote_count": 17,
+        "popularity": 63.4594,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "4876869",
+        "imdb_id": "tt17490712",
+        "status": "released",
+        "last_air_date": "2026-05-08",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Бойовик",
+          "Фентезі",
+          "Пригоди"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2691,
+      "time": 1778227500865,
+      "card_id": "285838",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "id": 285838,
+        "original_language": "ko",
+        "name": "Якби бажання вбивали",
+        "original_name": "기리고",
+        "names": [
+          "Якби бажання вбивали",
+          "Загадай свою смерть",
+          "Girigo",
+          "Желаю твоей смерти / If Wishes Could Kill / Если бы желания могли убивать",
+          "기리고",
+          "Если бы желания могли убивать",
+          "Girigo / If Wishes Could Kill"
+        ],
+        "overview": "Таємничий застосунок обіцяє здійснення бажань, а потім запускає відлік до смерті. Потрапивши в цю пастку, група підлітків мусить розірвати смертельний ланцюг, щоб вижити.",
+        "poster_path": "/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
+        "first_air_date": "2026-04-24",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 53,
+        "popularity": 85.2914,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "7343988",
+        "kp_rating": "7.0",
+        "imdb_id": "tt36104233",
+        "imdb_rating": "7.2",
+        "status": "ended",
+        "last_air_date": "2026-04-26",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Детектив",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2690,
       "time": 1778164498123,
       "card_id": "1430077",
@@ -297,7 +404,7 @@
           "season_number": 1,
           "runtime": 26,
           "still_path": "/6AgKrtdQuSF8zDtBOGFJAKnAPGo.jpg",
-          "vote_average": 8.9
+          "vote_average": 8.885
         },
         "genres": [
           "Екшн і Пригоди",
@@ -497,8 +604,7 @@
           "Пригоди",
           "Мультфільм",
           "Сімейний",
-          "Фентезі",
-          "Комедія"
+          "Фентезі"
         ]
       },
       "type": "now_playing",
@@ -1051,7 +1157,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.743
         },
         "genres": [
           "Науково фантастичний",
@@ -1932,7 +2038,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.442
         },
         "genres": [
           "Науково фантастичний",
@@ -2871,122 +2977,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2642,
-      "time": 1776355282350,
-      "card_id": "1290417",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bPqv6PSsqa2tgO1qb2Gq2iQ1VXf.jpg",
-        "genre_ids": [
-          27,
-          53
-        ],
-        "id": 1290417,
-        "original_language": "en",
-        "title": "Лютий напад",
-        "original_title": "Thrash",
-        "names": [
-          "Лютий напад",
-          "Хищный рывок",
-          "Thrash"
-        ],
-        "overview": "Катастрофічний ураган спустошує прибережне місто. Тепер жителям затоплених вулиць треба пережити підвищення рівня моря, що кишить кровожерливими акулами.",
-        "poster_path": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
-        "release_date": "2026-04-10",
-        "video": false,
-        "vote_average": 5.916,
-        "vote_count": 249,
-        "popularity": 253.4786,
-        "PG": 17,
-        "release_quality": "webdl",
-        "kinopoisk_id": "8883351",
-        "imdb_id": "tt32362890",
-        "status": "released",
-        "last_air_date": "2026-04-12",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Жахи",
-          "Трилер"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2641,
-      "time": 1776333679061,
-      "card_id": "202555",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
-        "genre_ids": [
-          18,
-          10759,
-          80
-        ],
-        "id": 202555,
-        "original_language": "en",
-        "name": "Daredevil: Born Again",
-        "original_name": "Daredevil: Born Again",
-        "names": [
-          "Сорвиголова: Рожденный заново",
-          "Сорвиголова: Рождённый Заново",
-          "Daredevil: Born Again",
-          "Сорвиголова: Рождённый заново",
-          "Daredevil: Born Again | Behind The Scenes"
-        ],
-        "overview": "Сліпий адвокат Метт Мердок процвітає, але його альтер его не забуто. Вілсон Фіск обійняв посаду мера і лише Шибайголова знає, хто ховається за маскою добродушного та чесного політика. Давні вороги, здається, забули про минуле і намагаються не повертатися до супергеройської діяльності. Та чи довго триватиме їх мир чи вони повернуться до ворогів?",
-        "poster_path": "/AfINRYmGTuPrwRrBp9lFgbRjSx2.jpg",
-        "first_air_date": "2025-03-04",
-        "video": false,
-        "vote_average": 8,
-        "vote_count": 745,
-        "popularity": 117.6074,
-        "PG": 17,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5060265",
-        "kp_rating": "7.3",
-        "imdb_id": "tt18923754",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-15",
-        "seasons": {
-          "1": 9,
-          "2": 5
-        },
-        "episode": {
-          "air_date": "2026-04-14",
-          "episode_number": 5,
-          "name": "Грандіозний дизайн",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 53,
-          "still_path": "/3LwlF3zBobR6QuEIDh2D71KsCq6.jpg",
-          "vote_average": 8.0
-        },
-        "genres": [
-          "Драма",
-          "Екшн і Пригоди",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e5",
-      "premiere": 0
     }
   ],
-  "duration": 6.830101013183594
+  "duration": 6.651069641113281
 }
