@@ -232,7 +232,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.7
         },
         "genres": [
           "Науково фантастичний",
@@ -371,7 +371,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 9.55
+          "vote_average": 9.6
         },
         "genres": [
           "Кримінал",
@@ -2988,5 +2988,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.184928894042969
+  "duration": 6.830101013183594
 }
