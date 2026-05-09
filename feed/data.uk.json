@@ -2,6 +2,72 @@
   "secuses": true,
   "result": [
     {
+      "id": 2697,
+      "time": 1778319300785,
+      "card_id": "127865",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/fIXTetAsXkPO6UUUw85IU4oactf.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 127865,
+        "original_language": "da",
+        "name": "Каштановий чоловічок",
+        "original_name": "Kastanjemanden",
+        "names": [
+          "Каштановый человечек",
+          "The Chestnut Man",
+          "Каштановий чоловічок",
+          "Kastanjemanden"
+        ],
+        "overview": "На місці жорстокого вбивства знаходять фігурку з каштанів. На основі цієї зачіпки двоє детективів вистежують убивцю і розслідують зникнення доньки політичної діячки.",
+        "poster_path": "/lq6sKBXVeF0DR4DcgOZYi2bggFq.jpg",
+        "first_air_date": "2021-09-29",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 661,
+        "popularity": 44.2019,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "DK"
+        ],
+        "kinopoisk_id": "1434190",
+        "kp_rating": "7.5",
+        "imdb_id": "tt10834220",
+        "imdb_rating": "7.6",
+        "status": "returning series",
+        "last_air_date": "2026-05-07",
+        "seasons": {
+          "1": 6,
+          "2": 6
+        },
+        "episode": {
+          "air_date": "2026-05-07",
+          "episode_number": 6,
+          "name": "Епізод 6",
+          "overview": "Коли складаються всі клаптики головоломки про каштанового чоловічка й стають зрозумілими мотиви злочинця, Тулін і Гесс намагаються врятувати життя невинних.",
+          "season_number": 2,
+          "runtime": 48,
+          "still_path": "/4Q11reQ3Z72OL6wyZoKGjv4rj5C.jpg",
+          "vote_average": 7.0
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "Denmark"
+        ]
+      },
+      "type": "episode",
+      "hash": "s2;e6",
+      "premiere": 0
+    },
+    {
       "id": 2696,
       "time": 1778268904521,
       "card_id": "1325734",
@@ -170,12 +236,12 @@
         "episode": {
           "air_date": "2026-05-07",
           "episode_number": 6,
-          "name": "Серія 6",
-          "overview": "",
+          "name": "Для всього іншого був боулінг",
+          "overview": "Куп і його сімʼя дають собі раду зі стресом на похороні й поминках.",
           "season_number": 2,
           "runtime": 42,
           "still_path": "/htfy0mGyz1dzvX9j7dowdXVtept.jpg",
-          "vote_average": 7.625
+          "vote_average": 7.5
         },
         "genres": [
           "Драма",
@@ -510,8 +576,8 @@
           "overview": "",
           "season_number": 2,
           "runtime": 54,
-          "still_path": "/3hfKhjeS2paNcBojTijENVrur6v.jpg",
-          "vote_average": 7.5
+          "still_path": "/jXNkxnwgWuWy9ZyZm4g5DeNO79.jpg",
+          "vote_average": 7.6
         },
         "genres": [
           "Драма",
@@ -581,7 +647,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.761
+          "vote_average": 7.729
         },
         "genres": [
           "Науково фантастичний",
@@ -720,7 +786,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 8.821
+          "vote_average": 8.9
         },
         "genres": [
           "Кримінал",
@@ -1024,7 +1090,7 @@
           "season_number": 2,
           "runtime": 59,
           "still_path": "/djqGUjMqU7AxqYAbfxnCo2Be7wO.jpg",
-          "vote_average": 7.75
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -1161,7 +1227,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/hrUbvxYeKsDnNVTktO29BJ5JlJq.jpg",
-          "vote_average": 8.0
+          "vote_average": 7.98
         },
         "genres": [
           "Драма",
@@ -2280,7 +2346,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.442
+          "vote_average": 7.455
         },
         "genres": [
           "Науково фантастичний",
@@ -2971,47 +3037,7 @@
       "type": "episode",
       "hash": "s2;e15",
       "premiere": 0
-    },
-    {
-      "id": 2647,
-      "time": 1776425486769,
-      "card_id": "1384216",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/joVtII9prX3MC4a2LfoKsiMWET3.jpg",
-        "id": 1384216,
-        "title": "Сузір’я великого пса",
-        "original_title": "The Dog Stars",
-        "overview": "Главный герой Хиг — гражданский пилот, живущий в постапокалиптическом Колорадо на заброшенной авиабазе вместе со своей собакой Джаспером и ворчливым, но верным рейнджером, соратником Бэнгли. Их уединенную жизнь нарушает неожиданное радиосообщение, которое пробуждает в Хиге надежду на существование других выживших. В поисках источника сигнала Хиг отправляется в опасное путешествие на своем старом самолете «Сессна». Его путь пролегает через опустошенные города, дикие леса и враждебные территории.",
-        "poster_path": "/fdQFSZhsxZxADdUhnITr1JIT3Jt.jpg",
-        "media_type": "movie",
-        "original_language": "en",
-        "genre_ids": [
-          12,
-          878,
-          53
-        ],
-        "popularity": 4.1709,
-        "release_date": "2026-08-26",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "trailer_id": "cmzVY1goqwQ",
-        "imdb_id": "tt21285562",
-        "genres": [
-          "Пригоди",
-          "Фантастика",
-          "Трилер"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "trailer",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.390716552734375
+  "duration": 5.7631988525390625
 }
