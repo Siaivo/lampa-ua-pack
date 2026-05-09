@@ -511,7 +511,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/3hfKhjeS2paNcBojTijENVrur6v.jpg",
-          "vote_average": 7.471
+          "vote_average": 7.5
         },
         "genres": [
           "Драма",
@@ -646,7 +646,7 @@
           "season_number": 1,
           "runtime": 26,
           "still_path": "/6AgKrtdQuSF8zDtBOGFJAKnAPGo.jpg",
-          "vote_average": 8.893
+          "vote_average": 8.9
         },
         "genres": [
           "Екшн і Пригоди",
@@ -908,7 +908,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
-          "vote_average": 7.441
+          "vote_average": 7.556
         },
         "genres": [
           "Детектив",
@@ -1160,8 +1160,8 @@
           "overview": "",
           "season_number": 2,
           "runtime": 48,
-          "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
-          "vote_average": 7.957
+          "still_path": "/hrUbvxYeKsDnNVTktO29BJ5JlJq.jpg",
+          "vote_average": 8.0
         },
         "genres": [
           "Драма",
@@ -2698,7 +2698,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/zihcg1uqGZLotlSBCzGmv125XfC.jpg",
-          "vote_average": 6.875
+          "vote_average": 7.077
         },
         "genres": [
           "Драма"
@@ -3013,5 +3013,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.293922424316406
+  "duration": 6.390716552734375
 }
