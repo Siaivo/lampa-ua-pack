@@ -2,13 +2,74 @@
   "secuses": true,
   "result": [
     {
+      "id": 2699,
+      "time": 1778409298114,
+      "card_id": "262388",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 262388,
+        "original_language": "en",
+        "name": "M.I.A.",
+        "original_name": "M.I.A.",
+        "names": [
+          "Пропавшая без вести",
+          "M.I.A."
+        ],
+        "overview": "Етта Тайґер Джонс мріє про життя в сяючому субтропічному королівстві Маямі. Однак коли сімейний наркобізнес руйнується через трагедію, Етта вирушає в небезпечну подорож неоновим підпіллям Маямі, яка визначить, ким вона є і на що зрештою здатна.",
+        "poster_path": "/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
+        "first_air_date": "2026-05-07",
+        "video": false,
+        "vote_average": 9,
+        "vote_count": 4,
+        "popularity": 28.5416,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "11297614",
+        "imdb_id": "tt33253070",
+        "status": "returning series",
+        "last_air_date": "2026-05-08",
+        "seasons": {
+          "1": 9
+        },
+        "episode": {
+          "air_date": "2026-05-07",
+          "episode_number": 9,
+          "name": "Серія 9",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 40,
+          "still_path": "/wZng5iAHnuzOnNRMLfVPPF6ILJt.jpg",
+          "vote_average": 7.8
+        },
+        "genres": [
+          "Кримінал",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e9",
+      "premiere": 0
+    },
+    {
       "id": 2698,
       "time": 1778400298127,
       "card_id": "1330021",
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+        "backdrop_path": "/1yw8C3xPzrliGpQp0qHID7F1zOT.jpg",
         "genre_ids": [
           18,
           9648
@@ -688,12 +749,12 @@
         "episode": {
           "air_date": "2026-05-06",
           "episode_number": 6,
-          "name": "Серія 6",
-          "overview": "",
+          "name": "Попри падіння неба",
+          "overview": "Уже в наявності, ЕКСКЛЮЗИВНО у @VMCtheaters, придбайте нове #ВідерцеДляПопкорнуЗГлибиною лише за $32.99!",
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.355
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1020,7 +1081,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
-          "vote_average": 7.556
+          "vote_average": 7.5
         },
         "genres": [
           "Детектив",
@@ -1393,7 +1454,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gBXrmvRXYllskJl0X8wG0SOLE50.jpg",
-          "vote_average": 9.464
+          "vote_average": 9.5
         },
         "genres": [
           "Кримінал",
@@ -2392,7 +2453,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.311
+          "vote_average": 7.326
         },
         "genres": [
           "Науково фантастичний",
@@ -2879,7 +2940,7 @@
           "season_number": 4,
           "runtime": 54,
           "still_path": "/vW5LTVntIb4YjSlAzhmpsCfig7z.jpg",
-          "vote_average": 6.5
+          "vote_average": 6.528
         },
         "genres": [
           "Детектив",
@@ -2950,76 +3011,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2649,
-      "time": 1776495678937,
-      "card_id": "202411",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/7IY4wELVMvtUc78vPiuL8kQV2iA.jpg",
-        "genre_ids": [
-          10765,
-          18,
-          10759
-        ],
-        "id": 202411,
-        "original_language": "en",
-        "name": "Монарх: Спадок монстрів",
-        "original_name": "Monarch: Legacy of Monsters",
-        "names": [
-          "Монарх: Спадок монстрів",
-          "«Монарх»: Наследие монстров",
-          "Monarch: Legacy of Monsters",
-          "«Монарх»: наследие монстров"
-        ],
-        "overview": "Кейт вижила після нападу Ґодзілли на Сан-Франциско, але її знову нажахала незбагненна таємниця. Попри небезпеку, вона вирушає у мандри, шукати істину про свою сімʼю – і загадкову організацію під назвою «Монарх».",
-        "poster_path": "/zSYWjLr0pqWC3Io5QWnJn0BV9MP.jpg",
-        "first_air_date": "2023-11-16",
-        "video": false,
-        "vote_average": 7.701,
-        "vote_count": 1149,
-        "popularity": 112.5906,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4836083",
-        "kp_rating": "6.5",
-        "imdb_id": "tt17220216",
-        "imdb_rating": "7.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-17",
-        "seasons": {
-          "1": 10,
-          "2": 8
-        },
-        "episode": {
-          "air_date": "2026-04-16",
-          "episode_number": 8,
-          "name": "Окремими шляхами",
-          "overview": "Титан виходить на берег Австралії, куди Шоу заманює для битви Ґодзіллу. Ізабель використовує цю битву як відволікальний маневр для своєї секретної операції.",
-          "season_number": 2,
-          "runtime": 40,
-          "still_path": "/6y16mpHEyWJmY7CREy2vmdhE0tG.jpg",
-          "vote_average": 7.7
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Драма",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "Japan",
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e8",
-      "premiere": 0
     }
   ],
-  "duration": 7.4418792724609375
+  "duration": 4.100700378417969
 }
