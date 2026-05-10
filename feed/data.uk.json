@@ -2,6 +2,52 @@
   "secuses": true,
   "result": [
     {
+      "id": 2698,
+      "time": 1778400298127,
+      "card_id": "1330021",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 1330021,
+        "original_language": "en",
+        "title": "Напрочуд кмітливі створіння",
+        "original_title": "Remarkably Bright Creatures",
+        "names": [
+          "Напрочуд кмітливі створіння",
+          "Необычайно умные создания",
+          "Remarkably Bright Creatures"
+        ],
+        "overview": "У душевній драмі на основі бестселера вдова працює в нічну зміну в океанаріумі маленького містечка, де знаходить спільну мову з розумним восьминогом і зневіреним хлопцем.",
+        "poster_path": "/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+        "release_date": "2026-05-07",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 18,
+        "popularity": 71.6378,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "12245586",
+        "imdb_id": "tt33100314",
+        "status": "released",
+        "last_air_date": "2026-05-08",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Драма",
+          "Детектив"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2697,
       "time": 1778319300785,
       "card_id": "127865",
@@ -1347,7 +1393,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gBXrmvRXYllskJl0X8wG0SOLE50.jpg",
-          "vote_average": 9.577
+          "vote_average": 9.464
         },
         "genres": [
           "Кримінал",
@@ -2545,7 +2591,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gheN0HmOUZAag4N38HascquineZ.jpg",
-          "vote_average": 9.6
+          "vote_average": 9.5
         },
         "genres": [
           "Кримінал",
@@ -2973,71 +3019,7 @@
       "type": "episode",
       "hash": "s2;e8",
       "premiere": 0
-    },
-    {
-      "id": 2648,
-      "time": 1776441678699,
-      "card_id": "250307",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 250307,
-        "original_language": "en",
-        "name": "Пітт",
-        "original_name": "The Pitt",
-        "names": [
-          "Пітт",
-          "Больница Питт",
-          "The Pitt",
-          "Питт"
-        ],
-        "overview": "Співробітники травматологічного медичного центру Піттсбурга працюють цілодобово, рятуючи життя в переповненому і недофінансованому відділенні невідкладної допомоги.",
-        "poster_path": "/6HvgPcPKRnzUt352r8HHCJlodEa.jpg",
-        "first_air_date": "2025-01-09",
-        "video": false,
-        "vote_average": 8.7,
-        "vote_count": 623,
-        "popularity": 104.1087,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6589776",
-        "kp_rating": "8.7",
-        "imdb_id": "tt31938062",
-        "imdb_rating": "8.9",
-        "status": "returning series",
-        "last_air_date": "2026-04-17",
-        "seasons": {
-          "1": 15,
-          "2": 15
-        },
-        "episode": {
-          "air_date": "2026-04-16",
-          "episode_number": 15,
-          "name": "Серія 15",
-          "overview": "",
-          "season_number": 2,
-          "runtime": 50,
-          "still_path": "/sQTZIZGSXcI5TAbgJfhez9zyNAq.jpg",
-          "vote_average": 7.553
-        },
-        "genres": [
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e15",
-      "premiere": 0
     }
   ],
-  "duration": 6.5311431884765625
+  "duration": 7.4418792724609375
 }
