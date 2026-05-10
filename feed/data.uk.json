@@ -173,7 +173,7 @@
           "season_number": 8,
           "runtime": 55,
           "still_path": "/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg",
-          "vote_average": 0.0
+          "vote_average": 10.0
         },
         "genres": [
           "Драма",
@@ -577,7 +577,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/jXNkxnwgWuWy9ZyZm4g5DeNO79.jpg",
-          "vote_average": 7.6
+          "vote_average": 7.7
         },
         "genres": [
           "Драма",
@@ -647,7 +647,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.729
+          "vote_average": 7.355
         },
         "genres": [
           "Науково фантастичний",
@@ -1227,7 +1227,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/hrUbvxYeKsDnNVTktO29BJ5JlJq.jpg",
-          "vote_average": 7.98
+          "vote_average": 8.0
         },
         "genres": [
           "Драма",
@@ -1465,7 +1465,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.743
+          "vote_average": 7.388
         },
         "genres": [
           "Науково фантастичний",
@@ -2275,8 +2275,8 @@
           "overview": "",
           "season_number": 2,
           "runtime": 52,
-          "still_path": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
-          "vote_average": 8.283
+          "still_path": "/eoZzrbYkAWYxUmnPSS6m30rM4bT.jpg",
+          "vote_average": 8.4
         },
         "genres": [
           "Драма",
@@ -2346,7 +2346,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.455
+          "vote_average": 7.311
         },
         "genres": [
           "Науково фантастичний",
@@ -3039,5 +3039,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.7631988525390625
+  "duration": 6.5311431884765625
 }
