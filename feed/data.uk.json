@@ -197,7 +197,7 @@
           "The Drama"
         ],
         "overview": "Щасливо заручена пара проходить випробування, коли несподіваний поворот подій вносить хаос у їхній тиждень весілля.",
-        "poster_path": "/83Pp6gr6zqqM7rlgEfTb8924YU0.jpg",
+        "poster_path": "/gU4ybmH7uj6NCjgWsHJyW8TGOZk.jpg",
         "release_date": "2026-03-26",
         "video": false,
         "vote_average": 7.026,
@@ -280,7 +280,7 @@
           "season_number": 8,
           "runtime": 55,
           "still_path": "/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg",
-          "vote_average": 10.0
+          "vote_average": 9.0
         },
         "genres": [
           "Драма",
@@ -423,7 +423,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+        "backdrop_path": "/qjv21Iu0nHQ0crJpy6KKiW8LX1Y.jpg",
         "genre_ids": [
           28,
           14,
@@ -754,7 +754,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.379
         },
         "genres": [
           "Науково фантастичний",
@@ -893,7 +893,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 8.9
+          "vote_average": 8.969
         },
         "genres": [
           "Кримінал",
@@ -1081,7 +1081,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.273
         },
         "genres": [
           "Детектив",
@@ -1333,7 +1333,7 @@
           "overview": "",
           "season_number": 2,
           "runtime": 48,
-          "still_path": "/hrUbvxYeKsDnNVTktO29BJ5JlJq.jpg",
+          "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
           "vote_average": 8.0
         },
         "genres": [
@@ -1572,7 +1572,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.388
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1971,7 +1971,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.4
+          "vote_average": 6.5
         },
         "genres": [
           "Детектив",
@@ -2313,7 +2313,7 @@
           "season_number": 2,
           "runtime": 44,
           "still_path": "/uktOfZpCC4hNSBJZ9rpZf9wFZHo.jpg",
-          "vote_average": 8.364
+          "vote_average": 8.167
         },
         "genres": [
           "Науково фантастичний",
@@ -2453,7 +2453,7 @@
           "season_number": 5,
           "runtime": 66,
           "still_path": "/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
-          "vote_average": 7.326
+          "vote_average": 7.3
         },
         "genres": [
           "Науково фантастичний",
@@ -2652,7 +2652,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/gheN0HmOUZAag4N38HascquineZ.jpg",
-          "vote_average": 9.5
+          "vote_average": 9.543
         },
         "genres": [
           "Кримінал",
@@ -3013,5 +3013,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.100700378417969
+  "duration": 7.50457763671875
 }
