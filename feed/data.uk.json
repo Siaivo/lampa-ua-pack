@@ -56,7 +56,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 5.9
+          "vote_average": 6.1
         },
         "genres": [
           "Детектив",
@@ -824,7 +824,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.379
+          "vote_average": 7.386
         },
         "genres": [
           "Науково фантастичний",
@@ -1051,7 +1051,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/wpabGmGA3IaJNGudbzGritmR8Km.jpg",
+        "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
         "genre_ids": [
           12,
           16,
@@ -1642,7 +1642,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.393
         },
         "genres": [
           "Науково фантастичний",
@@ -3026,5 +3026,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.0050506591796875
+  "duration": 6.221107482910156
 }
