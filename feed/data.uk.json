@@ -52,7 +52,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 6.667
+          "vote_average": 6.7
         },
         "genres": [
           "Драма"
@@ -121,7 +121,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.1
+          "vote_average": 6.333
         },
         "genres": [
           "Детектив",
@@ -733,7 +733,7 @@
           "Goldeu Laendeu"
         ],
         "overview": "Молода жінка, яка працює агенткою служби безпеки в аеропорту, випадково отримує у своє розпорядження золоті злитки контрабандистського угруповання. Опинившись у хаотичному вирі жадібності та зрад між різними сторонами, що борються за золото, вона поступово піддається бажанню забрати все собі.",
-        "poster_path": "/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg",
+        "poster_path": "/7N6Aa8Kn71JHG9aztcIaRIzdkLc.jpg",
         "first_air_date": "2026-04-29",
         "video": false,
         "vote_average": 9.5,
@@ -818,7 +818,7 @@
           "overview": "",
           "season_number": 2,
           "runtime": 54,
-          "still_path": "/jXNkxnwgWuWy9ZyZm4g5DeNO79.jpg",
+          "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
           "vote_average": 7.8
         },
         "genres": [
@@ -1094,8 +1094,8 @@
           "overview": "",
           "season_number": 3,
           "runtime": 62,
-          "still_path": "/A1y7B8RdllKqqgnfITpSEqm0DRq.jpg",
-          "vote_average": 8.167
+          "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
+          "vote_average": 8.2
         },
         "genres": [
           "Драма"
@@ -1215,8 +1215,8 @@
           "overview": "Бойд намагається врятувати Акосту від неї самої, тоді як Джулі глибше занурюється у свої нові здібності. Табіта наважується на відчайдушний крок, а Віктор приєднується до Ітана у пошуках відповідей.",
           "season_number": 4,
           "runtime": 48,
-          "still_path": "/i4NypsP3189cjfDVnXZiXoUOIJt.jpg",
-          "vote_average": 7.375
+          "still_path": "/8qi8LymsHa9waxLFfMbZQGTFRRD.jpg",
+          "vote_average": 7.4
         },
         "genres": [
           "Детектив",
@@ -2262,7 +2262,7 @@
           "season_number": 1,
           "runtime": 28,
           "still_path": "/ls5Ctm2zIjMlEVpItcv3JU5GLRA.jpg",
-          "vote_average": 5.714
+          "vote_average": 5.7
         },
         "genres": [
           "Мультфільм",
@@ -2517,7 +2517,7 @@
           "overview": "",
           "season_number": 2,
           "runtime": 52,
-          "still_path": "/eoZzrbYkAWYxUmnPSS6m30rM4bT.jpg",
+          "still_path": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
           "vote_average": 8.4
         },
         "genres": [
@@ -3021,5 +3021,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.510124206542969
+  "duration": 6.313240051269531
 }
