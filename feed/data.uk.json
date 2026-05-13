@@ -2,6 +2,75 @@
   "secuses": true,
   "result": [
     {
+      "id": 2703,
+      "time": 1778691548128,
+      "card_id": "76479",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "id": 76479,
+        "original_language": "en",
+        "name": "Хлопаки",
+        "original_name": "The Boys",
+        "names": [
+          "Хлопаки",
+          "Пацаны",
+          "The Boys",
+          "Хлопці / Хлопаки"
+        ],
+        "overview": "Події розгортаються в альтернативному світі, де супергерої є звичним явищем. Вони щоденно по кілька разів рятують світ, знімаються у фільмах і стають обличчями рекламних кампаній відомих брендів. Втім, є і зворотня сторона медалі: кожен день тисячі людей страждають від дій супергероїв, для яких людське життя насправді не коштує зовсім нічого. Але є невеличка групка відчайдухів, яких такий стан справ не влаштовує, вони мають мету – покарати знахабнілих надлюдей та вивести їх на чисту воду…",
+        "poster_path": "/iNKkWK11okzbenMvJY87aOHNfll.jpg",
+        "first_air_date": "2019-07-25",
+        "video": false,
+        "vote_average": 8.449,
+        "vote_count": 12207,
+        "popularity": 585.9876,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "460586",
+        "kp_rating": "8.3",
+        "imdb_id": "tt1190634",
+        "imdb_rating": "8.6",
+        "status": "returning series",
+        "last_air_date": "2026-05-13",
+        "seasons": {
+          "1": 8,
+          "2": 8,
+          "3": 8,
+          "4": 8,
+          "5": 7
+        },
+        "episode": {
+          "air_date": "2026-05-13",
+          "episode_number": 7,
+          "name": "Французик, жінка та чоловік на ім'я Материнське Молоко",
+          "overview": "ПОПЕРЕДЖЕННЯ: ОБЕРЕЖНО ПІД ЧАС ВИХОДУ НА ЗВУКОВУ СЦЕНУ. ВИКОНАВЦІ МОЖУТЬ ВИКОРИСТОВУВАТИ НАДЗДІБНОСТІ.",
+          "season_number": 5,
+          "runtime": 70,
+          "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
+          "vote_average": 8.875
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s5;e7",
+      "premiere": 0
+    },
+    {
       "id": 2702,
       "time": 1778614153238,
       "card_id": "262388",
@@ -103,7 +172,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 6.7
+          "vote_average": 6.583
         },
         "genres": [
           "Драма"
@@ -609,7 +678,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/qjv21Iu0nHQ0crJpy6KKiW8LX1Y.jpg",
+        "backdrop_path": "/tAeiebNAyYC23FjUEkgyUm9SnEo.jpg",
         "genre_ids": [
           28,
           14,
@@ -940,7 +1009,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.375
+          "vote_average": 7.365
         },
         "genres": [
           "Науково фантастичний",
@@ -2180,7 +2249,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/agiw674fCB712joCGQFCPzd3nSp.jpg",
+        "backdrop_path": "/oiiQVnnEY4M2pz6iZkq59ls9fP.jpg",
         "genre_ids": [
           18
         ],
@@ -2957,56 +3026,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2653,
-      "time": 1776761537421,
-      "card_id": "1305781",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/cYyNJzwhaj7aC4uTlUctrfaERbf.jpg",
-        "genre_ids": [
-          28,
-          18,
-          36
-        ],
-        "id": 1305781,
-        "original_language": "zh",
-        "title": "镖人：风起大漠",
-        "original_title": "镖人：风起大漠",
-        "names": [
-          "Клинки хранителей",
-          "Biao ren: feng qi da mo",
-          "镖人：风起大漠"
-        ],
-        "overview": "Дао Ма, «второй самый разыскиваемый беглец», получает от своего благодетеля, главы клана Мо, поручение выполнить таинственную миссию — сопроводить «самого разыскиваемого беглеца» в Чанъань.",
-        "poster_path": "/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg",
-        "release_date": "2026-02-17",
-        "video": false,
-        "vote_average": 7.2,
-        "vote_count": 35,
-        "popularity": 19.1685,
-        "PG": 17,
-        "release_quality": "ts",
-        "kinopoisk_id": "6359255",
-        "imdb_id": "tt32649961",
-        "imdb_rating": "7.3",
-        "status": "released",
-        "last_air_date": "2026-04-20",
-        "countries": [
-          "China"
-        ],
-        "genres": [
-          "Бойовик",
-          "Драма",
-          "Історичний"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.187225341796875
+  "duration": 6.979133605957031
 }
