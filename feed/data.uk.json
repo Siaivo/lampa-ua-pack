@@ -2,6 +2,53 @@
   "secuses": true,
   "result": [
     {
+      "id": 2704,
+      "time": 1778700548349,
+      "card_id": "1400357",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mWRjVb2Lj9pjOlNcDP7lNvrvSo8.jpg",
+        "genre_ids": [
+          80,
+          35
+        ],
+        "id": 1400357,
+        "original_language": "en",
+        "title": "Крістофери",
+        "original_title": "The Christophers",
+        "names": [
+          "Крістофери",
+          "Кристоферы",
+          "The Christophers"
+        ],
+        "overview": "Діти колись відомого художника наймають фальсифікатора, щоб завершити кілька незакінчених, давно покинутих полотен, аби отримати спадок після його смерті.",
+        "poster_path": "/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+        "release_date": "2026-04-10",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 3,
+        "popularity": 2.361,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "6739486",
+        "imdb_id": "tt34966562",
+        "status": "released",
+        "last_air_date": "2026-05-13",
+        "countries": [
+          "United Kingdom",
+          "United States of America"
+        ],
+        "genres": [
+          "Кримінал",
+          "Комедія"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2703,
       "time": 1778691548128,
       "card_id": "76479",
@@ -56,7 +103,7 @@
           "season_number": 5,
           "runtime": 70,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 8.875
+          "vote_average": 8.667
         },
         "genres": [
           "Науково фантастичний",
@@ -172,7 +219,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 6.583
+          "vote_average": 6.6
         },
         "genres": [
           "Драма"
@@ -241,7 +288,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.542
+          "vote_average": 6.821
         },
         "genres": [
           "Детектив",
@@ -303,7 +350,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wZng5iAHnuzOnNRMLfVPPF6ILJt.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.833
         },
         "genres": [
           "Кримінал",
@@ -678,7 +725,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/tAeiebNAyYC23FjUEkgyUm9SnEo.jpg",
+        "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
         "genre_ids": [
           28,
           14,
@@ -939,7 +986,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.522
         },
         "genres": [
           "Драма",
@@ -1009,7 +1056,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.365
+          "vote_average": 7.449
         },
         "genres": [
           "Науково фантастичний",
@@ -1215,7 +1262,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
-          "vote_average": 8.143
+          "vote_average": 8.1
         },
         "genres": [
           "Драма"
@@ -1589,8 +1636,8 @@
           "overview": "",
           "season_number": 2,
           "runtime": 48,
-          "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
-          "vote_average": 8.058
+          "still_path": "/hrUbvxYeKsDnNVTktO29BJ5JlJq.jpg",
+          "vote_average": 8.056
         },
         "genres": [
           "Драма",
@@ -1828,7 +1875,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.43
         },
         "genres": [
           "Науково фантастичний",
@@ -2639,7 +2686,7 @@
           "season_number": 2,
           "runtime": 52,
           "still_path": "/lbuiEvKOaQEw4mG880gsdg8GKvr.jpg",
-          "vote_average": 8.42
+          "vote_average": 8.404
         },
         "genres": [
           "Драма",
@@ -2784,7 +2831,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/a103TuPbdItnmw4d4yDFQngJywu.jpg",
-          "vote_average": 7.6
+          "vote_average": 7.654
         },
         "genres": [
           "Мультфільм",
@@ -2978,55 +3025,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2654,
-      "time": 1776763339382,
-      "card_id": "1620551",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/Ary1sG0AHn4V1DFrwV7g72Fomq0.jpg",
-        "genre_ids": [
-          10402,
-          18,
-          35
-        ],
-        "id": 1620551,
-        "original_language": "it",
-        "title": "Відчуй мій голос",
-        "original_title": "Non abbiam bisogno di parole",
-        "names": [
-          "Відчуй мій голос",
-          "Почувствуй мой голос",
-          "Non abbiam bisogno di parole"
-        ],
-        "overview": "Сором’язлива підлітка, яка єдина чує в сім’ї глухих, відкриває в собі талант до співу й мусить обирати між обов’язком і власним шляхом.",
-        "poster_path": "/gpOSpyOm25vnGmyRX8gMolkzSOn.jpg",
-        "release_date": "2026-04-03",
-        "video": false,
-        "vote_average": 6.506,
-        "vote_count": 80,
-        "popularity": 16.6224,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "11883620",
-        "imdb_id": "tt38589464",
-        "status": "released",
-        "last_air_date": "2026-04-05",
-        "countries": [
-          "Italy"
-        ],
-        "genres": [
-          "Музика",
-          "Драма",
-          "Комедія"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.979133605957031
+  "duration": 8.118087768554688
 }
