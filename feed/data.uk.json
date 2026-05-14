@@ -101,9 +101,9 @@
           "name": "Французик, жінка та чоловік на ім'я Материнське Молоко",
           "overview": "ПОПЕРЕДЖЕННЯ: ОБЕРЕЖНО ПІД ЧАС ВИХОДУ НА ЗВУКОВУ СЦЕНУ. ВИКОНАВЦІ МОЖУТЬ ВИКОРИСТОВУВАТИ НАДЗДІБНОСТІ.",
           "season_number": 5,
-          "runtime": 70,
+          "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 8.667
+          "vote_average": 8.7
         },
         "genres": [
           "Науково фантастичний",
@@ -288,7 +288,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.821
+          "vote_average": 6.8
         },
         "genres": [
           "Детектив",
@@ -986,7 +986,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
-          "vote_average": 7.522
+          "vote_average": 7.604
         },
         "genres": [
           "Драма",
@@ -1056,7 +1056,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.449
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1875,7 +1875,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.43
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -2274,7 +2274,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.586
+          "vote_average": 6.6
         },
         "genres": [
           "Детектив",
@@ -2616,7 +2616,7 @@
           "season_number": 2,
           "runtime": 44,
           "still_path": "/uktOfZpCC4hNSBJZ9rpZf9wFZHo.jpg",
-          "vote_average": 8.167
+          "vote_average": 8.154
         },
         "genres": [
           "Науково фантастичний",
@@ -3027,5 +3027,5 @@
       "premiere": 0
     }
   ],
-  "duration": 8.118087768554688
+  "duration": 7.5870208740234375
 }
