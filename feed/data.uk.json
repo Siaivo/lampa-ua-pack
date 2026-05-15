@@ -197,7 +197,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 8.333
+          "vote_average": 7.969
         },
         "genres": [
           "Науково фантастичний",
@@ -382,7 +382,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.8
+          "vote_average": 7.031
         },
         "genres": [
           "Детектив",
@@ -465,7 +465,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/cm3TmfEcLhs2FaDEUUSWgpK3VRC.jpg",
+        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
         "genre_ids": [
           18,
           9648
@@ -744,7 +744,7 @@
           "season_number": 2,
           "runtime": 42,
           "still_path": "/htfy0mGyz1dzvX9j7dowdXVtept.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.417
         },
         "genres": [
           "Драма",
@@ -954,10 +954,10 @@
         "status": "released",
         "last_air_date": "2026-05-03",
         "countries": [
-          "United Arab Emirates",
           "United States of America",
-          "Hong Kong",
-          "Ireland"
+          "Ireland",
+          "United Arab Emirates",
+          "Hong Kong"
         ],
         "genres": [
           "Жахи"
@@ -1220,7 +1220,8 @@
         "genres": [
           "Екшн і Пригоди",
           "Мультфільм",
-          "Науково фантастичний"
+          "Науково фантастичний",
+          "Кримінал"
         ],
         "countries": [
           "United States of America"
@@ -1415,7 +1416,6 @@
           "Мультфільм",
           "Сімейний",
           "Пригоди",
-          "Драма",
           "Фентезі"
         ]
       },
@@ -2991,5 +2991,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.92987060546875
+  "duration": 6.846794128417969
 }
