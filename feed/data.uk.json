@@ -2,6 +2,73 @@
   "secuses": true,
   "result": [
     {
+      "id": 2707,
+      "time": 1778835548264,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзі та сусіди",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзі та сусіди",
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
+        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.604,
+        "vote_count": 211,
+        "popularity": 39.1492,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-05-15",
+        "seasons": {
+          "1": 9,
+          "2": 7
+        },
+        "episode": {
+          "air_date": "2026-05-14",
+          "episode_number": 7,
+          "name": "На схід",
+          "overview": "Куп і Сем проводять шалений вікенд у маєтку Еша в Гемптонзі. Мел перебирає міру в боях із сусідами.",
+          "season_number": 2,
+          "runtime": 57,
+          "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
+          "vote_average": 8.0
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s2;e7",
+      "premiere": 0
+    },
+    {
       "id": 2706,
       "time": 1778772550132,
       "card_id": "855435",
@@ -197,7 +264,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 7.969
+          "vote_average": 7.909
         },
         "genres": [
           "Науково фантастичний",
@@ -382,7 +449,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 7.031
+          "vote_average": 7.2
         },
         "genres": [
           "Детектив",
@@ -1149,8 +1216,8 @@
           "overview": "Уже в наявності, ЕКСКЛЮЗИВНО у @VMCtheaters, придбайте нове #ВідерцеДляПопкорнуЗГлибиною лише за $32.99!",
           "season_number": 5,
           "runtime": 65,
-          "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 7.388
+          "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -2941,55 +3008,7 @@
       "type": "episode",
       "hash": "s4;e8",
       "premiere": 0
-    },
-    {
-      "id": 2657,
-      "time": 1776793941648,
-      "card_id": "1304313",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wMrV8SLne1jHLeYS0lLrA1Tf86P.jpg",
-        "genre_ids": [
-          27,
-          9648
-        ],
-        "id": 1304313,
-        "original_language": "en",
-        "title": "Мумія Лі Кроніна",
-        "original_title": "Lee Cronin's The Mummy",
-        "names": [
-          "Мумія Лі Кроніна",
-          "Мумия",
-          "The Mummy",
-          "Lee Cronin's The Mummy"
-        ],
-        "overview": "Молода донька журналіста безслідно зникає в пустелі. Родина переживає трагедію, що розбиває їхнє життя на уламки. Вісім років потому стається неможливе — дівчина повертається додому. Однак те, що мало б стати дивом і радісним возз’єднанням, перетворюється на справжній кошмар.",
-        "poster_path": "/diyeuAjOPdM5TPDSHXS1WZQfaG6.jpg",
-        "release_date": "2026-04-15",
-        "video": false,
-        "vote_average": 6.887,
-        "vote_count": 97,
-        "popularity": 168.596,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "6785084",
-        "imdb_id": "tt32612507",
-        "status": "released",
-        "last_air_date": "2026-04-21",
-        "countries": [
-          "United States of America",
-          "Ireland"
-        ],
-        "genres": [
-          "Жахи",
-          "Детектив"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.846794128417969
+  "duration": 8.893196105957031
 }
