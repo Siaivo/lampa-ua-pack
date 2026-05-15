@@ -2,6 +2,78 @@
   "secuses": true,
   "result": [
     {
+      "id": 2708,
+      "time": 1778853549130,
+      "card_id": "56570",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 56570,
+        "original_language": "en",
+        "name": "Чужоземка",
+        "original_name": "Outlander",
+        "names": [
+          "Чужестранка",
+          "Outlander",
+          "Чужоземка"
+        ],
+        "overview": "Клер, яка працювала медсестрою під час Другої світової війни, випадково переміщається в часі і потрапляє в 1743 рік. У цьому світі, повному пригод, вона знайомиться з шотландським лицарем Джеймі. У героїв зав'язується пристрасний роман, незважаючи на те, що серце Клер розривається між двома чоловіками - Джеймі і її чоловіком Френком, який залишився в іншому часі.",
+        "poster_path": "/tZuKy6RWPQKgyOtx8XWxpdzfQME.jpg",
+        "first_air_date": "2014-08-09",
+        "video": false,
+        "vote_average": 8.18,
+        "vote_count": 2831,
+        "popularity": 107.6433,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "818284",
+        "kp_rating": "8.0",
+        "imdb_id": "tt3006802",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-05-15",
+        "seasons": {
+          "1": 16,
+          "2": 13,
+          "3": 13,
+          "4": 13,
+          "5": 12,
+          "6": 8,
+          "7": 16,
+          "8": 10
+        },
+        "episode": {
+          "air_date": "2026-05-15",
+          "episode_number": 10,
+          "name": "Серія 10",
+          "overview": "",
+          "season_number": 8,
+          "runtime": 72,
+          "still_path": "/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg",
+          "vote_average": 0.0
+        },
+        "genres": [
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United Kingdom",
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s8;e10",
+      "premiere": 0
+    },
+    {
       "id": 2707,
       "time": 1778835548264,
       "card_id": "241609",
@@ -54,7 +126,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
-          "vote_average": 8.0
+          "vote_average": 7.75
         },
         "genres": [
           "Драма",
@@ -380,7 +452,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 6.6
+          "vote_average": 5.929
         },
         "genres": [
           "Драма"
@@ -741,7 +813,7 @@
           "name": "Серія 9",
           "overview": "",
           "season_number": 8,
-          "runtime": 55,
+          "runtime": 54,
           "still_path": "/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg",
           "vote_average": 9.0
         },
@@ -832,7 +904,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
+        "backdrop_path": "/loZCtN8s1yjSBD75rbHsRisWfUc.jpg",
         "genre_ids": [
           18,
           9648,
@@ -1424,7 +1496,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.25
         },
         "genres": [
           "Драма"
@@ -2366,7 +2438,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.182
         },
         "genres": [
           "Драма"
@@ -2930,85 +3002,7 @@
       "type": "episode",
       "hash": "s5;e4",
       "premiere": 0
-    },
-    {
-      "id": 2658,
-      "time": 1776873387537,
-      "card_id": "95557",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
-        "genre_ids": [
-          16,
-          18,
-          10765,
-          10759
-        ],
-        "id": 95557,
-        "original_language": "en",
-        "name": "НЕПЕРЕМОЖНИЙ",
-        "original_name": "INVINCIBLE",
-        "names": [
-          "НЕПЕРЕМОЖНИЙ",
-          "Неуязвимый",
-          "Invincible",
-          "Невразливий",
-          "Непобедимый",
-          "Invisible",
-          "INVINCIBLE",
-          "НЕПОБЕДИМЫЙ",
-          "Invencible"
-        ],
-        "overview": "17-річний Марк Грейсон дізнається, що його батько наймогутніший супергерой на Землі. Тепер підлітку належить впоратися з силами, які дісталися йому у спадок.",
-        "poster_path": "/nMmOmuLQKAwQigEgnbIrSeoWlxQ.jpg",
-        "first_air_date": "2021-03-25",
-        "video": false,
-        "vote_average": 8.63,
-        "vote_count": 5579,
-        "popularity": 221.882,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1171895",
-        "kp_rating": "8.1",
-        "imdb_id": "tt6741278",
-        "imdb_rating": "8.7",
-        "status": "returning series",
-        "last_air_date": "2026-04-22",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8
-        },
-        "episode": {
-          "air_date": "2026-04-22",
-          "episode_number": 8,
-          "name": "НЕ ЗАЛИШАЙ МЕНЕ ТУТ САМОГО",
-          "overview": "Марк сталкивается со своими самыми мрачными страхами, и его жизнь меняется навсегда.",
-          "season_number": 4,
-          "runtime": 52,
-          "still_path": "/a103TuPbdItnmw4d4yDFQngJywu.jpg",
-          "vote_average": 7.654
-        },
-        "genres": [
-          "Мультфільм",
-          "Драма",
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "Canada",
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s4;e8",
-      "premiere": 0
     }
   ],
-  "duration": 8.893196105957031
+  "duration": 4.1739501953125
 }
