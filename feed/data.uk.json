@@ -201,7 +201,7 @@
         "id": 1439930,
         "original_language": "en",
         "title": "Каратель: Останнє вбивство",
-        "original_title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
+        "original_title": "The Punisher: One Last Kill",
         "names": [
           "Каратель: Останнє вбивство",
           "Каратель: Последнее убийство",
@@ -583,7 +583,7 @@
           "season_number": 1,
           "runtime": 40,
           "still_path": "/wZng5iAHnuzOnNRMLfVPPF6ILJt.jpg",
-          "vote_average": 8.375
+          "vote_average": 8.4
         },
         "genres": [
           "Кримінал",
@@ -3004,5 +3004,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.650566101074219
+  "duration": 6.615165710449219
 }
