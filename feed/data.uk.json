@@ -102,9 +102,9 @@
           "name": "Серія 10",
           "overview": "",
           "season_number": 8,
-          "runtime": 72,
+          "runtime": 71,
           "still_path": "/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg",
-          "vote_average": 10.0
+          "vote_average": 8.5
         },
         "genres": [
           "Драма",
@@ -382,7 +382,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 8.041
+          "vote_average": 8.0
         },
         "genres": [
           "Науково фантастичний",
@@ -498,7 +498,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 5.929
+          "vote_average": 5.9
         },
         "genres": [
           "Драма"
@@ -741,7 +741,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/4Q11reQ3Z72OL6wyZoKGjv4rj5C.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.667
         },
         "genres": [
           "Драма",
@@ -1915,8 +1915,8 @@
           "overview": "",
           "season_number": 2,
           "runtime": 48,
-          "still_path": "/hrUbvxYeKsDnNVTktO29BJ5JlJq.jpg",
-          "vote_average": 8.056
+          "still_path": "/lnr7LmTmGsWMgHUnP0tDfdFapNP.jpg",
+          "vote_average": 8.1
         },
         "genres": [
           "Драма",
@@ -2154,7 +2154,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
-          "vote_average": 7.375
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -2981,5 +2981,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.68597412109375
+  "duration": 6.948402404785156
 }
