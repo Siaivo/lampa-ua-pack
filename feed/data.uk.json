@@ -2,6 +2,76 @@
   "secuses": true,
   "result": [
     {
+      "id": 2711,
+      "time": 1779042429523,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Ззовні",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
+        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.345,
+        "vote_count": 3135,
+        "popularity": 546.462,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-05-17",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 5
+        },
+        "episode": {
+          "air_date": "2026-05-17",
+          "episode_number": 5,
+          "name": "Яка довга дивна подорож",
+          "overview": "Бойд і Джейд вирушають на відчайдушний та небезпечний пошук відповідей, а вилазка за їжею набуває моторошного повороту.",
+          "season_number": 4,
+          "runtime": 52,
+          "still_path": "/tCvMSBNefJ637Me2174PKwrX53i.jpg",
+          "vote_average": 6.417
+        },
+        "genres": [
+          "Детектив",
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e5",
+      "premiere": 0
+    },
+    {
       "id": 2710,
       "time": 1779010153264,
       "card_id": "273240",
@@ -155,7 +225,7 @@
           "season_number": 8,
           "runtime": 71,
           "still_path": "/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg",
-          "vote_average": 8.5
+          "vote_average": 9.0
         },
         "genres": [
           "Драма",
@@ -433,7 +503,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 8.092
+          "vote_average": 8.085
         },
         "genres": [
           "Науково фантастичний",
@@ -618,7 +688,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.1
         },
         "genres": [
           "Детектив",
@@ -1001,7 +1071,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/loZCtN8s1yjSBD75rbHsRisWfUc.jpg",
+        "backdrop_path": "/mTRxKRDBH9HSV81eOGDhYbG5BHR.jpg",
         "genre_ids": [
           18,
           9648,
@@ -1040,8 +1110,7 @@
           "United Kingdom"
         ],
         "genres": [
-          "Драма",
-          "Детектив"
+          "Драма"
         ]
       },
       "type": "now",
@@ -1386,7 +1455,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
-          "vote_average": 7.453
+          "vote_average": 7.466
         },
         "genres": [
           "Науково фантастичний",
@@ -1520,12 +1589,12 @@
         "episode": {
           "air_date": "2026-05-04",
           "episode_number": 18,
-          "name": "Серія 18",
-          "overview": "",
+          "name": "Бандит",
+          "overview": "Команда розпочинає ризиковану операцію з ліквідації відомого злочинця. Тим часом лідерські якості Люсі проходять випробування, Веслі перевіряє межі своїх дружніх стосунків, а Нолан намагається знайти баланс між обов’язками та сім’єю.",
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 9.028
+          "vote_average": 9.0
         },
         "genres": [
           "Кримінал",
@@ -1713,7 +1782,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/8qi8LymsHa9waxLFfMbZQGTFRRD.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.32
         },
         "genres": [
           "Детектив",
@@ -2081,7 +2150,7 @@
         "episode": {
           "air_date": "2026-04-27",
           "episode_number": 17,
-          "name": "Двійник",
+          "name": "Дзвінок смерті",
           "overview": "Нолан і Гарпер намагаються допомогти зневіреній матері захистити свою дитину, а лейтенант Грей і Ґарза продовжують співпрацювати з Монікою, попри свої сумніви.",
           "season_number": 8,
           "runtime": 43,
@@ -2603,7 +2672,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.633
+          "vote_average": 6.688
         },
         "genres": [
           "Детектив",
@@ -2891,76 +2960,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2661,
-      "time": 1777053387495,
-      "card_id": "202411",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/7IY4wELVMvtUc78vPiuL8kQV2iA.jpg",
-        "genre_ids": [
-          10765,
-          18,
-          10759
-        ],
-        "id": 202411,
-        "original_language": "en",
-        "name": "Монарх: Спадок монстрів",
-        "original_name": "Monarch: Legacy of Monsters",
-        "names": [
-          "Монарх: Спадок монстрів",
-          "«Монарх»: Наследие монстров",
-          "Monarch: Legacy of Monsters",
-          "«Монарх»: наследие монстров"
-        ],
-        "overview": "Кейт вижила після нападу Ґодзілли на Сан-Франциско, але її знову нажахала незбагненна таємниця. Попри небезпеку, вона вирушає у мандри, шукати істину про свою сімʼю – і загадкову організацію під назвою «Монарх».",
-        "poster_path": "/zSYWjLr0pqWC3Io5QWnJn0BV9MP.jpg",
-        "first_air_date": "2023-11-16",
-        "video": false,
-        "vote_average": 7.71,
-        "vote_count": 1162,
-        "popularity": 123.1359,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4836083",
-        "kp_rating": "6.5",
-        "imdb_id": "tt17220216",
-        "imdb_rating": "7.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-24",
-        "seasons": {
-          "1": 10,
-          "2": 9
-        },
-        "episode": {
-          "air_date": "2026-04-23",
-          "episode_number": 9,
-          "name": "Край землі",
-          "overview": "«Монарх» з рештою групи прямує на Острів черепа. Кейт прагне врозумити Кентаро й завадити Ізабель. Шоу з Кейко шукають давно загублену розщелину, знайдену колись Біллі.",
-          "season_number": 2,
-          "runtime": 44,
-          "still_path": "/uktOfZpCC4hNSBJZ9rpZf9wFZHo.jpg",
-          "vote_average": 8.154
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Драма",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "Japan",
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e9",
-      "premiere": 0
     }
   ],
-  "duration": 6.094642639160156
+  "duration": 6.1832275390625
 }
