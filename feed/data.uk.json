@@ -2,6 +2,71 @@
   "secuses": true,
   "result": [
     {
+      "id": 2712,
+      "time": 1779096429499,
+      "card_id": "85552",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 85552,
+        "original_language": "en",
+        "name": "Ейфорія",
+        "original_name": "Euphoria",
+        "names": [
+          "Эйфория",
+          "Euphoria",
+          "Ейфорія"
+        ],
+        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
+        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
+        "first_air_date": "2019-06-16",
+        "video": false,
+        "vote_average": 8.285,
+        "vote_count": 10625,
+        "popularity": 241.7235,
+        "PG": 18,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1178445",
+        "kp_rating": "7.5",
+        "imdb_id": "tt8772296",
+        "imdb_rating": "8.2",
+        "status": "returning series",
+        "last_air_date": "2026-05-18",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 6
+        },
+        "episode": {
+          "air_date": "2026-05-17",
+          "episode_number": 6,
+          "name": "Серія 6",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 60,
+          "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
+          "vote_average": 10.0
+        },
+        "genres": [
+          "Драма"
+        ],
+        "countries": [
+          "United States of America",
+          "Israel"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e6",
+      "premiere": 0
+    },
+    {
       "id": 2711,
       "time": 1779042429523,
       "card_id": "124364",
@@ -55,8 +120,8 @@
           "overview": "Бойд і Джейд вирушають на відчайдушний та небезпечний пошук відповідей, а вилазка за їжею набуває моторошного повороту.",
           "season_number": 4,
           "runtime": 52,
-          "still_path": "/tCvMSBNefJ637Me2174PKwrX53i.jpg",
-          "vote_average": 6.417
+          "still_path": "/zLwVMCUi1XKotihIfDuVMCXXm3P.jpg",
+          "vote_average": 5.6
         },
         "genres": [
           "Детектив",
@@ -293,7 +358,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.583
         },
         "genres": [
           "Драма",
@@ -503,7 +568,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 8.085
+          "vote_average": 8.083
         },
         "genres": [
           "Науково фантастичний",
@@ -687,8 +752,8 @@
           "overview": "Зловісне відкриття приводить Бойда та його довірене коло у стан підвищеної готовності. Джулі шукає спосіб використати свої нові здібності, а Сара знову страждає від голосів у своїй голові.",
           "season_number": 4,
           "runtime": 52,
-          "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 7.1
+          "still_path": "/2FBTPVhOlhIRyn5EWuXspIyIPHT.jpg",
+          "vote_average": 6.9
         },
         "genres": [
           "Детектив",
@@ -1782,7 +1847,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/8qi8LymsHa9waxLFfMbZQGTFRRD.jpg",
-          "vote_average": 7.32
+          "vote_average": 7.077
         },
         "genres": [
           "Детектив",
@@ -2466,7 +2531,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/1uKSxvt2gt4wtP1HY1ySLVFDCl9.jpg",
+        "backdrop_path": "/ay6qigYQARIOoxZUj0i9YtVlhou.jpg",
         "genre_ids": [
           18
         ],
@@ -2603,7 +2668,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg",
-          "vote_average": 7.182
+          "vote_average": 7.2
         },
         "genres": [
           "Драма"
@@ -2672,7 +2737,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.688
+          "vote_average": 6.697
         },
         "genres": [
           "Детектив",
@@ -2911,56 +2976,7 @@
       "type": "episode",
       "hash": "s2;e4",
       "premiere": 0
-    },
-    {
-      "id": 2662,
-      "time": 1777098391753,
-      "card_id": "1318447",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/p8777bPIlyFYcjqP2hU8htoz1RG.jpg",
-        "genre_ids": [
-          28,
-          53
-        ],
-        "id": 1318447,
-        "original_language": "en",
-        "title": "Верхівковий хижак",
-        "original_title": "Apex",
-        "names": [
-          "Верхівковий хижак",
-          "Вершина",
-          "Apex",
-          "На Вершине"
-        ],
-        "overview": "Згорьована жінка вирушає сама до австралійської глушини, щоб випробувати себе на міцність, але опиняється в пастці заплутаної гри з хитрим убивцею, що вважає її здобиччю.",
-        "poster_path": "/uQbJrCMDl6mki1yUQoiNqaY0EJI.jpg",
-        "release_date": "2026-04-24",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 8.2081,
-        "PG": 16,
-        "release_quality": "4K",
-        "kinopoisk_id": "6553387",
-        "imdb_id": "tt16431404",
-        "status": "released",
-        "last_air_date": "2026-04-24",
-        "countries": [
-          "United States of America",
-          "Iceland",
-          "Australia"
-        ],
-        "genres": [
-          "Бойовик",
-          "Трилер"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.1832275390625
+  "duration": 6.5037994384765625
 }
