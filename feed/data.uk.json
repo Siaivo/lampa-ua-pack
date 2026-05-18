@@ -2,6 +2,67 @@
   "secuses": true,
   "result": [
     {
+      "id": 2713,
+      "time": 1779114429558,
+      "card_id": "273240",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/cdD0InWMH4e6AxceQs93fQRYsfO.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 273240,
+        "original_language": "en",
+        "name": "Поза кампусом",
+        "original_name": "Off Campus",
+        "names": [
+          "Поза кампусом",
+          "Вне кампуса",
+          "Off Campus"
+        ],
+        "overview": "Ханна Веллс погоджується допомогти капітану хокейної команди Гаррету Ґрему завоювати дівчину, в яку він закоханий. Але їхня домовленість поступово переростає у справжній зв’язок, поки вони намагаються впоратися зі своїм минулим. Тим часом їхні друзі — Лоґан, Дін, Такер і Еллі — переживають студентське життя, дружбу та кохання.",
+        "poster_path": "/3xzbOA2BqjtsYDQiUvXO9A5ZmYg.jpg",
+        "first_air_date": "2026-05-13",
+        "video": false,
+        "vote_average": 8.854,
+        "vote_count": 102,
+        "popularity": 242.6623,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "11804709",
+        "kp_rating": "8.3",
+        "imdb_id": "tt33546863",
+        "status": "returning series",
+        "last_air_date": "2026-05-18",
+        "seasons": {
+          "1": 8
+        },
+        "episode": {
+          "air_date": "2026-05-13",
+          "episode_number": 8,
+          "name": "Серія 8",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 56,
+          "still_path": "/oV8Uxf6VRrV5oAjCmwcGAlfkhno.jpg",
+          "vote_average": 10.0
+        },
+        "genres": [
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e8",
+      "premiere": 0
+    },
+    {
       "id": 2712,
       "time": 1779096429499,
       "card_id": "85552",
@@ -52,7 +113,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
-          "vote_average": 10.0
+          "vote_average": 7.0
         },
         "genres": [
           "Драма"
@@ -752,7 +813,7 @@
           "overview": "Зловісне відкриття приводить Бойда та його довірене коло у стан підвищеної готовності. Джулі шукає спосіб використати свої нові здібності, а Сара знову страждає від голосів у своїй голові.",
           "season_number": 4,
           "runtime": 52,
-          "still_path": "/2FBTPVhOlhIRyn5EWuXspIyIPHT.jpg",
+          "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
           "vote_average": 6.9
         },
         "genres": [
@@ -2909,74 +2970,7 @@
       "type": "episode",
       "hash": "s1;e10",
       "premiere": 0
-    },
-    {
-      "id": 2663,
-      "time": 1777107388623,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзі та сусіди",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзі та сусіди",
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
-        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.558,
-        "vote_count": 191,
-        "popularity": 37.7031,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-04-24",
-        "seasons": {
-          "1": 9,
-          "2": 4
-        },
-        "episode": {
-          "air_date": "2026-04-23",
-          "episode_number": 4,
-          "name": "Хліб печалі",
-          "overview": "Увесь район смакує вино, страви й драму на Седер Песах у Гарі й Ґретхен.",
-          "season_number": 2,
-          "runtime": 57,
-          "still_path": "/aWimIbgbIo0bxhP1sN9cgK6WfSU.jpg",
-          "vote_average": 8.3
-        },
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e4",
-      "premiere": 0
     }
   ],
-  "duration": 6.5037994384765625
+  "duration": 4.6210174560546875
 }
