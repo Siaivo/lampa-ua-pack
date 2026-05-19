@@ -2,6 +2,70 @@
   "secuses": true,
   "result": [
     {
+      "id": 2715,
+      "time": 1779186431635,
+      "card_id": "308014",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 308014,
+        "original_language": "es",
+        "name": "Берлін і Пані з горностаєм",
+        "original_name": "Berlín y la dama del armiño",
+        "names": [
+          "Берлін і Пані з горностаєм",
+          "Берлин и Дама с горностаем",
+          "Berlín y la dama del armiño",
+          "Berlin and the Lady with an Ermine",
+          "Берлин и дама с горностаем"
+        ],
+        "overview": "Берлін прагне організувати нове пограбування. Він кличе свою команду до Севільї та перетворює жадібного герцога на жертву власного плану з викрадення шедевра да Вінчі.",
+        "poster_path": "/uv1KXCXzuQsYtIRx0ZPxm3y0AYY.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 21,
+        "popularity": 177.3909,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "ES"
+        ],
+        "kinopoisk_id": "12394283",
+        "imdb_id": "tt42178219",
+        "status": "ended",
+        "last_air_date": "2026-05-18",
+        "seasons": {
+          "1": 8
+        },
+        "episode": {
+          "air_date": "2026-05-15",
+          "episode_number": 8,
+          "name": "Щастя належить тому, хто кохає",
+          "overview": "Відпочинок у Пенісколі змушує Берліна радикально змінити плани. Чи вдасться команді скоїти найбільше пограбування в історії?",
+          "season_number": 1,
+          "runtime": 82,
+          "still_path": "/tJ2zB1JvroPpSZQWhjykGjcWu2s.jpg",
+          "vote_average": 7.5
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "Spain"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e8",
+      "premiere": 0
+    },
+    {
       "id": 2714,
       "time": 1779132430543,
       "card_id": "299167",
@@ -176,7 +240,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
-          "vote_average": 6.7
+          "vote_average": 6.75
         },
         "genres": [
           "Драма"
@@ -245,7 +309,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/tCvMSBNefJ637Me2174PKwrX53i.jpg",
-          "vote_average": 5.688
+          "vote_average": 6.0
         },
         "genres": [
           "Детектив",
@@ -2920,52 +2984,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2665,
-      "time": 1777183911742,
-      "card_id": "936075",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-        "genre_ids": [
-          10402,
-          18
-        ],
-        "id": 936075,
-        "original_language": "en",
-        "title": "Майкл",
-        "original_title": "Michael",
-        "names": [
-          "Майкл",
-          "Michael"
-        ],
-        "overview": "«Майкл» — це кінематографічне зображення життя і спадщини одного з найвпливовіших артистів історії. Фільм розповідає історію Майкла Джексона поза межами музики — шлях від відкриття його виняткового таланту як фронтмена The Jackson Five до становлення візіонера, чия творча амбіція підживлювала невтомне прагнення стати найбільшим артистом світу. Стрічка висвітлює як життя Джексона поза сценою, так і його найзнаковіші виступи з початку сольної кар’єри, даруючи глядачам місце в першому ряду, щоб побачити Майкла таким, яким його ще не бачили. Саме тут починається його історія.",
-        "poster_path": "/pRKvnxCC2xvmchsz5VwnU64NrJf.jpg",
-        "release_date": "2026-04-22",
-        "video": false,
-        "vote_average": 7.2,
-        "vote_count": 63,
-        "popularity": 79.8068,
-        "PG": 13,
-        "release_quality": "ts",
-        "kinopoisk_id": "5437614",
-        "imdb_id": "tt11378946",
-        "status": "released",
-        "last_air_date": "2026-04-24",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Музика",
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.4547271728515625
+  "duration": 15.692619323730469
 }
