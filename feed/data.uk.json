@@ -309,7 +309,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/tCvMSBNefJ637Me2174PKwrX53i.jpg",
-          "vote_average": 6.0
+          "vote_average": 5.8
         },
         "genres": [
           "Детектив",
@@ -756,7 +756,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 8.08
+          "vote_average": 8.1
         },
         "genres": [
           "Науково фантастичний",
@@ -1324,7 +1324,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mTRxKRDBH9HSV81eOGDhYbG5BHR.jpg",
+        "backdrop_path": "/hgJGqndsyvKBO84SFrx4iHJRpBP.jpg",
         "genre_ids": [
           18,
           9648,
@@ -1552,7 +1552,7 @@
           "Goldeu Laendeu"
         ],
         "overview": "Молода жінка, яка працює агенткою служби безпеки в аеропорту, випадково отримує у своє розпорядження золоті злитки контрабандистського угруповання. Опинившись у хаотичному вирі жадібності та зрад між різними сторонами, що борються за золото, вона поступово піддається бажанню забрати все собі.",
-        "poster_path": "/7N6Aa8Kn71JHG9aztcIaRIzdkLc.jpg",
+        "poster_path": "/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg",
         "first_air_date": "2026-04-29",
         "video": false,
         "vote_average": 9.5,
@@ -1707,7 +1707,7 @@
           "overview": "Уже в наявності, ЕКСКЛЮЗИВНО у @VMCtheaters, придбайте нове #ВідерцеДляПопкорнуЗГлибиною лише за $32.99!",
           "season_number": 5,
           "runtime": 65,
-          "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
+          "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
           "vote_average": 7.4
         },
         "genres": [
@@ -2035,7 +2035,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/8qi8LymsHa9waxLFfMbZQGTFRRD.jpg",
-          "vote_average": 7.1
+          "vote_average": 6.9
         },
         "genres": [
           "Детектив",
@@ -2925,7 +2925,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.667
+          "vote_average": 6.7
         },
         "genres": [
           "Детектив",
@@ -2986,5 +2986,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.587303161621094
+  "duration": 6.423423767089844
 }
