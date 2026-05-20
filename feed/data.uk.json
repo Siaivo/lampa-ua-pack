@@ -546,7 +546,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
-          "vote_average": 7.583
+          "vote_average": 7.857
         },
         "genres": [
           "Драма",
@@ -756,7 +756,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 8.0
+          "vote_average": 8.08
         },
         "genres": [
           "Науково фантастичний",
@@ -941,7 +941,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.913
+          "vote_average": 6.667
         },
         "genres": [
           "Детектив",
@@ -1115,7 +1115,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/4Q11reQ3Z72OL6wyZoKGjv4rj5C.jpg",
-          "vote_average": 7.667
+          "vote_average": 7.7
         },
         "genres": [
           "Драма",
@@ -1638,7 +1638,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
-          "vote_average": 7.796
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -2035,7 +2035,7 @@
           "season_number": 4,
           "runtime": 48,
           "still_path": "/8qi8LymsHa9waxLFfMbZQGTFRRD.jpg",
-          "vote_average": 7.185
+          "vote_average": 7.1
         },
         "genres": [
           "Детектив",
@@ -2288,7 +2288,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
-          "vote_average": 8.19
+          "vote_average": 8.25
         },
         "genres": [
           "Драма",
@@ -2925,7 +2925,7 @@
           "season_number": 4,
           "runtime": 55,
           "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.697
+          "vote_average": 6.667
         },
         "genres": [
           "Детектив",
@@ -2986,5 +2986,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.2905426025390625
+  "duration": 7.587303161621094
 }
