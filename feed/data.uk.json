@@ -2,6 +2,55 @@
   "secuses": true,
   "result": [
     {
+      "id": 2717,
+      "time": 1779393429794,
+      "card_id": "1380291",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/69KkxROnZoJdQAulnY5B7Gx6D7Z.jpg",
+        "genre_ids": [
+          28,
+          53,
+          18
+        ],
+        "id": 1380291,
+        "original_language": "en",
+        "title": "Джек Раян: Війна привидів",
+        "original_title": "Tom Clancy's Jack Ryan: Ghost War",
+        "names": [
+          "Джек Раян: Війна привидів",
+          "Джек Райан: Призрачная война",
+          "Tom Clancy's Jack Ryan: Ghost War",
+          "Jack Ryan: Ghost War"
+        ],
+        "overview": "Історія про Джека Раяна, який знову об’єднується з оперативниками ЦРУ, щоб пройти крізь небезпечну мережу зрад і протистояти ворогу, що знає кожен їхній крок, водночас стикаючись із минулим, яке вони вважали давно похованим.",
+        "poster_path": "/tQpJxOFx6zslf6x8CCKbsMmRDNb.jpg",
+        "release_date": "2026-05-20",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 3,
+        "popularity": 11.3652,
+        "PG": 17,
+        "release_quality": "4K",
+        "kinopoisk_id": "6458125",
+        "imdb_id": "tt34378301",
+        "status": "released",
+        "last_air_date": "2026-05-21",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Бойовик",
+          "Трилер",
+          "Пригоди"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2716,
       "time": 1779294429580,
       "card_id": "76479",
@@ -56,7 +105,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/ezEbcxPgVMPRFYxRsWkokdLRUFK.jpg",
-          "vote_average": 6.25
+          "vote_average": 6.213
         },
         "genres": [
           "Науково фантастичний",
@@ -124,7 +173,9 @@
         },
         "genres": [
           "Драма",
-          "Кримінал"
+          "Кримінал",
+          "Екшн і Пригоди",
+          "Комедія"
         ],
         "countries": [
           "Spain"
@@ -309,7 +360,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
-          "vote_average": 6.938
+          "vote_average": 6.9
         },
         "genres": [
           "Драма"
@@ -547,7 +598,7 @@
           "season_number": 8,
           "runtime": 71,
           "still_path": "/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg",
-          "vote_average": 9.0
+          "vote_average": 8.8
         },
         "genres": [
           "Драма",
@@ -615,7 +666,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
-          "vote_average": 7.857
+          "vote_average": 8.125
         },
         "genres": [
           "Драма",
@@ -825,7 +876,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/m7RKphwoonRHsSniQAJhAEnTmca.jpg",
-          "vote_average": 7.47
+          "vote_average": 7.3
         },
         "genres": [
           "Науково фантастичний",
@@ -1302,9 +1353,9 @@
           "name": "Серія 9",
           "overview": "",
           "season_number": 8,
-          "runtime": 54,
+          "runtime": 53,
           "still_path": "/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg",
-          "vote_average": 9.0
+          "vote_average": 8.8
         },
         "genres": [
           "Драма",
@@ -1776,8 +1827,8 @@
           "overview": "Уже в наявності, ЕКСКЛЮЗИВНО у @VMCtheaters, придбайте нове #ВідерцеДляПопкорнуЗГлибиною лише за $32.99!",
           "season_number": 5,
           "runtime": 65,
-          "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
-          "vote_average": 6.912
+          "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
+          "vote_average": 6.9
         },
         "genres": [
           "Науково фантастичний",
@@ -2039,9 +2090,9 @@
           "Spain"
         ],
         "genres": [
+          "Пригоди",
           "Мультфільм",
           "Сімейний",
-          "Пригоди",
           "Фентезі"
         ]
       },
@@ -2595,7 +2646,7 @@
           "season_number": 5,
           "runtime": 69,
           "still_path": "/ngEIeKHD81vIZSOlJbL7n1ifFg1.jpg",
-          "vote_average": 7.028
+          "vote_average": 6.9
         },
         "genres": [
           "Науково фантастичний",
@@ -2938,77 +2989,7 @@
       "type": "episode",
       "hash": "s3;e3",
       "premiere": 0
-    },
-    {
-      "id": 2667,
-      "time": 1777270306655,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Ззовні",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
-        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.171,
-        "vote_count": 2627,
-        "popularity": 644.1358,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-04-26",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 2
-        },
-        "episode": {
-          "air_date": "2026-04-26",
-          "episode_number": 2,
-          "name": "Сутичка",
-          "overview": "Жахлива знахідка викликає хвилю обурення в місті, а Джейд і Табіта намагаються впоратися з цим відкриттям.",
-          "season_number": 4,
-          "runtime": 55,
-          "still_path": "/7qQTWAEFZm0dC20eSRpOJY0TzcL.jpg",
-          "vote_average": 6.7
-        },
-        "genres": [
-          "Детектив",
-          "Драма",
-          "Науково фантастичний"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s4;e2",
-      "premiere": 0
     }
   ],
-  "duration": 6.5846405029296875
+  "duration": 5.225311279296875
 }
