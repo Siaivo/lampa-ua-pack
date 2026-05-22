@@ -2,6 +2,70 @@
   "secuses": true,
   "result": [
     {
+      "id": 2720,
+      "time": 1779464892359,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонів",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонів",
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
+        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.4,
+        "vote_count": 89,
+        "popularity": 143.9946,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.8",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-05-22",
+        "seasons": {
+          "1": 3
+        },
+        "episode": {
+          "air_date": "2026-05-22",
+          "episode_number": 3,
+          "name": "Серія 3",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 49,
+          "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
+          "vote_average": 7.5
+        },
+        "genres": [
+          "Вестерн",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e3",
+      "premiere": 0
+    },
+    {
       "id": 2719,
       "time": 1779446892384,
       "card_id": "241609",
@@ -988,7 +1052,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.236
         },
         "genres": [
           "Науково фантастичний",
@@ -1104,7 +1168,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 5.938
+          "vote_average": 5.9
         },
         "genres": [
           "Драма"
@@ -1940,7 +2004,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
-          "vote_average": 6.9
+          "vote_average": 6.8
         },
         "genres": [
           "Науково фантастичний",
@@ -2943,52 +3007,7 @@
       "type": "episode",
       "hash": "s8;e8",
       "premiere": 0
-    },
-    {
-      "id": 2670,
-      "time": 1777372557028,
-      "card_id": "1422404",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/ay6qigYQARIOoxZUj0i9YtVlhou.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1422404,
-        "original_language": "ja",
-        "title": "TOKYOタクシー",
-        "original_title": "TOKYOタクシー",
-        "names": [
-          "Токийское такси",
-          "Tokyo Taxi",
-          "TOKYOタクシー"
-        ],
-        "overview": "Кодзи Усами зарабатывает на жизнь работой в такси. Однажды он получает заказ отвезти 85-летнюю Сумирэ Такано в дом престарелых. По дороге Такано просит сделать несколько остановок, постепенно открывая для Усами своё прошлое, а сама поездка меняет жизни и пассажира, и водителя.",
-        "poster_path": "/iJHARu7sCkQy419txqTwKCgQQWQ.jpg",
-        "release_date": "2025-11-21",
-        "video": false,
-        "vote_average": 7.8,
-        "vote_count": 10,
-        "popularity": 2.5425,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "8055144",
-        "imdb_id": "tt35521394",
-        "imdb_rating": "7.3",
-        "status": "released",
-        "last_air_date": "2026-04-25",
-        "countries": [
-          "Japan"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.391258239746094
+  "duration": 7.4713592529296875
 }
