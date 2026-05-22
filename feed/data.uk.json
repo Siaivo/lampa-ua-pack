@@ -2,6 +2,119 @@
   "secuses": true,
   "result": [
     {
+      "id": 2719,
+      "time": 1779446892384,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзі та сусіди",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзі та сусіди",
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
+        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.623,
+        "vote_count": 219,
+        "popularity": 40.6913,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-05-22",
+        "seasons": {
+          "1": 9,
+          "2": 8
+        },
+        "episode": {
+          "air_date": "2026-05-21",
+          "episode_number": 8,
+          "name": "Без себе я розгублений",
+          "overview": "Мел і Торі стикаються з наслідками своїх дій. Сем намагається порвати з Ешем. Куп потрапляє між молотом і ковадлом.",
+          "season_number": 2,
+          "runtime": 57,
+          "still_path": "/r18w0RYSIqdEzaOyCaYFpIW8gNE.jpg",
+          "vote_average": 7.5
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s2;e8",
+      "premiere": 0
+    },
+    {
+      "id": 2718,
+      "time": 1779436092369,
+      "card_id": "1667906",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uoxuDza5meDgHFSBUlCfpvoIEQ7.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1667906,
+        "original_language": "en",
+        "title": "Mah e kochoolooye man",
+        "original_title": "Mah e kochoolooye man",
+        "names": [
+          "Моя маленькая луна",
+          "My Little Moon",
+          "Mah e kochoolooye man"
+        ],
+        "overview": "В разгар иранских протестов под лозунгом «Женщина, жизнь, свобода» подростки из Ирана и США знакомятся в сети. На фоне усиления напряжённости их виртуальная дружба становится для них спасательным кругом, даря надежду и силы не утонуть в океане страха и социальных потрясений.",
+        "poster_path": "/QTfTP87tnzcasyIcAZQufYE44c.jpg",
+        "release_date": "2026-04-17",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 0.1526,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "12005305",
+        "imdb_id": "tt26685977",
+        "imdb_rating": "7.8",
+        "status": "released",
+        "last_air_date": "2026-05-21",
+        "countries": [
+          "United States of America",
+          "Iran"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2717,
       "time": 1779393429794,
       "card_id": "1380291",
@@ -42,8 +155,7 @@
         ],
         "genres": [
           "Бойовик",
-          "Трилер",
-          "Пригоди"
+          "Трилер"
         ]
       },
       "type": "uhd",
@@ -104,8 +216,8 @@
           "overview": "Великодня неділя. 14:00. Прямий ефір на @VoughtNews. Станьте свідками перезавантаження всесвіту Патріотом.",
           "season_number": 5,
           "runtime": 67,
-          "still_path": "/ezEbcxPgVMPRFYxRsWkokdLRUFK.jpg",
-          "vote_average": 6.213
+          "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
+          "vote_average": 6.2
         },
         "genres": [
           "Науково фантастичний",
@@ -666,7 +778,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
-          "vote_average": 8.125
+          "vote_average": 8.1
         },
         "genres": [
           "Драма",
@@ -875,7 +987,7 @@
           "overview": "ПОПЕРЕДЖЕННЯ: ОБЕРЕЖНО ПІД ЧАС ВИХОДУ НА ЗВУКОВУ СЦЕНУ. ВИКОНАВЦІ МОЖУТЬ ВИКОРИСТОВУВАТИ НАДЗДІБНОСТІ.",
           "season_number": 5,
           "runtime": 71,
-          "still_path": "/m7RKphwoonRHsSniQAJhAEnTmca.jpg",
+          "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
           "vote_average": 7.3
         },
         "genres": [
@@ -1423,7 +1535,7 @@
           "season_number": 2,
           "runtime": 42,
           "still_path": "/htfy0mGyz1dzvX9j7dowdXVtept.jpg",
-          "vote_average": 7.417
+          "vote_average": 7.4
         },
         "genres": [
           "Драма",
@@ -2034,7 +2146,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
-          "vote_average": 8.111
+          "vote_average": 8.1
         },
         "genres": [
           "Драма"
@@ -2876,120 +2988,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2669,
-      "time": 1777356361800,
-      "card_id": "1561758",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/8PK61ixYoSX3kXWyCMH4ats79k4.jpg",
-        "genre_ids": [
-          10749,
-          35
-        ],
-        "id": 1561758,
-        "original_language": "pl",
-        "title": "Біда людей єдна",
-        "original_title": "Podlasie",
-        "names": [
-          "Біда людей єдна",
-          "Все за одного",
-          "It Takes a Village",
-          "Podlasie - Wszyscy za jedną",
-          "Podlasie"
-        ],
-        "overview": "Коли через невдалу інвестицію та шахраїв Галина опиняється на межі втрати свого будинку та ферми, її родина та мешканці всього села Бодзки вирішують об’єднатися. Вони розробляють шалений план: перетворити своє віддалене містечко на головну туристичну принаду регіону, щоб зібрати гроші та врятувати Галину від фінансового крах",
-        "poster_path": "/3C5U150EzKPqaf4J4Fd6CZQg9Xb.jpg",
-        "release_date": "2026-04-01",
-        "video": false,
-        "vote_average": 4.722,
-        "vote_count": 10,
-        "popularity": 3.7914,
-        "PG": 13,
-        "release_quality": "4K",
-        "kinopoisk_id": "11857507",
-        "imdb_id": "tt38681815",
-        "status": "released",
-        "last_air_date": "2026-04-04",
-        "countries": [
-          "Poland"
-        ],
-        "genres": [
-          "Мелодрама",
-          "Комедія"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2668,
-      "time": 1777311355892,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Ейфорія",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
-        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.281,
-        "vote_count": 10441,
-        "popularity": 301.9964,
-        "PG": 18,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-04-27",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 3
-        },
-        "episode": {
-          "air_date": "2026-04-26",
-          "episode_number": 3,
-          "name": "Серія 3",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 60,
-          "still_path": "/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg",
-          "vote_average": 7.25
-        },
-        "genres": [
-          "Драма"
-        ],
-        "countries": [
-          "United States of America",
-          "Israel"
-        ]
-      },
-      "type": "episode",
-      "hash": "s3;e3",
-      "premiere": 0
     }
   ],
-  "duration": 5.225311279296875
+  "duration": 7.391258239746094
 }
