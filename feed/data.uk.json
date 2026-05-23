@@ -118,7 +118,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/r18w0RYSIqdEzaOyCaYFpIW8gNE.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.333
         },
         "genres": [
           "Драма",
@@ -219,7 +219,8 @@
         ],
         "genres": [
           "Бойовик",
-          "Трилер"
+          "Трилер",
+          "Пригоди"
         ]
       },
       "type": "uhd",
@@ -280,7 +281,7 @@
           "overview": "Великодня неділя. 14:00. Прямий ефір на @VoughtNews. Станьте свідками перезавантаження всесвіту Патріотом.",
           "season_number": 5,
           "runtime": 67,
-          "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
+          "still_path": "/37rtA30vY8kOTvR5O48Er19m7Ir.jpg",
           "vote_average": 6.2
         },
         "genres": [
@@ -605,7 +606,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/zLwVMCUi1XKotihIfDuVMCXXm3P.jpg",
-          "vote_average": 6.464
+          "vote_average": 6.676
         },
         "genres": [
           "Детектив",
@@ -1052,7 +1053,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 7.236
+          "vote_average": 7.12
         },
         "genres": [
           "Науково фантастичний",
@@ -1237,7 +1238,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.808
+          "vote_average": 6.926
         },
         "genres": [
           "Детектив",
@@ -2003,7 +2004,7 @@
           "overview": "Уже в наявності, ЕКСКЛЮЗИВНО у @VMCtheaters, придбайте нове #ВідерцеДляПопкорнуЗГлибиною лише за $32.99!",
           "season_number": 5,
           "runtime": 65,
-          "still_path": "/kVjKQmEpOm3849zkZlzGzlIqrBq.jpg",
+          "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
           "vote_average": 6.8
         },
         "genres": [
@@ -2074,7 +2075,8 @@
         "genres": [
           "Екшн і Пригоди",
           "Мультфільм",
-          "Науково фантастичний"
+          "Науково фантастичний",
+          "Кримінал"
         ],
         "countries": [
           "United States of America"
@@ -2821,7 +2823,7 @@
           "overview": "Сьогодні о 21:00/20:00 за центральним часом спеціальний репортаж на @VoughtNews: Зрада в Тінселтауні! З'ясуйте, хто з ваших улюблених зірок зорянець!",
           "season_number": 5,
           "runtime": 69,
-          "still_path": "/ngEIeKHD81vIZSOlJbL7n1ifFg1.jpg",
+          "still_path": "/7q9BH3QaHLkr7SegfRgqy5Uf63E.jpg",
           "vote_average": 6.9
         },
         "genres": [
@@ -3009,5 +3011,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.4713592529296875
+  "duration": 8.640426635742188
 }
