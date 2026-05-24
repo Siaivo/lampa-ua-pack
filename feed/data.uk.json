@@ -525,7 +525,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
-          "vote_average": 6.225
+          "vote_average": 6.279
         },
         "genres": [
           "Науково фантастичний",
@@ -1295,8 +1295,8 @@
           "overview": "ПОПЕРЕДЖЕННЯ: ОБЕРЕЖНО ПІД ЧАС ВИХОДУ НА ЗВУКОВУ СЦЕНУ. ВИКОНАВЦІ МОЖУТЬ ВИКОРИСТОВУВАТИ НАДЗДІБНОСТІ.",
           "season_number": 5,
           "runtime": 71,
-          "still_path": "/egwutLDfRnfVi49RiBzMTkZdYYR.jpg",
-          "vote_average": 7.061
+          "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
+          "vote_average": 7.1
         },
         "genres": [
           "Науково фантастичний",
@@ -2092,7 +2092,7 @@
           "Goldeu Laendeu"
         ],
         "overview": "Молода жінка, яка працює агенткою служби безпеки в аеропорту, випадково отримує у своє розпорядження золоті злитки контрабандистського угруповання. Опинившись у хаотичному вирі жадібності та зрад між різними сторонами, що борються за золото, вона поступово піддається бажанню забрати все собі.",
-        "poster_path": "/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg",
+        "poster_path": "/7N6Aa8Kn71JHG9aztcIaRIzdkLc.jpg",
         "first_air_date": "2026-04-29",
         "video": false,
         "vote_average": 9.5,
@@ -2965,5 +2965,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.043968200683594
+  "duration": 4.6175079345703125
 }
