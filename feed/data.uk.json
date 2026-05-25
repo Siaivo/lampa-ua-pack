@@ -2,6 +2,56 @@
   "secuses": true,
   "result": [
     {
+      "id": 2726,
+      "time": 1779705794840,
+      "card_id": "1375646",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+        "genre_ids": [
+          28,
+          53,
+          27
+        ],
+        "id": 1375646,
+        "original_language": "ko",
+        "title": "Колонія",
+        "original_title": "군체",
+        "names": [
+          "Колонія",
+          "Колония",
+          "Gunche",
+          "군체"
+        ],
+        "overview": "Професорка біотехнології приїжджає на наукову конференцію — і стає мимовільною свідкою катастрофи: невідомий вірус наздоганяє всіх і кожного. Люди починають еволюціонувати в непередбачувані форми, об’єднуючись у нову структуру — «колонію», яка ставить під загрозу життя небагатьох уцілілих.",
+        "poster_path": "/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
+        "release_date": "2026-05-21",
+        "video": false,
+        "vote_average": 5.875,
+        "vote_count": 4,
+        "popularity": 44.8133,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "6705911",
+        "imdb_id": "tt34385135",
+        "imdb_rating": "8.8",
+        "status": "released",
+        "last_air_date": "2026-05-25",
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Бойовик",
+          "Трилер",
+          "Жахи"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2725,
       "time": 1779614636220,
       "card_id": "1368881",
@@ -525,7 +575,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
-          "vote_average": 6.281
+          "vote_average": 6.291
         },
         "genres": [
           "Науково фантастичний",
@@ -848,7 +898,7 @@
           "overview": "Бойд і Джейд вирушають на відчайдушний та небезпечний пошук відповідей, а вилазка за їжею набуває моторошного повороту.",
           "season_number": 4,
           "runtime": 52,
-          "still_path": "/zLwVMCUi1XKotihIfDuVMCXXm3P.jpg",
+          "still_path": "/wrOtPyoXtLyTlcQupc1GYPGAuSJ.jpg",
           "vote_average": 6.8
         },
         "genres": [
@@ -1480,8 +1530,8 @@
           "overview": "Зловісне відкриття приводить Бойда та його довірене коло у стан підвищеної готовності. Джулі шукає спосіб використати свої нові здібності, а Сара знову страждає від голосів у своїй голові.",
           "season_number": 4,
           "runtime": 52,
-          "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 7.036
+          "still_path": "/2FBTPVhOlhIRyn5EWuXspIyIPHT.jpg",
+          "vote_average": 7.0
         },
         "genres": [
           "Детектив",
@@ -1864,7 +1914,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
+        "backdrop_path": "/mTRxKRDBH9HSV81eOGDhYbG5BHR.jpg",
         "genre_ids": [
           18,
           9648,
@@ -2387,7 +2437,7 @@
           "season_number": 8,
           "runtime": 43,
           "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg",
-          "vote_average": 9.026
+          "vote_average": 9.0
         },
         "genres": [
           "Кримінал",
@@ -2888,82 +2938,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2676,
-      "time": 1777545355919,
-      "card_id": "79744",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-        "genre_ids": [
-          80,
-          18,
-          35
-        ],
-        "id": 79744,
-        "original_language": "en",
-        "name": "Новобранець",
-        "original_name": "The Rookie",
-        "names": [
-          "Новичок",
-          "The Rookie",
-          "Новобранец",
-          "Новобранець"
-        ],
-        "overview": "Починати з чистого аркуша завжди нелегко, особливо для мешканця маленького містечка Джона Нолана. Після інциденту, який перевернув його життя, він вирішив здійснити давню мрію і приєднатися до поліції Лос-Анджелеса. Старого новачка зустрічають із зрозумілим скептицизмом, проте життєвий досвід, наполегливість та почуття гумору дають Джону перевагу.",
-        "poster_path": "/rN4jJz0OquSHAzNRZGRSa018dgx.jpg",
-        "first_air_date": "2018-10-16",
-        "video": false,
-        "vote_average": 8.532,
-        "vote_count": 3137,
-        "popularity": 280.3679,
-        "PG": 0,
-        "release_quality": "hdtv",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1142153",
-        "kp_rating": "8.4",
-        "imdb_id": "tt7587890",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-04-29",
-        "seasons": {
-          "1": 20,
-          "2": 20,
-          "3": 14,
-          "4": 22,
-          "5": 22,
-          "6": 10,
-          "7": 18,
-          "8": 17
-        },
-        "episode": {
-          "air_date": "2026-04-27",
-          "episode_number": 17,
-          "name": "Дзвінок смерті",
-          "overview": "Нолан і Гарпер намагаються допомогти зневіреній матері захистити свою дитину, а лейтенант Грей і Ґарза продовжують співпрацювати з Монікою, попри свої сумніви.",
-          "season_number": 8,
-          "runtime": 43,
-          "still_path": "/gBXrmvRXYllskJl0X8wG0SOLE50.jpg",
-          "vote_average": 9.469
-        },
-        "genres": [
-          "Кримінал",
-          "Драма",
-          "Комедія"
-        ],
-        "countries": [
-          "United States of America",
-          "Canada"
-        ]
-      },
-      "type": "episode",
-      "hash": "s8;e17",
-      "premiere": 0
     }
   ],
-  "duration": 7.5640869140625
+  "duration": 6.4402618408203125
 }
