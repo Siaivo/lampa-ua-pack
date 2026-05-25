@@ -429,7 +429,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/69KkxROnZoJdQAulnY5B7Gx6D7Z.jpg",
+        "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
         "genre_ids": [
           28,
           53,
@@ -525,7 +525,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
-          "vote_average": 6.279
+          "vote_average": 6.281
         },
         "genres": [
           "Науково фантастичний",
@@ -801,7 +801,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
         "genre_ids": [
           9648,
           18,
@@ -849,7 +849,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/zLwVMCUi1XKotihIfDuVMCXXm3P.jpg",
-          "vote_average": 6.676
+          "vote_average": 6.8
         },
         "genres": [
           "Детектив",
@@ -1086,7 +1086,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
-          "vote_average": 8.1
+          "vote_average": 7.944
         },
         "genres": [
           "Драма",
@@ -1107,7 +1107,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/qdyeQg2gWj1L8cDlwU3tI4s0Hub.jpg",
+        "backdrop_path": "/hWuHG6e6vM7YbNVW5Z0JcfhmxQq.jpg",
         "genre_ids": [
           27
         ],
@@ -1433,7 +1433,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
         "genre_ids": [
           9648,
           18,
@@ -1481,7 +1481,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/mDVtJdssb19UCFAbfxGD2dcsTbV.jpg",
-          "vote_average": 6.926
+          "vote_average": 7.036
         },
         "genres": [
           "Детектив",
@@ -2527,7 +2527,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
         "genre_ids": [
           9648,
           18,
@@ -2965,5 +2965,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.6175079345703125
+  "duration": 7.5640869140625
 }
