@@ -2,6 +2,71 @@
   "secuses": true,
   "result": [
     {
+      "id": 2727,
+      "time": 1779716595400,
+      "card_id": "85552",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 85552,
+        "original_language": "en",
+        "name": "Ейфорія",
+        "original_name": "Euphoria",
+        "names": [
+          "Эйфория",
+          "Euphoria",
+          "Ейфорія"
+        ],
+        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
+        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
+        "first_air_date": "2019-06-16",
+        "video": false,
+        "vote_average": 8.289,
+        "vote_count": 10659,
+        "popularity": 222.5807,
+        "PG": 18,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1178445",
+        "kp_rating": "7.5",
+        "imdb_id": "tt8772296",
+        "imdb_rating": "8.2",
+        "status": "returning series",
+        "last_air_date": "2026-05-25",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 7
+        },
+        "episode": {
+          "air_date": "2026-05-24",
+          "episode_number": 7,
+          "name": "Серія 7",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 78,
+          "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
+          "vote_average": 7.8
+        },
+        "genres": [
+          "Драма"
+        ],
+        "countries": [
+          "United States of America",
+          "Israel"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e7",
+      "premiere": 0
+    },
+    {
       "id": 2726,
       "time": 1779705794840,
       "card_id": "1375646",
@@ -2892,53 +2957,7 @@
       "type": "episode",
       "hash": "s2;e7",
       "premiere": 0
-    },
-    {
-      "id": 2677,
-      "time": 1777615929573,
-      "card_id": "1314481",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
-        "genre_ids": [
-          35,
-          18
-        ],
-        "id": 1314481,
-        "original_language": "en",
-        "title": "Диявол носить Прада 2",
-        "original_title": "The Devil Wears Prada 2",
-        "names": [
-          "Диявол носить Прада 2",
-          "Дьявол носит Prada 2",
-          "The Devil Wears Prada 2"
-        ],
-        "overview": "Майже через двадцять років Меріл Стріп, Енн Гетевей, Емілі Блант і Стенлі Туччі повертаються на модні вулиці Нью-Йорка та до бездоганно стильних кабінетів видання «Подіум» у довгоочікуваному сиквелі культового фільму 2006 року, що став визначальним для цілого покоління.",
-        "poster_path": "/xrRCThaRSIzUxDTo0q9tTXjdh9v.jpg",
-        "release_date": "2026-04-29",
-        "video": false,
-        "vote_average": 6.7,
-        "vote_count": 38,
-        "popularity": 89.8749,
-        "PG": 13,
-        "release_quality": "ts",
-        "kinopoisk_id": "6373982",
-        "imdb_id": "tt33612209",
-        "status": "released",
-        "last_air_date": "2026-04-30",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Комедія",
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.4402618408203125
+  "duration": 5.286346435546875
 }
