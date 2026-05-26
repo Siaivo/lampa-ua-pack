@@ -52,7 +52,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 7.8
+          "vote_average": 8.375
         },
         "genres": [
           "Драма"
@@ -225,7 +225,7 @@
         "id": 1228710,
         "original_language": "en",
         "title": "Мандалорець і Ґроґу",
-        "original_title": "Star Wars: The Mandalorian and Grogu",
+        "original_title": "The Mandalorian and Grogu",
         "names": [
           "Мандалорець і Ґроґу",
           "Мандалорец и Грогу",
@@ -477,7 +477,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/r18w0RYSIqdEzaOyCaYFpIW8gNE.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -640,7 +640,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
-          "vote_average": 6.291
+          "vote_average": 6.362
         },
         "genres": [
           "Науково фантастичний",
@@ -769,7 +769,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.6
+          "vote_average": 9.45
         },
         "genres": [
           "Вестерн",
@@ -895,7 +895,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
-          "vote_average": 6.9
+          "vote_average": 6.944
         },
         "genres": [
           "Драма"
@@ -1527,7 +1527,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.944
         },
         "genres": [
           "Драма"
@@ -1979,7 +1979,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mTRxKRDBH9HSV81eOGDhYbG5BHR.jpg",
+        "backdrop_path": "/loZCtN8s1yjSBD75rbHsRisWfUc.jpg",
         "genre_ids": [
           18,
           9648,
@@ -2293,7 +2293,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
-          "vote_average": 7.983
+          "vote_average": 8.016
         },
         "genres": [
           "Драма",
@@ -2428,7 +2428,7 @@
           "season_number": 1,
           "runtime": 26,
           "still_path": "/6AgKrtdQuSF8zDtBOGFJAKnAPGo.jpg",
-          "vote_average": 9.029
+          "vote_average": 8.974
         },
         "genres": [
           "Екшн і Пригоди",
@@ -2569,7 +2569,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg",
-          "vote_average": 8.1
+          "vote_average": 7.8
         },
         "genres": [
           "Драма"
@@ -2943,7 +2943,7 @@
           "season_number": 2,
           "runtime": 48,
           "still_path": "/rmlntMleUjbXWgEk0beQla6qTDZ.jpg",
-          "vote_average": 8.3
+          "vote_average": 8.162
         },
         "genres": [
           "Драма",
@@ -2959,5 +2959,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.286346435546875
+  "duration": 9.166419982910156
 }
