@@ -111,7 +111,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.682
+          "vote_average": 8.708
         },
         "genres": [
           "Мультфільм",
@@ -230,7 +230,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 8.6
+          "vote_average": 7.286
         },
         "genres": [
           "Драма"
@@ -2472,7 +2472,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
-          "vote_average": 8.016
+          "vote_average": 7.924
         },
         "genres": [
           "Драма",
@@ -2933,5 +2933,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.920204162597656
+  "duration": 4.463226318359375
 }
