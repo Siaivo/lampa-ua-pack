@@ -2,6 +2,70 @@
   "secuses": true,
   "result": [
     {
+      "id": 2731,
+      "time": 1779908381135,
+      "card_id": "220102",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          9648
+        ],
+        "id": 220102,
+        "original_language": "en",
+        "name": "Павук-Нуар",
+        "original_name": "Spider-Noir",
+        "names": [
+          "Павук-Нуар",
+          "Паук-Нуар",
+          "Spider-Noir"
+        ],
+        "overview": "Постарілий приватний детектив і невдаха в Нью-Йорку 1930-х років змушений зіштовхнутися зі своїм минулим, коли він був єдиним у місті супергероєм.",
+        "poster_path": "/1H8R4CQVu3gXpiemZxyADaaxAkF.jpg",
+        "first_air_date": "2026-05-25",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 2,
+        "popularity": 34.0962,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "5698586",
+        "imdb_id": "tt30460310",
+        "status": "returning series",
+        "last_air_date": "2026-05-27",
+        "seasons": {
+          "1": 8
+        },
+        "episode": {
+          "air_date": "2026-05-25",
+          "episode_number": 8,
+          "name": "Серія 8",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 48,
+          "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
+          "vote_average": 9.5
+        },
+        "genres": [
+          "Екшн і Пригоди",
+          "Кримінал",
+          "Детектив"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e8",
+      "premiere": 0
+    },
+    {
       "id": 2730,
       "time": 1779876796250,
       "card_id": "295532",
@@ -883,7 +947,7 @@
           "season_number": 1,
           "runtime": 82,
           "still_path": "/tJ2zB1JvroPpSZQWhjykGjcWu2s.jpg",
-          "vote_average": 8.333
+          "vote_average": 8.25
         },
         "genres": [
           "Драма",
@@ -1074,7 +1138,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
-          "vote_average": 6.9
+          "vote_average": 7.25
         },
         "genres": [
           "Драма"
@@ -2472,7 +2536,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/dpwUQPQFWmQU2Ym3tgCKGExVCWV.jpg",
-          "vote_average": 7.924
+          "vote_average": 7.9
         },
         "genres": [
           "Драма",
@@ -2883,55 +2947,7 @@
       "type": "episode",
       "hash": "s4;e3",
       "premiere": 0
-    },
-    {
-      "id": 2681,
-      "time": 1777832234159,
-      "card_id": "683205",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6OvujNBLXBNuD4lW2FJiOnaSpWy.jpg",
-        "genre_ids": [
-          12,
-          28
-        ],
-        "id": 683205,
-        "original_language": "zh",
-        "title": "寻龙诀：觅踪",
-        "original_title": "寻龙诀：觅踪",
-        "names": [
-          "Моцзинь: Охотники за легендами",
-          "The Legend Hunters",
-          "寻龙诀：觅踪",
-          "Охотники за легендой",
-          "Xun long jue mi zong"
-        ],
-        "overview": "Охотники за легендой возвращают Ху Ба-и, Ширли Ян и Ван Кайсюаня к делу, где обычная вылазка быстро становится ловушкой. Команда оказывается втянута в поиски древней гробницы, созданной людьми, которые сами знали все приёмы расхитителей могил. Под землёй их ждут не только тайники и механизмы, но и чужие расчёты: каждый шаг может открыть проход дальше, а может запереть героев в месте, откуда не выбираются даже опытные искатели сокровищ.",
-        "poster_path": "/1jxforJCqzJHeffLy0EUjsC1IDP.jpg",
-        "release_date": "2025-05-08",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 5,
-        "popularity": 3.3903,
-        "PG": 0,
-        "release_quality": "4K",
-        "kinopoisk_id": "1278192",
-        "imdb_id": "tt10551126",
-        "status": "released",
-        "last_air_date": "2026-05-02",
-        "countries": [
-          "China"
-        ],
-        "genres": [
-          "Пригоди",
-          "Бойовик"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.463226318359375
+  "duration": 6.8760528564453125
 }
