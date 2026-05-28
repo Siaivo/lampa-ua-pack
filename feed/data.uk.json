@@ -2,13 +2,80 @@
   "secuses": true,
   "result": [
     {
+      "id": 2733,
+      "time": 1779980382137,
+      "card_id": "270476",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "id": 270476,
+        "original_language": "en",
+        "name": "Відоус-Бей",
+        "original_name": "Widow's Bay",
+        "names": [
+          "Відоус-Бей",
+          "Бухта вдов",
+          "Widow's Bay",
+          "Уидоус-Бэй",
+          "Widows Bay"
+        ],
+        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
+        "poster_path": "/r9LY3JmgL8CcUKDOEKQZHsOaIcP.jpg",
+        "first_air_date": "2026-04-28",
+        "video": false,
+        "vote_average": 8.351,
+        "vote_count": 74,
+        "popularity": 50.795,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6555657",
+        "kp_rating": "7.8",
+        "imdb_id": "tt33332385",
+        "status": "returning series",
+        "last_air_date": "2026-05-27",
+        "seasons": {
+          "1": 7
+        },
+        "episode": {
+          "air_date": "2026-05-26",
+          "episode_number": 7,
+          "name": "Морська хвороба",
+          "overview": "Вирушайте в море з мером Лофтісом і шанованою місцевою особою Віком! Вони там у справах — краще просто насолоджуватися подорожжю.",
+          "season_number": 1,
+          "runtime": 42,
+          "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
+          "vote_average": 6.0
+        },
+        "genres": [
+          "Драма",
+          "Детектив",
+          "Комедія"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e7",
+      "premiere": 0
+    },
+    {
       "id": 2732,
       "time": 1779956983259,
       "card_id": "220102",
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "backdrop_path": "/829po9fyhvZRCRYhZhysOsbOb2k.jpg",
         "genre_ids": [
           10759,
           80,
@@ -62,7 +129,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "backdrop_path": "/829po9fyhvZRCRYhZhysOsbOb2k.jpg",
         "genre_ids": [
           10759,
           80,
@@ -562,7 +629,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "genre_ids": [
           37,
           18
@@ -664,7 +731,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "genre_ids": [
           37,
           18
@@ -937,7 +1004,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
-          "vote_average": 6.206
+          "vote_average": 6.142
         },
         "genres": [
           "Науково фантастичний",
@@ -1024,7 +1091,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
         "genre_ids": [
           37,
           18
@@ -1708,7 +1775,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 7.078
+          "vote_average": 6.875
         },
         "genres": [
           "Науково фантастичний",
@@ -1824,7 +1891,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 5.944
+          "vote_average": 5.9
         },
         "genres": [
           "Драма"
@@ -2660,7 +2727,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
-          "vote_average": 6.658
+          "vote_average": 6.56
         },
         "genres": [
           "Науково фантастичний",
@@ -2879,59 +2946,7 @@
       "type": "episode",
       "hash": "s3;e4",
       "premiere": 0
-    },
-    {
-      "id": 2683,
-      "time": 1777962903655,
-      "card_id": "1007757",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-        "genre_ids": [
-          12,
-          16,
-          35,
-          10751,
-          14
-        ],
-        "id": 1007757,
-        "original_language": "en",
-        "title": "У чужій шкурі",
-        "original_title": "Swapped",
-        "names": [
-          "У чужій шкурі",
-          "В чужой шкуре",
-          "Swapped"
-        ],
-        "overview": "Крихітна лісова істота й велична птаха зненацька міняються тілами й мусять триматися разом, щоб пережити найдивовижнішу пригоду свого життя.",
-        "poster_path": "/lW8andsu4nCD2zcUjw58WeLhBxs.jpg",
-        "release_date": "2026-05-01",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 5.6176,
-        "PG": 6,
-        "release_quality": "webdl",
-        "kinopoisk_id": "6739719",
-        "imdb_id": "tt29552248",
-        "status": "released",
-        "last_air_date": "2026-05-02",
-        "countries": [
-          "United States of America",
-          "Spain"
-        ],
-        "genres": [
-          "Пригоди",
-          "Мультфільм",
-          "Сімейний",
-          "Фентезі"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.183929443359375
+  "duration": 22.963882446289062
 }
