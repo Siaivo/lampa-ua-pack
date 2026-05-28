@@ -2,6 +2,60 @@
   "secuses": true,
   "result": [
     {
+      "id": 2732,
+      "time": 1779956983259,
+      "card_id": "220102",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          9648
+        ],
+        "id": 220102,
+        "original_language": "en",
+        "name": "Павук-Нуар",
+        "original_name": "Spider-Noir",
+        "names": [
+          "Павук-Нуар",
+          "Паук-Нуар",
+          "Spider-Noir"
+        ],
+        "overview": "Постарілий приватний детектив і невдаха в Нью-Йорку 1930-х років змушений зіштовхнутися зі своїм минулим, коли він був єдиним у місті супергероєм.",
+        "poster_path": "/1H8R4CQVu3gXpiemZxyADaaxAkF.jpg",
+        "first_air_date": "2026-05-25",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 2,
+        "popularity": 34.0962,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "5698586",
+        "imdb_id": "tt30460310",
+        "status": "returning series",
+        "last_air_date": "2026-05-27",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Кримінал",
+          "Детектив",
+          "Драма"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2731,
       "time": 1779908381135,
       "card_id": "220102",
@@ -50,12 +104,12 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
-          "vote_average": 9.5
+          "vote_average": 7.8
         },
         "genres": [
-          "Екшн і Пригоди",
           "Кримінал",
-          "Детектив"
+          "Детектив",
+          "Драма"
         ],
         "countries": [
           "United States of America"
@@ -294,7 +348,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 7.286
+          "vote_average": 7.3
         },
         "genres": [
           "Драма"
@@ -720,7 +774,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/r18w0RYSIqdEzaOyCaYFpIW8gNE.jpg",
-          "vote_average": 7.8
+          "vote_average": 8.167
         },
         "genres": [
           "Драма",
@@ -883,7 +937,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
-          "vote_average": 6.34
+          "vote_average": 6.206
         },
         "genres": [
           "Науково фантастичний",
@@ -2606,7 +2660,7 @@
           "season_number": 5,
           "runtime": 65,
           "still_path": "/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.658
         },
         "genres": [
           "Науково фантастичний",
@@ -2877,77 +2931,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2682,
-      "time": 1777923298041,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Ззовні",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
-        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.169,
-        "vote_count": 2679,
-        "popularity": 567.3258,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-05-04",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 3
-        },
-        "episode": {
-          "air_date": "2026-05-03",
-          "episode_number": 3,
-          "name": "Весело ми йдемо",
-          "overview": "Бойд намагається врятувати Акосту від неї самої, тоді як Джулі глибше занурюється у свої нові здібності. Табіта наважується на відчайдушний крок, а Віктор приєднується до Ітана у пошуках відповідей.",
-          "season_number": 4,
-          "runtime": 48,
-          "still_path": "/8qi8LymsHa9waxLFfMbZQGTFRRD.jpg",
-          "vote_average": 6.871
-        },
-        "genres": [
-          "Детектив",
-          "Драма",
-          "Науково фантастичний"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s4;e3",
-      "premiere": 0
     }
   ],
-  "duration": 6.8760528564453125
+  "duration": 7.183929443359375
 }
