@@ -384,7 +384,7 @@
           "overview": "",
           "season_number": 1,
           "runtime": 46,
-          "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
+          "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
           "vote_average": 7.5
         },
         "genres": [
@@ -794,7 +794,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/7OedxK0BvSKJ0ZWCPRYADViTBx6.jpg",
+        "backdrop_path": "/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
         "genre_ids": [
           28,
           12,
@@ -1347,7 +1347,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.45
+          "vote_average": 9.4
         },
         "genres": [
           "Вестерн",
@@ -2887,5 +2887,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.0827178955078125
+  "duration": 3.816009521484375
 }
