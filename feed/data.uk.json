@@ -75,7 +75,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/829po9fyhvZRCRYhZhysOsbOb2k.jpg",
+        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
         "genre_ids": [
           10759,
           80,
@@ -129,7 +129,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/829po9fyhvZRCRYhZhysOsbOb2k.jpg",
+        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
         "genre_ids": [
           10759,
           80,
@@ -169,7 +169,7 @@
           "name": "Серія 8",
           "overview": "",
           "season_number": 1,
-          "runtime": 48,
+          "runtime": 49,
           "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
           "vote_average": 7.8
         },
@@ -1328,7 +1328,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/wrOtPyoXtLyTlcQupc1GYPGAuSJ.jpg",
-          "vote_average": 6.952
+          "vote_average": 7.0
         },
         "genres": [
           "Детектив",
@@ -1775,7 +1775,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/tUraVZjhhxYOCj4sTNlVKtehabw.jpg",
-          "vote_average": 6.875
+          "vote_average": 6.779
         },
         "genres": [
           "Науково фантастичний",
@@ -2948,5 +2948,5 @@
       "premiere": 0
     }
   ],
-  "duration": 22.963882446289062
+  "duration": 6.744178771972656
 }
