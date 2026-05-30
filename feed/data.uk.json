@@ -118,7 +118,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/4aoLyPug8KtZWLo5oTitpGox7GQ.jpg",
-          "vote_average": 8.375
+          "vote_average": 8.1
         },
         "genres": [
           "Драма",
@@ -392,8 +392,8 @@
         ],
         "genres": [
           "Кримінал",
-          "Детектив",
-          "Драма"
+          "Драма",
+          "Детектив"
         ]
       },
       "type": "now_playing",
@@ -453,8 +453,8 @@
         },
         "genres": [
           "Кримінал",
-          "Детектив",
-          "Драма"
+          "Драма",
+          "Детектив"
         ],
         "countries": [
           "United States of America"
@@ -1050,9 +1050,9 @@
           "name": "Серія 3",
           "overview": "",
           "season_number": 1,
-          "runtime": 49,
+          "runtime": 47,
           "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
-          "vote_average": 8.8
+          "vote_average": 9.0
         },
         "genres": [
           "Вестерн",
@@ -1282,7 +1282,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
-          "vote_average": 6.189
+          "vote_average": 6.127
         },
         "genres": [
           "Науково фантастичний",
@@ -2238,7 +2238,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/2FBTPVhOlhIRyn5EWuXspIyIPHT.jpg",
-          "vote_average": 7.0
+          "vote_average": 6.8
         },
         "genres": [
           "Детектив",
@@ -2321,7 +2321,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+        "backdrop_path": "/1yw8C3xPzrliGpQp0qHID7F1zOT.jpg",
         "genre_ids": [
           18,
           9648
@@ -2882,5 +2882,5 @@
       "premiere": 0
     }
   ],
-  "duration": 8.26947021484375
+  "duration": 8.475776672363281
 }
