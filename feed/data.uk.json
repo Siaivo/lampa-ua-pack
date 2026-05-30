@@ -54,7 +54,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/4aoLyPug8KtZWLo5oTitpGox7GQ.jpg",
-          "vote_average": 0.0
+          "vote_average": 8.0
         },
         "genres": [
           "Драма",
@@ -385,7 +385,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.9
         },
         "genres": [
           "Кримінал",
@@ -1218,7 +1218,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/mT4DLPaS25esfuu9YlgUjsL9IJg.jpg",
-          "vote_average": 6.142
+          "vote_average": 6.189
         },
         "genres": [
           "Науково фантастичний",
@@ -1280,9 +1280,9 @@
           "name": "Щастя належить тому, хто кохає",
           "overview": "Відпочинок у Пенісколі змушує Берліна радикально змінити плани. Чи вдасться команді скоїти найбільше пограбування в історії?",
           "season_number": 1,
-          "runtime": 82,
+          "runtime": 81,
           "still_path": "/tJ2zB1JvroPpSZQWhjykGjcWu2s.jpg",
-          "vote_average": 8.25
+          "vote_average": 8.2
         },
         "genres": [
           "Драма",
@@ -1473,7 +1473,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
-          "vote_average": 7.25
+          "vote_average": 7.2
         },
         "genres": [
           "Драма"
@@ -2887,5 +2887,5 @@
       "premiere": 0
     }
   ],
-  "duration": 3.816009521484375
+  "duration": 7.997932434082031
 }
