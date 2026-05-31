@@ -2,6 +2,128 @@
   "secuses": true,
   "result": [
     {
+      "id": 2741,
+      "time": 1780245853622,
+      "card_id": "1390300",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
+        "genre_ids": [
+          28,
+          35,
+          53
+        ],
+        "id": 1390300,
+        "original_language": "en",
+        "title": "Тільки через твій труп",
+        "original_title": "Over Your Dead Body",
+        "names": [
+          "Тільки через твій труп",
+          "Опасные отношения",
+          "Over Your Dead Body"
+        ],
+        "overview": "Пара, що переживає кризу у стосунках, вирушає до віддаленої хатини, де кожен із них має прихований намір позбутися свого партнера.",
+        "poster_path": "/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
+        "release_date": "2026-04-24",
+        "video": false,
+        "vote_average": 7.138,
+        "vote_count": 47,
+        "popularity": 111.5297,
+        "PG": 18,
+        "release_quality": "4K",
+        "kinopoisk_id": "6581561",
+        "kp_rating": "6.4",
+        "imdb_id": "tt34685692",
+        "imdb_rating": "7.3",
+        "status": "released",
+        "last_air_date": "2026-04-26",
+        "countries": [
+          "United States of America",
+          "Norway",
+          "Finland"
+        ],
+        "genres": [
+          "Бойовик",
+          "Комедія",
+          "Трилер"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2740,
+      "time": 1780242249548,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Ззовні",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
+        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.406,
+        "vote_count": 3332,
+        "popularity": 718.6677,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-05-31",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 6
+        },
+        "episode": {
+          "air_date": "2026-05-31",
+          "episode_number": 6,
+          "name": "Серце — самотній мисливець",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 52,
+          "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
+          "vote_average": 3.5
+        },
+        "genres": [
+          "Детектив",
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e6",
+      "premiere": 0
+    },
+    {
       "id": 2739,
       "time": 1780216961666,
       "card_id": "317980",
@@ -630,7 +752,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.893
+          "vote_average": 8.833
         },
         "genres": [
           "Мультфільм",
@@ -867,7 +989,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/sT5Inhc0aaReSZoufWgfJTQUbKp.jpg",
+        "backdrop_path": "/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
         "genre_ids": [
           80,
           53
@@ -1338,7 +1460,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg",
-          "vote_average": 6.1
+          "vote_average": 5.948
         },
         "genres": [
           "Науково фантастичний",
@@ -1467,7 +1589,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.409
+          "vote_average": 9.4
         },
         "genres": [
           "Вестерн",
@@ -1529,7 +1651,7 @@
           "season_number": 1,
           "runtime": 56,
           "still_path": "/oV8Uxf6VRrV5oAjCmwcGAlfkhno.jpg",
-          "vote_average": 9.0
+          "vote_average": 9.1
         },
         "genres": [
           "Драма"
@@ -1662,7 +1784,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/wrOtPyoXtLyTlcQupc1GYPGAuSJ.jpg",
-          "vote_average": 6.458
+          "vote_average": 5.852
         },
         "genres": [
           "Детектив",
@@ -2109,7 +2231,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/m7RKphwoonRHsSniQAJhAEnTmca.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.508
         },
         "genres": [
           "Науково фантастичний",
@@ -2771,113 +2893,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2691,
-      "time": 1778227500865,
-      "card_id": "285838",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
-        "genre_ids": [
-          9648,
-          18
-        ],
-        "id": 285838,
-        "original_language": "ko",
-        "name": "Якби бажання вбивали",
-        "original_name": "기리고",
-        "names": [
-          "Якби бажання вбивали",
-          "Загадай свою смерть",
-          "Girigo",
-          "Желаю твоей смерти / If Wishes Could Kill / Если бы желания могли убивать",
-          "기리고",
-          "Если бы желания могли убивать",
-          "Girigo / If Wishes Could Kill"
-        ],
-        "overview": "Таємничий застосунок обіцяє здійснення бажань, а потім запускає відлік до смерті. Потрапивши в цю пастку, група підлітків мусить розірвати смертельний ланцюг, щоб вижити.",
-        "poster_path": "/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
-        "first_air_date": "2026-04-24",
-        "video": false,
-        "vote_average": 8.1,
-        "vote_count": 53,
-        "popularity": 85.2914,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "KR"
-        ],
-        "kinopoisk_id": "7343988",
-        "kp_rating": "7.0",
-        "imdb_id": "tt36104233",
-        "imdb_rating": "7.2",
-        "status": "ended",
-        "last_air_date": "2026-04-26",
-        "seasons": {
-          "1": 8
-        },
-        "countries": [
-          "South Korea"
-        ],
-        "genres": [
-          "Детектив",
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2690,
-      "time": 1778164498123,
-      "card_id": "1430077",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
-        "genre_ids": [
-          27
-        ],
-        "id": 1430077,
-        "original_language": "en",
-        "title": "Гокум",
-        "original_title": "Hokum",
-        "names": [
-          "Гокум",
-          "Хокум",
-          "Hokum"
-        ],
-        "overview": "Письменник романів жахів Ом Бауман приїжджає до ірландського готелю, щоб розвіяти прах своїх батьків, не підозрюючи, що в цьому місці, за чутками, мешкає відьма. З наближенням ночі він стикається з незрозумілими явищами та таємницями минулого, які поступово розкривають зловісну природу цього віддаленого куточка.",
-        "poster_path": "/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-        "release_date": "2026-04-29",
-        "video": false,
-        "vote_average": 6.8,
-        "vote_count": 8,
-        "popularity": 25.7065,
-        "PG": 17,
-        "release_quality": "ts",
-        "kinopoisk_id": "10359971",
-        "imdb_id": "tt35672862",
-        "imdb_rating": "8.5",
-        "status": "released",
-        "last_air_date": "2026-05-03",
-        "countries": [
-          "United States of America",
-          "Ireland",
-          "United Arab Emirates",
-          "Hong Kong"
-        ],
-        "genres": [
-          "Жахи"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.38232421875
+  "duration": 7.7807769775390625
 }
