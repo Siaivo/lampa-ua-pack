@@ -2,6 +2,62 @@
   "secuses": true,
   "result": [
     {
+      "id": 2739,
+      "time": 1780216961666,
+      "card_id": "317980",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/dEkvOp6O0UusfTgyd7GULlRenEG.jpg",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "id": 317980,
+        "original_language": "bg",
+        "name": "Дъждът оставя следи",
+        "original_name": "Дъждът оставя следи",
+        "names": [
+          "Следы дождя",
+          "The Rain Leaves Traces",
+          "Дъждът оставя следи / Дождь оставляет следы",
+          "Дъждът оставя следи"
+        ],
+        "overview": "В самом сердце Рильского монастыря — одного из главных духовных центров Болгарии — обнаруживают загадочное преступление, которое скрывалось за древними стенами долгие годы. Два следователя с разными характерами и подходами к работе начинают расследование, которое уводит их в прошлое и заставляет столкнуться с тёмными тайнами, предательствами и мрачной историей. Библейская идея о том, что ничто скрытое не останется нераскрытым, становится лейтмотивом истории, где правда медленно, но неизбежно выходит на поверхность, оставляя следы, как дождь.",
+        "poster_path": "/zr5llU3eSb1DsAaLBYGGdpvwgMk.jpg",
+        "first_air_date": "2026-05-27",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 0.5007,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "BG"
+        ],
+        "kinopoisk_id": "12576558",
+        "imdb_id": "tt41546963",
+        "imdb_rating": "9.4",
+        "status": "returning series",
+        "last_air_date": "2026-05-30",
+        "seasons": {
+          "1": 2
+        },
+        "countries": [
+          "Bulgaria"
+        ],
+        "genres": [
+          "Кримінал",
+          "Детектив",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2738,
       "time": 1780124381171,
       "card_id": "299167",
@@ -574,7 +630,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.808
+          "vote_average": 8.893
         },
         "genres": [
           "Мультфільм",
@@ -2238,7 +2294,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/2FBTPVhOlhIRyn5EWuXspIyIPHT.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.176
         },
         "genres": [
           "Детектив",
@@ -2821,66 +2877,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2689,
-      "time": 1778155498292,
-      "card_id": "278113",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/kuLhcTkriaiXYYdKGS9yt0AX4F4.jpg",
-        "genre_ids": [
-          18,
-          80,
-          9648
-        ],
-        "id": 278113,
-        "original_language": "ko",
-        "name": "Ґолдленд",
-        "original_name": "골드랜드",
-        "names": [
-          "Ґолдленд",
-          "Золотое место",
-          "Goldeurendeu",
-          "Золотая земля / Gold Land / Голдлэнд",
-          "골드랜드",
-          "Золотая земля",
-          "Goldeu Laendeu"
-        ],
-        "overview": "Молода жінка, яка працює агенткою служби безпеки в аеропорту, випадково отримує у своє розпорядження золоті злитки контрабандистського угруповання. Опинившись у хаотичному вирі жадібності та зрад між різними сторонами, що борються за золото, вона поступово піддається бажанню забрати все собі.",
-        "poster_path": "/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg",
-        "first_air_date": "2026-04-29",
-        "video": false,
-        "vote_average": 9.5,
-        "vote_count": 4,
-        "popularity": 37.2514,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "KR"
-        ],
-        "kinopoisk_id": "8178640",
-        "imdb_id": "tt37253311",
-        "imdb_rating": "8.3",
-        "status": "returning series",
-        "last_air_date": "2026-05-07",
-        "seasons": {
-          "1": 4
-        },
-        "countries": [
-          "South Korea"
-        ],
-        "genres": [
-          "Драма",
-          "Кримінал",
-          "Детектив"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.299346923828125
+  "duration": 5.38232421875
 }
