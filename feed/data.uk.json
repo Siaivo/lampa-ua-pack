@@ -108,7 +108,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
-          "vote_average": 3.5
+          "vote_average": 4.567
         },
         "genres": [
           "Детектив",
@@ -229,7 +229,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/svtH6VqB7uZhdVF19qluzoDSSVR.jpg",
-          "vote_average": 8.7
+          "vote_average": 9.0
         },
         "genres": [
           "Вестерн",
@@ -296,7 +296,7 @@
           "season_number": 2,
           "runtime": 54,
           "still_path": "/4aoLyPug8KtZWLo5oTitpGox7GQ.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.083
         },
         "genres": [
           "Драма",
@@ -422,15 +422,15 @@
         ],
         "id": 1339713,
         "original_language": "en",
-        "title": "Одержимість",
+        "title": "Обсесія",
         "original_title": "Obsession",
         "names": [
-          "Одержимість",
+          "Обсесія",
           "Обсессия",
           "Obsession - Du sollst mich lieben",
           "Obsession"
         ],
-        "overview": "Коли безнадійний романтик загадує бажання, щоб його давня симпатія закохалася в нього, це запускає зловісне закляття.",
+        "overview": "Зламавши таємничу «Вербу одного бажання», аби завоювати серце коханої дівчини, безнадійний романтик отримує саме те, про що просив. Проте невдовзі він усвідомлює: деякі бажання мають занадто темну та зловісну ціну.",
         "poster_path": "/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
         "release_date": "2026-04-16",
         "video": false,
@@ -509,7 +509,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 6.0
+          "vote_average": 7.25
         },
         "genres": [
           "Драма",
@@ -531,7 +531,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
         "genre_ids": [
           10759,
           80,
@@ -585,7 +585,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
         "genre_ids": [
           10759,
           80,
@@ -627,7 +627,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
-          "vote_average": 7.9
+          "vote_average": 7.75
         },
         "genres": [
           "Кримінал",
@@ -752,7 +752,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.833
+          "vote_average": 8.794
         },
         "genres": [
           "Мультфільм",
@@ -871,7 +871,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 7.3
+          "vote_average": 6.667
         },
         "genres": [
           "Драма"
@@ -1036,7 +1036,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
+        "backdrop_path": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
         "genre_ids": [
           28,
           12,
@@ -1230,7 +1230,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
-          "vote_average": 9.167
+          "vote_average": 9.3
         },
         "genres": [
           "Вестерн",
@@ -1460,7 +1460,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg",
-          "vote_average": 5.948
+          "vote_average": 5.9
         },
         "genres": [
           "Науково фантастичний",
@@ -1589,7 +1589,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.4
+          "vote_average": 9.458
         },
         "genres": [
           "Вестерн",
@@ -1651,7 +1651,7 @@
           "season_number": 1,
           "runtime": 56,
           "still_path": "/oV8Uxf6VRrV5oAjCmwcGAlfkhno.jpg",
-          "vote_average": 9.1
+          "vote_average": 9.25
         },
         "genres": [
           "Драма"
@@ -1715,7 +1715,7 @@
           "season_number": 3,
           "runtime": 60,
           "still_path": "/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.136
         },
         "genres": [
           "Драма"
@@ -1784,7 +1784,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/wrOtPyoXtLyTlcQupc1GYPGAuSJ.jpg",
-          "vote_average": 5.852
+          "vote_average": 6.0
         },
         "genres": [
           "Детектив",
@@ -1953,7 +1953,7 @@
           "season_number": 8,
           "runtime": 72,
           "still_path": "/xxfVUTzLKwoeXusluq0rbpeFzPC.jpg",
-          "vote_average": 8.8
+          "vote_average": 8.833
         },
         "genres": [
           "Драма",
@@ -2231,7 +2231,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/m7RKphwoonRHsSniQAJhAEnTmca.jpg",
-          "vote_average": 6.508
+          "vote_average": 6.5
         },
         "genres": [
           "Науково фантастичний",
@@ -2347,7 +2347,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.75
         },
         "genres": [
           "Драма"
@@ -2416,7 +2416,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/2FBTPVhOlhIRyn5EWuXspIyIPHT.jpg",
-          "vote_average": 6.176
+          "vote_average": 6.229
         },
         "genres": [
           "Детектив",
@@ -2611,7 +2611,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+        "backdrop_path": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
         "genre_ids": [
           10749,
           35,
@@ -2710,7 +2710,7 @@
           "season_number": 8,
           "runtime": 54,
           "still_path": "/g2Xq2bMO0t2lApPY8V8CXyGzZEt.jpg",
-          "vote_average": 8.8
+          "vote_average": 8.5
         },
         "genres": [
           "Драма",
@@ -2895,5 +2895,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.7807769775390625
+  "duration": 7.118560791015625
 }
