@@ -2,6 +2,134 @@
   "secuses": true,
   "result": [
     {
+      "id": 2744,
+      "time": 1780332250601,
+      "card_id": "60625",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "original_language": "en",
+        "name": "Рік та Морті",
+        "original_name": "Rick and Morty",
+        "names": [
+          "Рик и Морти",
+          "Rick and Morty",
+          "Рік та Морті"
+        ],
+        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
+        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
+        "first_air_date": "2013-12-02",
+        "video": false,
+        "vote_average": 8.676,
+        "vote_count": 10901,
+        "popularity": 161.3632,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "685246",
+        "kp_rating": "8.9",
+        "imdb_id": "tt2861424",
+        "imdb_rating": "9.0",
+        "status": "returning series",
+        "last_air_date": "2026-06-01",
+        "seasons": {
+          "1": 11,
+          "2": 10,
+          "3": 10,
+          "4": 11,
+          "5": 14,
+          "6": 10,
+          "7": 10,
+          "8": 10,
+          "9": 2
+        },
+        "episode": {
+          "air_date": "2026-05-31",
+          "episode_number": 2,
+          "name": "Серія 2",
+          "overview": "",
+          "season_number": 9,
+          "runtime": 23,
+          "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
+          "vote_average": 10.0
+        },
+        "genres": [
+          "Мультфільм",
+          "Комедія",
+          "Науково фантастичний",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s9;e2",
+      "premiere": 0
+    },
+    {
+      "id": 2743,
+      "time": 1780323249670,
+      "card_id": "1242265",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
+        "genre_ids": [
+          28,
+          80,
+          18,
+          53
+        ],
+        "id": 1242265,
+        "original_language": "en",
+        "title": "Пограбування: План \"Лондон\"",
+        "original_title": "Fuze",
+        "names": [
+          "Пограбування: План \"Лондон\"",
+          "Ограбить Лондон",
+          "Fuze"
+        ],
+        "overview": "Місто охоплює паніка, починається масова евакуація. Але поки служби намагаються запобігти катастрофі, зухвала банда злочинців використовує хаос для найсміливішого пограбування століття.",
+        "poster_path": "/c66rQp6w1kSoPVYqOeHArZcX3hb.jpg",
+        "release_date": "2026-03-23",
+        "video": false,
+        "vote_average": 6.51,
+        "vote_count": 48,
+        "popularity": 52.0089,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "6122043",
+        "kp_rating": "6.0",
+        "imdb_id": "tt31189814",
+        "imdb_rating": "6.9",
+        "status": "released",
+        "last_air_date": "2026-05-31",
+        "countries": [
+          "United Kingdom"
+        ],
+        "genres": [
+          "Бойовик",
+          "Кримінал",
+          "Драма",
+          "Трилер"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2742,
       "time": 1780314249550,
       "card_id": "85552",
@@ -52,7 +180,7 @@
           "season_number": 3,
           "runtime": 93,
           "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.3
         },
         "genres": [
           "Драма"
@@ -173,7 +301,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
-          "vote_average": 4.7
+          "vote_average": 5.079
         },
         "genres": [
           "Детектив",
@@ -692,7 +820,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
-          "vote_average": 7.2
+          "vote_average": 6.6
         },
         "genres": [
           "Кримінал",
@@ -2412,7 +2540,7 @@
           "season_number": 3,
           "runtime": 61,
           "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 5.75
+          "vote_average": 5.375
         },
         "genres": [
           "Драма"
@@ -2789,127 +2917,7 @@
       "type": "episode",
       "hash": "s8;e9",
       "premiere": 0
-    },
-    {
-      "id": 2694,
-      "time": 1778247298103,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзі та сусіди",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзі та сусіди",
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
-        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.615,
-        "vote_count": 204,
-        "popularity": 42.4644,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-05-08",
-        "seasons": {
-          "1": 9,
-          "2": 6
-        },
-        "episode": {
-          "air_date": "2026-05-07",
-          "episode_number": 6,
-          "name": "Для всього іншого був боулінг",
-          "overview": "Куп і його сімʼя дають собі раду зі стресом на похороні й поминках.",
-          "season_number": 2,
-          "runtime": 42,
-          "still_path": "/htfy0mGyz1dzvX9j7dowdXVtept.jpg",
-          "vote_average": 7.4
-        },
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e6",
-      "premiere": 0
-    },
-    {
-      "id": 2693,
-      "time": 1778245502439,
-      "card_id": "257994",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/loZCtN8s1yjSBD75rbHsRisWfUc.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          10751
-        ],
-        "id": 257994,
-        "original_language": "en",
-        "name": "Напівлюдина",
-        "original_name": "Half Man",
-        "names": [
-          "Напівлюдина",
-          "Получеловек",
-          "Half Man"
-        ],
-        "overview": "Рубен з’являється на весіллі свого відчуженого брата Найлла, стаючи каталізатором переосмислення останніх 40 років їхніх стосунків.",
-        "poster_path": "/x4n2SKlmDHzrzb1JmwNMGAugyxg.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.167,
-        "vote_count": 12,
-        "popularity": 38.0668,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "GB"
-        ],
-        "kinopoisk_id": "7919289",
-        "imdb_id": "tt32767294",
-        "imdb_rating": "7.1",
-        "status": "returning series",
-        "last_air_date": "2026-05-08",
-        "seasons": {
-          "1": 3
-        },
-        "countries": [
-          "United Kingdom"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 3.9053802490234375
+  "duration": 4.4949188232421875
 }
