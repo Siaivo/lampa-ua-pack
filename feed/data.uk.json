@@ -61,7 +61,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 10.0
+          "vote_average": 8.75
         },
         "genres": [
           "Мультфільм",
@@ -180,7 +180,7 @@
           "season_number": 3,
           "runtime": 93,
           "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7.6
+          "vote_average": 7.556
         },
         "genres": [
           "Драма"
@@ -217,7 +217,7 @@
           "Over Your Dead Body"
         ],
         "overview": "Пара, що переживає кризу у стосунках, вирушає до віддаленої хатини, де кожен із них має прихований намір позбутися свого партнера.",
-        "poster_path": "/l5iroeWTrP9tspGYQonagH7Tcds.jpg",
+        "poster_path": "/pvs3uKsOmCB37gZitzSlI0Aae3s.jpg",
         "release_date": "2026-04-24",
         "video": false,
         "vote_average": 7.138,
@@ -301,7 +301,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
-          "vote_average": 5.167
+          "vote_average": 5.2
         },
         "genres": [
           "Детектив",
@@ -1422,7 +1422,7 @@
           "name": "Серія 3",
           "overview": "",
           "season_number": 1,
-          "runtime": 47,
+          "runtime": 49,
           "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
           "vote_average": 9.3
         },
@@ -2425,7 +2425,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/m7RKphwoonRHsSniQAJhAEnTmca.jpg",
-          "vote_average": 6.452
+          "vote_average": 6.477
         },
         "genres": [
           "Науково фантастичний",
@@ -2921,5 +2921,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.1163177490234375
+  "duration": 12.357185363769531
 }
