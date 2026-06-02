@@ -180,7 +180,7 @@
           "season_number": 3,
           "runtime": 93,
           "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.6
         },
         "genres": [
           "Драма"
@@ -217,7 +217,7 @@
           "Over Your Dead Body"
         ],
         "overview": "Пара, що переживає кризу у стосунках, вирушає до віддаленої хатини, де кожен із них має прихований намір позбутися свого партнера.",
-        "poster_path": "/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
+        "poster_path": "/l5iroeWTrP9tspGYQonagH7Tcds.jpg",
         "release_date": "2026-04-24",
         "video": false,
         "vote_average": 7.138,
@@ -543,7 +543,8 @@
           "1": 3
         },
         "countries": [
-          "United States of America"
+          "United States of America",
+          "United Kingdom"
         ],
         "genres": [
           "Документальний"
@@ -820,7 +821,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.385
         },
         "genres": [
           "Кримінал",
@@ -1064,7 +1065,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 6.636
+          "vote_average": 6.6
         },
         "genres": [
           "Драма"
@@ -1782,7 +1783,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.423
+          "vote_average": 9.4
         },
         "genres": [
           "Вестерн",
@@ -2609,7 +2610,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/2FBTPVhOlhIRyn5EWuXspIyIPHT.jpg",
-          "vote_average": 6.083
+          "vote_average": 6.1
         },
         "genres": [
           "Детектив",
@@ -2920,5 +2921,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.730644226074219
+  "duration": 6.1163177490234375
 }
