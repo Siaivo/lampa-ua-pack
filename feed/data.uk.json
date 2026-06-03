@@ -180,7 +180,7 @@
           "season_number": 3,
           "runtime": 93,
           "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7.556
+          "vote_average": 7.4
         },
         "genres": [
           "Драма"
@@ -301,7 +301,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
-          "vote_average": 5.2
+          "vote_average": 5.318
         },
         "genres": [
           "Детектив",
@@ -422,7 +422,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/svtH6VqB7uZhdVF19qluzoDSSVR.jpg",
-          "vote_average": 9.0
+          "vote_average": 8.0
         },
         "genres": [
           "Вестерн",
@@ -625,7 +625,7 @@
           "Obsession"
         ],
         "overview": "Зламавши таємничу «Вербу одного бажання», аби завоювати серце коханої дівчини, безнадійний романтик отримує саме те, про що просив. Проте невдовзі він усвідомлює: деякі бажання мають занадто темну та зловісну ціну.",
-        "poster_path": "/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
+        "poster_path": "/vQXgLRXZYOt5rKAZQx6JXTSFObb.jpg",
         "release_date": "2026-04-16",
         "video": false,
         "vote_average": 7.9,
@@ -703,7 +703,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.25
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -821,7 +821,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
-          "vote_average": 6.385
+          "vote_average": 6.357
         },
         "genres": [
           "Кримінал",
@@ -1065,7 +1065,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 6.6
+          "vote_average": 6.7
         },
         "genres": [
           "Драма"
@@ -1424,7 +1424,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
-          "vote_average": 9.3
+          "vote_average": 8.625
         },
         "genres": [
           "Вестерн",
@@ -1654,7 +1654,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.856
         },
         "genres": [
           "Науково фантастичний",
@@ -1783,7 +1783,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.4
+          "vote_average": 9.036
         },
         "genres": [
           "Вестерн",
@@ -2425,7 +2425,7 @@
           "season_number": 5,
           "runtime": 71,
           "still_path": "/m7RKphwoonRHsSniQAJhAEnTmca.jpg",
-          "vote_average": 6.477
+          "vote_average": 6.424
         },
         "genres": [
           "Науково фантастичний",
@@ -2921,5 +2921,5 @@
       "premiere": 0
     }
   ],
-  "duration": 12.357185363769531
+  "duration": 12.694862365722656
 }
