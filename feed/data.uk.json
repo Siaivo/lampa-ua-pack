@@ -168,7 +168,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
         "genre_ids": [
           27,
           9648,
@@ -782,7 +782,7 @@
           "World War II with Tom Hanks"
         ],
         "overview": "В сериале рассматривается Вторая мировая война, начиная с вторжения Германии в Польшу и заканчивая атомной эрой, анализируются ключевые сражения, лидеры военного времени, такие как Черчилль и Рузвельт, и человеческие жертвы тотальной войны.",
-        "poster_path": "/2ONhd2hXjZHm3ZouH4UsUWm7fPX.jpg",
+        "poster_path": "/MPN0glmZV3JnZfmXtKF32SRhDD.jpg",
         "first_air_date": "2026-05-25",
         "video": false,
         "vote_average": 0,
@@ -1081,7 +1081,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 5.941
+          "vote_average": 6.4
         },
         "genres": [
           "Кримінал",
@@ -2886,5 +2886,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.991319000720978
+  "duration": 5.110275000333786
 }
