@@ -2,6 +2,55 @@
   "secuses": true,
   "result": [
     {
+      "id": 2750,
+      "time": 1780657072737,
+      "card_id": "1430077",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 1430077,
+        "original_language": "en",
+        "title": "Гокум",
+        "original_title": "Hokum",
+        "names": [
+          "Гокум",
+          "Хокум",
+          "Hokum"
+        ],
+        "overview": "Письменник романів жахів Ом Бауман приїжджає до ірландського готелю, щоб розвіяти прах своїх батьків, не підозрюючи, що в цьому місці, за чутками, мешкає відьма. З наближенням ночі він стикається з незрозумілими явищами та таємницями минулого, які поступово розкривають зловісну природу цього віддаленого куточка.",
+        "poster_path": "/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+        "release_date": "2026-04-29",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 60,
+        "popularity": 14.7806,
+        "PG": 18,
+        "release_quality": "4K",
+        "kinopoisk_id": "10359971",
+        "kp_rating": "6.7",
+        "imdb_id": "tt35672862",
+        "imdb_rating": "7.4",
+        "status": "released",
+        "last_air_date": "2026-05-03",
+        "countries": [
+          "United States of America",
+          "Ireland",
+          "United Arab Emirates",
+          "Hong Kong"
+        ],
+        "genres": [
+          "Жахи"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2749,
       "time": 1780514327720,
       "card_id": "1122573",
@@ -962,7 +1011,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.833
         },
         "genres": [
           "Драма",
@@ -984,7 +1033,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
         "genre_ids": [
           10759,
           80,
@@ -1038,7 +1087,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
         "genre_ids": [
           10759,
           80,
@@ -1080,7 +1129,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 6.545
+          "vote_average": 6.696
         },
         "genres": [
           "Кримінал",
@@ -2813,77 +2862,7 @@
       "type": "episode",
       "hash": "s3;e5",
       "premiere": 0
-    },
-    {
-      "id": 2700,
-      "time": 1778481298133,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Ззовні",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
-        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.179,
-        "vote_count": 2715,
-        "popularity": 618.8381,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-05-10",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 4
-        },
-        "episode": {
-          "air_date": "2026-05-10",
-          "episode_number": 4,
-          "name": "Про міфи та монстрів",
-          "overview": "Зловісне відкриття приводить Бойда та його довірене коло у стан підвищеної готовності. Джулі шукає спосіб використати свої нові здібності, а Сара знову страждає від голосів у своїй голові.",
-          "season_number": 4,
-          "runtime": 52,
-          "still_path": "/2FBTPVhOlhIRyn5EWuXspIyIPHT.jpg",
-          "vote_average": 6.1
-        },
-        "genres": [
-          "Детектив",
-          "Драма",
-          "Науково фантастичний"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s4;e4",
-      "premiere": 0
     }
   ],
-  "duration": 7.9092850014567375
+  "duration": 7.281617000699043
 }
