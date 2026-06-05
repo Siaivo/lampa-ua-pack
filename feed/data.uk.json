@@ -8,7 +8,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/bIy0555ukSqweSqG9MtRnoyisQI.jpg",
+        "backdrop_path": "/oBft4BZeoDQzTT9ZGijClr76qvK.jpg",
         "genre_ids": [
           28,
           53
@@ -101,7 +101,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.25
         },
         "genres": [
           "Драма",
@@ -320,7 +320,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 8.75
+          "vote_average": 8.6
         },
         "genres": [
           "Мультфільм",
@@ -560,7 +560,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
-          "vote_average": 5.2
+          "vote_average": 5.44
         },
         "genres": [
           "Детектив",
@@ -903,8 +903,7 @@
           "United Kingdom"
         ],
         "genres": [
-          "Жахи",
-          "Трилер"
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -1081,7 +1080,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 6.4
+          "vote_average": 6.545
         },
         "genres": [
           "Кримінал",
@@ -1116,7 +1115,7 @@
           "Dear England"
         ],
         "overview": "Гарет Саутгейт возглавляет сборную Англии по футболу в момент глубокого кризиса. Команда, обремененная серией болезненных поражений и мировым антирекордом по пенальти, нуждается в перезагрузке. Тренеру предстоит изменить психологию игроков и вернуть нации утраченную футбольную гордость и славу.",
-        "poster_path": "/8gNZM8tRj1HIxl5SxOlTD3TStsl.jpg",
+        "poster_path": "/8kQ3TFhHMvCRfIR2y6Ug8RG2a3a.jpg",
         "first_air_date": "2026-05-24",
         "video": false,
         "vote_average": 0,
@@ -1206,7 +1205,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.8
+          "vote_average": 8.711
         },
         "genres": [
           "Мультфільм",
@@ -1684,7 +1683,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.778
         },
         "genres": [
           "Вестерн",
@@ -2043,7 +2042,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.0
+          "vote_average": 9.063
         },
         "genres": [
           "Вестерн",
@@ -2886,5 +2885,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.110275000333786
+  "duration": 7.9092850014567375
 }
