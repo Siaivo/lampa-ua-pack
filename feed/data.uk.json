@@ -2,6 +2,73 @@
   "secuses": true,
   "result": [
     {
+      "id": 2751,
+      "time": 1780671468728,
+      "card_id": "241609",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 241609,
+        "original_language": "en",
+        "name": "Друзі та сусіди",
+        "original_name": "Your Friends & Neighbors",
+        "names": [
+          "Друзі та сусіди",
+          "Друзья и соседи",
+          "Друзья и Соседи",
+          "Your Friends & Neighbors",
+          "Your Friends and Neighbors"
+        ],
+        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
+        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
+        "first_air_date": "2025-04-10",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 231,
+        "popularity": 49.9131,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6600202",
+        "kp_rating": "7.5",
+        "imdb_id": "tt30459041",
+        "imdb_rating": "7.7",
+        "status": "returning series",
+        "last_air_date": "2026-06-05",
+        "seasons": {
+          "1": 9,
+          "2": 10
+        },
+        "episode": {
+          "air_date": "2026-06-04",
+          "episode_number": 10,
+          "name": "Ніч Гантера",
+          "overview": "Після нового шокуючого скандалу весь район збирається на святкування Дня батька в заміському клубі.",
+          "season_number": 2,
+          "runtime": 56,
+          "still_path": "/o3c6GyTORTJeWtW8nxNqqzxdELU.jpg",
+          "vote_average": 7.667
+        },
+        "genres": [
+          "Драма",
+          "Кримінал"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s2;e10",
+      "premiere": 0
+    },
+    {
       "id": 2750,
       "time": 1780657072737,
       "card_id": "1430077",
@@ -150,7 +217,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.25
+          "vote_average": 8.214
         },
         "genres": [
           "Драма",
@@ -1129,7 +1196,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 6.696
+          "vote_average": 6.7
         },
         "genres": [
           "Кримінал",
@@ -2091,7 +2158,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.063
+          "vote_average": 9.1
         },
         "genres": [
           "Вестерн",
@@ -2797,72 +2864,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2701,
-      "time": 1778529548132,
-      "card_id": "85552",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 85552,
-        "original_language": "en",
-        "name": "Ейфорія",
-        "original_name": "Euphoria",
-        "names": [
-          "Эйфория",
-          "Euphoria",
-          "Ейфорія"
-        ],
-        "overview": "У центрі історії — 17-річна Ру Беннетт, яка повернулася до рідного дому після лікування в реабілітаційній клініці. Не гаючи часу, вона знову береться за старі звички — наркотики й тусовки. Однак поява в місті дівчини Джулс стає для Ру знаком надії.",
-        "poster_path": "/nsZkLSw1d0le18B8F0B5VMv6QKJ.jpg",
-        "first_air_date": "2019-06-16",
-        "video": false,
-        "vote_average": 8.28,
-        "vote_count": 10498,
-        "popularity": 309.1307,
-        "PG": 18,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "1178445",
-        "kp_rating": "7.5",
-        "imdb_id": "tt8772296",
-        "imdb_rating": "8.2",
-        "status": "returning series",
-        "last_air_date": "2026-05-11",
-        "seasons": {
-          "1": 10,
-          "2": 8,
-          "3": 5
-        },
-        "episode": {
-          "air_date": "2026-05-10",
-          "episode_number": 5,
-          "name": "Серія 5",
-          "overview": "",
-          "season_number": 3,
-          "runtime": 61,
-          "still_path": "/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg",
-          "vote_average": 5.4
-        },
-        "genres": [
-          "Драма"
-        ],
-        "countries": [
-          "United States of America",
-          "Israel"
-        ]
-      },
-      "type": "episode",
-      "hash": "s3;e5",
-      "premiere": 0
     }
   ],
-  "duration": 7.281617000699043
+  "duration": 4.70796500146389
 }
