@@ -2,6 +2,53 @@
   "secuses": true,
   "result": [
     {
+      "id": 2753,
+      "time": 1780729071826,
+      "card_id": "1273221",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1273221,
+        "original_language": "en",
+        "title": "Дуже страшне кіно",
+        "original_title": "Scary Movie",
+        "names": [
+          "Дуже страшне кіно",
+          "Очень страшное кино 6",
+          "Scary Movie 6",
+          "Очень страшное кино",
+          "Scary Movie"
+        ],
+        "overview": "Через двадцять шість років після втечі від підозріло знайомого вбивці в масці, «Основна четвірка» знову опиняється під прицілом маніяка — і кожна горор-франшиза в небезпеці.",
+        "poster_path": "/qB2efCLrUQO8Ngz0fpUGFluVoSY.jpg",
+        "release_date": "2026-06-03",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 26,
+        "popularity": 71.9313,
+        "PG": 18,
+        "release_quality": "ts",
+        "kinopoisk_id": "5506641",
+        "imdb_id": "tt32093575",
+        "status": "released",
+        "last_air_date": "2026-06-04",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Комедія",
+          "Жахи"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2752,
       "time": 1780689467679,
       "card_id": "299167",
@@ -139,7 +186,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
+        "backdrop_path": "/mKV5nxBslj0cWBl2BT549FApag5.jpg",
         "genre_ids": [
           27
         ],
@@ -740,7 +787,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
-          "vote_average": 5.615
+          "vote_average": 5.741
         },
         "genres": [
           "Детектив",
@@ -1049,7 +1096,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "backdrop_path": "/4k99kV4R1bbbrsnjR205v91Xbin.jpg",
         "genre_ids": [
           27
         ],
@@ -1143,7 +1190,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.833
+          "vote_average": 8.0
         },
         "genres": [
           "Драма",
@@ -1386,7 +1433,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.775
+          "vote_average": 8.69
         },
         "genres": [
           "Мультфільм",
@@ -2418,7 +2465,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/wrOtPyoXtLyTlcQupc1GYPGAuSJ.jpg",
-          "vote_average": 6.063
+          "vote_average": 6.1
         },
         "genres": [
           "Детектив",
@@ -2809,76 +2856,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2703,
-      "time": 1778691548128,
-      "card_id": "76479",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-        "genre_ids": [
-          10765,
-          10759
-        ],
-        "id": 76479,
-        "original_language": "en",
-        "name": "Хлопаки",
-        "original_name": "The Boys",
-        "names": [
-          "Хлопаки",
-          "Пацаны",
-          "The Boys",
-          "Хлопці / Хлопаки"
-        ],
-        "overview": "Події розгортаються в альтернативному світі, де супергерої є звичним явищем. Вони щоденно по кілька разів рятують світ, знімаються у фільмах і стають обличчями рекламних кампаній відомих брендів. Втім, є і зворотня сторона медалі: кожен день тисячі людей страждають від дій супергероїв, для яких людське життя насправді не коштує зовсім нічого. Але є невеличка групка відчайдухів, яких такий стан справ не влаштовує, вони мають мету – покарати знахабнілих надлюдей та вивести їх на чисту воду…",
-        "poster_path": "/iNKkWK11okzbenMvJY87aOHNfll.jpg",
-        "first_air_date": "2019-07-25",
-        "video": false,
-        "vote_average": 8.449,
-        "vote_count": 12207,
-        "popularity": 585.9876,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "460586",
-        "kp_rating": "8.3",
-        "imdb_id": "tt1190634",
-        "imdb_rating": "8.6",
-        "status": "returning series",
-        "last_air_date": "2026-05-13",
-        "seasons": {
-          "1": 8,
-          "2": 8,
-          "3": 8,
-          "4": 8,
-          "5": 7
-        },
-        "episode": {
-          "air_date": "2026-05-13",
-          "episode_number": 7,
-          "name": "Французик, жінка та чоловік на ім'я Материнське Молоко",
-          "overview": "ПОПЕРЕДЖЕННЯ: ОБЕРЕЖНО ПІД ЧАС ВИХОДУ НА ЗВУКОВУ СЦЕНУ. ВИКОНАВЦІ МОЖУТЬ ВИКОРИСТОВУВАТИ НАДЗДІБНОСТІ.",
-          "season_number": 5,
-          "runtime": 71,
-          "still_path": "/m7RKphwoonRHsSniQAJhAEnTmca.jpg",
-          "vote_average": 6.433
-        },
-        "genres": [
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s5;e7",
-      "premiere": 0
     }
   ],
-  "duration": 5.984263986349106
+  "duration": 7.896865010261536
 }
