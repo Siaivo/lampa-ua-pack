@@ -2,6 +2,52 @@
   "secuses": true,
   "result": [
     {
+      "id": 2754,
+      "time": 1780750667801,
+      "card_id": "1629095",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/unXrjADknsh0kiQOT7hddvoiOhj.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1629095,
+        "original_language": "ro",
+        "title": "Băieți de oraș: Golden Boyz",
+        "original_title": "Băieți de oraș: Golden Boyz",
+        "names": [
+          "Городские пацаны: Городские парни",
+          "City Boys: Golden Boyz",
+          "Băieți de oraș: Golden Boyz",
+          "Baieti de oras: Golden Boyz"
+        ],
+        "overview": "Фильм рассказывает о приключениях двух недалеких молодых людей - Роби Роберто и Мэлоуна. В центре сюжета оказывается Мэлоун, который неожиданно получает шанс унаследовать 9 миллионов евро после смерти дальнего родственника. Однако есть условие: чтобы забрать деньги, ему необходимо получить диплом о высшем образовании. Герои пускаются во все тяжкие, пытаясь провернуть эту аферу, сталкиваясь с реалиями современного Бухареста.",
+        "poster_path": "/msmjEUOXH05AI5c6p3oQubJ282I.jpg",
+        "release_date": "2026-02-06",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 5,
+        "popularity": 5.8129,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "11280735",
+        "imdb_id": "tt39195606",
+        "imdb_rating": "7.9",
+        "status": "released",
+        "last_air_date": "2026-06-05",
+        "countries": [
+          "Romania"
+        ],
+        "genres": [
+          "Комедія"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2753,
       "time": 1780729071826,
       "card_id": "1273221",
@@ -186,7 +232,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/mKV5nxBslj0cWBl2BT549FApag5.jpg",
+        "backdrop_path": "/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
         "genre_ids": [
           27
         ],
@@ -328,7 +374,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.214
+          "vote_average": 8.438
         },
         "genres": [
           "Драма",
@@ -395,7 +441,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+        "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
         "genre_ids": [
           27,
           9648,
@@ -787,7 +833,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
-          "vote_average": 5.741
+          "vote_average": 5.7
         },
         "genres": [
           "Детектив",
@@ -1212,7 +1258,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "backdrop_path": "/reAZlLG6YMkBuxPT1XKuCH97TM1.jpg",
         "genre_ids": [
           10759,
           80,
@@ -1266,7 +1312,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
+        "backdrop_path": "/reAZlLG6YMkBuxPT1XKuCH97TM1.jpg",
         "genre_ids": [
           10759,
           80,
@@ -1433,7 +1479,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.69
+          "vote_average": 8.7
         },
         "genres": [
           "Мультфільм",
@@ -2809,54 +2855,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2704,
-      "time": 1778700548349,
-      "card_id": "1400357",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/mWRjVb2Lj9pjOlNcDP7lNvrvSo8.jpg",
-        "genre_ids": [
-          80,
-          35
-        ],
-        "id": 1400357,
-        "original_language": "en",
-        "title": "Крістофери",
-        "original_title": "The Christophers",
-        "names": [
-          "Крістофери",
-          "Кристоферы",
-          "The Christophers"
-        ],
-        "overview": "Діти колись відомого художника наймають фальсифікатора, щоб завершити кілька незакінчених, давно покинутих полотен, аби отримати спадок після його смерті.",
-        "poster_path": "/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
-        "release_date": "2026-04-10",
-        "video": false,
-        "vote_average": 6.8,
-        "vote_count": 3,
-        "popularity": 2.361,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "6739486",
-        "imdb_id": "tt34966562",
-        "status": "released",
-        "last_air_date": "2026-05-13",
-        "countries": [
-          "United Kingdom",
-          "United States of America"
-        ],
-        "genres": [
-          "Кримінал",
-          "Комедія"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.896865010261536
+  "duration": 4.80265399813652
 }
