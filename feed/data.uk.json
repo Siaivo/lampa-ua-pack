@@ -2,6 +2,70 @@
   "secuses": true,
   "result": [
     {
+      "id": 2752,
+      "time": 1780689467679,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонів",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонів",
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
+        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.4,
+        "vote_count": 173,
+        "popularity": 159.4967,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.6",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-06-05",
+        "seasons": {
+          "1": 5
+        },
+        "episode": {
+          "air_date": "2026-06-05",
+          "episode_number": 5,
+          "name": "Серія 5",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 51,
+          "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
+          "vote_average": 9.0
+        },
+        "genres": [
+          "Вестерн",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e5",
+      "premiere": 0
+    },
+    {
       "id": 2751,
       "time": 1780671468728,
       "card_id": "241609",
@@ -54,7 +118,7 @@
           "season_number": 2,
           "runtime": 56,
           "still_path": "/o3c6GyTORTJeWtW8nxNqqzxdELU.jpg",
-          "vote_average": 7.667
+          "vote_average": 7.75
         },
         "genres": [
           "Драма",
@@ -436,7 +500,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.0
         },
         "genres": [
           "Мультфільм",
@@ -676,7 +740,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/d37q32vA2MNTfcqkAA8iuW1H8ae.jpg",
-          "vote_average": 5.44
+          "vote_average": 5.615
         },
         "genres": [
           "Детектив",
@@ -797,7 +861,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/svtH6VqB7uZhdVF19qluzoDSSVR.jpg",
-          "vote_average": 8.0
+          "vote_average": 8.375
         },
         "genres": [
           "Вестерн",
@@ -1019,7 +1083,8 @@
           "United Kingdom"
         ],
         "genres": [
-          "Жахи"
+          "Жахи",
+          "Трилер"
         ]
       },
       "type": "now_playing",
@@ -1321,7 +1386,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.711
+          "vote_average": 8.775
         },
         "genres": [
           "Мультфільм",
@@ -1799,7 +1864,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
-          "vote_average": 8.778
+          "vote_average": 8.773
         },
         "genres": [
           "Вестерн",
@@ -2353,7 +2418,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/wrOtPyoXtLyTlcQupc1GYPGAuSJ.jpg",
-          "vote_average": 5.9
+          "vote_average": 6.063
         },
         "genres": [
           "Детектив",
@@ -2813,58 +2878,7 @@
       "type": "episode",
       "hash": "s5;e7",
       "premiere": 0
-    },
-    {
-      "id": 2702,
-      "time": 1778614153238,
-      "card_id": "262388",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg",
-        "genre_ids": [
-          80,
-          18
-        ],
-        "id": 262388,
-        "original_language": "en",
-        "name": "M.I.A.",
-        "original_name": "M.I.A.",
-        "names": [
-          "Пропавшая без вести",
-          "M.I.A."
-        ],
-        "overview": "Етта Тайґер Джонс мріє про життя в сяючому субтропічному королівстві Маямі. Однак коли сімейний наркобізнес руйнується через трагедію, Етта вирушає в небезпечну подорож неоновим підпіллям Маямі, яка визначить, ким вона є і на що зрештою здатна.",
-        "poster_path": "/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
-        "first_air_date": "2026-05-07",
-        "video": false,
-        "vote_average": 9,
-        "vote_count": 4,
-        "popularity": 28.5416,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "11297614",
-        "imdb_id": "tt33253070",
-        "status": "returning series",
-        "last_air_date": "2026-05-11",
-        "seasons": {
-          "1": 9
-        },
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Кримінал",
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.70796500146389
+  "duration": 5.984263986349106
 }
