@@ -2,6 +2,54 @@
   "secuses": true,
   "result": [
     {
+      "id": 2755,
+      "time": 1780765072835,
+      "card_id": "454639",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+        "genre_ids": [
+          28,
+          14,
+          878
+        ],
+        "id": 454639,
+        "original_language": "en",
+        "title": "Володарі Всесвіту",
+        "original_title": "Masters of the Universe",
+        "names": [
+          "Володарі Всесвіту",
+          "Властелины вселенной",
+          "Masters of the Universe"
+        ],
+        "overview": "Молодий чоловік на Землі відкриває для себе фантастичну таємну спадщину як принц іншої планети й повинен віднайти чарівний меч і повернутися додому, щоб захистити своє королівство.",
+        "poster_path": "/lU8i7M8nYCCXJhzHPRZt8UUWqoq.jpg",
+        "release_date": "2026-06-03",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 24,
+        "popularity": 91.1325,
+        "PG": 16,
+        "release_quality": "ts",
+        "kinopoisk_id": "88124",
+        "imdb_id": "tt0427340",
+        "status": "released",
+        "last_air_date": "2026-06-05",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Бойовик",
+          "Фентезі",
+          "Фантастика"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2754,
       "time": 1780750667801,
       "card_id": "1629095",
@@ -86,8 +134,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -142,9 +189,9 @@
           "name": "Серія 5",
           "overview": "",
           "season_number": 1,
-          "runtime": 51,
+          "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.0
+          "vote_average": 9.2
         },
         "genres": [
           "Вестерн",
@@ -954,7 +1001,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/svtH6VqB7uZhdVF19qluzoDSSVR.jpg",
-          "vote_average": 8.375
+          "vote_average": 8.4
         },
         "genres": [
           "Вестерн",
@@ -1176,8 +1223,7 @@
           "United Kingdom"
         ],
         "genres": [
-          "Жахи",
-          "Трилер"
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -2187,7 +2233,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.896
         },
         "genres": [
           "Науково фантастичний",
@@ -2256,8 +2302,7 @@
         "genres": [
           "Драма",
           "Кримінал",
-          "Екшн і Пригоди",
-          "Комедія"
+          "Екшн і Пригоди"
         ],
         "countries": [
           "Spain"
@@ -2378,7 +2423,7 @@
           "season_number": 1,
           "runtime": 56,
           "still_path": "/oV8Uxf6VRrV5oAjCmwcGAlfkhno.jpg",
-          "vote_average": 9.25
+          "vote_average": 9.111
         },
         "genres": [
           "Драма"
@@ -2509,7 +2554,7 @@
           "name": "Яка довга дивна подорож",
           "overview": "Бойд і Джейд вирушають на відчайдушний та небезпечний пошук відповідей, а вилазка за їжею набуває моторошного повороту.",
           "season_number": 4,
-          "runtime": 52,
+          "runtime": 53,
           "still_path": "/wrOtPyoXtLyTlcQupc1GYPGAuSJ.jpg",
           "vote_average": 6.1
         },
@@ -2806,56 +2851,7 @@
       "type": "uhd",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2705,
-      "time": 1778754548242,
-      "card_id": "1439930",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
-        "genre_ids": [
-          28,
-          18,
-          80
-        ],
-        "id": 1439930,
-        "original_language": "en",
-        "title": "Каратель: Останнє вбивство",
-        "original_title": "The Punisher: One Last Kill",
-        "names": [
-          "Каратель: Останнє вбивство",
-          "Каратель: Последнее убийство",
-          "The Punisher: One Last Kill",
-          "A Marvel Television Special Presentation - The Punisher: One Last Kill"
-        ],
-        "overview": "Поки Френк Касл шукає сенсу життя за межами помсти, несподівана сила знову втягує його в боротьбу.",
-        "poster_path": "/9OFAsyrlp2Tb3ZMOybJR5dhRmer.jpg",
-        "release_date": "2026-05-12",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 11,
-        "popularity": 34.1264,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "7378359",
-        "imdb_id": "tt36042156",
-        "status": "released",
-        "last_air_date": "2026-05-14",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Бойовик",
-          "Драма",
-          "Кримінал"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.80265399813652
+  "duration": 6.077394008636475
 }
