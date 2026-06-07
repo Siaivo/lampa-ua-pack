@@ -2,6 +2,76 @@
   "secuses": true,
   "result": [
     {
+      "id": 2757,
+      "time": 1780842823100,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Ззовні",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
+        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.442,
+        "vote_count": 3473,
+        "popularity": 692.8228,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-06-07",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 7
+        },
+        "episode": {
+          "air_date": "2026-06-07",
+          "episode_number": 7,
+          "name": "Серія 7",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 51,
+          "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
+          "vote_average": 6.333
+        },
+        "genres": [
+          "Детектив",
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e7",
+      "premiere": 0
+    },
+    {
       "id": 2756,
       "time": 1780822667809,
       "card_id": "1471224",
@@ -183,7 +253,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -307,7 +378,7 @@
           "season_number": 2,
           "runtime": 56,
           "still_path": "/o3c6GyTORTJeWtW8nxNqqzxdELU.jpg",
-          "vote_average": 7.75
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -1049,7 +1120,7 @@
           "overview": "",
           "season_number": 1,
           "runtime": 47,
-          "still_path": "/svtH6VqB7uZhdVF19qluzoDSSVR.jpg",
+          "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
           "vote_average": 8.4
         },
         "genres": [
@@ -1354,7 +1425,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/reAZlLG6YMkBuxPT1XKuCH97TM1.jpg",
+        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
         "genre_ids": [
           10759,
           80,
@@ -1408,7 +1479,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/reAZlLG6YMkBuxPT1XKuCH97TM1.jpg",
+        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
         "genre_ids": [
           10759,
           80,
@@ -2052,8 +2123,8 @@
           "overview": "",
           "season_number": 1,
           "runtime": 49,
-          "still_path": "/l37OpzNN1MzdGSG8ibn33A7KQt4.jpg",
-          "vote_average": 8.773
+          "still_path": "/gMIvnKoLxE5BngLlDXaCoufFdOW.jpg",
+          "vote_average": 8.8
         },
         "genres": [
           "Вестерн",
@@ -2410,7 +2481,7 @@
           "overview": "",
           "season_number": 1,
           "runtime": 47,
-          "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
+          "still_path": "/zXO11LCZeFBjBhnSAK9zlzEsJxu.jpg",
           "vote_average": 9.1
         },
         "genres": [
@@ -2789,74 +2860,7 @@
       "type": "episode",
       "hash": "s8;e10",
       "premiere": 0
-    },
-    {
-      "id": 2707,
-      "time": 1778835548264,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзі та сусіди",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзі та сусіди",
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
-        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.604,
-        "vote_count": 211,
-        "popularity": 39.1492,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-05-15",
-        "seasons": {
-          "1": 9,
-          "2": 7
-        },
-        "episode": {
-          "air_date": "2026-05-14",
-          "episode_number": 7,
-          "name": "На схід",
-          "overview": "Куп і Сем проводять шалений вікенд у маєтку Еша в Гемптонзі. Мел перебирає міру в боях із сусідами.",
-          "season_number": 2,
-          "runtime": 57,
-          "still_path": "/oMOWpYQbjiNgGf5gPFZHyVFVmCV.jpg",
-          "vote_average": 7.9
-        },
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e7",
-      "premiere": 0
     }
   ],
-  "duration": 5.361749976873398
+  "duration": 6.185914039611816
 }
