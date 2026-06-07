@@ -2,6 +2,55 @@
   "secuses": true,
   "result": [
     {
+      "id": 2756,
+      "time": 1780822667809,
+      "card_id": "1471224",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/tPgWgSS9LndIJaL8b0vYjWigLqE.jpg",
+        "genre_ids": [
+          35,
+          18,
+          80
+        ],
+        "id": 1471224,
+        "original_language": "fr",
+        "title": "Le Crime du 3e étage",
+        "original_title": "Le Crime du 3e étage",
+        "names": [
+          "Преступление на третьем этаже",
+          "Le crime du 3e étage",
+          "Le Crime du 3e étage"
+        ],
+        "overview": "Франсуа пишет захватывающие детективы, но его реальная жизнь скучна и однообразна. Его жена Колетт мечтает об остроте чувств, показывая студентам хичкоковский кинематограф. Но всё меняется, когда Коллет начинает подозревать соседа в убийстве жены. Размеренная жизнь пары летит кувырком, а их выдохшиеся отношения внезапно оживают.",
+        "poster_path": "/5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
+        "release_date": "2026-03-11",
+        "video": false,
+        "vote_average": 6.583,
+        "vote_count": 36,
+        "popularity": 1.6402,
+        "PG": 0,
+        "release_quality": "ts",
+        "kinopoisk_id": "10187723",
+        "imdb_id": "tt38814447",
+        "imdb_rating": "7.0",
+        "status": "released",
+        "last_air_date": "2026-06-06",
+        "countries": [
+          "France"
+        ],
+        "genres": [
+          "Комедія",
+          "Драма",
+          "Кримінал"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2755,
       "time": 1780765072835,
       "card_id": "454639",
@@ -1223,7 +1272,8 @@
           "United Kingdom"
         ],
         "genres": [
-          "Жахи"
+          "Жахи",
+          "Трилер"
         ]
       },
       "type": "now_playing",
@@ -2806,52 +2856,7 @@
       "type": "episode",
       "hash": "s2;e7",
       "premiere": 0
-    },
-    {
-      "id": 2706,
-      "time": 1778772550132,
-      "card_id": "855435",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/hWuHG6e6vM7YbNVW5Z0JcfhmxQq.jpg",
-        "genre_ids": [
-          27
-        ],
-        "id": 855435,
-        "original_language": "en",
-        "title": "Обличчя смерті",
-        "original_title": "Faces of Death",
-        "names": [
-          "Обличчя смерті",
-          "Лики смерти",
-          "Faces of Death"
-        ],
-        "overview": "Жінка, яка працює модератором контенту на веб-сайті, натикається на серію жорстоких відеороликів, які відтворюють сцени смерті з фільму.",
-        "poster_path": "/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
-        "release_date": "2026-04-10",
-        "video": false,
-        "vote_average": 6.7,
-        "vote_count": 10,
-        "popularity": 2.5134,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "5282562",
-        "kp_rating": "5.7",
-        "imdb_id": "tt14619456",
-        "status": "released",
-        "last_air_date": "2026-05-13",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Жахи"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.077394008636475
+  "duration": 5.361749976873398
 }
