@@ -225,12 +225,12 @@
         "episode": {
           "air_date": "2026-06-07",
           "episode_number": 7,
-          "name": "Серія 7",
-          "overview": "",
+          "name": "Найкращі плани",
+          "overview": "У міру того, як на світло випливає тривожна історія Табіти та Джейд, ситуація для ще одного мешканця містечка починає ускладнюватися. Бойд хоче перевірити небезпечну гіпотезу.",
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 4.875
+          "vote_average": 5.4
         },
         "genres": [
           "Детектив",
@@ -933,7 +933,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 7.857
+          "vote_average": 7.938
         },
         "genres": [
           "Мультфільм",
@@ -1819,7 +1819,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.75
+          "vote_average": 8.646
         },
         "genres": [
           "Мультфільм",
@@ -2527,7 +2527,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg",
-          "vote_average": 5.896
+          "vote_average": 5.918
         },
         "genres": [
           "Науково фантастичний",
@@ -2866,5 +2866,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.6643189787864685
+  "duration": 6.502611994743347
 }
