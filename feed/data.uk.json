@@ -230,7 +230,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.182
+          "vote_average": 5.333
         },
         "genres": [
           "Детектив",
@@ -427,8 +427,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -670,7 +669,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "backdrop_path": "/tqxImBSRPrWPvZuuCr2dPw1auqA.jpg",
         "genre_ids": [
           18,
           9648,
@@ -782,7 +781,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
         "genre_ids": [
           27,
           9648,
@@ -1053,7 +1052,7 @@
           "season_number": 3,
           "runtime": 93,
           "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7.636
+          "vote_average": 7.333
         },
         "genres": [
           "Драма"
@@ -1531,7 +1530,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "backdrop_path": "/tqxImBSRPrWPvZuuCr2dPw1auqA.jpg",
         "genre_ids": [
           18,
           9648,
@@ -1598,7 +1597,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
         "genre_ids": [
           10759,
           80,
@@ -1652,7 +1651,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
+        "backdrop_path": "/mkwVoyP9bFSmfVqU8FJyem52hVR.jpg",
         "genre_ids": [
           10759,
           80,
@@ -1819,7 +1818,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.646
+          "vote_average": 8.6
         },
         "genres": [
           "Мультфільм",
@@ -2866,5 +2865,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.502568006515503
+  "duration": 4.782865047454834
 }
