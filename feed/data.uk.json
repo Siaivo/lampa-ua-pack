@@ -230,7 +230,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.6
+          "vote_average": 5.182
         },
         "genres": [
           "Детектив",
@@ -301,7 +301,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
         "genre_ids": [
           28,
           14,
@@ -485,7 +485,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.375
+          "vote_average": 9.4
         },
         "genres": [
           "Вестерн",
@@ -622,7 +622,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/oBft4BZeoDQzTT9ZGijClr76qvK.jpg",
+        "backdrop_path": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
         "genre_ids": [
           28,
           53
@@ -1483,7 +1483,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+        "backdrop_path": "/4k99kV4R1bbbrsnjR205v91Xbin.jpg",
         "genre_ids": [
           27
         ],
@@ -1517,8 +1517,7 @@
           "United Kingdom"
         ],
         "genres": [
-          "Жахи",
-          "Трилер"
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -2867,5 +2866,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.81735098361969
+  "duration": 6.502568006515503
 }
