@@ -112,7 +112,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.0
+          "vote_average": 8.667
         },
         "genres": [
           "Мультфільм",
@@ -230,7 +230,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.857
+          "vote_average": 5.9
         },
         "genres": [
           "Детектив",
@@ -427,8 +427,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -670,7 +669,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/tqxImBSRPrWPvZuuCr2dPw1auqA.jpg",
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
         "genre_ids": [
           18,
           9648,
@@ -1053,7 +1052,7 @@
           "season_number": 3,
           "runtime": 93,
           "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7.333
+          "vote_average": 7.3
         },
         "genres": [
           "Драма"
@@ -1531,7 +1530,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/tqxImBSRPrWPvZuuCr2dPw1auqA.jpg",
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
         "genre_ids": [
           18,
           9648,
@@ -2866,5 +2865,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.5236170291900635
+  "duration": 6.345822989940643
 }
