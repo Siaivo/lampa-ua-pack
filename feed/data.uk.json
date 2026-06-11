@@ -53,7 +53,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -437,7 +437,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
         "genre_ids": [
           28,
           14,
@@ -563,7 +563,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -1531,7 +1532,7 @@
           "World War II with Tom Hanks"
         ],
         "overview": "В сериале рассматривается Вторая мировая война, начиная с вторжения Германии в Польшу и заканчивая атомной эрой, анализируются ключевые сражения, лидеры военного времени, такие как Черчилль и Рузвельт, и человеческие жертвы тотальной войны.",
-        "poster_path": "/MPN0glmZV3JnZfmXtKF32SRhDD.jpg",
+        "poster_path": "/yOTuMOr3iACTrbm0w1OrCRSewEg.jpg",
         "first_air_date": "2026-05-25",
         "video": false,
         "vote_average": 0,
@@ -1652,7 +1653,8 @@
           "United Kingdom"
         ],
         "genres": [
-          "Жахи"
+          "Жахи",
+          "Трилер"
         ]
       },
       "type": "now_playing",
@@ -1954,7 +1956,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.7
         },
         "genres": [
           "Мультфільм",
@@ -2866,5 +2868,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.952593922615051
+  "duration": 6.678791046142578
 }
