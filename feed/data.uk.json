@@ -2,6 +2,65 @@
   "secuses": true,
   "result": [
     {
+      "id": 2763,
+      "time": 1781161429722,
+      "card_id": "276161",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "id": 276161,
+        "original_language": "ko",
+        "name": "Дам тобі науку",
+        "original_name": "참교육",
+        "names": [
+          "Дам тобі науку",
+          "Истинное образование",
+          "Chamgyoyuk",
+          "Teach You a Lesson / Преподать урок",
+          "참교육",
+          "Chamgyoyuk /  Teach You a Lesson",
+          "Истинное образование / Пусть послужит вам уроком",
+          "Пусть послужит вам уроком"
+        ],
+        "overview": "Коли в школах зникає повага, прибувають незвичайні інспектори, що наводять лад за допомогою жорстких безкомпромісних уроків, яких не знайти в підручниках.",
+        "poster_path": "/36BnxmIvWvOsMmlQfbI0ilTfuvh.jpg",
+        "first_air_date": "2026-06-05",
+        "video": false,
+        "vote_average": 9.159,
+        "vote_count": 104,
+        "popularity": 330.2432,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "6648249",
+        "imdb_id": "tt34809853",
+        "status": "ended",
+        "last_air_date": "2026-06-05",
+        "seasons": {
+          "1": 10
+        },
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Екшн і Пригоди",
+          "Драма",
+          "Комедія"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2762,
       "time": 1781112823120,
       "card_id": "270476",
@@ -248,7 +307,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.667
+          "vote_average": 8.7
         },
         "genres": [
           "Мультфільм",
@@ -563,8 +622,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -709,7 +767,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
+        "backdrop_path": "/n7WeIugzFXXkkCO6ps3GClKvn7V.jpg",
         "genre_ids": [
           27
         ],
@@ -1831,7 +1889,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 6.8
+          "vote_average": 6.923
         },
         "genres": [
           "Драма",
@@ -2664,7 +2722,7 @@
           "season_number": 5,
           "runtime": 67,
           "still_path": "/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.952
         },
         "genres": [
           "Науково фантастичний",
@@ -2805,68 +2863,7 @@
       "type": "episode",
       "hash": "s1;e2",
       "premiere": 0
-    },
-    {
-      "id": 2713,
-      "time": 1779114429558,
-      "card_id": "273240",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 273240,
-        "original_language": "en",
-        "name": "Поза кампусом",
-        "original_name": "Off Campus",
-        "names": [
-          "Поза кампусом",
-          "Вне кампуса",
-          "Off Campus"
-        ],
-        "overview": "Ханна Веллс погоджується допомогти капітану хокейної команди Гаррету Ґрему завоювати дівчину, в яку він закоханий. Але їхня домовленість поступово переростає у справжній зв’язок, поки вони намагаються впоратися зі своїм минулим. Тим часом їхні друзі — Лоґан, Дін, Такер і Еллі — переживають студентське життя, дружбу та кохання.",
-        "poster_path": "/3xzbOA2BqjtsYDQiUvXO9A5ZmYg.jpg",
-        "first_air_date": "2026-05-13",
-        "video": false,
-        "vote_average": 8.854,
-        "vote_count": 102,
-        "popularity": 242.6623,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "11804709",
-        "kp_rating": "8.3",
-        "imdb_id": "tt33546863",
-        "status": "returning series",
-        "last_air_date": "2026-05-18",
-        "seasons": {
-          "1": 8
-        },
-        "episode": {
-          "air_date": "2026-05-13",
-          "episode_number": 8,
-          "name": "Серія 8",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 56,
-          "still_path": "/oV8Uxf6VRrV5oAjCmwcGAlfkhno.jpg",
-          "vote_average": 9.111
-        },
-        "genres": [
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e8",
-      "premiere": 0
     }
   ],
-  "duration": 6.678791046142578
+  "duration": 6.743950963020325
 }
