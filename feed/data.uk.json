@@ -2,6 +2,52 @@
   "secuses": true,
   "result": [
     {
+      "id": 2764,
+      "time": 1781192023228,
+      "card_id": "1555331",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/l437c1NjyPl6jL1qZla7WeUlxFi.jpg",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "id": 1555331,
+        "original_language": "tr",
+        "title": "D.I.S.C.O.",
+        "original_title": "D.I.S.C.O.",
+        "names": [
+          "Д.И.С.К.О.",
+          "D.I.S.C.O."
+        ],
+        "overview": "У отстранённого от работы шпиона отпуск идёт под откос, когда парикмахер раскрывает его личность и шантажом заставляет вместе завершить проваленную миссию. А тут ещё и их жёны неожиданно вступают в игру.",
+        "poster_path": "/zNjm76IFBxiXMZ7ldWrVSudWeqo.jpg",
+        "release_date": "2026-01-01",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 8,
+        "popularity": 8.7043,
+        "PG": 12,
+        "release_quality": "webdl",
+        "kinopoisk_id": "11091609",
+        "imdb_id": "tt39105882",
+        "imdb_rating": "7.2",
+        "status": "released",
+        "last_air_date": "2026-06-11",
+        "countries": [
+          "Turkey"
+        ],
+        "genres": [
+          "Бойовик",
+          "Комедія"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2763,
       "time": 1781161429722,
       "card_id": "276161",
@@ -181,7 +227,7 @@
           "season_number": 1,
           "runtime": 61,
           "still_path": "/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg",
-          "vote_average": 10.0
+          "vote_average": 9.0
         },
         "genres": [
           "Екшн і Пригоди",
@@ -307,7 +353,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.25
         },
         "genres": [
           "Мультфільм",
@@ -1128,7 +1174,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 7.9
+          "vote_average": 7.722
         },
         "genres": [
           "Мультфільм",
@@ -2800,70 +2846,7 @@
       "type": "episode",
       "hash": "s1;e8",
       "premiere": 0
-    },
-    {
-      "id": 2714,
-      "time": 1779132430543,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонів",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонів",
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
-        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.2,
-        "vote_count": 22,
-        "popularity": 74.9897,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-05-18",
-        "seasons": {
-          "1": 2
-        },
-        "episode": {
-          "air_date": "2026-05-15",
-          "episode_number": 2,
-          "name": "Серія 2",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 47,
-          "still_path": "/sKkVo26hfshCSd6B02FER0qixz3.jpg",
-          "vote_average": 9.1
-        },
-        "genres": [
-          "Вестерн",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e2",
-      "premiere": 0
     }
   ],
-  "duration": 6.743950963020325
+  "duration": 6.507030010223389
 }
