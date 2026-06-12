@@ -542,7 +542,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
         "genre_ids": [
           28,
           14,
@@ -725,7 +725,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.357
+          "vote_average": 9.4
         },
         "genres": [
           "Вестерн",
@@ -2848,5 +2848,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.726886987686157
+  "duration": 8.254716992378235
 }
