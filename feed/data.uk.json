@@ -353,7 +353,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.25
+          "vote_average": 8.2
         },
         "genres": [
           "Мультфільм",
@@ -471,7 +471,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.933
+          "vote_average": 5.9
         },
         "genres": [
           "Детектив",
@@ -668,8 +668,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -2849,5 +2848,5 @@
       "premiere": 0
     }
   ],
-  "duration": 8.16106104850769
+  "duration": 4.726886987686157
 }
