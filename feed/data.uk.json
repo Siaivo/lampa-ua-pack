@@ -471,7 +471,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.933
         },
         "genres": [
           "Детектив",
@@ -542,7 +542,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
         "genre_ids": [
           28,
           14,
@@ -668,7 +668,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -725,7 +726,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.25
+          "vote_average": 9.357
         },
         "genres": [
           "Вестерн",
@@ -1535,7 +1536,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.773
         },
         "genres": [
           "Вестерн",
@@ -1935,7 +1936,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 6.923
+          "vote_average": 6.963
         },
         "genres": [
           "Драма",
@@ -2538,7 +2539,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/gMIvnKoLxE5BngLlDXaCoufFdOW.jpg",
-          "vote_average": 8.8
+          "vote_average": 8.875
         },
         "genres": [
           "Вестерн",
@@ -2605,7 +2606,7 @@
           "season_number": 2,
           "runtime": 57,
           "still_path": "/r18w0RYSIqdEzaOyCaYFpIW8gNE.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.429
         },
         "genres": [
           "Драма",
@@ -2848,5 +2849,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.507030010223389
+  "duration": 8.16106104850769
 }
