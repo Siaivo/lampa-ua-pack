@@ -2,6 +2,70 @@
   "secuses": true,
   "result": [
     {
+      "id": 2767,
+      "time": 1781346823171,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонів",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонів",
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
+        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.3,
+        "vote_count": 237,
+        "popularity": 143.0673,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.6",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-06-12",
+        "seasons": {
+          "1": 6
+        },
+        "episode": {
+          "air_date": "2026-06-12",
+          "episode_number": 6,
+          "name": "Серія 6",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 41,
+          "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
+          "vote_average": 8.0
+        },
+        "genres": [
+          "Вестерн",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e6",
+      "premiere": 0
+    },
+    {
       "id": 2766,
       "time": 1781336023258,
       "card_id": "1280738",
@@ -521,7 +585,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
         "genre_ids": [
           9648,
           18,
@@ -766,8 +830,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -1054,7 +1117,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.136
+          "vote_average": 8.1
         },
         "genres": [
           "Драма",
@@ -1273,7 +1336,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 7.9
+          "vote_average": 8.091
         },
         "genres": [
           "Мультфільм",
@@ -1465,7 +1528,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
         "genre_ids": [
           9648,
           18,
@@ -2029,12 +2092,12 @@
         "episode": {
           "air_date": "2026-05-25",
           "episode_number": 8,
-          "name": "Серія 8",
+          "name": "Людина в масці",
           "overview": "",
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 6.963
+          "vote_average": 7.0
         },
         "genres": [
           "Драма",
@@ -2763,55 +2826,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2717,
-      "time": 1779393429794,
-      "card_id": "1380291",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
-        "genre_ids": [
-          28,
-          53,
-          18
-        ],
-        "id": 1380291,
-        "original_language": "en",
-        "title": "Джек Раян: Війна привидів",
-        "original_title": "Tom Clancy's Jack Ryan: Ghost War",
-        "names": [
-          "Джек Раян: Війна привидів",
-          "Джек Райан: Призрачная война",
-          "Tom Clancy's Jack Ryan: Ghost War",
-          "Jack Ryan: Ghost War"
-        ],
-        "overview": "Історія про Джека Раяна, який знову об’єднується з оперативниками ЦРУ, щоб пройти крізь небезпечну мережу зрад і протистояти ворогу, що знає кожен їхній крок, водночас стикаючись із минулим, яке вони вважали давно похованим.",
-        "poster_path": "/tQpJxOFx6zslf6x8CCKbsMmRDNb.jpg",
-        "release_date": "2026-05-20",
-        "video": false,
-        "vote_average": 7,
-        "vote_count": 3,
-        "popularity": 11.3652,
-        "PG": 17,
-        "release_quality": "4K",
-        "kinopoisk_id": "6458125",
-        "imdb_id": "tt34378301",
-        "status": "released",
-        "last_air_date": "2026-05-21",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Бойовик",
-          "Трилер"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 8.209113001823425
+  "duration": 4.4999459981918335
 }
