@@ -158,7 +158,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.857
         },
         "genres": [
           "Драма",
@@ -353,7 +353,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.167
         },
         "genres": [
           "Мультфільм",
@@ -423,7 +423,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
         "genre_ids": [
           9648,
           18,
@@ -668,7 +668,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -1174,7 +1175,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 7.722
+          "vote_average": 7.9
         },
         "genres": [
           "Мультфільм",
@@ -1293,7 +1294,7 @@
           "season_number": 3,
           "runtime": 93,
           "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.231
         },
         "genres": [
           "Драма"
@@ -1366,7 +1367,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
         "genre_ids": [
           9648,
           18,
@@ -2060,7 +2061,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.712
         },
         "genres": [
           "Мультфільм",
@@ -2179,7 +2180,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 6.7
+          "vote_average": 6.692
         },
         "genres": [
           "Драма"
@@ -2848,5 +2849,5 @@
       "premiere": 0
     }
   ],
-  "duration": 8.254716992378235
+  "duration": 6.255379915237427
 }
