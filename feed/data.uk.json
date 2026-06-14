@@ -320,7 +320,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.857
+          "vote_average": 7.9
         },
         "genres": [
           "Драма",
@@ -515,7 +515,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.167
+          "vote_average": 8.5
         },
         "genres": [
           "Мультфільм",
@@ -585,7 +585,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
         "genre_ids": [
           9648,
           18,
@@ -633,7 +633,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.938
         },
         "genres": [
           "Детектив",
@@ -830,7 +830,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -1455,7 +1456,7 @@
           "season_number": 3,
           "runtime": 93,
           "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
-          "vote_average": 7.231
+          "vote_average": 7.1
         },
         "genres": [
           "Драма"
@@ -1528,7 +1529,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
         "genre_ids": [
           9648,
           18,
@@ -1576,7 +1577,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/yfPAXLfe6YUnJ4EqpvuCk5irBWv.jpg",
-          "vote_average": 5.6
+          "vote_average": 5.586
         },
         "genres": [
           "Детектив",
@@ -1798,7 +1799,7 @@
           "World War II with Tom Hanks"
         ],
         "overview": "В сериале рассматривается Вторая мировая война, начиная с вторжения Германии в Польшу и заканчивая атомной эрой, анализируются ключевые сражения, лидеры военного времени, такие как Черчилль и Рузвельт, и человеческие жертвы тотальной войны.",
-        "poster_path": "/yOTuMOr3iACTrbm0w1OrCRSewEg.jpg",
+        "poster_path": "/MPN0glmZV3JnZfmXtKF32SRhDD.jpg",
         "first_air_date": "2026-05-25",
         "video": false,
         "vote_average": 0,
@@ -1979,7 +1980,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.909
         },
         "genres": [
           "Драма",
@@ -2097,7 +2098,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.071
         },
         "genres": [
           "Драма",
@@ -2341,7 +2342,7 @@
           "season_number": 3,
           "runtime": 78,
           "still_path": "/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg",
-          "vote_average": 6.692
+          "vote_average": 6.714
         },
         "genres": [
           "Драма"
@@ -2700,7 +2701,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/gMIvnKoLxE5BngLlDXaCoufFdOW.jpg",
-          "vote_average": 8.875
+          "vote_average": 8.731
         },
         "genres": [
           "Вестерн",
@@ -2828,5 +2829,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.4999459981918335
+  "duration": 6.184191942214966
 }
