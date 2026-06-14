@@ -2,6 +2,76 @@
   "secuses": true,
   "result": [
     {
+      "id": 2769,
+      "time": 1781436823179,
+      "card_id": "124364",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10765
+        ],
+        "id": 124364,
+        "original_language": "en",
+        "name": "Ззовні",
+        "original_name": "FROM",
+        "names": [
+          "Извне",
+          "From",
+          "Ззовні",
+          "FROM"
+        ],
+        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
+        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
+        "first_air_date": "2022-02-20",
+        "video": false,
+        "vote_average": 8.458,
+        "vote_count": 3565,
+        "popularity": 848.6014,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4476885",
+        "kp_rating": "7.6",
+        "imdb_id": "tt9813792",
+        "imdb_rating": "7.8",
+        "status": "returning series",
+        "last_air_date": "2026-06-14",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 10,
+          "4": 8
+        },
+        "episode": {
+          "air_date": "2026-06-14",
+          "episode_number": 8,
+          "name": "Серія 8",
+          "overview": "",
+          "season_number": 4,
+          "runtime": 58,
+          "still_path": "/2FWcI7UnbCUK6SGJXmonEg8aY6q.jpg",
+          "vote_average": 1.0
+        },
+        "genres": [
+          "Детектив",
+          "Драма",
+          "Науково фантастичний"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s4;e8",
+      "premiere": 0
+    },
+    {
       "id": 2768,
       "time": 1781431430445,
       "card_id": "270476",
@@ -108,7 +178,7 @@
           "season_number": 1,
           "runtime": 41,
           "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
-          "vote_average": 8.0
+          "vote_average": 8.5
         },
         "genres": [
           "Вестерн",
@@ -944,7 +1014,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.188
+          "vote_average": 9.3
         },
         "genres": [
           "Вестерн",
@@ -1633,7 +1703,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/yfPAXLfe6YUnJ4EqpvuCk5irBWv.jpg",
-          "vote_average": 5.586
+          "vote_average": 5.433
         },
         "genres": [
           "Детектив",
@@ -1754,7 +1824,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.773
+          "vote_average": 8.8
         },
         "genres": [
           "Вестерн",
@@ -2770,74 +2840,7 @@
       "type": "episode",
       "hash": "s1;e3",
       "premiere": 0
-    },
-    {
-      "id": 2719,
-      "time": 1779446892384,
-      "card_id": "241609",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 241609,
-        "original_language": "en",
-        "name": "Друзі та сусіди",
-        "original_name": "Your Friends & Neighbors",
-        "names": [
-          "Друзі та сусіди",
-          "Друзья и соседи",
-          "Друзья и Соседи",
-          "Your Friends & Neighbors",
-          "Your Friends and Neighbors"
-        ],
-        "overview": "Фінансовий титан раптово розлучається, втрачає роботу і, щоб уникнути банкрутства, починає грабувати багатих сусідів. Обкрадаючи людей зі свого соціального кола, він відчуває дивне піднесення — але поступово заплутується в смертоносному павутинні.",
-        "poster_path": "/xGURzoKwTw6B4rrOOiQLOEPNEE.jpg",
-        "first_air_date": "2025-04-10",
-        "video": false,
-        "vote_average": 7.623,
-        "vote_count": 219,
-        "popularity": 40.6913,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6600202",
-        "kp_rating": "7.5",
-        "imdb_id": "tt30459041",
-        "imdb_rating": "7.7",
-        "status": "returning series",
-        "last_air_date": "2026-05-22",
-        "seasons": {
-          "1": 9,
-          "2": 8
-        },
-        "episode": {
-          "air_date": "2026-05-21",
-          "episode_number": 8,
-          "name": "Без себе я розгублений",
-          "overview": "Мел і Торі стикаються з наслідками своїх дій. Сем намагається порвати з Ешем. Куп потрапляє між молотом і ковадлом.",
-          "season_number": 2,
-          "runtime": 57,
-          "still_path": "/r18w0RYSIqdEzaOyCaYFpIW8gNE.jpg",
-          "vote_average": 8.429
-        },
-        "genres": [
-          "Драма",
-          "Кримінал"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s2;e8",
-      "premiere": 0
     }
   ],
-  "duration": 6.211650967597961
+  "duration": 4.448913931846619
 }
