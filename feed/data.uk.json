@@ -2,6 +2,63 @@
   "secuses": true,
   "result": [
     {
+      "id": 2768,
+      "time": 1781431430445,
+      "card_id": "270476",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          35
+        ],
+        "id": 270476,
+        "original_language": "en",
+        "name": "Відоус-Бей",
+        "original_name": "Widow's Bay",
+        "names": [
+          "Відоус-Бей",
+          "Бухта вдов",
+          "Widow's Bay",
+          "Уидоус-Бэй",
+          "Widows Bay"
+        ],
+        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
+        "poster_path": "/r9LY3JmgL8CcUKDOEKQZHsOaIcP.jpg",
+        "first_air_date": "2026-04-28",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 132,
+        "popularity": 76.2118,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "6555657",
+        "kp_rating": "7.6",
+        "imdb_id": "tt33332385",
+        "status": "returning series",
+        "last_air_date": "2026-06-10",
+        "seasons": {
+          "1": 9
+        },
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Драма",
+          "Детектив",
+          "Комедія"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2767,
       "time": 1781346823171,
       "card_id": "299167",
@@ -320,7 +377,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.9
+          "vote_average": 7.75
         },
         "genres": [
           "Драма",
@@ -585,7 +642,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
         "genre_ids": [
           9648,
           18,
@@ -830,8 +887,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -1118,7 +1174,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.042
         },
         "genres": [
           "Драма",
@@ -1529,7 +1585,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
         "genre_ids": [
           9648,
           18,
@@ -1980,7 +2036,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.909
+          "vote_average": 7.9
         },
         "genres": [
           "Драма",
@@ -2781,53 +2837,7 @@
       "type": "episode",
       "hash": "s2;e8",
       "premiere": 0
-    },
-    {
-      "id": 2718,
-      "time": 1779436092369,
-      "card_id": "1667906",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/uoxuDza5meDgHFSBUlCfpvoIEQ7.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1667906,
-        "original_language": "en",
-        "title": "Mah e kochoolooye man",
-        "original_title": "Mah e kochoolooye man",
-        "names": [
-          "Моя маленькая луна",
-          "My Little Moon",
-          "Mah e kochoolooye man"
-        ],
-        "overview": "В разгар иранских протестов под лозунгом «Женщина, жизнь, свобода» подростки из Ирана и США знакомятся в сети. На фоне усиления напряжённости их виртуальная дружба становится для них спасательным кругом, даря надежду и силы не утонуть в океане страха и социальных потрясений.",
-        "poster_path": "/QTfTP87tnzcasyIcAZQufYE44c.jpg",
-        "release_date": "2026-04-17",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 0.1526,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "12005305",
-        "imdb_id": "tt26685977",
-        "imdb_rating": "7.8",
-        "status": "released",
-        "last_air_date": "2026-05-21",
-        "countries": [
-          "United States of America",
-          "Iran"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.184191942214966
+  "duration": 6.211650967597961
 }
