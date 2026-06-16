@@ -60,7 +60,7 @@
           "overview": "",
           "season_number": 9,
           "runtime": 23,
-          "still_path": "/wlnkMKVi98y5QPAVKd7gtQioc85.jpg",
+          "still_path": "/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
           "vote_average": 8.2
         },
         "genres": [
@@ -132,7 +132,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/2FWcI7UnbCUK6SGJXmonEg8aY6q.jpg",
-          "vote_average": 4.75
+          "vote_average": 4.708
         },
         "genres": [
           "Детектив",
@@ -1033,8 +1033,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -1179,7 +1178,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/n7WeIugzFXXkkCO6ps3GClKvn7V.jpg",
+        "backdrop_path": "/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
         "genre_ids": [
           27
         ],
@@ -2855,5 +2854,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.77066707611084
+  "duration": 6.690333127975464
 }
