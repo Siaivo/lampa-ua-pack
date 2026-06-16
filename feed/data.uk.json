@@ -59,9 +59,9 @@
           "name": "Серія 4",
           "overview": "",
           "season_number": 9,
-          "runtime": 21,
+          "runtime": 23,
           "still_path": "/wlnkMKVi98y5QPAVKd7gtQioc85.jpg",
-          "vote_average": 8.25
+          "vote_average": 8.2
         },
         "genres": [
           "Мультфільм",
@@ -127,12 +127,12 @@
         "episode": {
           "air_date": "2026-06-14",
           "episode_number": 8,
-          "name": "Серія 8",
-          "overview": "",
+          "name": "Важка та голова",
+          "overview": "Небезпечний план починає набувати реальних обрисів. На що готовий піти Бойд, аби повернути всіх додому? Фатіма та Генрі опиняються на двох дуже різних і тривожних роздоріжжях. Віктор допомагає Табіті та Ітану підготуватися до найгіршого.",
           "season_number": 4,
           "runtime": 58,
           "still_path": "/2FWcI7UnbCUK6SGJXmonEg8aY6q.jpg",
-          "vote_average": 4.1
+          "vote_average": 4.75
         },
         "genres": [
           "Детектив",
@@ -523,7 +523,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.75
+          "vote_average": 7.778
         },
         "genres": [
           "Драма",
@@ -718,7 +718,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.5
+          "vote_average": 8.4
         },
         "genres": [
           "Мультфільм",
@@ -836,7 +836,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.8
+          "vote_average": 5.9
         },
         "genres": [
           "Детектив",
@@ -1091,7 +1091,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.3
+          "vote_average": 9.1
         },
         "genres": [
           "Вестерн",
@@ -1158,7 +1158,7 @@
           "season_number": 2,
           "runtime": 56,
           "still_path": "/o3c6GyTORTJeWtW8nxNqqzxdELU.jpg",
-          "vote_average": 7.75
+          "vote_average": 7.786
         },
         "genres": [
           "Драма",
@@ -1321,7 +1321,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.042
+          "vote_average": 8.107
         },
         "genres": [
           "Драма",
@@ -1901,7 +1901,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.625
+          "vote_average": 8.6
         },
         "genres": [
           "Вестерн",
@@ -2183,7 +2183,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.885
+          "vote_average": 7.933
         },
         "genres": [
           "Драма",
@@ -2301,7 +2301,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 7.071
+          "vote_average": 7.172
         },
         "genres": [
           "Драма",
@@ -2855,5 +2855,5 @@
       "premiere": 0
     }
   ],
-  "duration": 8.318914890289307
+  "duration": 6.77066707611084
 }
