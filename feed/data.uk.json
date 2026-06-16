@@ -84,7 +84,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
         "genre_ids": [
           9648,
           18,
@@ -131,8 +131,8 @@
           "overview": "Небезпечний план починає набувати реальних обрисів. На що готовий піти Бойд, аби повернути всіх додому? Фатіма та Генрі опиняються на двох дуже різних і тривожних роздоріжжях. Віктор допомагає Табіті та Ітану підготуватися до найгіршого.",
           "season_number": 4,
           "runtime": 58,
-          "still_path": "/2FWcI7UnbCUK6SGJXmonEg8aY6q.jpg",
-          "vote_average": 4.708
+          "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
+          "vote_average": 4.7
         },
         "genres": [
           "Детектив",
@@ -788,7 +788,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
         "genre_ids": [
           9648,
           18,
@@ -1387,7 +1387,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+        "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
         "genre_ids": [
           27,
           9648,
@@ -1731,7 +1731,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
         "genre_ids": [
           9648,
           18,
@@ -2088,7 +2088,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/4k99kV4R1bbbrsnjR205v91Xbin.jpg",
+        "backdrop_path": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
         "genre_ids": [
           27
         ],
@@ -2300,7 +2300,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
-          "vote_average": 7.172
+          "vote_average": 7.2
         },
         "genres": [
           "Драма",
@@ -2425,7 +2425,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.685
         },
         "genres": [
           "Мультфільм",
@@ -2854,5 +2854,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.690333127975464
+  "duration": 7.263922929763794
 }
