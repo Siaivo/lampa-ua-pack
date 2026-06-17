@@ -132,7 +132,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.071
+          "vote_average": 5.1
         },
         "genres": [
           "Детектив",
@@ -907,7 +907,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
         "genre_ids": [
           28,
           14,
@@ -2854,5 +2854,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.338853120803833
+  "duration": 6.659405946731567
 }
