@@ -84,7 +84,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
         "genre_ids": [
           9648,
           18,
@@ -132,7 +132,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 4.7
+          "vote_average": 5.071
         },
         "genres": [
           "Детектив",
@@ -440,7 +440,7 @@
           "Пусть послужит вам уроком"
         ],
         "overview": "Коли в школах зникає повага, прибувають незвичайні інспектори, що наводять лад за допомогою жорстких безкомпромісних уроків, яких не знайти в підручниках.",
-        "poster_path": "/36BnxmIvWvOsMmlQfbI0ilTfuvh.jpg",
+        "poster_path": "/supW3Y9CjoPPBv6Ha3NOuPAV5ZV.jpg",
         "first_air_date": "2026-06-05",
         "video": false,
         "vote_average": 9.159,
@@ -566,7 +566,7 @@
           "Пусть послужит вам уроком"
         ],
         "overview": "Коли в школах зникає повага, прибувають незвичайні інспектори, що наводять лад за допомогою жорстких безкомпромісних уроків, яких не знайти в підручниках.",
-        "poster_path": "/36BnxmIvWvOsMmlQfbI0ilTfuvh.jpg",
+        "poster_path": "/supW3Y9CjoPPBv6Ha3NOuPAV5ZV.jpg",
         "first_air_date": "2026-06-05",
         "video": false,
         "vote_average": 9.159,
@@ -788,7 +788,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
         "genre_ids": [
           9648,
           18,
@@ -1033,7 +1033,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -1731,7 +1732,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
         "genre_ids": [
           9648,
           18,
@@ -2122,8 +2123,7 @@
           "United Kingdom"
         ],
         "genres": [
-          "Жахи",
-          "Трилер"
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -2854,5 +2854,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.263922929763794
+  "duration": 4.338853120803833
 }
