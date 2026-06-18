@@ -53,7 +53,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 9.5
+          "vote_average": 7.0
         },
         "genres": [
           "Драма",
@@ -321,7 +321,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.75
         },
         "genres": [
           "Вестерн",
@@ -425,6 +425,8 @@
         ],
         "genres": [
           "Бойовик",
+          "Пригоди",
+          "Детектив",
           "Фантастика",
           "Трилер"
         ]
@@ -590,7 +592,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.3
         },
         "genres": [
           "Драма",
@@ -1388,7 +1390,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.107
+          "vote_average": 8.2
         },
         "genres": [
           "Драма",
@@ -2190,7 +2192,8 @@
           "United Kingdom"
         ],
         "genres": [
-          "Жахи"
+          "Жахи",
+          "Трилер"
         ]
       },
       "type": "now_playing",
@@ -2249,7 +2252,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.75
+          "vote_average": 7.8
         },
         "genres": [
           "Драма",
@@ -2366,7 +2369,7 @@
           "overview": "",
           "season_number": 1,
           "runtime": 46,
-          "still_path": "/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
+          "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
           "vote_average": 7.2
         },
         "genres": [
@@ -2873,5 +2876,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.584284067153931
+  "duration": 6.451301097869873
 }
