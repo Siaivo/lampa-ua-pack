@@ -53,7 +53,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.667
         },
         "genres": [
           "Драма",
@@ -199,7 +199,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.1
+          "vote_average": 5.031
         },
         "genres": [
           "Детектив",
@@ -321,7 +321,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
-          "vote_average": 8.75
+          "vote_average": 8.929
         },
         "genres": [
           "Вестерн",
@@ -424,11 +424,9 @@
           "United States of America"
         ],
         "genres": [
-          "Бойовик",
-          "Пригоди",
-          "Детектив",
+          "Трилер",
           "Фантастика",
-          "Трилер"
+          "Бойовик"
         ]
       },
       "type": "now_playing",
@@ -592,7 +590,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.417
         },
         "genres": [
           "Драма",
@@ -1160,7 +1158,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.1
+          "vote_average": 9.136
         },
         "genres": [
           "Вестерн",
@@ -1970,7 +1968,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.731
         },
         "genres": [
           "Вестерн",
@@ -2876,5 +2874,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.451301097869873
+  "duration": 6.711127042770386
 }
