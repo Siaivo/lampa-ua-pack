@@ -2,6 +2,53 @@
   "secuses": true,
   "result": [
     {
+      "id": 2772,
+      "time": 1781787823353,
+      "card_id": "1219542",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/xIdshPSkYOPOwE3KZ54VM9LEsvM.jpg",
+        "genre_ids": [
+          12,
+          10751,
+          80
+        ],
+        "id": 1219542,
+        "original_language": "de",
+        "title": "Die drei ??? – Toteninsel",
+        "original_title": "Die drei ??? – Toteninsel",
+        "names": [
+          "Три сыщика: Проклятие Острова мёртвых",
+          "Die drei???: Toteninsel",
+          "Die drei ??? – Toteninsel"
+        ],
+        "overview": "Летние каникулы мечты отменяются! Юстус, Питер и Боб собирались в беззаботный дорожный путешествие, но вместо этого перешли дорогу могущественному тайному ордену. Идя по следу преступников, юные детективы оказываются на Макатао зловещем вулканическом острове, который местные прозвали Островом мёртвых. Смогут ли Три сыщика разгадать тайну древнего проклятия и выбраться из огненной ловушки живыми?",
+        "poster_path": "/cQy8PqmhwRKuSmyb9eFdUe55B9V.jpg",
+        "release_date": "2026-01-22",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 17,
+        "popularity": 1.4608,
+        "PG": 6,
+        "release_quality": "4K",
+        "imdb_id": "tt38908928",
+        "status": "released",
+        "last_air_date": "2026-06-18",
+        "countries": [
+          "Germany"
+        ],
+        "genres": [
+          "Пригоди",
+          "Сімейний",
+          "Кримінал"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2771,
       "time": 1781706823199,
       "card_id": "270476",
@@ -426,7 +473,7 @@
         "genres": [
           "Трилер",
           "Фантастика",
-          "Бойовик"
+          "Детектив"
         ]
       },
       "type": "now_playing",
@@ -590,7 +637,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.417
+          "vote_average": 7.538
         },
         "genres": [
           "Драма",
@@ -2818,61 +2865,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2722,
-      "time": 1779531502420,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонів",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонів",
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
-        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.4,
-        "vote_count": 89,
-        "popularity": 143.9946,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.8",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-05-22",
-        "seasons": {
-          "1": 3
-        },
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Вестерн",
-          "Драма"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.711127042770386
+  "duration": 5.316007852554321
 }
