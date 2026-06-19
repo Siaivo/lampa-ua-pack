@@ -2,6 +2,52 @@
   "secuses": true,
   "result": [
     {
+      "id": 2775,
+      "time": 1781878161773,
+      "card_id": "1501018",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/7ImZeJiXNcZYKruKEqMzyW3CwVL.jpg",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "id": 1501018,
+        "original_language": "fr",
+        "title": "Une famille de bâtards",
+        "original_title": "Une famille de bâtards",
+        "names": [
+          "Семейка Момо",
+          "Une Famille de Bâtards",
+          "Une famille de bâtards"
+        ],
+        "overview": "Париж, 1997 год. После покушения на отца Мохамед неожиданно узнаёт, что у него есть брат и сестра. Вместе им предстоит спасти семейный бар от долгов и местных бандитов. Криминальная комедия о неожиданных родственниках, семейных тайнах и втором шансе стать настоящей семьёй.",
+        "poster_path": "/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
+        "release_date": "2026-06-12",
+        "video": false,
+        "vote_average": 5.257,
+        "vote_count": 37,
+        "popularity": 34.5755,
+        "PG": 16,
+        "release_quality": "4K",
+        "imdb_id": "tt36963493",
+        "status": "released",
+        "last_air_date": "2026-06-17",
+        "countries": [
+          "France",
+          "United States of America"
+        ],
+        "genres": [
+          "Комедія",
+          "Кримінал"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2774,
       "time": 1781869159639,
       "card_id": "278178",
@@ -1616,7 +1662,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
         "genre_ids": [
           27,
           9648,
@@ -2836,54 +2882,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2725,
-      "time": 1779614636220,
-      "card_id": "1368881",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
-        "genre_ids": [
-          35
-        ],
-        "id": 1368881,
-        "original_language": "en",
-        "title": "Спочатку дами",
-        "original_title": "Ladies First",
-        "names": [
-          "Спочатку дами",
-          "Дамы вперёд",
-          "Ladies First",
-          "Дамы вперед",
-          "Сначала дамы"
-        ],
-        "overview": "Сповнене інтрижок заможне життя пихатого, але харизматичного дамського угодника стає з ніг на голову, коли він прокидається в паралельному світі, яким керують жінки.",
-        "poster_path": "/oZFIHKc8ULhpTpEdNtQpikuVoKK.jpg",
-        "release_date": "2026-05-21",
-        "video": false,
-        "vote_average": 5.7,
-        "vote_count": 20,
-        "popularity": 76.2,
-        "PG": 16,
-        "release_quality": "4K",
-        "kinopoisk_id": "12024538",
-        "imdb_id": "tt34611082",
-        "status": "released",
-        "last_air_date": "2026-05-24",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Комедія",
-          "Фентезі"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.219364881515503
+  "duration": 4.419611930847168
 }
