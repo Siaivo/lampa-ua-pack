@@ -55,7 +55,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "genre_ids": [
           18,
           9648,
@@ -100,7 +100,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.667
+          "vote_average": 7.813
         },
         "genres": [
           "Драма",
@@ -246,7 +246,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.031
+          "vote_average": 5.265
         },
         "genres": [
           "Детектив",
@@ -268,7 +268,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "genre_ids": [
           18,
           9648,
@@ -592,7 +592,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "genre_ids": [
           18,
           9648,
@@ -1390,7 +1390,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "genre_ids": [
           18,
           9648,
@@ -2252,7 +2252,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
         "genre_ids": [
           18,
           9648,
@@ -2297,7 +2297,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.8
+          "vote_average": 7.882
         },
         "genres": [
           "Драма",
@@ -2867,5 +2867,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.316007852554321
+  "duration": 6.188960075378418
 }
