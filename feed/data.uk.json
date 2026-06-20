@@ -576,7 +576,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.265
+          "vote_average": 5.444
         },
         "genres": [
           "Детектив",
@@ -698,7 +698,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
-          "vote_average": 8.9
+          "vote_average": 8.6
         },
         "genres": [
           "Вестерн",
@@ -2886,5 +2886,5 @@
       "premiere": 0
     }
   ],
-  "duration": 33.59284806251526
+  "duration": 6.0988850593566895
 }
