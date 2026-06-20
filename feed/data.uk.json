@@ -258,9 +258,9 @@
           "name": "Маємо надію, що вам тут сподобалося!",
           "overview": "Ми розуміємо, що довелося зробити важкий вибір, і ми вже не будемо такі, як були колись, але маємо надію, що ви знов до нас завітаєте!",
           "season_number": 1,
-          "runtime": 48,
+          "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.944
+          "vote_average": 8.0
         },
         "genres": [
           "Драма",
@@ -528,7 +528,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
-          "vote_average": 8.929
+          "vote_average": 8.9
         },
         "genres": [
           "Вестерн",
@@ -631,9 +631,8 @@
           "United States of America"
         ],
         "genres": [
-          "Трилер",
           "Фантастика",
-          "Детектив"
+          "Трилер"
         ]
       },
       "type": "now_playing",
@@ -1365,7 +1364,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.136
+          "vote_average": 9.1
         },
         "genres": [
           "Вестерн",
@@ -2175,7 +2174,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.731
+          "vote_average": 8.7
         },
         "genres": [
           "Вестерн",
@@ -2397,8 +2396,7 @@
           "United Kingdom"
         ],
         "genres": [
-          "Жахи",
-          "Трилер"
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -2457,7 +2455,7 @@
           "season_number": 1,
           "runtime": 43,
           "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.882
+          "vote_average": 7.889
         },
         "genres": [
           "Драма",
@@ -2884,5 +2882,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.419611930847168
+  "duration": 6.682111978530884
 }
