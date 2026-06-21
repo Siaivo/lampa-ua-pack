@@ -99,7 +99,7 @@
           "name": "Серія 7",
           "overview": "",
           "season_number": 1,
-          "runtime": 40,
+          "runtime": 42,
           "still_path": "/s4kz19IA4SuzywWtiaAuPmED0mu.jpg",
           "vote_average": 9.0
         },
@@ -719,7 +719,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+        "backdrop_path": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
         "genre_ids": [
           28,
           80
@@ -862,7 +862,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+        "backdrop_path": "/fOV6dJGG6EghbeXkU7RVQpDhFyp.jpg",
         "genre_ids": [
           10759,
           18,
@@ -988,7 +988,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+        "backdrop_path": "/fOV6dJGG6EghbeXkU7RVQpDhFyp.jpg",
         "genre_ids": [
           10759,
           18,
@@ -1831,7 +1831,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+        "backdrop_path": "/ckgd8xG6PnuMSbNg3sfY7QRzN9f.jpg",
         "genre_ids": [
           27,
           9648,
@@ -2344,7 +2344,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.75
         },
         "genres": [
           "Вестерн",
@@ -2744,7 +2744,7 @@
           "season_number": 1,
           "runtime": 46,
           "still_path": "/62nhkhbQJjuxei1bI7Xu8mFtkAb.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.226
         },
         "genres": [
           "Драма",
@@ -2886,5 +2886,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.0988850593566895
+  "duration": 5.918508052825928
 }
