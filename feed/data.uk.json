@@ -2,6 +2,77 @@
   "secuses": true,
   "result": [
     {
+      "id": 2780,
+      "time": 1782121160689,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дім дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "Члени дому Тарґарієнів залишають приречену Валірію і відправляються на захід, де знаходять величезну територію, населену ворогуючими королівствами.",
+        "poster_path": "/yaGOa7I9xIug8qsw7vXzkeMZ1mb.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 6047,
+        "popularity": 132.5104,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-06-22",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 1
+        },
+        "episode": {
+          "air_date": "2026-06-21",
+          "episode_number": 1,
+          "name": "Серія 1",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 66,
+          "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
+          "vote_average": 4.9
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e1",
+      "premiere": 0
+    },
+    {
       "id": 2779,
       "time": 1782049159678,
       "card_id": "124364",
@@ -56,7 +127,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/95qRpGinaXgHmyhQy9UvsO48Jmb.jpg",
-          "vote_average": 5.857
+          "vote_average": 4.7
         },
         "genres": [
           "Детектив",
@@ -646,7 +717,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.762
+          "vote_average": 5.2
         },
         "genres": [
           "Детектив",
@@ -789,7 +860,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
+        "backdrop_path": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
         "genre_ids": [
           28,
           80
@@ -1348,8 +1419,8 @@
           "overview": "У міру того, як на світло випливає тривожна історія Табіти та Джейд, ситуація для ще одного мешканця містечка починає ускладнюватися. Бойд хоче перевірити небезпечну гіпотезу.",
           "season_number": 4,
           "runtime": 51,
-          "still_path": "/bjpXAN7BJP9X9iUjsFYsk1Qy7rw.jpg",
-          "vote_average": 5.9
+          "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
+          "vote_average": 5.3
         },
         "genres": [
           "Детектив",
@@ -1604,7 +1675,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.125
+          "vote_average": 9.1
         },
         "genres": [
           "Вестерн",
@@ -1901,7 +1972,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/ckgd8xG6PnuMSbNg3sfY7QRzN9f.jpg",
+        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
         "genre_ids": [
           27,
           9648,
@@ -2293,7 +2364,7 @@
           "season_number": 4,
           "runtime": 52,
           "still_path": "/yfPAXLfe6YUnJ4EqpvuCk5irBWv.jpg",
-          "vote_average": 5.7
+          "vote_average": 5.4
         },
         "genres": [
           "Детектив",
@@ -2828,57 +2899,7 @@
       "type": "episode",
       "hash": "s1;e8",
       "premiere": 0
-    },
-    {
-      "id": 2730,
-      "time": 1779876796250,
-      "card_id": "295532",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/vXtuye0TbQ97E3q4B1qPrTxiOvq.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 295532,
-        "original_language": "en",
-        "name": "Dear England",
-        "original_name": "Dear England",
-        "names": [
-          "Дорогая Англия",
-          "Dear England"
-        ],
-        "overview": "Гарет Саутгейт возглавляет сборную Англии по футболу в момент глубокого кризиса. Команда, обремененная серией болезненных поражений и мировым антирекордом по пенальти, нуждается в перезагрузке. Тренеру предстоит изменить психологию игроков и вернуть нации утраченную футбольную гордость и славу.",
-        "poster_path": "/8gNZM8tRj1HIxl5SxOlTD3TStsl.jpg",
-        "first_air_date": "2026-05-24",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 3.3828,
-        "PG": 0,
-        "release_quality": "webrip",
-        "origin_country": [
-          "GB"
-        ],
-        "kinopoisk_id": "12539569",
-        "imdb_id": "tt31433766",
-        "imdb_rating": "8.0",
-        "status": "returning series",
-        "last_air_date": "2026-05-25",
-        "seasons": {
-          "1": 2
-        },
-        "countries": [
-          "United Kingdom"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.628754138946533
+  "duration": 8.567146062850952
 }
