@@ -56,7 +56,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/95qRpGinaXgHmyhQy9UvsO48Jmb.jpg",
-          "vote_average": 5.2
+          "vote_average": 5.857
         },
         "genres": [
           "Детектив",
@@ -500,12 +500,12 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 8.045
+          "vote_average": 8.042
         },
         "genres": [
           "Драма",
-          "Детектив",
-          "Комедія"
+          "Комедія",
+          "Детектив"
         ],
         "countries": [
           "United States of America"
@@ -646,7 +646,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.7
+          "vote_average": 5.762
         },
         "genres": [
           "Детектив",
@@ -710,8 +710,8 @@
         ],
         "genres": [
           "Драма",
-          "Детектив",
-          "Комедія"
+          "Комедія",
+          "Детектив"
         ]
       },
       "type": "now_playing",
@@ -1040,8 +1040,8 @@
         },
         "genres": [
           "Драма",
-          "Детектив",
-          "Комедія"
+          "Комедія",
+          "Детектив"
         ],
         "countries": [
           "United States of America"
@@ -1231,7 +1231,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.4
+          "vote_average": 8.409
         },
         "genres": [
           "Мультфільм",
@@ -1348,7 +1348,7 @@
           "overview": "У міру того, як на світло випливає тривожна історія Табіти та Джейд, ситуація для ще одного мешканця містечка починає ускладнюватися. Бойд хоче перевірити небезпечну гіпотезу.",
           "season_number": 4,
           "runtime": 51,
-          "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
+          "still_path": "/bjpXAN7BJP9X9iUjsFYsk1Qy7rw.jpg",
           "vote_average": 5.9
         },
         "genres": [
@@ -1706,7 +1706,7 @@
           "Hokum"
         ],
         "overview": "Письменник романів жахів Ом Бауман приїжджає до ірландського готелю, щоб розвіяти прах своїх батьків, не підозрюючи, що в цьому місці, за чутками, мешкає відьма. З наближенням ночі він стикається з незрозумілими явищами та таємницями минулого, які поступово розкривають зловісну природу цього віддаленого куточка.",
-        "poster_path": "/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+        "poster_path": "/rNsDR3UURU8Ow6eNfxUtIFh7zmt.jpg",
         "release_date": "2026-04-29",
         "video": false,
         "vote_average": 6.9,
@@ -1834,12 +1834,12 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.188
+          "vote_average": 8.176
         },
         "genres": [
           "Драма",
-          "Детектив",
-          "Комедія"
+          "Комедія",
+          "Детектив"
         ],
         "countries": [
           "United States of America"
@@ -2053,7 +2053,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.154
         },
         "genres": [
           "Мультфільм",
@@ -2700,8 +2700,8 @@
         },
         "genres": [
           "Драма",
-          "Детектив",
-          "Комедія"
+          "Комедія",
+          "Детектив"
         ],
         "countries": [
           "United States of America"
@@ -2880,5 +2880,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.353021860122681
+  "duration": 6.628754138946533
 }
