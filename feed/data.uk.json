@@ -61,7 +61,7 @@
           "season_number": 9,
           "runtime": 22,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 8.5
+          "vote_average": 7.875
         },
         "genres": [
           "Мультфільм",
@@ -133,7 +133,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 4.9
+          "vote_average": 6.396
         },
         "genres": [
           "Науково фантастичний",
@@ -318,7 +318,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/s4kz19IA4SuzywWtiaAuPmED0mu.jpg",
-          "vote_average": 9.0
+          "vote_average": 9.143
         },
         "genres": [
           "Вестерн",
@@ -647,7 +647,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 8.042
+          "vote_average": 7.885
         },
         "genres": [
           "Драма",
@@ -915,7 +915,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.75
         },
         "genres": [
           "Вестерн",
@@ -1183,7 +1183,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.538
+          "vote_average": 7.467
         },
         "genres": [
           "Драма",
@@ -1378,7 +1378,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.409
+          "vote_average": 8.4
         },
         "genres": [
           "Мультфільм",
@@ -1496,7 +1496,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.3
+          "vote_average": 5.4
         },
         "genres": [
           "Детектив",
@@ -1526,14 +1526,15 @@
         ],
         "id": 1471224,
         "original_language": "fr",
-        "title": "Le Crime du 3e étage",
+        "title": "Вбивство на 3-му поверсі",
         "original_title": "Le Crime du 3e étage",
         "names": [
+          "Вбивство на 3-му поверсі",
           "Преступление на третьем этаже",
           "Le crime du 3e étage",
           "Le Crime du 3e étage"
         ],
-        "overview": "Франсуа пишет захватывающие детективы, но его реальная жизнь скучна и однообразна. Его жена Колетт мечтает об остроте чувств, показывая студентам хичкоковский кинематограф. Но всё меняется, когда Коллет начинает подозревать соседа в убийстве жены. Размеренная жизнь пары летит кувырком, а их выдохшиеся отношения внезапно оживают.",
+        "overview": "Колетт, захоплена фанатка фільмів Гічкока, підозрює, що новий сусід вбив свою дружину. Франсуа, її чоловік і відомий автор трилерів, не в захваті від її ідей. Пара починає захопливе і ризиковане розслідування, щоб з'ясувати, чи справді в їхньому будинку сталося вбивство!",
         "poster_path": "/5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
         "release_date": "2026-03-11",
         "video": false,
@@ -1981,7 +1982,7 @@
           "season_number": 1,
           "runtime": 34,
           "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.176
+          "vote_average": 8.278
         },
         "genres": [
           "Драма",
@@ -2913,5 +2914,5 @@
       "premiere": 0
     }
   ],
-  "duration": 11.45691704750061
+  "duration": 6.85605001449585
 }
