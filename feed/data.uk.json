@@ -2,6 +2,57 @@
   "secuses": true,
   "result": [
     {
+      "id": 2782,
+      "time": 1782232763688,
+      "card_id": "1084244",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          35,
+          12
+        ],
+        "id": 1084244,
+        "original_language": "en",
+        "title": "Історія іграшок 5",
+        "original_title": "Toy Story 5",
+        "names": [
+          "Історія іграшок 5",
+          "История игрушек 5",
+          "Toy Story 5"
+        ],
+        "overview": "У новому розділі культової історії Базз, Вуді, Джессі та їхні друзі зіштовхуються з неочікуваною суперницею — Ліліпад, високотехнологічним планшетом у формі жабки, що перевертає їхній світ догори дриґом. Вона стає справжнім випробуванням для старих героїв, змушуючи їх знову об’єднатися, щоб врятувати улюблений світ дитинства. Тим часом до команди приєднується новий кумедний герой — Смарті Пентс — іграшка, що має привчати малюків до горщика.",
+        "poster_path": "/lqW1DxFiUt6FKIdUllYKm1VRiZq.jpg",
+        "release_date": "2026-06-17",
+        "video": false,
+        "vote_average": 7.511,
+        "vote_count": 219,
+        "popularity": 345.7913,
+        "PG": 6,
+        "release_quality": "ts",
+        "kinopoisk_id": "5424947",
+        "kp_rating": "7.4",
+        "imdb_id": "tt29355505",
+        "status": "released",
+        "last_air_date": "2026-06-19",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Мультфільм",
+          "Сімейний",
+          "Комедія",
+          "Пригоди"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2781,
       "time": 1782139159657,
       "card_id": "60625",
@@ -133,7 +184,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 6.4
+          "vote_average": 7.0
         },
         "genres": [
           "Науково фантастичний",
@@ -198,12 +249,12 @@
         "episode": {
           "air_date": "2026-06-21",
           "episode_number": 9,
-          "name": "Серія 9",
-          "overview": "",
+          "name": "Затишшя перед...",
+          "overview": "Мешканці містечка опинилися на роздоріжжі, якого вони ще ніколи не бачили, оскільки Бойд втілює в життя сміливий і небезпечний план.",
           "season_number": 4,
           "runtime": 47,
           "still_path": "/95qRpGinaXgHmyhQy9UvsO48Jmb.jpg",
-          "vote_average": 5.7
+          "vote_average": 5.4
         },
         "genres": [
           "Детектив",
@@ -318,7 +369,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/s4kz19IA4SuzywWtiaAuPmED0mu.jpg",
-          "vote_average": 9.143
+          "vote_average": 9.1
         },
         "genres": [
           "Вестерн",
@@ -915,7 +966,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/oiZzteUTrSJhUjZTPN4MtrWtl1a.jpg",
-          "vote_average": 8.75
+          "vote_average": 8.8
         },
         "genres": [
           "Вестерн",
@@ -1079,7 +1130,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/fOV6dJGG6EghbeXkU7RVQpDhFyp.jpg",
+        "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "genre_ids": [
           10759,
           18,
@@ -1205,7 +1256,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/fOV6dJGG6EghbeXkU7RVQpDhFyp.jpg",
+        "backdrop_path": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
         "genre_ids": [
           10759,
           18,
@@ -1496,7 +1547,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/8eQRB3j2hRoXUzZsWlGpWoUKvVV.jpg",
-          "vote_average": 5.231
+          "vote_average": 5.2
         },
         "genres": [
           "Детектив",
@@ -1694,8 +1745,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -1752,7 +1802,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.1
+          "vote_average": 9.2
         },
         "genres": [
           "Вестерн",
@@ -2276,7 +2326,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+        "backdrop_path": "/aJN0VtMbtYndK0M0XoaoKBoAzPu.jpg",
         "genre_ids": [
           18
         ],
@@ -2858,61 +2908,7 @@
       "type": "episode",
       "hash": "s1;e7",
       "premiere": 0
-    },
-    {
-      "id": 2732,
-      "time": 1779956983259,
-      "card_id": "220102",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
-        "genre_ids": [
-          10759,
-          80,
-          9648
-        ],
-        "id": 220102,
-        "original_language": "en",
-        "name": "Павук-Нуар",
-        "original_name": "Spider-Noir",
-        "names": [
-          "Павук-Нуар",
-          "Паук-Нуар",
-          "Spider-Noir"
-        ],
-        "overview": "Постарілий приватний детектив і невдаха в Нью-Йорку 1930-х років змушений зіштовхнутися зі своїм минулим, коли він був єдиним у місті супергероєм.",
-        "poster_path": "/1H8R4CQVu3gXpiemZxyADaaxAkF.jpg",
-        "first_air_date": "2026-05-25",
-        "video": false,
-        "vote_average": 8,
-        "vote_count": 2,
-        "popularity": 34.0962,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "5698586",
-        "imdb_id": "tt30460310",
-        "status": "returning series",
-        "last_air_date": "2026-05-27",
-        "seasons": {
-          "1": 8
-        },
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Драма",
-          "Детектив",
-          "Кримінал"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.55498194694519
+  "duration": 7.6560750007629395
 }
