@@ -231,7 +231,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.167
+          "vote_average": 7.0
         },
         "genres": [
           "Науково фантастичний",
@@ -1633,7 +1633,7 @@
           "Le Crime du 3e étage"
         ],
         "overview": "Колетт, захоплена фанатка фільмів Гічкока, підозрює, що новий сусід вбив свою дружину. Франсуа, її чоловік і відомий автор трилерів, не в захваті від її ідей. Пара починає захопливе і ризиковане розслідування, щоб з'ясувати, чи справді в їхньому будинку сталося вбивство!",
-        "poster_path": "/5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
+        "poster_path": "/kQRtuJ0ybDk5inwt9VBiySJHmmQ.jpg",
         "release_date": "2026-03-11",
         "video": false,
         "vote_average": 6.583,
@@ -2891,5 +2891,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.285607814788818
+  "duration": 3.6102349758148193
 }
