@@ -2,6 +2,53 @@
   "secuses": true,
   "result": [
     {
+      "id": 2783,
+      "time": 1782292159794,
+      "card_id": "614945",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+        "genre_ids": [
+          10749,
+          35
+        ],
+        "id": 614945,
+        "original_language": "en",
+        "title": "Повідомлення до Ізабелі",
+        "original_title": "Voicemails for Isabelle",
+        "names": [
+          "Повідомлення до Ізабелі",
+          "Сообщения для Изабель",
+          "Voicemails for Isabelle"
+        ],
+        "overview": "Надзвичайно відверті голосові повідомлення молодої жінки покійній сестрі випадково перенаправляються незнайомцю, який починає закохуватися в неї на відстані.",
+        "poster_path": "/1Qbv2z09GDjTD3Xm3C7xbd6HABu.jpg",
+        "release_date": "2026-06-20",
+        "video": false,
+        "vote_average": 6.625,
+        "vote_count": 8,
+        "popularity": 7.7539,
+        "PG": 13,
+        "release_quality": "4K",
+        "kinopoisk_id": "12465988",
+        "kp_rating": "7.8",
+        "imdb_id": "tt10375624",
+        "status": "released",
+        "last_air_date": "2026-06-20",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Мелодрама",
+          "Комедія"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2782,
       "time": 1782232763688,
       "card_id": "1084244",
@@ -135,7 +182,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/cR3EoEBdMTh7qUeYWULLXYW40by.jpg",
+        "backdrop_path": "/h37hqVLmCW00ImewLAHT1DadOky.jpg",
         "genre_ids": [
           10765,
           18,
@@ -184,7 +231,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.097
+          "vote_average": 7.167
         },
         "genres": [
           "Науково фантастичний",
@@ -369,7 +416,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/s4kz19IA4SuzywWtiaAuPmED0mu.jpg",
-          "vote_average": 9.125
+          "vote_average": 9.1
         },
         "genres": [
           "Вестерн",
@@ -1745,7 +1792,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -2841,74 +2889,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2733,
-      "time": 1779980382137,
-      "card_id": "270476",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          35
-        ],
-        "id": 270476,
-        "original_language": "en",
-        "name": "Відоус-Бей",
-        "original_name": "Widow's Bay",
-        "names": [
-          "Відоус-Бей",
-          "Бухта вдов",
-          "Widow's Bay",
-          "Уидоус-Бэй",
-          "Widows Bay"
-        ],
-        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
-        "poster_path": "/r9LY3JmgL8CcUKDOEKQZHsOaIcP.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.351,
-        "vote_count": 74,
-        "popularity": 50.795,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6555657",
-        "kp_rating": "7.8",
-        "imdb_id": "tt33332385",
-        "status": "returning series",
-        "last_air_date": "2026-05-27",
-        "seasons": {
-          "1": 7
-        },
-        "episode": {
-          "air_date": "2026-05-26",
-          "episode_number": 7,
-          "name": "Морська хвороба",
-          "overview": "Вирушайте в море з мером Лофтісом і шанованою місцевою особою Віком! Вони там у справах — краще просто насолоджуватися подорожжю.",
-          "season_number": 1,
-          "runtime": 43,
-          "still_path": "/lOmUL2aEjzmqk5UoZGylPPgPWoH.jpg",
-          "vote_average": 7.889
-        },
-        "genres": [
-          "Драма",
-          "Комедія",
-          "Детектив"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e7",
-      "premiere": 0
     }
   ],
-  "duration": 4.442721128463745
+  "duration": 6.285607814788818
 }
