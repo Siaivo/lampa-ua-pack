@@ -110,9 +110,9 @@
           "name": "Серія 5",
           "overview": "",
           "season_number": 9,
-          "runtime": 22,
+          "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 7.875
+          "vote_average": 8.3
         },
         "genres": [
           "Мультфільм",
@@ -135,7 +135,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "backdrop_path": "/cR3EoEBdMTh7qUeYWULLXYW40by.jpg",
         "genre_ids": [
           10765,
           18,
@@ -184,7 +184,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.097
         },
         "genres": [
           "Науково фантастичний",
@@ -369,7 +369,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/s4kz19IA4SuzywWtiaAuPmED0mu.jpg",
-          "vote_average": 9.1
+          "vote_average": 9.125
         },
         "genres": [
           "Вестерн",
@@ -698,7 +698,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.885
+          "vote_average": 7.964
         },
         "genres": [
           "Драма",
@@ -2369,7 +2369,7 @@
           "overview": "",
           "season_number": 3,
           "runtime": 93,
-          "still_path": "/lUEO2hUElwsGyPcEmf1Z34xywyZ.jpg",
+          "still_path": "/asmuTZNYmsKOzWPOS3CwIk63xjw.jpg",
           "vote_average": 7.1
         },
         "genres": [
@@ -2612,7 +2612,7 @@
           "season_number": 1,
           "runtime": 47,
           "still_path": "/te8KbkC5ekTltyJy3HkVYhjuJst.jpg",
-          "vote_average": 8.75
+          "vote_average": 8.8
         },
         "genres": [
           "Вестерн",
@@ -2910,5 +2910,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.6560750007629395
+  "duration": 4.442721128463745
 }
