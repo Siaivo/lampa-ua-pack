@@ -159,7 +159,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 8.083
+          "vote_average": 8.214
         },
         "genres": [
           "Мультфільм",
@@ -182,7 +182,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
         "genre_ids": [
           10765,
           18,
@@ -226,12 +226,12 @@
         "episode": {
           "air_date": "2026-06-21",
           "episode_number": 1,
-          "name": "Серія 1",
-          "overview": "",
+          "name": "Сіль і море, вогонь і кров",
+          "overview": "Керуючись вірою в Алісент, Рейніра готується захопити Королівську Гавань, тоді як Тріархія вирушає в море, щоб дати бій Корлісу в затоці Галлет.",
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 6.784
+          "vote_average": 6.8
         },
         "genres": [
           "Науково фантастичний",
@@ -820,7 +820,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.333
         },
         "genres": [
           "Мультфільм",
@@ -2891,5 +2891,5 @@
       "premiere": 0
     }
   ],
-  "duration": 33.94160485267639
+  "duration": 9.177583932876587
 }
