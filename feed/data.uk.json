@@ -1952,7 +1952,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
         "genre_ids": [
           28,
           14,
@@ -1960,15 +1960,14 @@
         ],
         "id": 454639,
         "original_language": "en",
-        "title": "Володарі Всесвіту",
+        "title": "Властелины вселенной",
         "original_title": "Masters of the Universe",
         "names": [
-          "Володарі Всесвіту",
           "Властелины вселенной",
           "Masters of the Universe"
         ],
-        "overview": "Молодий чоловік на Землі відкриває для себе фантастичну таємну спадщину як принц іншої планети й повинен віднайти чарівний меч і повернутися додому, щоб захистити своє королівство.",
-        "poster_path": "/lU8i7M8nYCCXJhzHPRZt8UUWqoq.jpg",
+        "overview": "Адам, 10-летний принц с планеты Этерния, терпит крушение на космическом корабле и попадает на Землю. Спустя 15 лет принц отправляется на родную планету, которая теперь находится под гнётом Скелетора. Чтобы одолеть опасного противника, Адаму предстоит раскрыть своё прошлое, объединить силы с союзниками и стать Хи-Меном — самым могущественным человеком во Вселенной.",
+        "poster_path": "/u0SxcVBFf9c5PFt9i12RYSLoQf.jpg",
         "release_date": "2026-06-03",
         "video": false,
         "vote_average": 7.4,
@@ -1981,11 +1980,11 @@
         "status": "released",
         "last_air_date": "2026-06-05",
         "countries": [
-          "United States of America"
+          "США"
         ],
         "genres": [
-          "Бойовик",
-          "Фентезі",
+          "Боевик",
+          "Фэнтези",
           "Фантастика"
         ]
       },
@@ -2078,8 +2077,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -2136,7 +2134,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.067
+          "vote_average": 9.1
         },
         "genres": [
           "Вестерн",
@@ -2897,5 +2895,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.266558885574341
+  "duration": 6.690519094467163
 }
