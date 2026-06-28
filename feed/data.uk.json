@@ -173,7 +173,7 @@
           "season_number": 1,
           "runtime": 45,
           "still_path": "/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg",
-          "vote_average": 9.0
+          "vote_average": 9.25
         },
         "genres": [
           "Вестерн",
@@ -246,7 +246,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/112sW296vEx3d71C8fzOqoFIomN.jpg",
+        "backdrop_path": "/5dE3rixgMUTXOQLuO3zya4zSFav.jpg",
         "genre_ids": [
           80,
           18,
@@ -445,7 +445,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 8.2
+          "vote_average": 8.438
         },
         "genres": [
           "Мультфільм",
@@ -468,7 +468,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "backdrop_path": "/h37hqVLmCW00ImewLAHT1DadOky.jpg",
         "genre_ids": [
           10765,
           18,
@@ -517,7 +517,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 6.9
+          "vote_average": 7.183
         },
         "genres": [
           "Науково фантастичний",
@@ -587,7 +587,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/95qRpGinaXgHmyhQy9UvsO48Jmb.jpg",
-          "vote_average": 5.8
+          "vote_average": 6.0
         },
         "genres": [
           "Детектив",
@@ -868,7 +868,7 @@
           "season_number": 1,
           "runtime": 36,
           "still_path": "/TOs0PsDUEz8mlo3XKAIBKQ0SOW.jpg",
-          "vote_average": 7.5
+          "vote_average": 6.9
         },
         "genres": [
           "Драма",
@@ -1636,7 +1636,7 @@
           "season_number": 1,
           "runtime": 61,
           "still_path": "/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg",
-          "vote_average": 8.8
+          "vote_average": 8.667
         },
         "genres": [
           "Екшн і Пригоди",
@@ -1952,7 +1952,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
         "genre_ids": [
           28,
           14,
@@ -1960,14 +1960,15 @@
         ],
         "id": 454639,
         "original_language": "en",
-        "title": "Властелины вселенной",
+        "title": "Володарі Всесвіту",
         "original_title": "Masters of the Universe",
         "names": [
+          "Володарі Всесвіту",
           "Властелины вселенной",
           "Masters of the Universe"
         ],
-        "overview": "Адам, 10-летний принц с планеты Этерния, терпит крушение на космическом корабле и попадает на Землю. Спустя 15 лет принц отправляется на родную планету, которая теперь находится под гнётом Скелетора. Чтобы одолеть опасного противника, Адаму предстоит раскрыть своё прошлое, объединить силы с союзниками и стать Хи-Меном — самым могущественным человеком во Вселенной.",
-        "poster_path": "/u0SxcVBFf9c5PFt9i12RYSLoQf.jpg",
+        "overview": "Молодий чоловік на Землі відкриває для себе фантастичну таємну спадщину як принц іншої планети й повинен віднайти чарівний меч і повернутися додому, щоб захистити своє королівство.",
+        "poster_path": "/lU8i7M8nYCCXJhzHPRZt8UUWqoq.jpg",
         "release_date": "2026-06-03",
         "video": false,
         "vote_average": 7.4,
@@ -1980,11 +1981,11 @@
         "status": "released",
         "last_air_date": "2026-06-05",
         "countries": [
-          "США"
+          "United States of America"
         ],
         "genres": [
-          "Боевик",
-          "Фэнтези",
+          "Бойовик",
+          "Фентезі",
           "Фантастика"
         ]
       },
@@ -2077,7 +2078,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -2895,5 +2897,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.690519094467163
+  "duration": 6.83268404006958
 }
