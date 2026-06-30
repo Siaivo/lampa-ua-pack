@@ -2804,7 +2804,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+        "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
         "genre_ids": [
           27,
           9648,
@@ -2897,5 +2897,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.089503765106201
+  "duration": 4.2381062507629395
 }
