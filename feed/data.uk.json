@@ -126,7 +126,7 @@
           "season_number": 1,
           "runtime": 52,
           "still_path": "/lW1Vr1Rh9rJxernr8EFKg7BPl94.jpg",
-          "vote_average": 8.2
+          "vote_average": 7.875
         },
         "genres": [
           "Драма",
@@ -147,7 +147,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/hBwCiqcaXtxmhv5xZ0H6Uhd2L1E.jpg",
+        "backdrop_path": "/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
         "genre_ids": [
           28,
           12,
@@ -245,7 +245,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 6.1
+          "vote_average": 7.0
         },
         "genres": [
           "Науково фантастичний",
@@ -315,7 +315,7 @@
           "season_number": 4,
           "runtime": 50,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 3.8
+          "vote_average": 4.389
         },
         "genres": [
           "Детектив",
@@ -337,7 +337,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+        "backdrop_path": "/sbQ3laeMPGNcKoeNguC2f7rSxWT.jpg",
         "genre_ids": [
           35
         ],
@@ -712,7 +712,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+        "backdrop_path": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
         "genre_ids": [
           16,
           10751,
@@ -888,7 +888,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.25
         },
         "genres": [
           "Науково фантастичний",
@@ -958,7 +958,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.8
+          "vote_average": 6.0
         },
         "genres": [
           "Детектив",
@@ -2897,5 +2897,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.317844867706299
+  "duration": 9.402044773101807
 }
