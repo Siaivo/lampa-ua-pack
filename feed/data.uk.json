@@ -61,7 +61,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.5
+          "vote_average": 8.333
         },
         "genres": [
           "Мультфільм",
@@ -888,7 +888,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.25
+          "vote_average": 7.2
         },
         "genres": [
           "Науково фантастичний",
@@ -958,7 +958,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 6.0
+          "vote_average": 5.786
         },
         "genres": [
           "Детектив",
@@ -2897,5 +2897,5 @@
       "premiere": 0
     }
   ],
-  "duration": 9.402044773101807
+  "duration": 6.089503765106201
 }
