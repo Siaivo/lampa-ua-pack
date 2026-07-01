@@ -245,7 +245,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.224
+          "vote_average": 7.2
         },
         "genres": [
           "Науково фантастичний",
@@ -313,7 +313,7 @@
           "name": "Серія 10",
           "overview": "",
           "season_number": 4,
-          "runtime": 50,
+          "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
           "vote_average": 4.4
         },
@@ -414,8 +414,9 @@
           "United Kingdom"
         ],
         "genres": [
-          "Комедія",
+          "Пригоди",
           "Детектив",
+          "Комедія",
           "Сімейний"
         ]
       },
@@ -958,7 +959,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.862
+          "vote_average": 5.9
         },
         "genres": [
           "Детектив",
@@ -2897,5 +2898,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.243661880493164
+  "duration": 8.320069313049316
 }
