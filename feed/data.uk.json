@@ -125,8 +125,8 @@
           "overview": "До Макса навідується людина з минулого. Анна розслідує, хто така Невея. У Томовій новій справі виникають ускладнення.",
           "season_number": 1,
           "runtime": 52,
-          "still_path": "/lW1Vr1Rh9rJxernr8EFKg7BPl94.jpg",
-          "vote_average": 7.9
+          "still_path": "/es5WAd84BuHp05SfboYDdzv1GsI.jpg",
+          "vote_average": 8.1
         },
         "genres": [
           "Драма",
@@ -245,7 +245,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.203
         },
         "genres": [
           "Науково фантастичний",
@@ -310,12 +310,12 @@
         "episode": {
           "air_date": "2026-06-28",
           "episode_number": 10,
-          "name": "Серія 10",
-          "overview": "",
+          "name": "Якщо в лісі падає дерево",
+          "overview": "Подорож Бойда, спрямована на те, щоб привести мешканців додому, доходить до жахливого роздоріжжя, і відтепер уже ніщо не буде таким, як раніше.",
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 4.4
+          "vote_average": 4.632
         },
         "genres": [
           "Детектив",
@@ -545,7 +545,7 @@
           "season_number": 1,
           "runtime": 45,
           "still_path": "/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg",
-          "vote_average": 9.2
+          "vote_average": 8.167
         },
         "genres": [
           "Вестерн",
@@ -713,7 +713,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+        "backdrop_path": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
         "genre_ids": [
           16,
           10751,
@@ -1403,7 +1403,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.7
+          "vote_average": 7.868
         },
         "genres": [
           "Драма",
@@ -1939,7 +1939,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.556
         },
         "genres": [
           "Драма",
@@ -2508,7 +2508,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.1
+          "vote_average": 9.063
         },
         "genres": [
           "Вестерн",
@@ -2898,5 +2898,5 @@
       "premiere": 0
     }
   ],
-  "duration": 8.320069313049316
+  "duration": 4.889208793640137
 }
