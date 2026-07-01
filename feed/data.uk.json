@@ -61,7 +61,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.333
+          "vote_average": 8.3
         },
         "genres": [
           "Мультфільм",
@@ -126,7 +126,7 @@
           "season_number": 1,
           "runtime": 52,
           "still_path": "/lW1Vr1Rh9rJxernr8EFKg7BPl94.jpg",
-          "vote_average": 7.875
+          "vote_average": 7.9
         },
         "genres": [
           "Драма",
@@ -245,7 +245,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.0
+          "vote_average": 7.224
         },
         "genres": [
           "Науково фантастичний",
@@ -315,7 +315,7 @@
           "season_number": 4,
           "runtime": 50,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 4.389
+          "vote_average": 4.4
         },
         "genres": [
           "Детектив",
@@ -337,7 +337,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/sbQ3laeMPGNcKoeNguC2f7rSxWT.jpg",
+        "backdrop_path": "/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
         "genre_ids": [
           35
         ],
@@ -712,7 +712,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
         "genre_ids": [
           16,
           10751,
@@ -958,7 +958,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.786
+          "vote_average": 5.862
         },
         "genres": [
           "Детектив",
@@ -1477,7 +1477,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
-          "vote_average": 8.333
+          "vote_average": 8.3
         },
         "genres": [
           "Мультфільм",
@@ -2133,7 +2133,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.375
+          "vote_average": 8.4
         },
         "genres": [
           "Мультфільм",
@@ -2897,5 +2897,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.2381062507629395
+  "duration": 7.243661880493164
 }
