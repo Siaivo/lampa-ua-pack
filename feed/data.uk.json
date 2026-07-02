@@ -2,6 +2,61 @@
   "secuses": true,
   "result": [
     {
+      "id": 2795,
+      "time": 1782929702818,
+      "card_id": "286360",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/oBJ6dZ6A1tY1O94RmWnJkkQVbLz.jpg",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "id": 286360,
+        "original_language": "ko",
+        "name": "Записки з останнього ряду",
+        "original_name": "맨 끝줄 소년",
+        "names": [
+          "Записки з останнього ряду",
+          "Студент на последнем ряду",
+          "Maen kkeutjul sonyeon",
+          "Notes from the Last Row / The Boy in the Last Row",
+          "맨 끝줄 소년"
+        ],
+        "overview": "Викладач помічає талант студента й пропонує йому уроки письменницької майстерності. Але що глибше він занурюється в історію, то більше заняття виходять з-під контролю.",
+        "poster_path": "/xSSp3JHoZFxc69aeFtc9JTgVMeu.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1,
+        "popularity": 7.5856,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "8067299",
+        "imdb_id": "tt36270432",
+        "imdb_rating": "7.5",
+        "status": "ended",
+        "last_air_date": "2026-06-28",
+        "seasons": {
+          "1": 6
+        },
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Детектив",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2794,
       "time": 1782753598747,
       "card_id": "60625",
@@ -61,7 +116,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.3
+          "vote_average": 8.25
         },
         "genres": [
           "Мультфільм",
@@ -245,7 +300,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.203
+          "vote_average": 7.288
         },
         "genres": [
           "Науково фантастичний",
@@ -315,7 +370,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 4.632
+          "vote_average": 4.9
         },
         "genres": [
           "Детектив",
@@ -479,7 +534,7 @@
           "season_number": 2,
           "runtime": 69,
           "still_path": "/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg",
-          "vote_average": 8.0
+          "vote_average": 8.429
         },
         "genres": [
           "Екшн і Пригоди",
@@ -889,7 +944,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.288
         },
         "genres": [
           "Науково фантастичний",
@@ -1074,7 +1129,7 @@
           "season_number": 1,
           "runtime": 41,
           "still_path": "/yFnrtYornkPUnAcRc3rFcQ6RgYz.jpg",
-          "vote_average": 9.0
+          "vote_average": 8.75
         },
         "genres": [
           "Вестерн",
@@ -1240,7 +1295,7 @@
           "season_number": 1,
           "runtime": 36,
           "still_path": "/TOs0PsDUEz8mlo3XKAIBKQ0SOW.jpg",
-          "vote_average": 6.9
+          "vote_average": 6.25
         },
         "genres": [
           "Драма",
@@ -2450,8 +2505,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -2847,56 +2901,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2745,
-      "time": 1780467249713,
-      "card_id": "1662414",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
-        "genre_ids": [
-          12,
-          18,
-          10751
-        ],
-        "id": 1662414,
-        "original_language": "en",
-        "title": "Пропелер у нічному небі",
-        "original_title": "Propeller One-Way Night Coach",
-        "names": [
-          "Пропелер у нічному небі",
-          "Пропеллер: Ночной рейс в один конец",
-          "Propeller One-Way Night Coach",
-          "Ночной полет на винтовом самолете"
-        ],
-        "overview": "У золоту добу авіації юний любитель літаків і його мати вирушають у подорож через усю країну до Голлівуду. Цей звичайний переліт стає пригодою всього життя.",
-        "poster_path": "/fORDye7ppKR6hleyGM3yOHzOIeW.jpg",
-        "release_date": "2026-05-15",
-        "video": false,
-        "vote_average": 6,
-        "vote_count": 1,
-        "popularity": 1.8252,
-        "PG": 12,
-        "release_quality": "4K",
-        "kinopoisk_id": "11843361",
-        "imdb_id": "tt41367695",
-        "status": "released",
-        "last_air_date": "2026-05-30",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Пригоди",
-          "Драма",
-          "Сімейний"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 4.889208793640137
+  "duration": 6.712178707122803
 }
