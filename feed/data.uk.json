@@ -116,7 +116,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.25
+          "vote_average": 8.4
         },
         "genres": [
           "Мультфільм",
@@ -251,7 +251,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/h37hqVLmCW00ImewLAHT1DadOky.jpg",
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "genre_ids": [
           10765,
           18,
@@ -895,7 +895,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/h37hqVLmCW00ImewLAHT1DadOky.jpg",
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "genre_ids": [
           10765,
           18,
@@ -1458,7 +1458,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.868
+          "vote_average": 7.929
         },
         "genres": [
           "Драма",
@@ -2903,5 +2903,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.712178707122803
+  "duration": 6.234521865844727
 }
