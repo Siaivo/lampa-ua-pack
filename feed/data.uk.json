@@ -350,7 +350,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.118
+          "vote_average": 7.1
         },
         "genres": [
           "Науково фантастичний",
@@ -650,7 +650,7 @@
           "season_number": 1,
           "runtime": 45,
           "still_path": "/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.1
         },
         "genres": [
           "Вестерн",
@@ -1776,7 +1776,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/bvgUV0WmbnrCQvl6uqVZG3muaDp.jpg",
-          "vote_average": 8.654
+          "vote_average": 8.7
         },
         "genres": [
           "Вестерн",
@@ -2555,8 +2555,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -2904,5 +2903,5 @@
       "premiere": 0
     }
   ],
-  "duration": 7.081025123596191
+  "duration": 5.214466094970703
 }
