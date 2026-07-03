@@ -113,7 +113,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/8aCek7W6BovH7M4enWjqrGptvQ8.jpg",
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
         "genre_ids": [
           16,
           35,
@@ -166,7 +166,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.4
+          "vote_average": 8.429
         },
         "genres": [
           "Мультфільм",
@@ -350,7 +350,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.118
         },
         "genres": [
           "Науково фантастичний",
@@ -650,7 +650,7 @@
           "season_number": 1,
           "runtime": 45,
           "still_path": "/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg",
-          "vote_average": 8.625
+          "vote_average": 8.6
         },
         "genres": [
           "Вестерн",
@@ -869,7 +869,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/8aCek7W6BovH7M4enWjqrGptvQ8.jpg",
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
         "genre_ids": [
           16,
           35,
@@ -994,7 +994,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.357
+          "vote_average": 7.366
         },
         "genres": [
           "Науково фантастичний",
@@ -1530,7 +1530,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/8aCek7W6BovH7M4enWjqrGptvQ8.jpg",
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
         "genre_ids": [
           16,
           35,
@@ -2186,7 +2186,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/8aCek7W6BovH7M4enWjqrGptvQ8.jpg",
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
         "genre_ids": [
           16,
           35,
@@ -2555,7 +2555,8 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія"
+          "Комедія",
+          "Жахи"
         ]
       },
       "type": "now_playing",
@@ -2903,5 +2904,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.702131271362305
+  "duration": 7.081025123596191
 }
