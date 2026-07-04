@@ -2,6 +2,116 @@
   "secuses": true,
   "result": [
     {
+      "id": 2798,
+      "time": 1783154703030,
+      "card_id": "1310677",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1310677,
+        "original_language": "ko",
+        "title": "하나 코리아",
+        "original_title": "하나 코리아",
+        "names": [
+          "Покидая Северную Корею",
+          "Hana Korea",
+          "하나 코리아"
+        ],
+        "overview": "Хе-сон бежит в Южную Корею с одной целью — заработать деньги для больной матери. Здесь её ждёт не только долгожданная свобода, но и новые правила, незнакомые люди и высокие ожидания общества. Девушка не теряет надежды и готова бороться за место под солнцем.",
+        "poster_path": "/fy83JSOatI4XPG5M9Sj4ezVkRNA.jpg",
+        "release_date": "2026-07-08",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0,
+        "popularity": 4.1952,
+        "PG": 0,
+        "release_quality": "webdl",
+        "kinopoisk_id": "11701242",
+        "imdb_id": "tt33344480",
+        "imdb_rating": "7.0",
+        "status": "released",
+        "last_air_date": "2026-06-29",
+        "countries": [
+          "South Korea",
+          "Denmark"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2797,
+      "time": 1783147501751,
+      "card_id": "299167",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "id": 299167,
+        "original_language": "en",
+        "name": "Ранчо Даттонів",
+        "original_name": "Dutton Ranch",
+        "names": [
+          "Ранчо Даттонів",
+          "Ранчо Даттонов",
+          "Dutton Ranch",
+          "The Dutton Ranch"
+        ],
+        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
+        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
+        "first_air_date": "2026-05-15",
+        "video": false,
+        "vote_average": 9.282,
+        "vote_count": 335,
+        "popularity": 231.5716,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "7275308",
+        "kp_rating": "8.5",
+        "imdb_id": "tt34991493",
+        "status": "returning series",
+        "last_air_date": "2026-07-03",
+        "seasons": {
+          "1": 9
+        },
+        "episode": {
+          "air_date": "2026-07-03",
+          "episode_number": 9,
+          "name": "Серія 9",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 59,
+          "still_path": "/tzlA6pW657XmVoIi1D2B5B1j81K.jpg",
+          "vote_average": 10.0
+        },
+        "genres": [
+          "Вестерн",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e9",
+      "premiere": 0
+    },
+    {
       "id": 2796,
       "time": 1782994501699,
       "card_id": "1202033",
@@ -2555,8 +2665,7 @@
           "United States of America"
         ],
         "genres": [
-          "Комедія",
-          "Жахи"
+          "Комедія"
         ]
       },
       "type": "now_playing",
@@ -2790,119 +2899,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2748,
-      "time": 1780510722722,
-      "card_id": "270476",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          35
-        ],
-        "id": 270476,
-        "original_language": "en",
-        "name": "Відоус-Бей",
-        "original_name": "Widow's Bay",
-        "names": [
-          "Відоус-Бей",
-          "Бухта вдов",
-          "Widow's Bay",
-          "Уидоус-Бэй",
-          "Widows Bay"
-        ],
-        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
-        "poster_path": "/r9LY3JmgL8CcUKDOEKQZHsOaIcP.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.26,
-        "vote_count": 102,
-        "popularity": 60.665,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6555657",
-        "kp_rating": "7.7",
-        "imdb_id": "tt33332385",
-        "status": "returning series",
-        "last_air_date": "2026-06-03",
-        "seasons": {
-          "1": 8
-        },
-        "episode": {
-          "air_date": "2026-06-02",
-          "episode_number": 8,
-          "name": "Ваш багаж",
-          "overview": "Не переживайте про загублений багаж. У Відоус-Бей старий багаж завжди знаходиться.",
-          "season_number": 1,
-          "runtime": 34,
-          "still_path": "/eh3wez62jJ79krAvtgWLRVStUZj.jpg",
-          "vote_average": 8.375
-        },
-        "genres": [
-          "Драма",
-          "Комедія",
-          "Детектив"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e8",
-      "premiere": 0
-    },
-    {
-      "id": 2747,
-      "time": 1780501722683,
-      "card_id": "1232667",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/fH4pbzTCP1EWbZ1BoCtx7lgRb1F.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1232667,
-        "original_language": "en",
-        "title": "Сумую за тобою, люблю тебе",
-        "original_title": "Miss You, Love You",
-        "names": [
-          "Сумую за тобою, люблю тебе",
-          "Люблю, скучаю",
-          "Miss You, Love You",
-          "Скучаю по тебе, люблю тебя"
-        ],
-        "overview": "Вдова організовує похорон свого чоловіка. Її відчужений син замість того, щоб приїхати самому, надсилає свою помічницю. Вдова переживає горе разом із нею.",
-        "poster_path": "/2f7d9ybamv0QIJn0odsh1dwRuxS.jpg",
-        "release_date": "2026-05-29",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0,
-        "popularity": 1.4661,
-        "PG": 0,
-        "release_quality": "4K",
-        "kinopoisk_id": "12499636",
-        "imdb_id": "tt30343126",
-        "status": "released",
-        "last_air_date": "2026-05-30",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Драма"
-        ]
-      },
-      "type": "uhd",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.926137924194336
+  "duration": 5.121969699859619
 }
