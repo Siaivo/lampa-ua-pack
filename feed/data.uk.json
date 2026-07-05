@@ -2,6 +2,75 @@
   "secuses": true,
   "result": [
     {
+      "id": 2803,
+      "time": 1783255502361,
+      "card_id": "125988",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 125988,
+        "original_language": "en",
+        "name": "Таємниця бункера",
+        "original_name": "Silo",
+        "names": [
+          "Таємниця бункера",
+          "Бункер",
+          "Silo",
+          "Укрытие",
+          "Таємниця бункера / Бункер",
+          "Wool"
+        ],
+        "overview": "У занапащеному й небезпечному майбутньому тисячі людей живуть у великому підземному бункері. Коли шериф порушує його основоположне правило, а жителі гинуть за загадкових обставин, інженер Джулієт береться розкривати приголомшливі таємниці й правду про бункер.",
+        "poster_path": "/fjo0lVGHPHJS2CqrXOyZN379BXK.jpg",
+        "first_air_date": "2023-05-04",
+        "video": false,
+        "vote_average": 8.164,
+        "vote_count": 2122,
+        "popularity": 64.7131,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "4541515",
+        "kp_rating": "7.8",
+        "imdb_id": "tt14688458",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-05",
+        "seasons": {
+          "1": 10,
+          "2": 10,
+          "3": 2
+        },
+        "episode": {
+          "air_date": "2026-07-09",
+          "episode_number": 2,
+          "name": "Усе нормально",
+          "overview": "Біллінґс розслідує зникнення. Деніел Кін встряє в суперечку з журналісткою.",
+          "season_number": 3,
+          "runtime": 52,
+          "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
+          "vote_average": 2.8
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e2",
+      "premiere": 0
+    },
+    {
       "id": 2802,
       "time": 1783235702376,
       "card_id": "253960",
@@ -26,7 +95,7 @@
           "Gas Ningen / Human Vapor"
         ],
         "overview": "Смерть у прямому ефірі. Злочинець, що перетворюється на газ. Таємний проєкт, що використовує і позбувається уразливих людей. Детектив намагається розкрити похмуру правду.",
-        "poster_path": "/sCyaMdzj1I9d0j8Ns0SjOM1FV7a.jpg",
+        "poster_path": "/2qwdD7CiLLscPZijVbRsCXILQwY.jpg",
         "first_air_date": "2026-07-02",
         "video": false,
         "vote_average": 7.8,
@@ -225,7 +294,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 4.958
+          "vote_average": 5.346
         },
         "genres": [
           "Науково фантастичний",
@@ -514,7 +583,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.667
         },
         "genres": [
           "Мультфільм",
@@ -720,7 +789,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
         "genre_ids": [
           9648,
           18,
@@ -768,7 +837,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 5.327
+          "vote_average": 5.196
         },
         "genres": [
           "Детектив",
@@ -867,7 +936,6 @@
           "United Kingdom"
         ],
         "genres": [
-          "Пригоди",
           "Детектив",
           "Комедія",
           "Сімейний"
@@ -1270,7 +1338,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 8.389
+          "vote_average": 8.25
         },
         "genres": [
           "Мультфільм",
@@ -1364,7 +1432,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
         "genre_ids": [
           9648,
           18,
@@ -1412,7 +1480,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.862
+          "vote_average": 5.797
         },
         "genres": [
           "Детектив",
@@ -1954,7 +2022,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
         "genre_ids": [
           9648,
           18,
@@ -2002,7 +2070,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.161
+          "vote_average": 5.097
         },
         "genres": [
           "Детектив",
@@ -2657,7 +2725,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
         "genre_ids": [
           9648,
           18,
@@ -2705,7 +2773,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/7DNvyGJsTHXX6rqjdlqcc7f7flN.jpg",
-          "vote_average": 5.226
+          "vote_average": 5.161
         },
         "genres": [
           "Детектив",
@@ -2863,54 +2931,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2753,
-      "time": 1780729071826,
-      "card_id": "1273221",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-        "genre_ids": [
-          35
-        ],
-        "id": 1273221,
-        "original_language": "en",
-        "title": "Дуже страшне кіно",
-        "original_title": "Scary Movie",
-        "names": [
-          "Дуже страшне кіно",
-          "Очень страшное кино 6",
-          "Scary Movie 6",
-          "Очень страшное кино",
-          "Scary Movie"
-        ],
-        "overview": "Через двадцять шість років після втечі від підозріло знайомого вбивці в масці, «Основна четвірка» знову опиняється під прицілом маніяка — і кожна горор-франшиза в небезпеці.",
-        "poster_path": "/qB2efCLrUQO8Ngz0fpUGFluVoSY.jpg",
-        "release_date": "2026-06-03",
-        "video": false,
-        "vote_average": 5.5,
-        "vote_count": 26,
-        "popularity": 71.9313,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "5506641",
-        "imdb_id": "tt32093575",
-        "status": "released",
-        "last_air_date": "2026-06-04",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Комедія",
-          "Жахи"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 8.130617141723633
+  "duration": 4.739144325256348
 }
