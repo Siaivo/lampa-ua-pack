@@ -2,6 +2,64 @@
   "secuses": true,
   "result": [
     {
+      "id": 2802,
+      "time": 1783235702376,
+      "card_id": "253960",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/qIMNDToguvTIaVReD8GgeDgfXVr.jpg",
+        "genre_ids": [
+          10765,
+          80
+        ],
+        "id": 253960,
+        "original_language": "ja",
+        "name": "Людина-пара",
+        "original_name": "ガス人間",
+        "names": [
+          "Людина-пара",
+          "Газовый человек",
+          "Gas Ningen",
+          "Human Vapor",
+          "ガス人間",
+          "Gas Ningen / Human Vapor"
+        ],
+        "overview": "Смерть у прямому ефірі. Злочинець, що перетворюється на газ. Таємний проєкт, що використовує і позбувається уразливих людей. Детектив намагається розкрити похмуру правду.",
+        "poster_path": "/sCyaMdzj1I9d0j8Ns0SjOM1FV7a.jpg",
+        "first_air_date": "2026-07-02",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 5,
+        "popularity": 80.0844,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "JP",
+          "KR"
+        ],
+        "kinopoisk_id": "6099853",
+        "imdb_id": "tt33083249",
+        "imdb_rating": "7.0",
+        "status": "ended",
+        "last_air_date": "2026-07-04",
+        "seasons": {
+          "1": 8
+        },
+        "countries": [
+          "South Korea",
+          "Japan"
+        ],
+        "genres": [
+          "Науково фантастичний",
+          "Кримінал"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2801,
       "time": 1783183503959,
       "card_id": "277439",
@@ -167,7 +225,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 3.95
+          "vote_average": 4.958
         },
         "genres": [
           "Науково фантастичний",
@@ -277,7 +335,7 @@
           "season_number": 1,
           "runtime": 60,
           "still_path": "/tzlA6pW657XmVoIi1D2B5B1j81K.jpg",
-          "vote_average": 9.5
+          "vote_average": 9.333
         },
         "genres": [
           "Вестерн",
@@ -640,7 +698,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.384
+          "vote_average": 7.3
         },
         "genres": [
           "Науково фантастичний",
@@ -1284,7 +1342,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.427
+          "vote_average": 7.5
         },
         "genres": [
           "Науково фантастичний",
@@ -1944,7 +2002,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.3
+          "vote_average": 5.161
         },
         "genres": [
           "Детектив",
@@ -2647,7 +2705,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/7DNvyGJsTHXX6rqjdlqcc7f7flN.jpg",
-          "vote_average": 5.367
+          "vote_average": 5.226
         },
         "genres": [
           "Детектив",
@@ -2852,71 +2910,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2752,
-      "time": 1780689467679,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонів",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонів",
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
-        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.4,
-        "vote_count": 173,
-        "popularity": 159.4967,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.6",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-06-05",
-        "seasons": {
-          "1": 5
-        },
-        "episode": {
-          "air_date": "2026-06-05",
-          "episode_number": 5,
-          "name": "Серія 5",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 53,
-          "still_path": "/cL67jgTGcFd8yGdAAI3dfXwdvXJ.jpg",
-          "vote_average": 9.1
-        },
-        "genres": [
-          "Вестерн",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e5",
-      "premiere": 0
     }
   ],
-  "duration": 6.4442057609558105
+  "duration": 8.130617141723633
 }
