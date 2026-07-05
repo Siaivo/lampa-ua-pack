@@ -275,9 +275,9 @@
           "name": "Серія 9",
           "overview": "",
           "season_number": 1,
-          "runtime": 59,
+          "runtime": 60,
           "still_path": "/tzlA6pW657XmVoIi1D2B5B1j81K.jpg",
-          "vote_average": 10.0
+          "vote_average": 9.5
         },
         "genres": [
           "Вестерн",
@@ -456,7 +456,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.625
+          "vote_average": 8.6
         },
         "genres": [
           "Мультфільм",
@@ -640,7 +640,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.384
         },
         "genres": [
           "Науково фантастичний",
@@ -710,7 +710,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 5.313
+          "vote_average": 5.327
         },
         "genres": [
           "Детектив",
@@ -940,7 +940,7 @@
           "season_number": 1,
           "runtime": 45,
           "still_path": "/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg",
-          "vote_average": 8.1
+          "vote_average": 8.2
         },
         "genres": [
           "Вестерн",
@@ -1284,7 +1284,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.397
+          "vote_average": 7.427
         },
         "genres": [
           "Науково фантастичний",
@@ -1354,7 +1354,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.862
         },
         "genres": [
           "Детектив",
@@ -1753,7 +1753,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
         "genre_ids": [
           18,
           9648,
@@ -1798,7 +1798,7 @@
           "season_number": 1,
           "runtime": 49,
           "still_path": "/2IBA5wRp0xtYhiAPfgsPA8jLsB2.jpg",
-          "vote_average": 7.929
+          "vote_average": 7.891
         },
         "genres": [
           "Драма",
@@ -1966,7 +1966,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
         "genre_ids": [
           18,
           9648,
@@ -2289,7 +2289,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
         "genre_ids": [
           18,
           9648,
@@ -2334,7 +2334,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.65
+          "vote_average": 7.545
         },
         "genres": [
           "Драма",
@@ -2529,7 +2529,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.269
+          "vote_average": 8.3
         },
         "genres": [
           "Мультфільм",
@@ -2647,7 +2647,7 @@
           "season_number": 4,
           "runtime": 51,
           "still_path": "/7DNvyGJsTHXX6rqjdlqcc7f7flN.jpg",
-          "vote_average": 5.4
+          "vote_average": 5.367
         },
         "genres": [
           "Детектив",
@@ -2918,5 +2918,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.237698078155518
+  "duration": 6.4442057609558105
 }
