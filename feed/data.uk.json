@@ -294,7 +294,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 5.346
+          "vote_average": 5.679
         },
         "genres": [
           "Науково фантастичний",
@@ -460,8 +460,7 @@
         "genres": [
           "Пригоди",
           "Кримінал",
-          "Детектив",
-          "Бойовик"
+          "Детектив"
         ]
       },
       "type": "uhd",
@@ -762,12 +761,12 @@
         "episode": {
           "air_date": "2026-06-28",
           "episode_number": 2,
-          "name": "Серія 2",
-          "overview": "",
+          "name": "Пристань королеви",
+          "overview": "Поки Алісент ризикує всім, щоб виконати свою частину угоди, Рейніра мусить вирішити, чи вартий Залізний Трон таких жертв.",
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.315
         },
         "genres": [
           "Науково фантастичний",
@@ -837,7 +836,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 5.196
+          "vote_average": 5.371
         },
         "genres": [
           "Детектив",
@@ -1410,7 +1409,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.494
         },
         "genres": [
           "Науково фантастичний",
@@ -1480,7 +1479,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.797
+          "vote_average": 5.8
         },
         "genres": [
           "Детектив",
@@ -1593,9 +1592,9 @@
           "name": "Серія 7",
           "overview": "",
           "season_number": 1,
-          "runtime": 41,
+          "runtime": 42,
           "still_path": "/yFnrtYornkPUnAcRc3rFcQ6RgYz.jpg",
-          "vote_average": 8.8
+          "vote_average": 8.5
         },
         "genres": [
           "Вестерн",
@@ -1999,7 +1998,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
-          "vote_average": 8.429
+          "vote_average": 8.333
         },
         "genres": [
           "Мультфільм",
@@ -2529,7 +2528,7 @@
           "season_number": 1,
           "runtime": 61,
           "still_path": "/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg",
-          "vote_average": 8.7
+          "vote_average": 8.429
         },
         "genres": [
           "Екшн і Пригоди",
@@ -2655,7 +2654,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.3
+          "vote_average": 8.036
         },
         "genres": [
           "Мультфільм",
@@ -2933,5 +2932,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.739144325256348
+  "duration": 7.591423988342285
 }
