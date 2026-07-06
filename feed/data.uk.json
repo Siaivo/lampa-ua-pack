@@ -2,6 +2,134 @@
   "secuses": true,
   "result": [
     {
+      "id": 2807,
+      "time": 1783345505353,
+      "card_id": "296206",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 296206,
+        "original_language": "ko",
+        "name": "Агент Кім: Реактивація",
+        "original_name": "김부장",
+        "names": [
+          "Агент Кім: Реактивація",
+          "Менеджер Ким",
+          "Kim bujang",
+          "Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким возобновил свою деятельность.",
+          "김부장",
+          "Агент Ким возобновил свою деятельность"
+        ],
+        "overview": "Коли в скромного чоловіка зникає донька, він згадує навички із часів участі в спецопераціях, щоб відшукати її, але привертає до себе небажану увагу.",
+        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 13,
+        "popularity": 224.5247,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "9027270",
+        "imdb_id": "tt42127457",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-05",
+        "seasons": {
+          "1": 4
+        },
+        "episode": {
+          "air_date": "2026-07-04",
+          "episode_number": 4,
+          "name": "Серія 4",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 61,
+          "still_path": "/8FuIiSK8fnTQny1DrOTe5jp4MB2.jpg",
+          "vote_average": 0.0
+        },
+        "genres": [
+          "Екшн і Пригоди",
+          "Кримінал",
+          "Драма"
+        ],
+        "countries": [
+          "South Korea"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e4",
+      "premiere": 0
+    },
+    {
+      "id": 2806,
+      "time": 1783343706503,
+      "card_id": "296206",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 296206,
+        "original_language": "ko",
+        "name": "Агент Кім: Реактивація",
+        "original_name": "김부장",
+        "names": [
+          "Агент Кім: Реактивація",
+          "Менеджер Ким",
+          "Kim bujang",
+          "Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким возобновил свою деятельность.",
+          "김부장",
+          "Агент Ким возобновил свою деятельность"
+        ],
+        "overview": "Коли в скромного чоловіка зникає донька, він згадує навички із часів участі в спецопераціях, щоб відшукати її, але привертає до себе небажану увагу.",
+        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 13,
+        "popularity": 224.5247,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "9027270",
+        "imdb_id": "tt42127457",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-05",
+        "seasons": {
+          "1": 4
+        },
+        "countries": [
+          "South Korea"
+        ],
+        "genres": [
+          "Екшн і Пригоди",
+          "Кримінал",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2805,
       "time": 1783327502563,
       "card_id": "94997",
@@ -56,8 +184,8 @@
           "overview": "",
           "season_number": 3,
           "runtime": 56,
-          "still_path": "/7W7IzIQdEKJdbWNgxIQ413TFG14.jpg",
-          "vote_average": 4.6
+          "still_path": "/lsbACWH0s4tjAbEckCGcXUFRST2.jpg",
+          "vote_average": 5.4
         },
         "genres": [
           "Науково фантастичний",
@@ -302,7 +430,7 @@
           "season_number": 1,
           "runtime": 56,
           "still_path": "/zA6WWkrhSoJjJuFhB0MvGXiDVLO.jpg",
-          "vote_average": 6.667
+          "vote_average": 6.875
         },
         "genres": [
           "Драма",
@@ -2841,127 +2969,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2757,
-      "time": 1780842823100,
-      "card_id": "124364",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
-        "genre_ids": [
-          9648,
-          18,
-          10765
-        ],
-        "id": 124364,
-        "original_language": "en",
-        "name": "Ззовні",
-        "original_name": "FROM",
-        "names": [
-          "Извне",
-          "From",
-          "Ззовні",
-          "FROM"
-        ],
-        "overview": "Події серіалу відбуваються в містичному містечку, розташованому в центральній частині США. Всі, хто потрапляють туди, опиняються в пастці. Мимовільні жителі борются за збереження залишків здорового глузду та шукають вихід з кошмарної ситуації, адже щоночі їм доводиться переживати напад жахливих створінь, які виходять із заходом сонця з довколишнього лісу.",
-        "poster_path": "/rvlPBfIm6CUQTGorQvf6wK8lPDH.jpg",
-        "first_air_date": "2022-02-20",
-        "video": false,
-        "vote_average": 8.442,
-        "vote_count": 3473,
-        "popularity": 692.8228,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "4476885",
-        "kp_rating": "7.6",
-        "imdb_id": "tt9813792",
-        "imdb_rating": "7.8",
-        "status": "returning series",
-        "last_air_date": "2026-06-07",
-        "seasons": {
-          "1": 10,
-          "2": 10,
-          "3": 10,
-          "4": 7
-        },
-        "episode": {
-          "air_date": "2026-06-07",
-          "episode_number": 7,
-          "name": "Найкращі плани",
-          "overview": "У міру того, як на світло випливає тривожна історія Табіти та Джейд, ситуація для ще одного мешканця містечка починає ускладнюватися. Бойд хоче перевірити небезпечну гіпотезу.",
-          "season_number": 4,
-          "runtime": 51,
-          "still_path": "/7DNvyGJsTHXX6rqjdlqcc7f7flN.jpg",
-          "vote_average": 5.161
-        },
-        "genres": [
-          "Детектив",
-          "Драма",
-          "Науково фантастичний"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s4;e7",
-      "premiere": 0
-    },
-    {
-      "id": 2756,
-      "time": 1780822667809,
-      "card_id": "1471224",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/tPgWgSS9LndIJaL8b0vYjWigLqE.jpg",
-        "genre_ids": [
-          35,
-          18,
-          80
-        ],
-        "id": 1471224,
-        "original_language": "fr",
-        "title": "Вбивство на 3-му поверсі",
-        "original_title": "Le Crime du 3e étage",
-        "names": [
-          "Вбивство на 3-му поверсі",
-          "Преступление на третьем этаже",
-          "Le crime du 3e étage",
-          "Le Crime du 3e étage"
-        ],
-        "overview": "Колетт, захоплена фанатка фільмів Гічкока, підозрює, що новий сусід вбив свою дружину. Франсуа, її чоловік і відомий автор трилерів, не в захваті від її ідей. Пара починає захопливе і ризиковане розслідування, щоб з'ясувати, чи справді в їхньому будинку сталося вбивство!",
-        "poster_path": "/kQRtuJ0ybDk5inwt9VBiySJHmmQ.jpg",
-        "release_date": "2026-03-11",
-        "video": false,
-        "vote_average": 6.583,
-        "vote_count": 36,
-        "popularity": 1.6402,
-        "PG": 0,
-        "release_quality": "ts",
-        "kinopoisk_id": "10187723",
-        "imdb_id": "tt38814447",
-        "imdb_rating": "7.0",
-        "status": "released",
-        "last_air_date": "2026-06-06",
-        "countries": [
-          "France"
-        ],
-        "genres": [
-          "Комедія",
-          "Драма",
-          "Кримінал"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 5.121593952178955
+  "duration": 4.756383419036865
 }
