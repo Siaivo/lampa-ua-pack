@@ -2,6 +2,131 @@
   "secuses": true,
   "result": [
     {
+      "id": 2805,
+      "time": 1783327502563,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дім дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "Члени дому Тарґарієнів залишають приречену Валірію і відправляються на захід, де знаходять величезну територію, населену ворогуючими королівствами.",
+        "poster_path": "/yaGOa7I9xIug8qsw7vXzkeMZ1mb.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.352,
+        "vote_count": 6400,
+        "popularity": 523.0711,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-07-06",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 3
+        },
+        "episode": {
+          "air_date": "2026-07-05",
+          "episode_number": 3,
+          "name": "Серія 3",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 56,
+          "still_path": "/7W7IzIQdEKJdbWNgxIQ413TFG14.jpg",
+          "vote_average": 4.6
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e3",
+      "premiere": 0
+    },
+    {
+      "id": 2804,
+      "time": 1783325703029,
+      "card_id": "230311",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/4lO40Si9AlthOuH9YDCHQvKHPEa.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 230311,
+        "original_language": "zh",
+        "name": "爱情有烟火",
+        "original_name": "爱情有烟火",
+        "names": [
+          "Фейерверк любви",
+          "Ai qing you yan huo",
+          "Love Has Fireworks",
+          "爱情有烟火"
+        ],
+        "overview": "После разрыва с женихом Цянь Фэй решает сдать комнату молодому карьеристу, который вскоре перевернёт её жизнь.",
+        "poster_path": "/vjRI8Vnxoetq4Rkl0aJYUYZ95iN.jpg",
+        "first_air_date": "2026-06-15",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 4,
+        "popularity": 22.9495,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "CN"
+        ],
+        "kinopoisk_id": "12935648",
+        "imdb_id": "tt28131816",
+        "imdb_rating": "7.4",
+        "status": "ended",
+        "last_air_date": "2026-07-05",
+        "seasons": {
+          "1": 20
+        },
+        "countries": [
+          "China"
+        ],
+        "genres": [
+          "Драма",
+          "Комедія"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2803,
       "time": 1783255502361,
       "card_id": "125988",
@@ -56,7 +181,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 2.8
+          "vote_average": 2.5
         },
         "genres": [
           "Науково фантастичний",
@@ -582,7 +707,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.667
+          "vote_average": 8.6
         },
         "genres": [
           "Мультфільм",
@@ -766,7 +891,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.315
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1337,7 +1462,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 8.25
+          "vote_average": 8.2
         },
         "genres": [
           "Мультфільм",
@@ -1409,7 +1534,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.494
+          "vote_average": 7.5
         },
         "genres": [
           "Науково фантастичний",
@@ -1998,7 +2123,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
-          "vote_average": 8.333
+          "vote_average": 8.3
         },
         "genres": [
           "Мультфільм",
@@ -2528,7 +2653,7 @@
           "season_number": 1,
           "runtime": 61,
           "still_path": "/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg",
-          "vote_average": 8.429
+          "vote_average": 8.625
         },
         "genres": [
           "Екшн і Пригоди",
@@ -2654,7 +2779,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
-          "vote_average": 8.036
+          "vote_average": 8.0
         },
         "genres": [
           "Мультфільм",
@@ -2836,101 +2961,7 @@
       "type": "now",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2755,
-      "time": 1780765072835,
-      "card_id": "454639",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-        "genre_ids": [
-          28,
-          14,
-          878
-        ],
-        "id": 454639,
-        "original_language": "en",
-        "title": "Володарі Всесвіту",
-        "original_title": "Masters of the Universe",
-        "names": [
-          "Володарі Всесвіту",
-          "Властелины вселенной",
-          "Masters of the Universe"
-        ],
-        "overview": "Молодий чоловік на Землі відкриває для себе фантастичну таємну спадщину як принц іншої планети й повинен віднайти чарівний меч і повернутися додому, щоб захистити своє королівство.",
-        "poster_path": "/lU8i7M8nYCCXJhzHPRZt8UUWqoq.jpg",
-        "release_date": "2026-06-03",
-        "video": false,
-        "vote_average": 7.4,
-        "vote_count": 24,
-        "popularity": 91.1325,
-        "PG": 16,
-        "release_quality": "ts",
-        "kinopoisk_id": "88124",
-        "imdb_id": "tt0427340",
-        "status": "released",
-        "last_air_date": "2026-06-05",
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Бойовик",
-          "Фентезі",
-          "Фантастика"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 1
-    },
-    {
-      "id": 2754,
-      "time": 1780750667801,
-      "card_id": "1629095",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/unXrjADknsh0kiQOT7hddvoiOhj.jpg",
-        "genre_ids": [
-          35
-        ],
-        "id": 1629095,
-        "original_language": "ro",
-        "title": "Băieți de oraș: Golden Boyz",
-        "original_title": "Băieți de oraș: Golden Boyz",
-        "names": [
-          "Городские пацаны: Городские парни",
-          "City Boys: Golden Boyz",
-          "Băieți de oraș: Golden Boyz",
-          "Baieti de oras: Golden Boyz"
-        ],
-        "overview": "Фильм рассказывает о приключениях двух недалеких молодых людей - Роби Роберто и Мэлоуна. В центре сюжета оказывается Мэлоун, который неожиданно получает шанс унаследовать 9 миллионов евро после смерти дальнего родственника. Однако есть условие: чтобы забрать деньги, ему необходимо получить диплом о высшем образовании. Герои пускаются во все тяжкие, пытаясь провернуть эту аферу, сталкиваясь с реалиями современного Бухареста.",
-        "poster_path": "/msmjEUOXH05AI5c6p3oQubJ282I.jpg",
-        "release_date": "2026-02-06",
-        "video": false,
-        "vote_average": 7.6,
-        "vote_count": 5,
-        "popularity": 5.8129,
-        "PG": 0,
-        "release_quality": "webdl",
-        "kinopoisk_id": "11280735",
-        "imdb_id": "tt39195606",
-        "imdb_rating": "7.9",
-        "status": "released",
-        "last_air_date": "2026-06-05",
-        "countries": [
-          "Romania"
-        ],
-        "genres": [
-          "Комедія"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 7.591423988342285
+  "duration": 5.121593952178955
 }
