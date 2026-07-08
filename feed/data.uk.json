@@ -61,7 +61,7 @@
           "season_number": 9,
           "runtime": 22,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.318
+          "vote_average": 8.458
         },
         "genres": [
           "Мультфільм",
@@ -130,7 +130,7 @@
           "overview": "",
           "season_number": 1,
           "runtime": 61,
-          "still_path": "/8FuIiSK8fnTQny1DrOTe5jp4MB2.jpg",
+          "still_path": "/2yGGXfQmvcHlxktR17CowgcxVyp.jpg",
           "vote_average": 0.0
         },
         "genres": [
@@ -261,7 +261,7 @@
           "season_number": 3,
           "runtime": 57,
           "still_path": "/7W7IzIQdEKJdbWNgxIQ413TFG14.jpg",
-          "vote_average": 5.813
+          "vote_average": 5.848
         },
         "genres": [
           "Науково фантастичний",
@@ -384,7 +384,7 @@
           "overview": "Біллінґс розслідує зникнення. Деніел Кін встряє в суперечку з журналісткою.",
           "season_number": 3,
           "runtime": 52,
-          "still_path": "/k4Vms05i05Ud4Wymg8bvcdoDryY.jpg",
+          "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
           "vote_average": 2.5
         },
         "genres": [
@@ -1095,7 +1095,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.352
+          "vote_average": 7.236
         },
         "genres": [
           "Науково фантастичний",
@@ -1328,7 +1328,7 @@
           "season_number": 2,
           "runtime": 69,
           "still_path": "/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg",
-          "vote_average": 8.3
+          "vote_average": 7.6
         },
         "genres": [
           "Екшн і Пригоди",
@@ -3001,5 +3001,5 @@
       "premiere": 0
     }
   ],
-  "duration": 13.572699069976807
+  "duration": 5.637173175811768
 }
