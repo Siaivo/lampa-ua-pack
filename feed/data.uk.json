@@ -59,9 +59,9 @@
           "name": "Серія 7",
           "overview": "",
           "season_number": 9,
-          "runtime": 22,
+          "runtime": 24,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.577
+          "vote_average": 8.6
         },
         "genres": [
           "Мультфільм",
@@ -1095,7 +1095,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.263
+          "vote_average": 7.31
         },
         "genres": [
           "Науково фантастичний",
@@ -1738,7 +1738,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.446
+          "vote_average": 7.44
         },
         "genres": [
           "Науково фантастичний",
@@ -2541,7 +2541,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/tN0iXjm7qbHnGG4WGrNOGqmTMDt.jpg",
+        "backdrop_path": "/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
         "genre_ids": [
           28,
           80
@@ -3001,5 +3001,5 @@
       "premiere": 0
     }
   ],
-  "duration": 9.33589220046997
+  "duration": 5.071847915649414
 }
