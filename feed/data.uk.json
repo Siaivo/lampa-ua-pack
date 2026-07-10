@@ -261,7 +261,7 @@
           "season_number": 3,
           "runtime": 57,
           "still_path": "/7W7IzIQdEKJdbWNgxIQ413TFG14.jpg",
-          "vote_average": 6.097
+          "vote_average": 6.2
         },
         "genres": [
           "Науково фантастичний",
@@ -385,7 +385,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 2.5
+          "vote_average": 2.125
         },
         "genres": [
           "Науково фантастичний",
@@ -623,7 +623,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 5.9
+          "vote_average": 5.639
         },
         "genres": [
           "Науково фантастичний",
@@ -1095,7 +1095,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.31
+          "vote_average": 7.356
         },
         "genres": [
           "Науково фантастичний",
@@ -1740,7 +1740,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.44
+          "vote_average": 7.471
         },
         "genres": [
           "Науково фантастичний",
@@ -3003,5 +3003,5 @@
       "premiere": 0
     }
   ],
-  "duration": 6.365242004394531
+  "duration": 5.808725833892822
 }
