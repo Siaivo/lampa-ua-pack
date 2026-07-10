@@ -623,7 +623,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 5.912
+          "vote_average": 5.9
         },
         "genres": [
           "Науково фантастичний",
@@ -1264,9 +1264,11 @@
           "United Kingdom"
         ],
         "genres": [
-          "Детектив",
+          "Пригоди",
           "Комедія",
-          "Сімейний"
+          "Кримінал",
+          "Сімейний",
+          "Детектив"
         ]
       },
       "type": "now_playing",
@@ -1328,7 +1330,7 @@
           "season_number": 2,
           "runtime": 69,
           "still_path": "/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg",
-          "vote_average": 7.6
+          "vote_average": 7.667
         },
         "genres": [
           "Екшн і Пригоди",
@@ -1562,7 +1564,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+        "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
         "genre_ids": [
           16,
           10751,
@@ -3001,5 +3003,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.071847915649414
+  "duration": 6.365242004394531
 }
