@@ -438,7 +438,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 3.0
+          "vote_average": 4.091
         },
         "genres": [
           "Науково фантастичний",
@@ -676,7 +676,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 5.868
+          "vote_average": 6.214
         },
         "genres": [
           "Науково фантастичний",
@@ -786,7 +786,7 @@
           "season_number": 1,
           "runtime": 60,
           "still_path": "/tzlA6pW657XmVoIi1D2B5B1j81K.jpg",
-          "vote_average": 9.5
+          "vote_average": 9.0
         },
         "genres": [
           "Вестерн",
@@ -1148,7 +1148,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.356
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -1218,7 +1218,7 @@
           "season_number": 4,
           "runtime": 49,
           "still_path": "/na6u53LNvkOdaqDQDvblCHG1weS.jpg",
-          "vote_average": 5.329
+          "vote_average": 5.208
         },
         "genres": [
           "Детектив",
@@ -1446,7 +1446,7 @@
           "overview": "",
           "season_number": 1,
           "runtime": 45,
-          "still_path": "/8m6dULktFqJbAaeQpcuaUb7RwRn.jpg",
+          "still_path": "/iqR3INUH6risbYyOMAxofzwhKsJ.jpg",
           "vote_average": 8.5
         },
         "genres": [
@@ -1791,7 +1791,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.471
+          "vote_average": 7.5
         },
         "genres": [
           "Науково фантастичний",
@@ -1861,7 +1861,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.75
+          "vote_average": 5.614
         },
         "genres": [
           "Детектив",
@@ -2451,7 +2451,7 @@
           "season_number": 4,
           "runtime": 58,
           "still_path": "/AaL0o5rpoFPq0hhkEGkkPZUWb8V.jpg",
-          "vote_average": 5.121
+          "vote_average": 5.0
         },
         "genres": [
           "Детектив",
@@ -2842,7 +2842,7 @@
           "season_number": 1,
           "runtime": 32,
           "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.652
+          "vote_average": 7.7
         },
         "genres": [
           "Драма",
@@ -2978,5 +2978,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.4550089836120605
+  "duration": 11.114155769348145
 }
