@@ -2,6 +2,56 @@
   "secuses": true,
   "result": [
     {
+      "id": 2812,
+      "time": 1783838704220,
+      "card_id": "1308767",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+        "genre_ids": [
+          36,
+          10752,
+          18
+        ],
+        "id": 1308767,
+        "original_language": "en",
+        "title": "Молодий Вашинґтон",
+        "original_title": "Young Washington",
+        "names": [
+          "Молодий Вашинґтон",
+          "Молодой Вашингтон",
+          "Young Washington"
+        ],
+        "overview": "Незвичайна історія Джорджа Вашинґтона — землевпорядника, який став командувачем, боровся за незалежність Америки та був одноголосно обраний першим президентом країни.",
+        "poster_path": "/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
+        "release_date": "2026-07-02",
+        "video": false,
+        "vote_average": 8.022,
+        "vote_count": 23,
+        "popularity": 25.9284,
+        "PG": 13,
+        "release_quality": "ts",
+        "kinopoisk_id": "9393122",
+        "imdb_id": "tt32104007",
+        "imdb_rating": "7.3",
+        "status": "released",
+        "last_air_date": "2026-07-11",
+        "countries": [
+          "United States of America",
+          "Ireland"
+        ],
+        "genres": [
+          "Історичний",
+          "Військовий",
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2811,
       "time": 1783799109133,
       "card_id": "1108427",
@@ -504,7 +554,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/cAYMSOqsKmi9vdzWh6yv7FCVHzQ.jpg",
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
         "genre_ids": [
           10765,
           18
@@ -552,7 +602,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 4.933
+          "vote_average": 4.688
         },
         "genres": [
           "Науково фантастичний",
@@ -742,7 +792,7 @@
       "card_type": "tv",
       "data": {
         "adult": false,
-        "backdrop_path": "/cAYMSOqsKmi9vdzWh6yv7FCVHzQ.jpg",
+        "backdrop_path": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
         "genre_ids": [
           10765,
           18
@@ -790,7 +840,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 6.295
+          "vote_average": 6.065
         },
         "genres": [
           "Науково фантастичний",
@@ -1262,7 +1312,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
-          "vote_average": 7.4
+          "vote_average": 7.25
         },
         "genres": [
           "Науково фантастичний",
@@ -1905,7 +1955,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.5
+          "vote_average": 7.395
         },
         "genres": [
           "Науково фантастичний",
@@ -2903,74 +2953,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2762,
-      "time": 1781112823120,
-      "card_id": "270476",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          35
-        ],
-        "id": 270476,
-        "original_language": "en",
-        "name": "Відоус-Бей",
-        "original_name": "Widow's Bay",
-        "names": [
-          "Відоус-Бей",
-          "Бухта вдов",
-          "Widow's Bay",
-          "Уидоус-Бэй",
-          "Widows Bay"
-        ],
-        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
-        "poster_path": "/r9LY3JmgL8CcUKDOEKQZHsOaIcP.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.279,
-        "vote_count": 120,
-        "popularity": 75.0716,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6555657",
-        "kp_rating": "7.6",
-        "imdb_id": "tt33332385",
-        "status": "returning series",
-        "last_air_date": "2026-06-10",
-        "seasons": {
-          "1": 9
-        },
-        "episode": {
-          "air_date": "2026-06-09",
-          "episode_number": 9,
-          "name": "Аварійне укриття",
-          "overview": "Знайдіть, будь ласка, укриття, раптом острів накриє багатовіковий шторм і занурить нас у темряву. Пограйте в карти.",
-          "season_number": 1,
-          "runtime": 32,
-          "still_path": "/xp1MLkjLEBK90f782hzeZ8jsBp1.jpg",
-          "vote_average": 7.7
-        },
-        "genres": [
-          "Драма",
-          "Комедія",
-          "Детектив"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e9",
-      "premiere": 0
     }
   ],
-  "duration": 6.729371070861816
+  "duration": 10.77718210220337
 }
