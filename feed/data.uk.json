@@ -2,6 +2,77 @@
   "secuses": true,
   "result": [
     {
+      "id": 2816,
+      "time": 1783957505532,
+      "card_id": "94997",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "original_language": "en",
+        "name": "Дім дракона",
+        "original_name": "House of the Dragon",
+        "names": [
+          "Дом Дракона",
+          "House of the Dragon",
+          "Дом дракона",
+          "Дім Дракона",
+          "Дім дракона",
+          "Game of Thrones: House of the Dragon"
+        ],
+        "overview": "Члени дому Тарґарієнів залишають приречену Валірію і відправляються на захід, де знаходять величезну територію, населену ворогуючими королівствами.",
+        "poster_path": "/yaGOa7I9xIug8qsw7vXzkeMZ1mb.jpg",
+        "first_air_date": "2022-08-21",
+        "video": false,
+        "vote_average": 8.368,
+        "vote_count": 6539,
+        "popularity": 373.6276,
+        "PG": 0,
+        "release_quality": "4K",
+        "origin_country": [
+          "US"
+        ],
+        "kinopoisk_id": "1316601",
+        "kp_rating": "8.1",
+        "imdb_id": "tt11198330",
+        "imdb_rating": "8.3",
+        "status": "returning series",
+        "last_air_date": "2026-07-13",
+        "seasons": {
+          "1": 10,
+          "2": 8,
+          "3": 4
+        },
+        "episode": {
+          "air_date": "2026-07-12",
+          "episode_number": 4,
+          "name": "Серія 4",
+          "overview": "",
+          "season_number": 3,
+          "runtime": 66,
+          "still_path": "/lGpSBfJylIQJskI7RTofazLs1bT.jpg",
+          "vote_average": 4.6
+        },
+        "genres": [
+          "Науково фантастичний",
+          "Драма",
+          "Екшн і Пригоди"
+        ],
+        "countries": [
+          "United States of America"
+        ]
+      },
+      "type": "episode",
+      "hash": "s3;e4",
+      "premiere": 0
+    },
+    {
       "id": 2815,
       "time": 1783939504493,
       "card_id": "60625",
@@ -59,7 +130,7 @@
           "name": "Серія 8",
           "overview": "",
           "season_number": 9,
-          "runtime": null,
+          "runtime": 22,
           "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
           "vote_average": 10.0
         },
@@ -1525,7 +1596,7 @@
           "overview": "Поки Алісент ризикує всім, щоб виконати свою частину угоди, Рейніра мусить вирішити, чи вартий Залізний Трон таких жертв.",
           "season_number": 3,
           "runtime": 64,
-          "still_path": "/lmea86XZGbnpZbonu2mXAwwTQzQ.jpg",
+          "still_path": "/fjUv1wQ02FxhM5O6ICQgbSHErI.jpg",
           "vote_average": 7.2
         },
         "genres": [
@@ -1661,7 +1732,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+        "backdrop_path": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
         "genre_ids": [
           35,
           10751,
@@ -2169,7 +2240,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.333
+          "vote_average": 7.3
         },
         "genres": [
           "Науково фантастичний",
@@ -2951,7 +3022,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/bvgUV0WmbnrCQvl6uqVZG3muaDp.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.563
         },
         "genres": [
           "Вестерн",
@@ -2964,58 +3035,7 @@
       "type": "episode",
       "hash": "s1;e6",
       "premiere": 0
-    },
-    {
-      "id": 2766,
-      "time": 1781336023258,
-      "card_id": "1280738",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
-        "genre_ids": [
-          28,
-          80
-        ],
-        "id": 1280738,
-        "original_language": "en",
-        "title": "Він шалений",
-        "original_title": "火遮眼",
-        "names": [
-          "Він шалений",
-          "Живая ярость",
-          "Fo ze ngaan",
-          "火遮眼"
-        ],
-        "overview": "Батько вступає у відчайдушну боротьбу з торговцями людьми, які викрали його доньку. Разом із напарником, який також шукає дружину, вони битимуться з кожним, щоб урятувати найдорожчих!",
-        "poster_path": "/o4HLyElxG8KX1MHUeIDLfe8StAD.jpg",
-        "release_date": "2026-06-10",
-        "video": false,
-        "vote_average": 8.6,
-        "vote_count": 7,
-        "popularity": 91.0011,
-        "PG": 18,
-        "release_quality": "ts",
-        "kinopoisk_id": "6292456",
-        "imdb_id": "tt33311069",
-        "imdb_rating": "7.9",
-        "status": "released",
-        "last_air_date": "2026-06-12",
-        "countries": [
-          "Hong Kong",
-          "United States of America",
-          "China"
-        ],
-        "genres": [
-          "Бойовик",
-          "Кримінал",
-          "Трилер"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 6.551377773284912
+  "duration": 5.02572774887085
 }
