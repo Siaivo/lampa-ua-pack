@@ -2,6 +2,75 @@
   "secuses": true,
   "result": [
     {
+      "id": 2814,
+      "time": 1783885504127,
+      "card_id": "296206",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 296206,
+        "original_language": "ko",
+        "name": "Агент Кім: Реактивація",
+        "original_name": "김부장",
+        "names": [
+          "Агент Кім: Реактивація",
+          "Менеджер Ким",
+          "Kim bujang",
+          "Agent Kim Reactivated / Kim-bu-jang",
+          "Агент Ким возобновил свою деятельность.",
+          "김부장",
+          "Агент Ким возобновил свою деятельность"
+        ],
+        "overview": "Коли в скромного чоловіка зникає донька, він згадує навички із часів участі в спецопераціях, щоб відшукати її, але привертає до себе небажану увагу.",
+        "poster_path": "/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+        "first_air_date": "2026-06-26",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 25,
+        "popularity": 154.4532,
+        "PG": 0,
+        "release_quality": "webdl",
+        "origin_country": [
+          "KR"
+        ],
+        "kinopoisk_id": "9027270",
+        "imdb_id": "tt42127457",
+        "imdb_rating": "8.1",
+        "status": "returning series",
+        "last_air_date": "2026-07-12",
+        "seasons": {
+          "1": 6
+        },
+        "episode": {
+          "air_date": "2026-07-11",
+          "episode_number": 6,
+          "name": "Серія 6",
+          "overview": "",
+          "season_number": 1,
+          "runtime": 69,
+          "still_path": "/mZ0qnO3lKZsw3dyoDjfYrebLTih.jpg",
+          "vote_average": 0.0
+        },
+        "genres": [
+          "Екшн і Пригоди",
+          "Кримінал",
+          "Драма"
+        ],
+        "countries": [
+          "South Korea"
+        ]
+      },
+      "type": "episode",
+      "hash": "s1;e6",
+      "premiere": 0
+    },
+    {
       "id": 2813,
       "time": 1783867504133,
       "card_id": "125988",
@@ -127,7 +196,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "backdrop_path": "/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
         "genre_ids": [
           10751,
           14,
@@ -347,7 +416,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.679
+          "vote_average": 8.567
         },
         "genres": [
           "Мультфільм",
@@ -671,7 +740,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 4.688
+          "vote_average": 4.824
         },
         "genres": [
           "Науково фантастичний",
@@ -909,7 +978,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 6.065
+          "vote_average": 6.146
         },
         "genres": [
           "Науково фантастичний",
@@ -1019,7 +1088,7 @@
           "season_number": 1,
           "runtime": 60,
           "still_path": "/yR9CRcKrGM85omkkHAy35o5vSIz.jpg",
-          "vote_average": 9.0
+          "vote_average": 8.813
         },
         "genres": [
           "Вестерн",
@@ -1197,7 +1266,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.6
+          "vote_average": 8.667
         },
         "genres": [
           "Мультфільм",
@@ -1680,7 +1749,7 @@
           "season_number": 1,
           "runtime": 45,
           "still_path": "/iqR3INUH6risbYyOMAxofzwhKsJ.jpg",
-          "vote_average": 8.5
+          "vote_average": 8.35
         },
         "genres": [
           "Вестерн",
@@ -1952,7 +2021,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 8.2
+          "vote_average": 7.955
         },
         "genres": [
           "Мультфільм",
@@ -2024,7 +2093,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.395
+          "vote_average": 7.333
         },
         "genres": [
           "Науково фантастичний",
@@ -2094,7 +2163,7 @@
           "season_number": 4,
           "runtime": 47,
           "still_path": "/8OoIdbyrUI7ymR7kYd2yipfQTJZ.jpg",
-          "vote_average": 5.614
+          "vote_average": 5.653
         },
         "genres": [
           "Детектив",
@@ -2917,53 +2986,7 @@
       "type": "now_playing",
       "hash": "",
       "premiere": 0
-    },
-    {
-      "id": 2764,
-      "time": 1781192023228,
-      "card_id": "1555331",
-      "card_type": "movie",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/l437c1NjyPl6jL1qZla7WeUlxFi.jpg",
-        "genre_ids": [
-          28,
-          35
-        ],
-        "id": 1555331,
-        "original_language": "tr",
-        "title": "D.I.S.C.O.",
-        "original_title": "D.I.S.C.O.",
-        "names": [
-          "Д.И.С.К.О.",
-          "D.I.S.C.O."
-        ],
-        "overview": "У отстранённого от работы шпиона отпуск идёт под откос, когда парикмахер раскрывает его личность и шантажом заставляет вместе завершить проваленную миссию. А тут ещё и их жёны неожиданно вступают в игру.",
-        "poster_path": "/zNjm76IFBxiXMZ7ldWrVSudWeqo.jpg",
-        "release_date": "2026-01-01",
-        "video": false,
-        "vote_average": 7.1,
-        "vote_count": 8,
-        "popularity": 8.7043,
-        "PG": 12,
-        "release_quality": "webdl",
-        "kinopoisk_id": "11091609",
-        "imdb_id": "tt39105882",
-        "imdb_rating": "7.2",
-        "status": "released",
-        "last_air_date": "2026-06-11",
-        "countries": [
-          "Turkey"
-        ],
-        "genres": [
-          "Бойовик",
-          "Комедія"
-        ]
-      },
-      "type": "now",
-      "hash": "",
-      "premiere": 0
     }
   ],
-  "duration": 20.971875190734863
+  "duration": 7.732781887054443
 }
