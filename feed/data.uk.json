@@ -2,6 +2,106 @@
   "secuses": true,
   "result": [
     {
+      "id": 2818,
+      "time": 1784020504709,
+      "card_id": "1057265",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "id": 1057265,
+        "original_language": "te",
+        "title": "పెద్ది",
+        "original_title": "పెద్ది",
+        "names": [
+          "Педди",
+          "Peddi",
+          "పెద్ది"
+        ],
+        "overview": "В 2016 году чиновник из Министерства спорта получает выговор от министра за неудовлетворительные результаты Индии на Олимпийских играх. Во время поездки в город в Андхра-Прадеше чиновник наблюдает за местной молодежью, демонстрирующей исключительную преданность легкой атлетике. Все они считают своим вдохновителем человека по имени Педди. Заинтригованный чиновник отправляется в трудный путь через леса и холмы, чтобы добраться до отдаленной безымянной деревни на вершине холма и узнать историю Педди...",
+        "poster_path": "/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+        "release_date": "2026-06-03",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 54,
+        "popularity": 75.7414,
+        "PG": 16,
+        "release_quality": "4K",
+        "kinopoisk_id": "12743608",
+        "imdb_id": "tt23865918",
+        "imdb_rating": "6.1",
+        "status": "released",
+        "last_air_date": "2026-07-13",
+        "countries": [
+          "India"
+        ],
+        "genres": [
+          "Бойовик",
+          "Драма"
+        ]
+      },
+      "type": "uhd",
+      "hash": "",
+      "premiere": 0
+    },
+    {
+      "id": 2817,
+      "time": 1784009705681,
+      "card_id": "288603",
+      "card_type": "tv",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/h1bGO8w5hyn22DGNv0MOZKTog1X.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 288603,
+        "original_language": "zh",
+        "name": "炽夏",
+        "original_name": "炽夏",
+        "names": [
+          "Пылающее лето",
+          "Chi xia",
+          "Never-Ending Summer / Xi Feng Xiang Wan",
+          "炽夏"
+        ],
+        "overview": "Скромная, но невероятно стойкая отличница Чжоу Вань (Бао Шан Энь) отчаянно нуждается в деньгах на операцию для тяжелобольной бабушки. Получив отказ от бросившей её матери, девушка решает намеренно сблизиться с Лу Си Сяо (Чжоу Кэ Юй) — богатым и неуправляемым юношей, который является пасынком её матери. То, что начиналось как холодный расчет, перерастает в искреннее и глубокое чувство. Герои становятся спасением друг для друга в самые темные моменты жизни. Однако юношеский максимализм, тайны прошлого и жестокая реальность разрушают их союз, заставляя расстаться из-за болезненного недопонимания. Спустя десять лет судьба вновь сталкивает героев уже в деловом мире. Лу Си Сяо, все еще помнящий старую обиду, поначалу пытается усложнить жизнь Чжоу Вань. Но совместное расследование крупного промышленного инцидента на фабрике заставляет их раскрыть карты и понять: чувства друг к другу никогда не угасали. Экранизация романа \"Падение\" автора Sweet Vinegar Fish.",
+        "poster_path": "/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+        "first_air_date": "2026-06-16",
+        "video": false,
+        "vote_average": 9.125,
+        "vote_count": 5,
+        "popularity": 50.7398,
+        "PG": 0,
+        "release_quality": "webrip",
+        "origin_country": [
+          "CN"
+        ],
+        "kinopoisk_id": "12935649",
+        "kp_rating": "8.4",
+        "imdb_id": "tt36982964",
+        "imdb_rating": "8.7",
+        "status": "ended",
+        "last_air_date": "2026-06-28",
+        "seasons": {
+          "1": 15
+        },
+        "countries": [
+          "China"
+        ],
+        "genres": [
+          "Драма"
+        ]
+      },
+      "type": "now",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2816,
       "time": 1783957505532,
       "card_id": "94997",
@@ -57,7 +157,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 5.5
+          "vote_average": 6.1
         },
         "genres": [
           "Науково фантастичний",
@@ -272,7 +372,7 @@
           "season_number": 3,
           "runtime": 50,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 1.0
+          "vote_average": 2.286
         },
         "genres": [
           "Науково фантастичний",
@@ -763,7 +863,7 @@
           "season_number": 3,
           "runtime": 57,
           "still_path": "/rtSucmBIzQPcBejfWXqRC8ElcEQ.jpg",
-          "vote_average": 6.2
+          "vote_average": 6.3
         },
         "genres": [
           "Науково фантастичний",
@@ -887,7 +987,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 4.737
+          "vote_average": 5.0
         },
         "genres": [
           "Науково фантастичний",
@@ -1596,8 +1696,8 @@
           "overview": "Поки Алісент ризикує всім, щоб виконати свою частину угоди, Рейніра мусить вирішити, чи вартий Залізний Трон таких жертв.",
           "season_number": 3,
           "runtime": 64,
-          "still_path": "/fjUv1wQ02FxhM5O6ICQgbSHErI.jpg",
-          "vote_average": 7.2
+          "still_path": "/6qXcvZEnD9InL1itud7eK88CDzC.jpg",
+          "vote_average": 7.3
         },
         "genres": [
           "Науково фантастичний",
@@ -2914,128 +3014,7 @@
       "type": "episode",
       "hash": "s4;e8",
       "premiere": 0
-    },
-    {
-      "id": 2768,
-      "time": 1781431430445,
-      "card_id": "270476",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-        "genre_ids": [
-          18,
-          9648,
-          35
-        ],
-        "id": 270476,
-        "original_language": "en",
-        "name": "Відоус-Бей",
-        "original_name": "Widow's Bay",
-        "names": [
-          "Відоус-Бей",
-          "Бухта вдов",
-          "Widow's Bay",
-          "Уидоус-Бэй",
-          "Widows Bay"
-        ],
-        "overview": "Мер містечка в Новій Англії має намір перетворити його на туристичну принаду, попри застереження місцевих про те, що це місце прокляте.",
-        "poster_path": "/r9LY3JmgL8CcUKDOEKQZHsOaIcP.jpg",
-        "first_air_date": "2026-04-28",
-        "video": false,
-        "vote_average": 8.3,
-        "vote_count": 132,
-        "popularity": 76.2118,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "6555657",
-        "kp_rating": "7.6",
-        "imdb_id": "tt33332385",
-        "status": "returning series",
-        "last_air_date": "2026-06-10",
-        "seasons": {
-          "1": 9
-        },
-        "countries": [
-          "United States of America"
-        ],
-        "genres": [
-          "Драма",
-          "Комедія",
-          "Детектив"
-        ]
-      },
-      "type": "now_playing",
-      "hash": "",
-      "premiere": 0
-    },
-    {
-      "id": 2767,
-      "time": 1781346823171,
-      "card_id": "299167",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-        "genre_ids": [
-          37,
-          18
-        ],
-        "id": 299167,
-        "original_language": "en",
-        "name": "Ранчо Даттонів",
-        "original_name": "Dutton Ranch",
-        "names": [
-          "Ранчо Даттонів",
-          "Ранчо Даттонов",
-          "Dutton Ranch",
-          "The Dutton Ranch"
-        ],
-        "overview": "Бет Даттон і Ріп Вілер борються за виживання на своєму улюбленому ранчо площею 7000 акрів в умовах важких часів і жорсткої конкуренції, водночас намагаючись допомогти юному Картеру стати тим чоловіком, яким він має бути.",
-        "poster_path": "/dtKW23O5tfxq7EXUsfeLgBx7gy1.jpg",
-        "first_air_date": "2026-05-15",
-        "video": false,
-        "vote_average": 9.3,
-        "vote_count": 237,
-        "popularity": 143.0673,
-        "PG": 0,
-        "release_quality": "4K",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "7275308",
-        "kp_rating": "8.6",
-        "imdb_id": "tt34991493",
-        "status": "returning series",
-        "last_air_date": "2026-06-12",
-        "seasons": {
-          "1": 6
-        },
-        "episode": {
-          "air_date": "2026-06-12",
-          "episode_number": 6,
-          "name": "Серія 6",
-          "overview": "",
-          "season_number": 1,
-          "runtime": 42,
-          "still_path": "/bvgUV0WmbnrCQvl6uqVZG3muaDp.jpg",
-          "vote_average": 8.563
-        },
-        "genres": [
-          "Вестерн",
-          "Драма"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s1;e6",
-      "premiere": 0
     }
   ],
-  "duration": 7.799106121063232
+  "duration": 7.037765979766846
 }
