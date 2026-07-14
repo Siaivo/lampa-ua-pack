@@ -56,8 +56,8 @@
           "overview": "",
           "season_number": 3,
           "runtime": 66,
-          "still_path": "/lGpSBfJylIQJskI7RTofazLs1bT.jpg",
-          "vote_average": 4.6
+          "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
+          "vote_average": 5.5
         },
         "genres": [
           "Науково фантастичний",
@@ -132,7 +132,7 @@
           "season_number": 9,
           "runtime": 22,
           "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
-          "vote_average": 10.0
+          "vote_average": 9.2
         },
         "genres": [
           "Мультфільм",
@@ -436,7 +436,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/v9tWgeHzlrEFxtQoNOtKLxbP6t3.jpg",
-          "vote_average": 6.75
+          "vote_average": 6.8
         },
         "genres": [
           "Драма",
@@ -563,7 +563,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.656
+          "vote_average": 8.735
         },
         "genres": [
           "Мультфільм",
@@ -762,7 +762,7 @@
           "overview": "Рейніра дізнається, що ситуація в Королівській Гавані не така, як вона очікувала. Не маючи змоги виявити своїх ворогів і стикаючись із вимогами з усіх боків, Рейніра мусить дотримуватися делікатного балансу між задоволенням очікувань своїх прихильників та зміцненням своєї влади.",
           "season_number": 3,
           "runtime": 57,
-          "still_path": "/7W7IzIQdEKJdbWNgxIQ413TFG14.jpg",
+          "still_path": "/rtSucmBIzQPcBejfWXqRC8ElcEQ.jpg",
           "vote_average": 6.2
         },
         "genres": [
@@ -887,7 +887,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 4.611
+          "vote_average": 4.737
         },
         "genres": [
           "Науково фантастичний",
@@ -1125,7 +1125,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 6.058
+          "vote_average": 6.13
         },
         "genres": [
           "Науково фантастичний",
@@ -1235,7 +1235,7 @@
           "season_number": 1,
           "runtime": 60,
           "still_path": "/yR9CRcKrGM85omkkHAy35o5vSIz.jpg",
-          "vote_average": 8.944
+          "vote_average": 8.9
         },
         "genres": [
           "Вестерн",
@@ -1413,7 +1413,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/ptYOQnNi81EHeh4LxcMRs2gfKz5.jpg",
-          "vote_average": 8.769
+          "vote_average": 8.8
         },
         "genres": [
           "Мультфільм",
@@ -1499,7 +1499,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
+        "backdrop_path": "/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
         "genre_ids": [
           28,
           12,
@@ -1896,7 +1896,7 @@
           "season_number": 1,
           "runtime": 45,
           "still_path": "/iqR3INUH6risbYyOMAxofzwhKsJ.jpg",
-          "vote_average": 8.45
+          "vote_average": 8.4
         },
         "genres": [
           "Вестерн",
@@ -2168,7 +2168,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/dQUDeY9qKrERkHwu8sB67XmG6Am.jpg",
-          "vote_average": 7.958
+          "vote_average": 7.885
         },
         "genres": [
           "Мультфільм",
@@ -2239,8 +2239,8 @@
           "overview": "Керуючись вірою в Алісент, Рейніра готується захопити Королівську Гавань, тоді як Тріархія вирушає в море, щоб дати бій Корлісу в затоці Галлет.",
           "season_number": 3,
           "runtime": 66,
-          "still_path": "/zVHUQVIshddE91gIirTPZhTOv4y.jpg",
-          "vote_average": 7.3
+          "still_path": "/oVawK97dRbB7zeMaC44SjXQgUr1.jpg",
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -2425,7 +2425,7 @@
           "season_number": 1,
           "runtime": 42,
           "still_path": "/yFnrtYornkPUnAcRc3rFcQ6RgYz.jpg",
-          "vote_average": 8.5
+          "vote_average": 8.6
         },
         "genres": [
           "Вестерн",
@@ -2829,7 +2829,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
-          "vote_average": 7.909
+          "vote_average": 7.9
         },
         "genres": [
           "Мультфільм",
@@ -3037,5 +3037,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.02572774887085
+  "duration": 7.799106121063232
 }
