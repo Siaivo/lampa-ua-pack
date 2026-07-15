@@ -2,6 +2,54 @@
   "secuses": true,
   "result": [
     {
+      "id": 2820,
+      "time": 1784102193658,
+      "card_id": "1368314",
+      "card_type": "movie",
+      "data": {
+        "adult": false,
+        "backdrop_path": "/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1368314,
+        "original_language": "en",
+        "title": "Пасажир",
+        "original_title": "Passenger",
+        "names": [
+          "Пасажир",
+          "Пассажир",
+          "Passenger"
+        ],
+        "overview": "За кілька тижнів після початку подорожі молода пара стає свідками моторошної аварії, в якій гине водій. Незабаром їх починає переслідувати Пасажир — демонічний сталкер, від якого неможливо втекти, і який слідує за ними, куди б вони не вирушили.",
+        "poster_path": "/v9fndC0p2Ix5wWOZV0vD82qohEw.jpg",
+        "release_date": "2026-05-20",
+        "video": false,
+        "vote_average": 6.807,
+        "vote_count": 254,
+        "popularity": 232.1839,
+        "PG": 18,
+        "release_quality": "webdl",
+        "kinopoisk_id": "9259355",
+        "kp_rating": "5.8",
+        "imdb_id": "tt33763941",
+        "imdb_rating": "5.6",
+        "status": "released",
+        "last_air_date": "2026-05-23",
+        "countries": [
+          "United States of America"
+        ],
+        "genres": [
+          "Жахи",
+          "Трилер"
+        ]
+      },
+      "type": "now_playing",
+      "hash": "",
+      "premiere": 0
+    },
+    {
       "id": 2819,
       "time": 1784033109699,
       "card_id": "1315772",
@@ -286,7 +334,7 @@
           "season_number": 9,
           "runtime": 23,
           "still_path": "/fo4rjkcVyO4YF30K67a7yy2sKhT.jpg",
-          "vote_average": 9.2
+          "vote_average": 8.857
         },
         "genres": [
           "Мультфільм",
@@ -2922,83 +2970,7 @@
       "type": "episode",
       "hash": "s1;e10",
       "premiere": 0
-    },
-    {
-      "id": 2770,
-      "time": 1781544823209,
-      "card_id": "60625",
-      "card_type": "tv",
-      "data": {
-        "adult": false,
-        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759
-        ],
-        "id": 60625,
-        "original_language": "en",
-        "name": "Рік та Морті",
-        "original_name": "Rick and Morty",
-        "names": [
-          "Рик и Морти",
-          "Rick and Morty",
-          "Рік та Морті"
-        ],
-        "overview": "Гумористично-фантастичний мультсеріал про пригоди дідуся-винахідника Ріка та його онука-школяра Морті, яких іноді супроводжують інші члени родини: батько-невдаха Джеррі, донька-школярка Саммер та закомплексована мати Бет.",
-        "poster_path": "/tnXwqcZ98EVKuMzRtcvPRJukwI3.jpg",
-        "first_air_date": "2013-12-02",
-        "video": false,
-        "vote_average": 8.678,
-        "vote_count": 10950,
-        "popularity": 144.6525,
-        "PG": 0,
-        "release_quality": "webdl",
-        "origin_country": [
-          "US"
-        ],
-        "kinopoisk_id": "685246",
-        "kp_rating": "8.9",
-        "imdb_id": "tt2861424",
-        "imdb_rating": "9.0",
-        "status": "returning series",
-        "last_air_date": "2026-06-15",
-        "seasons": {
-          "1": 11,
-          "2": 10,
-          "3": 10,
-          "4": 11,
-          "5": 14,
-          "6": 10,
-          "7": 10,
-          "8": 10,
-          "9": 4
-        },
-        "episode": {
-          "air_date": "2026-06-14",
-          "episode_number": 4,
-          "name": "Серія 4",
-          "overview": "",
-          "season_number": 9,
-          "runtime": 23,
-          "still_path": "/kIjmRbbdZfKw6RCTxUO2zsa74x0.jpg",
-          "vote_average": 7.9
-        },
-        "genres": [
-          "Мультфільм",
-          "Комедія",
-          "Науково фантастичний",
-          "Екшн і Пригоди"
-        ],
-        "countries": [
-          "United States of America"
-        ]
-      },
-      "type": "episode",
-      "hash": "s9;e4",
-      "premiere": 0
     }
   ],
-  "duration": 6.365058898925781
+  "duration": 6.765435218811035
 }
