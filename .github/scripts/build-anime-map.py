@@ -5,6 +5,7 @@ from pathlib import Path
 
 # ------------------ Конфігурація ------------------
 SRC_URL = "https://raw.githubusercontent.com/nattadasu/animeApi/v3/database/animeapi.json"
+# ---------- Alternative source: https://github.com/anibridge/anibridge-mappings/releases/download/v3/mappings.min.json
 
 ANIME_DIR = Path("anime")
 MAP_FILE = ANIME_DIR / "map.json"
