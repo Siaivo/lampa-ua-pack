@@ -308,9 +308,9 @@
           "name": "Серія 4",
           "overview": "",
           "season_number": 3,
-          "runtime": 66,
+          "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 6.559
+          "vote_average": 6.289
         },
         "genres": [
           "Науково фантастичний",
@@ -689,7 +689,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/v9tWgeHzlrEFxtQoNOtKLxbP6t3.jpg",
-          "vote_average": 7.167
+          "vote_average": 7.2
         },
         "genres": [
           "Драма",
@@ -886,7 +886,7 @@
           "season_number": 1,
           "runtime": 61,
           "still_path": "/2yGGXfQmvcHlxktR17CowgcxVyp.jpg",
-          "vote_average": 8.833
+          "vote_average": 8.8
         },
         "genres": [
           "Екшн і Пригоди",
@@ -1016,7 +1016,7 @@
           "season_number": 3,
           "runtime": 57,
           "still_path": "/rtSucmBIzQPcBejfWXqRC8ElcEQ.jpg",
-          "vote_average": 6.511
+          "vote_average": 6.389
         },
         "genres": [
           "Науково фантастичний",
@@ -1140,7 +1140,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 5.227
+          "vote_average": 5.304
         },
         "genres": [
           "Науково фантастичний",
@@ -1261,7 +1261,7 @@
           "season_number": 1,
           "runtime": 56,
           "still_path": "/zA6WWkrhSoJjJuFhB0MvGXiDVLO.jpg",
-          "vote_average": 6.9
+          "vote_average": 7.3
         },
         "genres": [
           "Драма",
@@ -1378,7 +1378,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 6.293
+          "vote_average": 6.383
         },
         "genres": [
           "Науково фантастичний",
@@ -1850,7 +1850,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/6qXcvZEnD9InL1itud7eK88CDzC.jpg",
-          "vote_average": 7.3
+          "vote_average": 7.25
         },
         "genres": [
           "Науково фантастичний",
@@ -2956,5 +2956,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.991837978363037
+  "duration": 5.604519844055176
 }
