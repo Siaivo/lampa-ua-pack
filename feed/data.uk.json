@@ -310,7 +310,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 6.289
+          "vote_average": 6.325
         },
         "genres": [
           "Науково фантастичний",
@@ -689,7 +689,7 @@
           "season_number": 1,
           "runtime": 53,
           "still_path": "/v9tWgeHzlrEFxtQoNOtKLxbP6t3.jpg",
-          "vote_average": 7.2
+          "vote_average": 7.625
         },
         "genres": [
           "Драма",
@@ -816,7 +816,7 @@
           "season_number": 9,
           "runtime": 24,
           "still_path": "/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
-          "vote_average": 8.583
+          "vote_average": 8.5
         },
         "genres": [
           "Мультфільм",
@@ -1140,7 +1140,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 5.304
+          "vote_average": 5.5
         },
         "genres": [
           "Науково фантастичний",
@@ -2956,5 +2956,5 @@
       "premiere": 0
     }
   ],
-  "duration": 4.529436111450195
+  "duration": 5.3111419677734375
 }
