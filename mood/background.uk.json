@@ -3,131 +3,210 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"32\" d=\"M104 288v-24a152 152 0 0 1 304 0v24\"/><rect x=\"80\" y=\"280\" width=\"72\" height=\"128\" rx=\"28\" fill=\"currentColor\"/><rect x=\"360\" y=\"280\" width=\"72\" height=\"128\" rx=\"28\" fill=\"currentColor\"/></svg>",
   "title": "Фоном",
   "lang": "uk",
-  "updated_at": "2026-07-18T10:24:38Z",
+  "updated_at": "2026-07-18T22:47:34Z",
   "items": [
     {
-      "id": 2316,
+      "id": 62649,
       "media_type": "tv",
-      "title": "Офіс",
-      "original_title": "The Office",
-      "overview": "Серіал розповідає про трудові будні невеликого регіонального офісу паперової компанії Dunder Mifflin у Скрентоні, Пенсильванія, працівники якого цілими днями повинні терпіти закидони свого непутящого боса.",
-      "poster_path": "/1j4Jh3MDjf2zMOnXaTHqU3ojQjc.jpg",
-      "backdrop_path": "/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+      "title": "Супермаркет",
+      "original_title": "Superstore",
+      "overview": "Серіал про великий різношерстий колектив працівників гіпермаркету, які на своєму робочому місці переживають безліч пригод, незважаючи на те, що територія їх проживання обмежується стінами магазину.",
+      "poster_path": "/tbFz1fWpQWKAu62yMvo2VhYUfmm.jpg",
+      "backdrop_path": "/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
       "genre_ids": [
         35
       ],
-      "vote_average": 8.6,
-      "vote_count": 5304,
-      "release_date": "2005-03-24"
+      "vote_average": 7.537,
+      "vote_count": 830,
+      "release_date": "2015-11-30"
     },
     {
-      "id": 48891,
+      "id": 126027,
       "media_type": "tv",
-      "title": "Бруклін 9-9",
-      "original_title": "Brooklyn Nine-Nine",
-      "overview": "Сюжет серіалу оповідає про детектива, на долю якого в один момент випали серйозні зміни. Зовсім недавно він не виявляв до своєї роботи ніякої серйозності, але тепер, коли його штаб очолив новий керівник, детективу доведеться кардинально поміняти своє професійне життя і стати героєм неймовірних історій.",
-      "poster_path": "/a9gmarnmzyd7Q7XkyLxvZvK3jNP.jpg",
-      "backdrop_path": "/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
+      "title": "Привиди",
+      "original_title": "Ghosts",
+      "overview": "Молоде подружжя Саманта і Джей переїжджають в будинок мрії, в якому сподіваються жити довго і щасливо. Але скоро пара з’ясовує, що, по-перше, будинок від старості розвалюється на частини, а по-друге, він вщент набитий примарами його численних колишніх мешканців.",
+      "poster_path": "/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+      "backdrop_path": "/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
       "genre_ids": [
         35,
-        80
+        10765
       ],
-      "vote_average": 8.211,
-      "vote_count": 4027,
-      "release_date": "2013-09-17"
+      "vote_average": 8.032,
+      "vote_count": 439,
+      "release_date": "2021-10-07"
     },
     {
-      "id": 94951,
+      "id": 61662,
       "media_type": "tv",
-      "title": "Мітичний квест",
-      "original_title": "Mythic Quest",
-      "overview": "Зустрічайте команду, що розробила найвидатнішу багатокористувацьку відеогру. Проте у творців світів, героїв і легенд найскладніші битви відбуваються не у грі, а в офісі.",
-      "poster_path": "/f1fswMf62WcSeA5FFZS0z7l644N.jpg",
-      "backdrop_path": "/cP82Jtvn7DwVt0mWaDFm7QhWHez.jpg",
+      "title": "Шіттс Крік",
+      "original_title": "Schitt's Creek",
+      "overview": "Серіал розповідає про сімейство Роузів: Джонні Роуз — мільярдер, який заробив статок на мережі відеосалонів, його дружина — актриса мильних опер, і двоє дітей — гіпстер Девід та світська левиця Алексіс. Після того, як бізнес Джонні зазнає краху, все сімейство змушене переїхати жити в невелику сільську громаду Шіттс Крік, яку вони придбали кілька років тому заради розваги.",
+      "poster_path": "/3UuaOsE12RIN0IixGRYhh0asao.jpg",
+      "backdrop_path": "/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
       "genre_ids": [
         35
       ],
-      "vote_average": 7.201,
-      "vote_count": 453,
-      "release_date": "2020-02-07"
+      "vote_average": 7.783,
+      "vote_count": 712,
+      "release_date": "2015-01-13"
     },
     {
-      "id": 66573,
+      "id": 2490,
       "media_type": "tv",
-      "title": "У кращому світі",
-      "original_title": "The Good Place",
-      "overview": "Навіжена Елеонор з Нью Джерсі потрапляє туди, де їй наочно пояснюють, що все своє життя вона була вкрай поганою людиною. Головній героїні належить навчитися відрізняти хороше від поганого і допомогти їй дорости до хорошої людини візьметься наставник на ім'я Майкл.",
-      "poster_path": "/iZd6jJEzT7sszoFLd5XsYXgctfq.jpg",
-      "backdrop_path": "/tZmlWeFEMvxrjJhBJJcLNXpSRiG.jpg",
+      "title": "Айтішники",
+      "original_title": "The IT Crowd",
+      "overview": "Дія відбувається в офісах „Рейнхолм Індастріз“ — вигаданій  британській корпорації, розташованій в центрі Лондону. Сюжет  розвивається навколо витівок команди технічної підтримки, що складається  з 3 чоловік і працює в брудному підвалі, що сильно контрастує з блиском  сучасної архітектури і прекрасними видами Лондона, доступних решті працівників організації.",
+      "poster_path": "/xC2mwwN0BLBMb1sF9IboKpmBRZg.jpg",
+      "backdrop_path": "/erljE3cOZ4eyISQunUYmKZ0q7cu.jpg",
       "genre_ids": [
-        10765,
+        35
+      ],
+      "vote_average": 8.159,
+      "vote_count": 1635,
+      "release_date": "2006-02-03"
+    },
+    {
+      "id": 8592,
+      "media_type": "tv",
+      "title": "Парки та зони відпочинку",
+      "original_title": "Parks and Recreation",
+      "overview": "Проста чиновниця Леслі Ноуп якось зрозуміла, що її робота не дає суспільству жодної користі. Вона вирішує перетворити покинутий кар’єр на парк. Перепонами на її шляху стануть негнучка бюрократична система, егоїстичні сусіди, які не бажають змін навіть на краще, та забудовники, що відразу зацікавилися непотрібною їм досі ділянкою. Але Леслі просто так не здасться…",
+      "poster_path": "/t1CnVOaLEdS9ZRMAEIpFf7DiDlC.jpg",
+      "backdrop_path": "/frwl2zBNAl5ZbFDJGoJv0mYo0rF.jpg",
+      "genre_ids": [
         35
       ],
       "vote_average": 8.0,
-      "vote_count": 1999,
-      "release_date": "2016-09-19"
+      "vote_count": 1856,
+      "release_date": "2009-04-09"
     },
     {
-      "id": 32815,
+      "id": 76148,
       "media_type": "tv",
-      "title": "Виховуючи Гоуп",
-      "original_title": "Raising Hope",
-      "overview": "Серіал розповість про Джиммі, 22-річного чоловіка що виховує маленьку дитину. У цій нелегкій справі йому допомагає його химерна сім’я. Мама дитини, з якою Джиммі був всього одну ніч, виявляється в камері смертників.",
-      "poster_path": "/uoQlWrYVERlifyUjDVUHiSu2ELo.jpg",
-      "backdrop_path": "/45hDcAQdlNxHLPX07ZMC33ISfXq.jpg",
+      "title": "Дівчата з Деррі",
+      "original_title": "Derry Girls",
+      "overview": "П’ятеро підлітків: Ерін, її кузина Орла, їхні подруги Клер та Мішель та британський кузен Мішель Джеймс разом відвідують католицьку школу для дівчат у місті Деррі та переживають вічні проблеми усіх підлітків. Усе це на тлі завершення затяжного політичного конфлікту в Північній Ірландії 90-х років, відомого як \"Клопоти\" (The Troubles).",
+      "poster_path": "/uEy7NZHyDO2ggbDwVGElgCJSYBC.jpg",
+      "backdrop_path": "/nQyQ4c8DUvXra1LDWnNfV9QJluD.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 8.1,
+      "vote_count": 402,
+      "release_date": "2018-01-04"
+    },
+    {
+      "id": 66134,
+      "media_type": "tv",
+      "title": "Даррелли",
+      "original_title": "The Durrells",
+      "overview": "Родина Даррелів, після смерті батька переселяються з Англії до Греції у пошуках кращого та дешевшого життя.",
+      "poster_path": "/eoLkAPfki2bqvEniuD9bdN7Nmfk.jpg",
+      "backdrop_path": "/lkb3NBvByVWBvr63wE4weHVFz4i.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10751
+      ],
+      "vote_average": 7.402,
+      "vote_count": 122,
+      "release_date": "2016-04-03"
+    },
+    {
+      "id": 59674,
+      "media_type": "tv",
+      "title": "Дамське щастя",
+      "original_title": "The Paradise",
+      "overview": "Серіал адаптація роману Еміля Золя, дія якого перенесено з Парижу до Англії 1890-х років і розповідає історію дівчини на ім'я Деніз.",
+      "poster_path": "/csvd77VNfTutFjm7jVsijLn2SYB.jpg",
+      "backdrop_path": "/kItI3VSy7oBF1ANuF6J2KPeYoA9.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.3,
+      "vote_count": 84,
+      "release_date": "2012-09-25"
+    },
+    {
+      "id": 62084,
+      "media_type": "tv",
+      "title": "Полдарк",
+      "original_title": "Poldark",
+      "overview": "Росс Полдарк повертається додому з війни, сподіваючись на спокійне і щасливе життя в колі сім'ї, і виявляє, що батько помер, управляють будинком слуги-п'яниці, а наречена Елізабет, впевнена, що він загинув, побралася з його кузеном..",
+      "poster_path": "/ret3ROKU23bvFLSAgGr1sKvDte6.jpg",
+      "backdrop_path": "/p8A1HMw3f3djxMwQRccCuxdy754.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.731,
+      "vote_count": 323,
+      "release_date": "2015-03-08"
+    },
+    {
+      "id": 12786,
+      "media_type": "tv",
+      "title": "Загадки Мердока",
+      "original_title": "Murdoch Mysteries",
+      "overview": "Детективний серіал \"Загадки Мердока\", відзнятий за романами Морін Дженнінгс.\n\nХитромудрі злочини розплутує поліцейський Вільям Мердок. Його характеризують як людину з допитливим розумом, уважну до дрібниць і новинок технічного прогресу. Детективу Мердоку допомагає лікар Джейн Огден, якій ані юний вік, ані гарне виховання леді не заважають професійно виконувати обов'язки патанатома і експерта в новій галузі юриспруденції XIX століття – криміналістиці.",
+      "poster_path": "/1S8gnT06MDkAmHmzDLSVughE0t0.jpg",
+      "backdrop_path": "/hYmHyUlJMQgeazELoHnORrEQ0vE.jpg",
+      "genre_ids": [
+        9648,
+        18
+      ],
+      "vote_average": 7.7,
+      "vote_count": 291,
+      "release_date": "2008-01-24"
+    },
+    {
+      "id": 61511,
+      "media_type": "tv",
+      "title": "Отець Браун",
+      "original_title": "Father Brown",
+      "overview": "Отець Браун - непримітного вигляду священик, який володіє влучним оком, здатним помічати найдрібніші хвилювання в душах людей, які приходять до нього за порадою і підтримкою.",
+      "poster_path": "/p7vhDIkPVySMBGsPnAQXIiC6OsB.jpg",
+      "backdrop_path": "/96v57BttdxvquxnVozkQUsGvawQ.jpg",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "vote_average": 7.601,
+      "vote_count": 139,
+      "release_date": "2013-01-14"
+    },
+    {
+      "id": 3452,
+      "media_type": "tv",
+      "title": "Фрейзер",
+      "original_title": "Frasier",
+      "overview": "Після розлучення відомий бостонський психіатр Фрейзер Крейн приїжджає в рідний Сієтл, щоб почати життя заново. Його батько Мартін, поліцейський у відставці, брат Найлс і собака Едді раді поверненню Фрейзера. Ще його чекає нова робота ефірного радіо-психіатра, який відгукується на ім’я «Я Слухаю», і маса позаштатних і комічних ситуацій на роботі і вдома.",
+      "poster_path": "/hsBbAMf6jZB4Gd6l1FTJGYpg9pA.jpg",
+      "backdrop_path": "/4FqKFhF4BrNsrK3EdRpVJofVqCp.jpg",
       "genre_ids": [
         35,
         10751
       ],
-      "vote_average": 7.44,
-      "vote_count": 335,
-      "release_date": "2010-09-21"
+      "vote_average": 7.685,
+      "vote_count": 895,
+      "release_date": "1993-09-16"
     },
     {
-      "id": 7777,
+      "id": 1400,
       "media_type": "tv",
-      "title": "Давай ще, Тед",
-      "original_title": "Better Off Ted",
-      "overview": "Для команди «Verіdіan Dynamіcs» немає недосяжних успіхів. Глава відділу досліджень і розвитку Тед Крісп обожнює свою роботу. Йому все в ній подобається. Подобається його супер-бос, Вероніка. Подобаються його колеги, Лем, Філ і Лінда. Особливо Лінда. Але найбільше йому подобається те, чим вони займаються. Стираючи межі між фантазіями і реальністю, команда дослідників постійно перетворює до смішного неможливе в шикарно можливе.",
-      "poster_path": "/tvmafNGqMFA03fJcbUXxjgzSToX.jpg",
-      "backdrop_path": "/mpUcBHfzKpSo72rwo2EaaGkeSX1.jpg",
+      "title": "Сайнфелд",
+      "original_title": "Seinfeld",
+      "overview": "Поневіряння міського невротика, стенд-ап коміка Джеррі Сайнфелда та його настільки ж неврастенічних нью-йоркських друзів.",
+      "poster_path": "/2roqp3NfMeJhO5XnpjOMHcy6njF.jpg",
+      "backdrop_path": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
       "genre_ids": [
         35
       ],
-      "vote_average": 7.608,
-      "vote_count": 237,
-      "release_date": "2009-03-18"
-    },
-    {
-      "id": 36994,
-      "media_type": "tv",
-      "title": "Трудоголіки",
-      "original_title": "Workaholics",
-      "overview": "Комедія розповідає про трьох друзів, які працюють разом з 9 до 5 і живуть разом з 5 до 9. Рекомендований стиль одягу, встановлені терміни, підйом до полудня - це не ті речі, до яких звикли хлопці. Їх мізки все ще на автопілоті по університетській звичці, але тепер вони виявилися в офісі, серед «дорослих». Вони виконують свою роботу, іноді навіть успішно, але з'являються занадто пізно, йдуть п'яними, відколюють жарти один над одним і порушують всі правила. Вони живуть сьогоднішнім днем ... навіть якщо не знають, яким саме.",
-      "poster_path": "/kXg4tFUHN7h7bNdBTeLIIKqw9UJ.jpg",
-      "backdrop_path": "/zDSvUcCR2nkrGhLUTIgqQ18P27U.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 7.415,
-      "vote_count": 313,
-      "release_date": "2011-04-06"
-    },
-    {
-      "id": 509,
-      "media_type": "movie",
-      "title": "Ноттінґ Гілл",
-      "original_title": "Notting Hill",
-      "overview": "Випадкова зустріч власника книжкової крамнички Вільяма Текера й голлівудської зірки Анни Скотт перетворюється на несподіваний роман.",
-      "poster_path": "/lHKwhps0SMKbDHR89eaXjvG9UT.jpg",
-      "backdrop_path": "/enTZhfxAdgOCdFdbj52MR3F10yC.jpg",
-      "genre_ids": [
-        10749,
-        35
-      ],
-      "vote_average": 7.266,
-      "vote_count": 6772,
-      "release_date": "1999-05-21"
+      "vote_average": 8.259,
+      "vote_count": 2382,
+      "release_date": "1989-07-05"
     },
     {
       "id": 9489,
@@ -141,109 +220,25 @@
         35,
         10749
       ],
-      "vote_average": 6.707,
-      "vote_count": 3679,
+      "vote_average": 6.709,
+      "vote_count": 3682,
       "release_date": "1998-12-18"
     },
     {
-      "id": 639,
-      "media_type": "movie",
-      "title": "Коли Гаррі зустрів Саллі",
-      "original_title": "When Harry Met Sally...",
-      "overview": "Гаррі і Саллі знайомі з часів створення світу. Вони разом навчались, приходять одне одному на допомогу під час будь-яких життєвих незгод, допомагають у пошуках близької людини. Навіть коли вони втрачають одне одного з поля зору, доля знову зводить їх разом. Вони найкращі друзі ось уже тисячу років. Проте їхня дружба опинилась під загрозою. Обидва переймаються питанням чи не варто їм стати чимось більшим, аніж друзі? Чи можуть чоловік і жінка дружити по-справжньому? Чи така дружба, рано чи пізно, неминуче завершиться більш тісними стосунками?",
-      "poster_path": "/aQexcifuNxAJ94RHGEmlx2mHlPT.jpg",
-      "backdrop_path": "/i8aIbji5vcPoHwcLBZYQSniGkAI.jpg",
+      "id": 48891,
+      "media_type": "tv",
+      "title": "Бруклін 9-9",
+      "original_title": "Brooklyn Nine-Nine",
+      "overview": "Сюжет серіалу оповідає про детектива, на долю якого в один момент випали серйозні зміни. Зовсім недавно він не виявляв до своєї роботи ніякої серйозності, але тепер, коли його штаб очолив новий керівник, детективу доведеться кардинально поміняти своє професійне життя і стати героєм неймовірних історій.",
+      "poster_path": "/a9gmarnmzyd7Q7XkyLxvZvK3jNP.jpg",
+      "backdrop_path": "/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
       "genre_ids": [
         35,
-        10749,
-        18
+        80
       ],
-      "vote_average": 7.404,
-      "vote_count": 4638,
-      "release_date": "1989-07-12"
-    },
-    {
-      "id": 416477,
-      "media_type": "movie",
-      "title": "Кохання – хвороба",
-      "original_title": "The Big Sick",
-      "overview": "У міру розвитку стосунків закоханій парі доводиться зіткнутися зі своїми культурними відмінностями.",
-      "poster_path": "/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
-      "backdrop_path": "/fYI8WX2DquAHMqwh5mOMxc6RU5j.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10749
-      ],
-      "vote_average": 7.323,
-      "vote_count": 2652,
-      "release_date": "2017-03-30"
-    },
-    {
-      "id": 1581,
-      "media_type": "movie",
-      "title": "Відпочинок за обміном",
-      "original_title": "The Holiday",
-      "overview": "Дві незнайомі дівчини, Айріс і Аманда, знайомляться в інтернеті і зважуються на сміливий вчинок — на 2 тижні помінятися місцями проживання. Тепер Айріс переїде до сонячної Каліфорнії, а Аманда — до засніженої англійської провінції. Чим закінчиться така незвичайна відпустка для дівчат?",
-      "poster_path": "/8sTBiZFLN4QCyC0ZHMjTM9Gzvf4.jpg",
-      "backdrop_path": "/9Ebn8atCcGk5OZrx4xmoTobAxoh.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "vote_average": 7.102,
-      "vote_count": 5668,
-      "release_date": "2006-12-05"
-    },
-    {
-      "id": 8488,
-      "media_type": "movie",
-      "title": "Метод Хітча",
-      "original_title": "Hitch",
-      "overview": "Алекс Гітченс допомагає сором’язливим чоловікам завоювати серця своїх обраниць. Його метод фактично не дає збоїв. Зараз «доктор-сват» працює над тим, щоб звичайний бухгалтер зміг подолати стіну між ним та гламурною супер-зіркою. У ході цієї справи Алекс зустрічає журналістку світської хроніки, яка може зламати всі його плани і не тільки...",
-      "poster_path": "/a1pMCBn0vWgjk0UoDswBuQetmaK.jpg",
-      "backdrop_path": "/a6tIX4fGgp60w2d9pqYRbFM91ne.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10749
-      ],
-      "vote_average": 6.585,
-      "vote_count": 6282,
-      "release_date": "2005-02-11"
-    },
-    {
-      "id": 18240,
-      "media_type": "movie",
-      "title": "Освідчення",
-      "original_title": "The Proposal",
-      "overview": "Деспотична начальниця опиняється перед загрозою втратити візу США і бути депортованою назад до рідної Канади. Аби уникнути такого ганебного закінчення блискучої кар’єри вона пропонує своєму молодому помічникові-початківцю взяти фіктивний шлюб, ненавмисне даючи йому до рук владу над собою, як офіційною дружиною.",
-      "poster_path": "/dueDvTuEd6PsXnRIStnekK4uAfo.jpg",
-      "backdrop_path": "/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
-      "genre_ids": [
-        35,
-        10749,
-        18
-      ],
-      "vote_average": 7.174,
-      "vote_count": 7627,
-      "release_date": "2009-06-02"
-    },
-    {
-      "id": 459992,
-      "media_type": "movie",
-      "title": "Божевільна парочка",
-      "original_title": "Long Shot",
-      "overview": "Фред Фларські, безробітний журналіст-невдаха, вирішує завоювати серце жінки, що в дитинстві була його нянею, а зараз стала чи не найбільш впливовою жінкою на планеті і абсолютно недосяжною.",
-      "poster_path": "/mNY2iifXVI1xmMVwZUFxpFCgmXq.jpg",
-      "backdrop_path": "/jYnQgKYACzQ06gRf15hRbyRkQsp.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "vote_average": 6.703,
-      "vote_count": 2910,
-      "release_date": "2019-05-02"
+      "vote_average": 8.2,
+      "vote_count": 4028,
+      "release_date": "2013-09-17"
     }
   ]
 }
