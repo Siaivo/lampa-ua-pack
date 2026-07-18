@@ -1,0 +1,62 @@
+name: Daily Mood Collections
+
+on:
+  schedule:
+    # GitHub cron — тільки UTC, без переходу на літній час.
+    # Kyiv = UTC+2 (зима) / UTC+3 (літо) → 22:00 UTC ≈ 00:00 Kyiv взимку, 01:00 влітку.
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: mood-update
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update-mood:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20   # жорсткий запобіжник: GitHub акуратно вб'є, а не зависне
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch latest remote state
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
+      - name: Generate mood collections
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          # URL і модель не секретні — беремо з Variables або Secrets (що задано)
+          OPENCODE_URL: ${{ vars.OPENCODE_URL || secrets.OPENCODE_URL }}
+          OPENCODE_MODEL: ${{ vars.OPENCODE_MODEL || secrets.OPENCODE_MODEL }}
+          # токен — лише секрет
+          OPENCODE_TOKEN: ${{ secrets.OPENCODE_TOKEN }}
+        run: python -u .github/scripts/update-mood.py   # -u = живий (небуферизований) лог
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mood/
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update mood collections"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
