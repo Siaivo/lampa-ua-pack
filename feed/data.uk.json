@@ -8,7 +8,7 @@
       "card_type": "movie",
       "data": {
         "adult": false,
-        "backdrop_path": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+        "backdrop_path": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
         "genre_ids": [
           12,
           28,
@@ -98,7 +98,7 @@
           "name": "Серія 8",
           "overview": "",
           "season_number": 1,
-          "runtime": 47,
+          "runtime": 46,
           "still_path": "/zhUjCo3SL7OmLGBkVf6JtxyTH6N.jpg",
           "vote_average": 7.0
         },
@@ -162,7 +162,7 @@
           "season_number": 1,
           "runtime": 48,
           "still_path": "/vOa1Lv0rvuPkPk4xYtZHZGR04bX.jpg",
-          "vote_average": 4.818
+          "vote_average": 4.8
         },
         "genres": [
           "Драма",
@@ -486,7 +486,7 @@
           "season_number": 3,
           "runtime": 62,
           "still_path": "/kcKcglqhlje5zqIadRQgc7tvWMN.jpg",
-          "vote_average": 6.25
+          "vote_average": 6.241
         },
         "genres": [
           "Науково фантастичний",
@@ -699,9 +699,9 @@
           "name": "Серія 3",
           "overview": "",
           "season_number": 3,
-          "runtime": 50,
+          "runtime": 49,
           "still_path": "/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg",
-          "vote_average": 2.6
+          "vote_average": 3.357
         },
         "genres": [
           "Науково фантастичний",
@@ -753,7 +753,8 @@
         "last_air_date": "2026-07-11",
         "countries": [
           "United States of America",
-          "Ireland"
+          "Ireland",
+          "Canada"
         ],
         "genres": [
           "Історичний",
@@ -1192,7 +1193,7 @@
           "season_number": 3,
           "runtime": 57,
           "still_path": "/rtSucmBIzQPcBejfWXqRC8ElcEQ.jpg",
-          "vote_average": 6.389
+          "vote_average": 6.467
         },
         "genres": [
           "Науково фантастичний",
@@ -1316,7 +1317,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg",
-          "vote_average": 5.385
+          "vote_average": 5.556
         },
         "genres": [
           "Науково фантастичний",
@@ -1435,7 +1436,7 @@
           "name": "Опосум",
           "overview": "Боудени розбираються з новим сусідом. Наталі сумнівається в своєму минулому. Сімʼя вирушає в подорож.",
           "season_number": 1,
-          "runtime": 56,
+          "runtime": 57,
           "still_path": "/zA6WWkrhSoJjJuFhB0MvGXiDVLO.jpg",
           "vote_average": 7.3
         },
@@ -1554,7 +1555,7 @@
           "season_number": 3,
           "runtime": 52,
           "still_path": "/nIvrv95n7gukebcCEUeZJDy9iEp.jpg",
-          "vote_average": 6.383
+          "vote_average": 6.379
         },
         "genres": [
           "Науково фантастичний",
@@ -2026,7 +2027,7 @@
           "season_number": 3,
           "runtime": 64,
           "still_path": "/6qXcvZEnD9InL1itud7eK88CDzC.jpg",
-          "vote_average": 7.25
+          "vote_average": 7.2
         },
         "genres": [
           "Науково фантастичний",
@@ -2669,7 +2670,7 @@
           "season_number": 3,
           "runtime": 66,
           "still_path": "/oVawK97dRbB7zeMaC44SjXQgUr1.jpg",
-          "vote_average": 7.385
+          "vote_average": 7.4
         },
         "genres": [
           "Науково фантастичний",
@@ -2971,5 +2972,5 @@
       "premiere": 0
     }
   ],
-  "duration": 5.484580993652344
+  "duration": 4.695981025695801
 }
