@@ -3,251 +3,256 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"104\" y=\"176\" width=\"216\" height=\"208\" rx=\"28\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"28\" d=\"M320 224h28a52 52 0 0 1 0 104h-28\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"20\" stroke-linecap=\"round\" d=\"M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60\"/></svg>",
   "title": "Затишок",
   "lang": "uk",
-  "updated_at": "2026-07-18T22:47:10Z",
+  "updated_at": "2026-07-19T22:51:00Z",
   "items": [
     {
-      "id": 404,
+      "id": 508101,
       "media_type": "movie",
-      "title": "Проста історія",
-      "original_title": "The Straight Story",
-      "overview": "Елвін Стрейт, старий, що пройшов Другу Світову Війну, живе в Айові разом з дочкою Розою. Одного разу він дізнається, що у його рідного брата Лайла, що живе за 317 миль у Вісконсині, трапився інсульт. Намагаючись забути про давню ворожнечу, Елвін хоче навідати до нього. Однак через поганий зір Елвін не має водійських прав, а автобуси не ходять до місця проживання брата. Тому він вирушає в дорогу на старій газонокосарці 1966 року, купленій перед поїздкою...",
-      "poster_path": "/fgV0xzb2maGImL2SCSjZmFZobg3.jpg",
-      "backdrop_path": "/1S81PpyGwS8eVx4W75uSKzMw4B0.jpg",
+      "title": "Плюс один",
+      "original_title": "Plus One",
+      "overview": "Головний герой – затятий холостяк на ім’я Бен. Він не вірить в кохання, відносячись до стосунків лише як до фізіологічної потреби. Але одного літа виходить так, що він отримує запрошення одразу на десять весіль. І для кожного весілля необхідно знайти супутницю. Вирішення проблеми виходить в той момент, коли подружка Бена Еліс розриває зі своїм хлопцем. Їй треба розвіятись і вона також має запрошення. Бен та Еліс вирішують відпочити разом, але це перетворюється в дещо більше…",
+      "poster_path": "/zb7mIyHjLDlwhiyqd1FlRGYT2On.jpg",
+      "backdrop_path": "/sjLo8RbshOyglJK2NLGqIfdzPCp.jpg",
       "genre_ids": [
-        18
-      ],
-      "vote_average": 7.741,
-      "vote_count": 1817,
-      "release_date": "1999-10-15"
-    },
-    {
-      "id": 11832,
-      "media_type": "movie",
-      "title": "Бенкет Бабетти",
-      "original_title": "Babettes gæstebud",
-      "overview": "Бабетта, талановитий кухар, була змушена кинути все і втекти з Парижа, охопленого революцією. Жінка потрапляє до бідного рибацького села, в дім двох старих дів-пуританок. Леді вважають за гріх будь-яку їжу, крім вівсянки. Одного разу, вигравши велику суму в лотерею, Бабетта влаштовує на них справжній бенкет у найкращих французьких традиціях. За мотивами твору Ісака Дінесена (Карен Бліксен).",
-      "poster_path": "/lHYu6Rxc0zAU3FiKsqCy5SZPRAj.jpg",
-      "backdrop_path": "/iFl8eN4vWcMNNozmJk8E7cLgeT9.jpg",
-      "genre_ids": [
-        18,
-        36,
-        35
-      ],
-      "vote_average": 7.206,
-      "vote_count": 444,
-      "release_date": "1987-08-11"
-    },
-    {
-      "id": 228194,
-      "media_type": "movie",
-      "title": "Прянощі та пристрасті",
-      "original_title": "The Hundred-Foot Journey",
-      "overview": "Родина індійських емігрантів, яких доля закинула в маленьке містечко в Провансі, вирішує відкрити кав’ярню зі східною кухнею... прямо навпроти відомого на весь округ ресторану \"Плакуча верба\", бастіону французьких кулінарних традицій, господиня якого, Мадам Малорі, більше за все на світі пишається тим, що її заклад удостоєно зірки в каталозі \"Мішлен\". Спочатку Мадам Малорі не приховує своєї огиди галасливими сусідами і їхніми екзотичними звичками, але поступово війна за клієнтів між двома ресторанами змінюється хитким перемир’ям, особливо, коли з'ясовується, що юний кухар-емігрант Гассан має досконалий смак, і рецепти французької кухні підкорюються йому так само легко, як таємниці індійських прянощів.",
-      "poster_path": "/p2ghsoo9mMwqJK4wSedVBHW98s3.jpg",
-      "backdrop_path": "/jUaZAbdpNl33VHprUl4qEohXn8q.jpg",
-      "genre_ids": [
-        18,
-        35
-      ],
-      "vote_average": 7.268,
-      "vote_count": 1560,
-      "release_date": "2014-08-06"
-    },
-    {
-      "id": 776503,
-      "media_type": "movie",
-      "title": "У ритмі серця",
-      "original_title": "CODA",
-      "overview": "Рубі – CODA (дитина глухих батьків), вона єдина в сім’ї, хто чує. Коли Рубі відкриває в собі любов до співу, їй доводиться обирати між зобов’язаннями перед сім’єю і мріями.",
-      "poster_path": "/qzfvpzZr5vOQ42zDDaqBGDDyCIZ.jpg",
-      "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
-      "genre_ids": [
-        18,
-        10402,
+        35,
         10749
       ],
-      "vote_average": 7.891,
-      "vote_count": 2631,
-      "release_date": "2021-08-13"
+      "vote_average": 6.831,
+      "vote_count": 417,
+      "release_date": "2019-06-14"
     },
     {
-      "id": 353326,
+      "id": 597219,
       "media_type": "movie",
-      "title": "Людина, яка пізнала нескінченність",
-      "original_title": "The Man Who Knew Infinity",
-      "overview": "Поки Європа палає у вогні Першої світової війни, вихований у бідній родині з індійського міста Мадраса хлопець Срініваса Рамануджан отримує стипендію і право навчатися в Кембриджському університеті. Саме там йому судилося прославитись як видатному математику.",
-      "poster_path": "/sBySeFq2Rgcf4bIkRY0iJXYZ8bX.jpg",
-      "backdrop_path": "/cJ6dqrHhts085zJTMaXECjp0RfX.jpg",
+      "title": "Половина всього",
+      "original_title": "The Half of It",
+      "overview": "Сором'язливу, студентку відмінницю Еллі наймає милий, але косноязикий качок Пол, якому потрібна допомога в тому, щоб завоювати найпопулярнішу дівчину в школі. Але їх нова і малоймовірна дружба стає хисткою, коли Еллі виявить, що у неї є почуття до тієї самої дівчини.",
+      "poster_path": "/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg",
+      "backdrop_path": "/8YSpQBdGvuvSj9pLsY2yoUb9fZn.jpg",
       "genre_ids": [
-        18,
-        36
+        35,
+        10749,
+        18
       ],
-      "vote_average": 7.155,
-      "vote_count": 1587,
-      "release_date": "2016-04-08"
+      "vote_average": 7.1,
+      "vote_count": 1606,
+      "release_date": "2020-05-01"
     },
     {
-      "id": 231576,
+      "id": 513576,
       "media_type": "movie",
-      "title": "Хотів би я бути тут",
-      "original_title": "Wish I Was Here",
-      "overview": "Історія Айдана Блума — актора, батька і чоловіка, який у свої 35 років все ще намагається знайти себе, мету свого життя. Навчаючи життя двох своїх дітей, Айдан поступово виявляє деякі частини себе, які він не міг знайти раніше...",
-      "poster_path": "/x2PbkErUmVfeRkdJe5CCZSkqk4B.jpg",
-      "backdrop_path": "/uhnA40snHwYSUkGA0rgGLmmGgE2.jpg",
-      "genre_ids": [
-        18,
-        35
-      ],
-      "vote_average": 6.541,
-      "vote_count": 785,
-      "release_date": "2014-07-18"
-    },
-    {
-      "id": 167073,
-      "media_type": "movie",
-      "title": "Бруклін",
-      "original_title": "Brooklyn",
-      "overview": "Історія Елліс Лейсі, яка неохоче покидає своє рідне ірландське містечко і вирушає на пошуки роботи до Америки. Вона поселяється в Брукліні, поступово виліковується від ностальгії і починає насолоджуватися повітрям свободи. До всього іншого Елліс закохується, але трагічні новини з батьківщини змушують її повернутися до Ірландії, де вона зустрічає іншого чоловіка і в результаті змушена робити нелегкий вибір.",
-      "poster_path": "/pagrbjTRzrQEZG6N15vtcq3UHGD.jpg",
-      "backdrop_path": "/2T4bqHgYfzXNQoALJsvhW40kDTg.jpg",
+      "title": "Завжди будь моїм «мабуть»",
+      "original_title": "Always Be My Maybe",
+      "overview": "Те, що Саша та Маркус колись зійдуться, вважали всі, окрім самих Саші та Маркуса. І через п'ятнадцять років вони задумалися, чи не створені одне для одного? Мабуть.",
+      "poster_path": "/6XcSP7vKVl9DLbZmFr8E5a2MMmX.jpg",
+      "backdrop_path": "/aC5LAGfHzVH8f7tkCwkxzXsqAZz.jpg",
       "genre_ids": [
         10749,
-        18,
-        36
-      ],
-      "vote_average": 7.297,
-      "vote_count": 3284,
-      "release_date": "2015-10-20"
-    },
-    {
-      "id": 4538,
-      "media_type": "movie",
-      "title": "Поїзд до Дарджилінґа",
-      "original_title": "The Darjeeling Limited",
-      "overview": "Три придуркуваті братики, які не розмовляли один з одним цілий рік після смерті батька, опиняються в потязі, що їде через Індію. Тут вони з'явилися, послухавши заклик старшого з братів возз'єднатися в подорожі, яка повинна допомогти їм зрозуміти і пізнати себе, відновивши сімейні пута, що послабшали. Втім, незабаром це благе дійство сходить з потрібного курсу: недовірливі родичі починають лаятися і битися, внаслідок чого виявляються висадженими посеред пустелі. І, звичайно, це далеко не усі неприємності, які чекають на них.",
-      "poster_path": "/hnA9g4ix1afSSgz49RUGL67jhRv.jpg",
-      "backdrop_path": "/hKJ513GbmTSmTXJU1uCXclh5Wkh.jpg",
-      "genre_ids": [
-        12,
-        18,
         35
       ],
-      "vote_average": 7.145,
-      "vote_count": 4006,
-      "release_date": "2007-09-07"
+      "vote_average": 6.6,
+      "vote_count": 1416,
+      "release_date": "2019-05-31"
     },
     {
-      "id": 212778,
+      "id": 623195,
       "media_type": "movie",
-      "title": "Повар на колесах",
-      "original_title": "Chef",
-      "overview": "Карл Каспер – неперевершений кухар, але у нього не склалися стосунки в сім'ї і власник ресторану не дає йому жодної свободи. Він вирішує покинути роботу і купити харчовий фургон, де він зможе готувати власні страви. На хвилі ентузіазму і оптимістичного погляду в майбутнє він спробує повернути прихильність своїх близьких.",
-      "poster_path": "/dM6ldPN0aDQtcyLQMZwjz8ICc5a.jpg",
-      "backdrop_path": "/igVNCpS132rOqrnDsrVYW5HCIsM.jpg",
+      "title": "Зустрінемося наступного Різдва",
+      "original_title": "Falling Inn Love",
+      "overview": "У прагненні знову зустріти чоловіка своєї мрії Лейла намагається знайти в Нью-Йорку квиток на різдвяний концерт гурту Pentatonix.",
+      "poster_path": "/4bzu5k5vwLKgwap6pHXlCY8nlh3.jpg",
+      "backdrop_path": "/lVJdFZc8hBJRVnOIay60tl04Qjv.jpg",
       "genre_ids": [
+        10749,
         35
       ],
-      "vote_average": 7.113,
-      "vote_count": 3683,
-      "release_date": "2014-05-08"
+      "vote_average": 6.521,
+      "vote_count": 1212,
+      "release_date": "2019-08-29"
     },
     {
-      "id": 416477,
+      "id": 615665,
       "media_type": "movie",
-      "title": "Кохання – хвороба",
-      "original_title": "The Big Sick",
-      "overview": "У міру розвитку стосунків закоханій парі доводиться зіткнутися зі своїми культурними відмінностями.",
-      "poster_path": "/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
-      "backdrop_path": "/fYI8WX2DquAHMqwh5mOMxc6RU5j.jpg",
+      "title": "Пара на свята",
+      "original_title": "Holidate",
+      "overview": "Їм набридли свята наодинці із собою, тож двоє незнайомців вирішують протягом року відзначати їх разом. Дуже скоро платонічні стосунки переростають у щось більше.",
+      "poster_path": "/gSCr70e4rfssaK4S7VtSi25Aq6c.jpg",
+      "backdrop_path": "/8veOfB9RbSzFki0Rq3IQIGsFfhC.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 6.97,
+      "vote_count": 2378,
+      "release_date": "2020-10-27"
+    },
+    {
+      "id": 555850,
+      "media_type": "movie",
+      "title": "Святковий календар",
+      "original_title": "The Holiday Calendar",
+      "overview": "Талановита дівчина-фотограф успадковує старовинний різдвяний календар, який вміє передбачати майбутнє. Чи приведе її цей чарівний календар до кохання?",
+      "poster_path": "/hiCeUExxUTGbU6FXORLf673uwvK.jpg",
+      "backdrop_path": "/iobccQ0P5vs75rj33n2qbDKPN2Y.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        10751
+      ],
+      "vote_average": 6.62,
+      "vote_count": 1043,
+      "release_date": "2018-11-02"
+    },
+    {
+      "id": 353577,
+      "media_type": "movie",
+      "title": "Кохання з першого погляду",
+      "original_title": "Love at First Sight",
+      "overview": "Двоє незнайомців зустрічаються в літаку до Лондона, але за іронією долі розлучаються. Возз’єднання здається неможливим, але кохання може подолати будь-які труднощі.",
+      "poster_path": "/4iIZ6bngoqbHX0gjyvfPF5vpBnW.jpg",
+      "backdrop_path": "/gz1Lr0WcKJ1eg7mfN0AfAPXbI7h.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "vote_average": 7.243,
+      "vote_count": 709,
+      "release_date": "2023-09-15"
+    },
+    {
+      "id": 846250,
+      "media_type": "movie",
+      "title": "Файр-Айленд",
+      "original_title": "Fire Island",
+      "overview": "Група найкращих друзів збирається у Файр-Айленд-Пайнс на щорічний тиждень любові та сміху, але раптова зміна подій може зробити це їхнє літо останнім в гей-раю.",
+      "poster_path": "/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg",
+      "backdrop_path": "/4uwOKYaySkczmZ5C4EO50Ay3IoT.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 6.913,
+      "vote_count": 288,
+      "release_date": "2022-06-02"
+    },
+    {
+      "id": 209263,
+      "media_type": "movie",
+      "title": "Досить слів",
+      "original_title": "Enough Said",
+      "overview": "Єва розлучилася і зіткнулася зі складним моментом в житті — що робити далі? Вона знайомиться з іншим привабливим чоловіком, який виявляється колишнім чоловіком жінки, яка завжди була для неї ідеалом.",
+      "poster_path": "/p5naJg0K8xF0h0HWEfiz6rc9lC4.jpg",
+      "backdrop_path": "/qzvntzcKwdp1GqOpJ8dc0FiSOPu.jpg",
       "genre_ids": [
         35,
         18,
         10749
       ],
-      "vote_average": 7.323,
-      "vote_count": 2653,
-      "release_date": "2017-03-30"
+      "vote_average": 6.729,
+      "vote_count": 925,
+      "release_date": "2013-09-18"
     },
     {
-      "id": 67136,
-      "media_type": "tv",
-      "title": "Це ми",
-      "original_title": "This Is Us",
-      "overview": "18 мільйонів людей, що нині живуть у світі, одночасно відзначають власний день народження. Але однакова святкова дата — не єдина обставина, що об'єднує їх при всій несхожості. Хтось тільки що народився, але так і не побачив свою померлу мати, залишаючись з переживаючим трагедію батьком. Хтось у день народження вирішив знайти свого батька, який кинув його багато років тому. А хтось всерйоз комплексує від ожиріння і переїдання — і більшої проблеми в світі для нього не існує.",
-      "poster_path": "/huxmY6Dmzwpv5Q2hnNft0UMK7vf.jpg",
-      "backdrop_path": "/frNEERYvgDAThEcCR5FKzggktsR.jpg",
+      "id": 459992,
+      "media_type": "movie",
+      "title": "Божевільна парочка",
+      "original_title": "Long Shot",
+      "overview": "Фред Фларські, безробітний журналіст-невдаха, вирішує завоювати серце жінки, що в дитинстві була його нянею, а зараз стала чи не найбільш впливовою жінкою на планеті і абсолютно недосяжною.",
+      "poster_path": "/mNY2iifXVI1xmMVwZUFxpFCgmXq.jpg",
+      "backdrop_path": "/jYnQgKYACzQ06gRf15hRbyRkQsp.jpg",
       "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 6.703,
+      "vote_count": 2911,
+      "release_date": "2019-05-02"
+    },
+    {
+      "id": 466282,
+      "media_type": "movie",
+      "title": "Усім хлопцям, яких я кохала раніше",
+      "original_title": "To All the Boys I've Loved Before",
+      "overview": "Спокійне шкільне життя Лари-Джин перевертається з ніг на голову, коли її таємні любовні листи п’ятьом хлопцям якимось чином виявляються відправленими.",
+      "poster_path": "/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg",
+      "backdrop_path": "/xXhta1NIKn09IXy0mfp68cabdWS.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 7.593,
+      "vote_count": 8736,
+      "release_date": "2018-08-17"
+    },
+    {
+      "id": 122906,
+      "media_type": "movie",
+      "title": "Коханий з майбутнього",
+      "original_title": "About Time",
+      "overview": "Ви вірите в кохання з першого погляду? І Тім вірить. Але головне, щоби перших поглядів було якомога більше. Молодий перспективний адвокат може все, включаючи переміщення в часі. І він має серйозний намір підкорити кохану дівчину з першого разу… Нехай і не з першої спроби!",
+      "poster_path": "/vECPYkDPSoPiG0D2wg1Swrde1Go.jpg",
+      "backdrop_path": "/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        14
+      ],
+      "vote_average": 7.907,
+      "vote_count": 9355,
+      "release_date": "2013-09-04"
+    },
+    {
+      "id": 508,
+      "media_type": "movie",
+      "title": "Реальне кохання",
+      "original_title": "Love Actually",
+      "overview": "Фільм розповідає дев’ять реальних історій, які дивовижним чином переплітають між собою всіх героїв напередодні Різдва.",
+      "poster_path": "/64ax8zNppSPFA7GopOf8yMfjrwL.jpg",
+      "backdrop_path": "/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
+      "genre_ids": [
+        35,
+        10749,
         18
       ],
-      "vote_average": 8.2,
-      "vote_count": 1635,
-      "release_date": "2016-09-20"
+      "vote_average": 7.099,
+      "vote_count": 7443,
+      "release_date": "2003-09-07"
     },
     {
-      "id": 66134,
-      "media_type": "tv",
-      "title": "Даррелли",
-      "original_title": "The Durrells",
-      "overview": "Родина Даррелів, після смерті батька переселяються з Англії до Греції у пошуках кращого та дешевшого життя.",
-      "poster_path": "/eoLkAPfki2bqvEniuD9bdN7Nmfk.jpg",
-      "backdrop_path": "/lkb3NBvByVWBvr63wE4weHVFz4i.jpg",
+      "id": 2493,
+      "media_type": "movie",
+      "title": "Принцеса-наречена",
+      "original_title": "The Princess Bride",
+      "overview": "Ласкаво просимо у фантастичний світ прекрасних замків, страшних підземель, безкрайніх океанів, лісів і гір. Щоб врятувати свою кохану, прекрасну наречену, відважний герой долає немислимі перешкоди і здійснює неймовірні подвиги.",
+      "poster_path": "/nmcJHxuHzn4pVWzhoKPvVhXfl.jpg",
+      "backdrop_path": "/2CisgvF2HcIVnbMZbSjASCtSgEb.jpg",
       "genre_ids": [
-        18,
-        35,
-        10751
-      ],
-      "vote_average": 7.402,
-      "vote_count": 122,
-      "release_date": "2016-04-03"
-    },
-    {
-      "id": 70785,
-      "media_type": "tv",
-      "title": "Енн",
-      "original_title": "Anne with an E",
-      "overview": "13-річна сирота Енн помилково потрапляє в сім'ю прийомних батьків, де перед нею відкривається нове життя з новими складнощами.",
-      "poster_path": "/7iDVJ2ASaU3OYdZOGgf8ucYBo0E.jpg",
-      "backdrop_path": "/ywQtHG17LZhAFZyZtBflhtFMtJ7.jpg",
-      "genre_ids": [
-        18,
-        10751
-      ],
-      "vote_average": 8.652,
-      "vote_count": 4953,
-      "release_date": "2017-03-19"
-    },
-    {
-      "id": 66573,
-      "media_type": "tv",
-      "title": "У кращому світі",
-      "original_title": "The Good Place",
-      "overview": "Навіжена Елеонор з Нью Джерсі потрапляє туди, де їй наочно пояснюють, що все своє життя вона була вкрай поганою людиною. Головній героїні належить навчитися відрізняти хороше від поганого і допомогти їй дорости до хорошої людини візьметься наставник на ім'я Майкл.",
-      "poster_path": "/iZd6jJEzT7sszoFLd5XsYXgctfq.jpg",
-      "backdrop_path": "/tZmlWeFEMvxrjJhBJJcLNXpSRiG.jpg",
-      "genre_ids": [
-        10765,
+        12,
+        14,
+        10749,
+        10751,
         35
       ],
-      "vote_average": 7.973,
-      "vote_count": 2000,
-      "release_date": "2016-09-19"
+      "vote_average": 7.703,
+      "vote_count": 5167,
+      "release_date": "1987-09-25"
     },
     {
-      "id": 61511,
-      "media_type": "tv",
-      "title": "Отець Браун",
-      "original_title": "Father Brown",
-      "overview": "Отець Браун - непримітного вигляду священик, який володіє влучним оком, здатним помічати найдрібніші хвилювання в душах людей, які приходять до нього за порадою і підтримкою.",
-      "poster_path": "/p7vhDIkPVySMBGsPnAQXIiC6OsB.jpg",
-      "backdrop_path": "/96v57BttdxvquxnVozkQUsGvawQ.jpg",
+      "id": 639,
+      "media_type": "movie",
+      "title": "Коли Гаррі зустрів Саллі",
+      "original_title": "When Harry Met Sally...",
+      "overview": "Гаррі і Саллі знайомі з часів створення світу. Вони разом навчались, приходять одне одному на допомогу під час будь-яких життєвих незгод, допомагають у пошуках близької людини. Навіть коли вони втрачають одне одного з поля зору, доля знову зводить їх разом. Вони найкращі друзі ось уже тисячу років. Проте їхня дружба опинилась під загрозою. Обидва переймаються питанням чи не варто їм стати чимось більшим, аніж друзі? Чи можуть чоловік і жінка дружити по-справжньому? Чи така дружба, рано чи пізно, неминуче завершиться більш тісними стосунками?",
+      "poster_path": "/aQexcifuNxAJ94RHGEmlx2mHlPT.jpg",
+      "backdrop_path": "/i8aIbji5vcPoHwcLBZYQSniGkAI.jpg",
       "genre_ids": [
-        18,
-        80,
-        9648
+        35,
+        10749,
+        18
       ],
-      "vote_average": 7.601,
-      "vote_count": 139,
-      "release_date": "2013-01-14"
+      "vote_average": 7.404,
+      "vote_count": 4641,
+      "release_date": "1989-07-12"
     }
   ]
 }
