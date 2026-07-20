@@ -3,8 +3,125 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"104\" y=\"176\" width=\"216\" height=\"208\" rx=\"28\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"28\" d=\"M320 224h28a52 52 0 0 1 0 104h-28\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"20\" stroke-linecap=\"round\" d=\"M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60\"/></svg>",
   "title": "Уют",
   "lang": "ru",
-  "updated_at": "2026-07-19T22:51:00Z",
+  "updated_at": "2026-07-20T22:59:25Z",
   "items": [
+    {
+      "id": 527435,
+      "media_type": "movie",
+      "title": "Рождественские Хроники",
+      "original_title": "The Christmas Chronicles",
+      "overview": "Кейт и Тедди — брат и сестра, которые хотят доказать всем, что Санта Клаус существует. Но случайно они становятся виновниками крушения саней Санты. Теперь Кейт, Тедди и старина Клаус вместе должны спасти Рождество.",
+      "poster_path": "/vsuaNfpWHM3dCJy3wLqJp2Xkyce.jpg",
+      "backdrop_path": "/zQVsXIPXU040BnFtBmzoOfYGcDu.jpg",
+      "genre_ids": [
+        35,
+        12,
+        10751,
+        14
+      ],
+      "vote_average": 7.157,
+      "vote_count": 2406,
+      "release_date": "2018-11-22"
+    },
+    {
+      "id": 611207,
+      "media_type": "movie",
+      "title": "Рыцарь перед Рождеством",
+      "original_title": "The Knight Before Christmas",
+      "overview": "В центре сюжета английский рыцарь из Средневековья, который каким-то волшебным образом очутился в современном мире и влюбился в школьную учительницу.",
+      "poster_path": "/ivymBQYzYqZoLhvgYg77gSzXKsA.jpg",
+      "backdrop_path": "/YZMpzCAQ8Ljnq2XOWkWOasexsw.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 6.369,
+      "vote_count": 1169,
+      "release_date": "2019-11-21"
+    },
+    {
+      "id": 449755,
+      "media_type": "movie",
+      "title": "Рождественское наследие",
+      "original_title": "Christmas Inheritance",
+      "overview": "Чтобы унаследовать многомиллиардную компанию, взбалмошная Эллен должна выполнить ряд необычных условий своего отца: доставить рождественские письма в Сноу Фолс — город, где выросли её родители, потратив при этом всего сто долларов. В незнакомом месте ей предстоит преодолеть немало трудностей, узнать много нового о мире простых людей, а также найти свою истинную любовь и постичь дух Рождества.",
+      "poster_path": "/sqdbF40nBzS2IZVAGPxJT7loxoM.jpg",
+      "backdrop_path": "/n1daj6hS4yf858HgPfe7kGyjISp.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "vote_average": 6.265,
+      "vote_count": 852,
+      "release_date": "2017-12-15"
+    },
+    {
+      "id": 81332,
+      "media_type": "movie",
+      "title": "Рождественский поцелуй",
+      "original_title": "A Christmas Kiss",
+      "overview": "Однажды вечером, возвращаясь с работы, девушка-дизайнер случайно поцеловалась с незнакомцем, а утром выяснилось, что он — бойфренд её начальницы.",
+      "poster_path": "/ecgrk0VsqzMMTUg5VsfqJADgaeM.jpg",
+      "backdrop_path": "/frmY45LSk48dehy2F6s5Y1UmKcX.jpg",
+      "genre_ids": [
+        10770,
+        10749,
+        10751,
+        18
+      ],
+      "vote_average": 6.061,
+      "vote_count": 198,
+      "release_date": "2011-11-12"
+    },
+    {
+      "id": 13673,
+      "media_type": "movie",
+      "title": "Рождество с неудачниками",
+      "original_title": "Christmas with the Kranks",
+      "overview": "Лютера и его жену Нору просто достало Рождество. Вся эта суета, эти елки, подарки и хлопушки. В этот год они твердо решают «забить» на него и смотаться в круиз по Карибам, позабыв про идиотские колядки под окнами и трескучие фейерверки соседей. Но не тут-то было! Попытка убежать от Рождества вызывает такие последствия, какие им даже не снились…",
+      "poster_path": "/A9QyxBcSy2vDTCedwqcEsX9gfzY.jpg",
+      "backdrop_path": "/lcFar2tdF9Lir12R0K3Dvw6uABu.jpg",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "vote_average": 6.163,
+      "vote_count": 1317,
+      "release_date": "2004-11-24"
+    },
+    {
+      "id": 5994,
+      "media_type": "movie",
+      "title": "Семьянин",
+      "original_title": "The Family Man",
+      "overview": "Чтобы вы предпочли: быть президентом крупной инвестиционной компании, жить в роскошной квартире с видом на миллиард долларов, раскатывать на последней модели «Феррари» и при этом оставаться холостяком или работать продавцом автопокрышек у «Большого Эда», покупать одежду в супермаркете и передвигаться по родному пригороду на вместительном и еще не очень старом минивене?Не спешите с ответом, ведь недаром судьба, в виде «обдолбанного» чернокожего деда мороза, преподносит Джеку шанс попробовать оба варианта. И поверьте, несмотря на обилие комичных ситуаций, которые теперь являются неотъемлемой частью его жизни, Джеку предстоит непростой выбор.",
+      "poster_path": "/qMqDxANXukAiiyErfbsZ6SNaTxM.jpg",
+      "backdrop_path": "/gnosJeDIDQXy9uDewXphEpDWNYT.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749,
+        14
+      ],
+      "vote_average": 6.828,
+      "vote_count": 2242,
+      "release_date": "2000-12-12"
+    },
+    {
+      "id": 146304,
+      "media_type": "movie",
+      "title": "Свидетель на свадьбе 2",
+      "original_title": "The Best Man Holiday",
+      "overview": "История о писателе, чья последняя написанная книга «мешает» ему быть шафером на свадьбе у друга.",
+      "poster_path": "/m4S3w0GTvfp6CdZxeEiMcQ8TRjh.jpg",
+      "backdrop_path": "/tYvexQjtcdZtxMGZsFadxBrLGaG.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 6.481,
+      "vote_count": 284,
+      "release_date": "2013-11-15"
+    },
     {
       "id": 508101,
       "media_type": "movie",
@@ -22,37 +139,54 @@
       "release_date": "2019-06-14"
     },
     {
-      "id": 597219,
+      "id": 555850,
       "media_type": "movie",
-      "title": "Половина всего",
-      "original_title": "The Half of It",
-      "overview": "Школьный спортсмен нанимает отличницу Элли, чтобы она помогла ему добиться руки и сердца местной красавицы. Ситуация заметно осложняется, когда Элли понимает, что Дикон испытывает к ней романтические чувства.",
-      "poster_path": "/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg",
-      "backdrop_path": "/8YSpQBdGvuvSj9pLsY2yoUb9fZn.jpg",
+      "title": "Праздничный календарь",
+      "original_title": "The Holiday Calendar",
+      "overview": "Талантливая фотограф Эбби, которой приходитя заниматься унылой работой, получает в подарок старый календарь своей бабушки, переворачивающий ее жизнь на 180 градусов.",
+      "poster_path": "/hiCeUExxUTGbU6FXORLf673uwvK.jpg",
+      "backdrop_path": "/iobccQ0P5vs75rj33n2qbDKPN2Y.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        10751
+      ],
+      "vote_average": 6.62,
+      "vote_count": 1043,
+      "release_date": "2018-11-02"
+    },
+    {
+      "id": 639,
+      "media_type": "movie",
+      "title": "Когда Гарри встретил Салли",
+      "original_title": "When Harry Met Sally...",
+      "overview": "Может ли секс разрушить идеальную дружбу между мужчиной и женщиной? Именно этот вопрос случайные попутчики Гарри и Салли обсуждают по дороге из Чикаго в Нью-Йорк. Спустя одиннадцать лет они никак не приблизятся к ответу на него.",
+      "poster_path": "/d85fjfxxNYlbN8iZm3RUWfunK7X.jpg",
+      "backdrop_path": "/i8aIbji5vcPoHwcLBZYQSniGkAI.jpg",
       "genre_ids": [
         35,
         10749,
         18
       ],
-      "vote_average": 7.1,
-      "vote_count": 1606,
-      "release_date": "2020-05-01"
+      "vote_average": 7.405,
+      "vote_count": 4643,
+      "release_date": "1989-07-12"
     },
     {
-      "id": 513576,
+      "id": 459992,
       "media_type": "movie",
-      "title": "Ты – моё сомнение",
-      "original_title": "Always Be My Maybe",
-      "overview": "В центре сюжета пара друзей детства, которые влюбляются друг в друга, когда взрослеют.",
-      "poster_path": "/3BO6pPa7qDcpPYct061Luh9fvst.jpg",
-      "backdrop_path": "/aC5LAGfHzVH8f7tkCwkxzXsqAZz.jpg",
+      "title": "Та ещё парочка",
+      "original_title": "Long Shot",
+      "overview": "Фред Фларски — прогрессивный в прошлом колумнист в умирающей газете, которая посвящает всё больше материалов нападению на Элистера Уэмбли, главу крупного медиаконгломерата. Но сейчас Фред — безработный и бедный одиночка. Как и многие американцы он увлечён госсекретарём США Шарлотт Филд. Она умная, красивая, и гораздо больше смыслит в политике, нежели президент.",
+      "poster_path": "/hMMeKLyTPKWBaufvacnSCoHWYwq.jpg",
+      "backdrop_path": "/jYnQgKYACzQ06gRf15hRbyRkQsp.jpg",
       "genre_ids": [
-        10749,
-        35
+        35,
+        10749
       ],
-      "vote_average": 6.6,
-      "vote_count": 1416,
-      "release_date": "2019-05-31"
+      "vote_average": 6.703,
+      "vote_count": 2911,
+      "release_date": "2019-05-02"
     },
     {
       "id": 623195,
@@ -87,172 +221,37 @@
       "release_date": "2020-10-27"
     },
     {
-      "id": 555850,
+      "id": 513576,
       "media_type": "movie",
-      "title": "Праздничный календарь",
-      "original_title": "The Holiday Calendar",
-      "overview": "Талантливая фотограф Эбби, которой приходитя заниматься унылой работой, получает в подарок старый календарь своей бабушки, переворачивающий ее жизнь на 180 градусов.",
-      "poster_path": "/hiCeUExxUTGbU6FXORLf673uwvK.jpg",
-      "backdrop_path": "/iobccQ0P5vs75rj33n2qbDKPN2Y.jpg",
+      "title": "Ты – моё сомнение",
+      "original_title": "Always Be My Maybe",
+      "overview": "В центре сюжета пара друзей детства, которые влюбляются друг в друга, когда взрослеют.",
+      "poster_path": "/3BO6pPa7qDcpPYct061Luh9fvst.jpg",
+      "backdrop_path": "/aC5LAGfHzVH8f7tkCwkxzXsqAZz.jpg",
       "genre_ids": [
         10749,
-        35,
-        10751
-      ],
-      "vote_average": 6.62,
-      "vote_count": 1043,
-      "release_date": "2018-11-02"
-    },
-    {
-      "id": 353577,
-      "media_type": "movie",
-      "title": "Статистическая вероятность любви с первого взгляда",
-      "original_title": "Love at First Sight",
-      "overview": "Девушка-подросток опаздывает на свой рейс в аэропорту Кеннеди и встречает молодого британца, который может оказаться её настоящей любовью.",
-      "poster_path": "/yVp6CbOnfe7pyeVwW6uUDrs1RHl.jpg",
-      "backdrop_path": "/gz1Lr0WcKJ1eg7mfN0AfAPXbI7h.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "vote_average": 7.243,
-      "vote_count": 709,
-      "release_date": "2023-09-15"
-    },
-    {
-      "id": 846250,
-      "media_type": "movie",
-      "title": "Файер-Айленд",
-      "original_title": "Fire Island",
-      "overview": "Вдохновлённая классикой Джейн Остин \"Гордость и предубеждение\", история о двух лучших друзьях, которые решили устроить себе летнее приключение с дешёвым розовым вином и своими такими разными друзьями.",
-      "poster_path": "/dWa0P4QSYee9sm35lJqODb0VUgJ.jpg",
-      "backdrop_path": "/4uwOKYaySkczmZ5C4EO50Ay3IoT.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "vote_average": 6.913,
-      "vote_count": 288,
-      "release_date": "2022-06-02"
-    },
-    {
-      "id": 209263,
-      "media_type": "movie",
-      "title": "Довольно слов",
-      "original_title": "Enough Said",
-      "overview": "Разведенная женщина, которая решает завоевать мужчину, который ей нравится, выясняет, что он является бывшем мужем ее новой подруги.",
-      "poster_path": "/yAjPCpn4zuagtzn2YFpplk7Afgh.jpg",
-      "backdrop_path": "/qzvntzcKwdp1GqOpJ8dc0FiSOPu.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10749
-      ],
-      "vote_average": 6.729,
-      "vote_count": 925,
-      "release_date": "2013-09-18"
-    },
-    {
-      "id": 459992,
-      "media_type": "movie",
-      "title": "Та ещё парочка",
-      "original_title": "Long Shot",
-      "overview": "Фред Фларски — прогрессивный в прошлом колумнист в умирающей газете, которая посвящает всё больше материалов нападению на Элистера Уэмбли, главу крупного медиаконгломерата. Но сейчас Фред — безработный и бедный одиночка. Как и многие американцы он увлечён госсекретарём США Шарлотт Филд. Она умная, красивая, и гораздо больше смыслит в политике, нежели президент.",
-      "poster_path": "/hMMeKLyTPKWBaufvacnSCoHWYwq.jpg",
-      "backdrop_path": "/jYnQgKYACzQ06gRf15hRbyRkQsp.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "vote_average": 6.703,
-      "vote_count": 2911,
-      "release_date": "2019-05-02"
-    },
-    {
-      "id": 466282,
-      "media_type": "movie",
-      "title": "Всем парням, которых я любила",
-      "original_title": "To All the Boys I've Loved Before",
-      "overview": "Жизнь Лары выходит из-под контроля, когда внезапно секретные письма всем парням, которых она тайно любила, попадают к адресатам.",
-      "poster_path": "/tnKAILJV1hXbBlwJnTqTM2fAeyO.jpg",
-      "backdrop_path": "/xXhta1NIKn09IXy0mfp68cabdWS.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "vote_average": 7.593,
-      "vote_count": 8736,
-      "release_date": "2018-08-17"
-    },
-    {
-      "id": 122906,
-      "media_type": "movie",
-      "title": "Бойфренд из будущего",
-      "original_title": "About Time",
-      "overview": "В возрасте 21 года Тим Лейк обнаруживает, что он может путешествовать во времени. В ночь после очередного неприятного Нового года отец Тима рассказывает ему, что мужчины в его семье всегда имели способность путешествовать во времени. Тим не может изменить историю, но он может изменить то, что происходит или происходило в его собственной жизни.",
-      "poster_path": "/xWk8ukJ6dhRvlrboG3qgNWNtLJ1.jpg",
-      "backdrop_path": "/einbto9qLXFx9QXxEHylaxDbKPx.jpg",
-      "genre_ids": [
-        18,
-        10749,
-        14
-      ],
-      "vote_average": 7.907,
-      "vote_count": 9355,
-      "release_date": "2013-09-04"
-    },
-    {
-      "id": 508,
-      "media_type": "movie",
-      "title": "Реальная любовь",
-      "original_title": "Love Actually",
-      "overview": "Любовь незабываемая и недосягаемая, вызывающая сожаление и экстатическая, неожиданная и нежеланная, неудобная и необъяснимая, неизящная и неравная. Любовь поистине правит всеми вокруг. От премьер-министра, мгновенно влюбившегося в сотрудницу своего аппарата, — до писателя, сбежавшего на юг Франции, чтобы склеить свое разбитое сердце… От замужней женщины, подозревающей, что ее муж отдаляется от нее, — до женщины, только что вступившей в брак и почувствовавшей холодность лучшего друга своего мужа… От тинейджера, пытающегося завоевать внимание самой неприступной девочки в школе, — до овдовевшего отчима, пытающегося установить контакт с сыном, которого, как вдруг выясняется, он почти не знает… От страдающей из-за безнадежной любви юной американки, решившей не упустить своего шанса с сослуживцем, — до стареющего рок-певца, ставшего жертвой внезапно накатившего чувства… Любовь вносит хаос в жизнь каждого из них, но не случайно пути-дороги лондонцев сталкиваются в канун Рождества…",
-      "poster_path": "/bvgazyuurl8il9nYsXMU7aulWGL.jpg",
-      "backdrop_path": "/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
-      "genre_ids": [
-        35,
-        10749,
-        18
-      ],
-      "vote_average": 7.099,
-      "vote_count": 7443,
-      "release_date": "2003-09-07"
-    },
-    {
-      "id": 2493,
-      "media_type": "movie",
-      "title": "Принцесса-невеста",
-      "original_title": "The Princess Bride",
-      "overview": "Добро пожаловать в фантастический мир прекрасных замков, жутких подземелий, бескрайних океанов, лесов и гор. Чтобы спасти свою возлюбленную, прекрасную невесту, отважный герой преодолевает немыслимые препятствия и совершает невероятные подвиги.",
-      "poster_path": "/rcJ4FxbH40Dh46TW1Atir3Atoes.jpg",
-      "backdrop_path": "/2CisgvF2HcIVnbMZbSjASCtSgEb.jpg",
-      "genre_ids": [
-        12,
-        14,
-        10749,
-        10751,
         35
       ],
-      "vote_average": 7.703,
-      "vote_count": 5167,
-      "release_date": "1987-09-25"
+      "vote_average": 6.6,
+      "vote_count": 1416,
+      "release_date": "2019-05-31"
     },
     {
-      "id": 639,
+      "id": 597219,
       "media_type": "movie",
-      "title": "Когда Гарри встретил Салли",
-      "original_title": "When Harry Met Sally...",
-      "overview": "Может ли секс разрушить идеальную дружбу между мужчиной и женщиной? Именно этот вопрос случайные попутчики Гарри и Салли обсуждают по дороге из Чикаго в Нью-Йорк. Спустя одиннадцать лет они никак не приблизятся к ответу на него.",
-      "poster_path": "/d85fjfxxNYlbN8iZm3RUWfunK7X.jpg",
-      "backdrop_path": "/i8aIbji5vcPoHwcLBZYQSniGkAI.jpg",
+      "title": "Половина всего",
+      "original_title": "The Half of It",
+      "overview": "Школьный спортсмен нанимает отличницу Элли, чтобы она помогла ему добиться руки и сердца местной красавицы. Ситуация заметно осложняется, когда Элли понимает, что Дикон испытывает к ней романтические чувства.",
+      "poster_path": "/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg",
+      "backdrop_path": "/8YSpQBdGvuvSj9pLsY2yoUb9fZn.jpg",
       "genre_ids": [
         35,
         10749,
         18
       ],
-      "vote_average": 7.404,
-      "vote_count": 4641,
-      "release_date": "1989-07-12"
+      "vote_average": 7.1,
+      "vote_count": 1606,
+      "release_date": "2020-05-01"
     }
   ]
 }
