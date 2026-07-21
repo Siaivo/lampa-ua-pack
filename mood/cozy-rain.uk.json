@@ -3,255 +3,259 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"104\" y=\"176\" width=\"216\" height=\"208\" rx=\"28\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"28\" d=\"M320 224h28a52 52 0 0 1 0 104h-28\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"20\" stroke-linecap=\"round\" d=\"M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60\"/></svg>",
   "title": "Затишок",
   "lang": "uk",
-  "updated_at": "2026-07-20T22:59:25Z",
+  "updated_at": "2026-07-21T22:56:17Z",
   "items": [
     {
-      "id": 527435,
+      "id": 416477,
       "media_type": "movie",
-      "title": "Різдвяні хроніки",
-      "original_title": "The Christmas Chronicles",
-      "overview": "Тедді та Кейт Пріс хочуть довести існування Санта-Клауса. Замість милого дідуся діти знаходять гострого на язик та харизматичного господаря Різдва. Разом із Сантою вони відправляються у чарівну подорож та намагаються врятувати улюблене свято.",
-      "poster_path": "/xC3ESdmA2cPdAWTwBotHvZdeDgK.jpg",
-      "backdrop_path": "/zQVsXIPXU040BnFtBmzoOfYGcDu.jpg",
-      "genre_ids": [
-        35,
-        12,
-        10751,
-        14
-      ],
-      "vote_average": 7.157,
-      "vote_count": 2406,
-      "release_date": "2018-11-22"
-    },
-    {
-      "id": 611207,
-      "media_type": "movie",
-      "title": "Лицар перед Різдвом",
-      "original_title": "The Knight Before Christmas",
-      "overview": "Середньовічний англійський лицар чарівним чином переноситься в наші дні, де він закохується в учителя природознавства в середній школі.",
-      "poster_path": "/ivymBQYzYqZoLhvgYg77gSzXKsA.jpg",
-      "backdrop_path": "/YZMpzCAQ8Ljnq2XOWkWOasexsw.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "vote_average": 6.369,
-      "vote_count": 1169,
-      "release_date": "2019-11-21"
-    },
-    {
-      "id": 449755,
-      "media_type": "movie",
-      "title": "Різдвяна спадщина",
-      "original_title": "Christmas Inheritance",
-      "overview": "Щоб успадкувати багатомільярдну компанію, Еллен має виконати низку незвичайних умов свого батька: доставити різдвяні листи до Сноу Фолс — міста, де виросли її батьки, витративши при цьому лише сто доларів. У незнайомому місці їй доведеться подолати чимало труднощів, дізнатися багато нового про світ простих людей, а також знайти своє справжнє кохання і осягнути дух Різдва.",
-      "poster_path": "/sqdbF40nBzS2IZVAGPxJT7loxoM.jpg",
-      "backdrop_path": "/n1daj6hS4yf858HgPfe7kGyjISp.jpg",
-      "genre_ids": [
-        10749,
-        35
-      ],
-      "vote_average": 6.265,
-      "vote_count": 852,
-      "release_date": "2017-12-15"
-    },
-    {
-      "id": 81332,
-      "media_type": "movie",
-      "title": "Різдвяний поцілунок",
-      "original_title": "A Christmas Kiss",
-      "overview": "Молода дизайнерка Венді працює в агентстві дратівливої та злої Прісцили, але мріє про власний бізнес. Одного дня, прийнявши доленосне рішення, в емоційному захопленні Венді імпульсивно цілує в ліфті симпатичного незнайомця, але не спитавши його ім’я. Пізніше вона дізнається, що він є багатим бойфрендом її начальниці Прісцили. Готуючись до майбутнього святкового благодійного збору коштів, Венді нарешті знайомиться з хлопцем з ліфту, а він повинен вирішити, яка жінка зробить його щасливим...",
-      "poster_path": "/ecgrk0VsqzMMTUg5VsfqJADgaeM.jpg",
-      "backdrop_path": "/frmY45LSk48dehy2F6s5Y1UmKcX.jpg",
-      "genre_ids": [
-        10770,
-        10749,
-        10751,
-        18
-      ],
-      "vote_average": 6.061,
-      "vote_count": 198,
-      "release_date": "2011-11-12"
-    },
-    {
-      "id": 13673,
-      "media_type": "movie",
-      "title": "Різдво з невдахами",
-      "original_title": "Christmas with the Kranks",
-      "overview": "Лютера і його дружину Нору просто дістало Різдво. Вся ця суєта, ці ялинки, подарунки і хлопавки. У цей рік вони твердо вирішують «забити» на нього і змотатися в круїз по Карибах, забувши про ідіотські колядки під вікнами і тріскучі феєрверки сусідів. Зовсім скоро ця чутка облетіла все місто і люди почали організовувати мітинги та протести сімейці. Проте, обставини міняються, дочка Кранків приїдждає на Різдво з своїм нареченим і батькам доводиться готуватись до Різдва!",
-      "poster_path": "/hQzRKZhjbuHqbveTHmZcjncy1Wp.jpg",
-      "backdrop_path": "/lcFar2tdF9Lir12R0K3Dvw6uABu.jpg",
-      "genre_ids": [
-        35,
-        10751
-      ],
-      "vote_average": 6.163,
-      "vote_count": 1317,
-      "release_date": "2004-11-24"
-    },
-    {
-      "id": 5994,
-      "media_type": "movie",
-      "title": "Сім’янин",
-      "original_title": "The Family Man",
-      "overview": "Головний герой – пихатий та цинічний бізнесмен Джек Кемпбел, який живе на розкішну ногу, але усе його життя належить корпорації, на яку він працює. Але в переддень Різдва святкове диво дарує Джеку можливість повернутися в минуле, в той доленосний момент, коли він прийняв рішення будувати саме таке життя, яким нині живе. Заснувши у своєму пентхаусі в Нью-Йорку, він прокинувся в затишному сімейному будиночку в Нью-Джерсі, з багатого холостяка перетворившись на незаможного але цілком позитивного сім'янина…",
-      "poster_path": "/it42oeMxQfIXj7C9bEcoBay774I.jpg",
-      "backdrop_path": "/gnosJeDIDQXy9uDewXphEpDWNYT.jpg",
+      "title": "Кохання – хвороба",
+      "original_title": "The Big Sick",
+      "overview": "У міру розвитку стосунків закоханій парі доводиться зіткнутися зі своїми культурними відмінностями.",
+      "poster_path": "/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
+      "backdrop_path": "/fYI8WX2DquAHMqwh5mOMxc6RU5j.jpg",
       "genre_ids": [
         35,
         18,
-        10749,
-        14
-      ],
-      "vote_average": 6.828,
-      "vote_count": 2242,
-      "release_date": "2000-12-12"
-    },
-    {
-      "id": 146304,
-      "media_type": "movie",
-      "title": "Свідок на весіллі 2",
-      "original_title": "The Best Man Holiday",
-      "overview": "Історія про письменника, чия остання написана книга «заважає» йому бути дружбою на весіллі у друга.",
-      "poster_path": "/i4ecMHJQpclIEr4mh5uzjWr38GC.jpg",
-      "backdrop_path": "/tYvexQjtcdZtxMGZsFadxBrLGaG.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 6.481,
-      "vote_count": 284,
-      "release_date": "2013-11-15"
-    },
-    {
-      "id": 508101,
-      "media_type": "movie",
-      "title": "Плюс один",
-      "original_title": "Plus One",
-      "overview": "Головний герой – затятий холостяк на ім’я Бен. Він не вірить в кохання, відносячись до стосунків лише як до фізіологічної потреби. Але одного літа виходить так, що він отримує запрошення одразу на десять весіль. І для кожного весілля необхідно знайти супутницю. Вирішення проблеми виходить в той момент, коли подружка Бена Еліс розриває зі своїм хлопцем. Їй треба розвіятись і вона також має запрошення. Бен та Еліс вирішують відпочити разом, але це перетворюється в дещо більше…",
-      "poster_path": "/zb7mIyHjLDlwhiyqd1FlRGYT2On.jpg",
-      "backdrop_path": "/sjLo8RbshOyglJK2NLGqIfdzPCp.jpg",
-      "genre_ids": [
-        35,
         10749
       ],
-      "vote_average": 6.831,
-      "vote_count": 417,
-      "release_date": "2019-06-14"
+      "vote_average": 7.323,
+      "vote_count": 2655,
+      "release_date": "2017-03-30"
     },
     {
-      "id": 555850,
+      "id": 346648,
       "media_type": "movie",
-      "title": "Святковий календар",
-      "original_title": "The Holiday Calendar",
-      "overview": "Талановита дівчина-фотограф успадковує старовинний різдвяний календар, який вміє передбачати майбутнє. Чи приведе її цей чарівний календар до кохання?",
-      "poster_path": "/hiCeUExxUTGbU6FXORLf673uwvK.jpg",
-      "backdrop_path": "/iobccQ0P5vs75rj33n2qbDKPN2Y.jpg",
+      "title": "Пригоди Паддінґтона 2",
+      "original_title": "Paddington 2",
+      "overview": "Продовження пригод ведмежати на ім'я Паддінґтон.",
+      "poster_path": "/f4IDGS1531P7ZCq9zYRRAhXS3mj.jpg",
+      "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
       "genre_ids": [
-        10749,
+        12,
         35,
         10751
       ],
-      "vote_average": 6.62,
-      "vote_count": 1043,
-      "release_date": "2018-11-02"
+      "vote_average": 7.479,
+      "vote_count": 2829,
+      "release_date": "2017-11-09"
     },
     {
-      "id": 639,
+      "id": 26963,
       "media_type": "movie",
-      "title": "Коли Гаррі зустрів Саллі",
-      "original_title": "When Harry Met Sally...",
-      "overview": "Гаррі і Саллі знайомі з часів створення світу. Вони разом навчались, приходять одне одному на допомогу під час будь-яких життєвих незгод, допомагають у пошуках близької людини. Навіть коли вони втрачають одне одного з поля зору, доля знову зводить їх разом. Вони найкращі друзі ось уже тисячу років. Проте їхня дружба опинилась під загрозою. Обидва переймаються питанням чи не варто їм стати чимось більшим, аніж друзі? Чи можуть чоловік і жінка дружити по-справжньому? Чи така дружба, рано чи пізно, неминуче завершиться більш тісними стосунками?",
-      "poster_path": "/aQexcifuNxAJ94RHGEmlx2mHlPT.jpg",
-      "backdrop_path": "/i8aIbji5vcPoHwcLBZYQSniGkAI.jpg",
+      "title": "Таємниця абатства Келс",
+      "original_title": "The Secret of Kells",
+      "overview": "Ірландія, 9 століття. В абатстві Келс, яким керує настоятель Келах, живе маленький хлопчик на ім'я Брендан. Йому 12 років, і він разом з іншими ченцями старанно працює над зміцненням стін абатства для захисту від нападу норманів.  Одного дня в абатство приходить брат Ейдан, відомий майстер-ілюстратор та хранитель дивовижної книги з Іони. З цієї миті Брендану відкривається нове життя, сповнене пригод, в яких йому будуть допомагати нові друзі, кішка Пангур Бан і лісова фея Ешлінг.",
+      "poster_path": "/vBymyj7QsXiW4TICD2JC5pAuBHO.jpg",
+      "backdrop_path": "/740KCabjLKjsrxvEakmmJtDtAGY.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "vote_average": 7.4,
+      "vote_count": 797,
+      "release_date": "2009-02-09"
+    },
+    {
+      "id": 773,
+      "media_type": "movie",
+      "title": "Маленька міс Щастя",
+      "original_title": "Little Miss Sunshine",
+      "overview": "Історія подорожі багатодітної сім'ї з Альбукерке на конкурс краси «Little Miss Sunshine» до Каліфорнії, де повинна здійснитися мрія чарівної семирічної Оліві. Під час вояжу всім членам сім'ї доводиться мужньо боротися c різного роду пригодами, розчаруваннями, а також зі своїм автобусом VW, який вічно ламається. Подорожуючи по країні, тато, мама, сестри і брати вчаться довіряти і підтримувати один одного, незалежно від того, з якою проблемою вони зіткнулися...",
+      "poster_path": "/qgxHp2E7Yqq4s33gwtvzT4Wa8V.jpg",
+      "backdrop_path": "/yE376O0gMgUE7wX1PQ9bbTPVvFq.jpg",
       "genre_ids": [
         35,
+        18
+      ],
+      "vote_average": 7.692,
+      "vote_count": 7922,
+      "release_date": "2006-07-26"
+    },
+    {
+      "id": 147773,
+      "media_type": "movie",
+      "title": "Дорога, дорога додому",
+      "original_title": "The Way Way Back",
+      "overview": "Історія підлітка, який знайшов у собі сили протистояти жорстокому вітчиму і знову знайшов контакт з матір'ю. І все це завдяки дружбі, що зав'язалася у героя одного разу влітку.",
+      "poster_path": "/kd8SrKUEAWsRDemoVk5vglLLvSN.jpg",
+      "backdrop_path": "/bPm5kQLlc2KypdYkUxGbrGfLJ82.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 7.137,
+      "vote_count": 1964,
+      "release_date": "2013-06-06"
+    },
+    {
+      "id": 565310,
+      "media_type": "movie",
+      "title": "Прощання",
+      "original_title": "The Farewell",
+      "overview": "Американка китайського походження повертається до Китаю, коли їй улюбленій бабусі ставлять смертельний діагноз. Біллі бореться з рішенням сім'ї тримати бабусю в невіданні щодо її власної хвороби, коли всі вони влаштовують імпровізоване весілля, щоб побачити бабусю востаннє.",
+      "poster_path": "/7ht2IMGynDSVQGvAXhAb83DLET8.jpg",
+      "backdrop_path": "/5INPBiKVRsyp9kgHfsC0cTfvKFH.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 7.411,
+      "vote_count": 1559,
+      "release_date": "2019-07-12"
+    },
+    {
+      "id": 24803,
+      "media_type": "movie",
+      "title": "Джулі та Джулія",
+      "original_title": "Julie & Julia",
+      "overview": "Душевна історія про Джулі Павелл, яка вирішує урізноманітнити своє нудне життя, приготувавши всі 524 страви з класичної книги рецептів від Джулії Чайлд.",
+      "poster_path": "/aWm7WBkuuqxH2CFOn4p0kaAuV1m.jpg",
+      "backdrop_path": "/1tWpsnSelznXfkdssCWQGgavRZM.jpg",
+      "genre_ids": [
         10749,
         18
       ],
-      "vote_average": 7.405,
-      "vote_count": 4643,
-      "release_date": "1989-07-12"
+      "vote_average": 6.713,
+      "vote_count": 2228,
+      "release_date": "2009-08-06"
     },
     {
-      "id": 459992,
+      "id": 212778,
       "media_type": "movie",
-      "title": "Божевільна парочка",
-      "original_title": "Long Shot",
-      "overview": "Фред Фларські, безробітний журналіст-невдаха, вирішує завоювати серце жінки, що в дитинстві була його нянею, а зараз стала чи не найбільш впливовою жінкою на планеті і абсолютно недосяжною.",
-      "poster_path": "/mNY2iifXVI1xmMVwZUFxpFCgmXq.jpg",
-      "backdrop_path": "/jYnQgKYACzQ06gRf15hRbyRkQsp.jpg",
+      "title": "Повар на колесах",
+      "original_title": "Chef",
+      "overview": "Карл Каспер – неперевершений кухар, але у нього не склалися стосунки в сім'ї і власник ресторану не дає йому жодної свободи. Він вирішує покинути роботу і купити харчовий фургон, де він зможе готувати власні страви. На хвилі ентузіазму і оптимістичного погляду в майбутнє він спробує повернути прихильність своїх близьких.",
+      "poster_path": "/dM6ldPN0aDQtcyLQMZwjz8ICc5a.jpg",
+      "backdrop_path": "/igVNCpS132rOqrnDsrVYW5HCIsM.jpg",
       "genre_ids": [
-        35,
-        10749
-      ],
-      "vote_average": 6.703,
-      "vote_count": 2911,
-      "release_date": "2019-05-02"
-    },
-    {
-      "id": 623195,
-      "media_type": "movie",
-      "title": "Зустрінемося наступного Різдва",
-      "original_title": "Falling Inn Love",
-      "overview": "У прагненні знову зустріти чоловіка своєї мрії Лейла намагається знайти в Нью-Йорку квиток на різдвяний концерт гурту Pentatonix.",
-      "poster_path": "/4bzu5k5vwLKgwap6pHXlCY8nlh3.jpg",
-      "backdrop_path": "/lVJdFZc8hBJRVnOIay60tl04Qjv.jpg",
-      "genre_ids": [
-        10749,
         35
-      ],
-      "vote_average": 6.521,
-      "vote_count": 1212,
-      "release_date": "2019-08-29"
-    },
-    {
-      "id": 615665,
-      "media_type": "movie",
-      "title": "Пара на свята",
-      "original_title": "Holidate",
-      "overview": "Їм набридли свята наодинці із собою, тож двоє незнайомців вирішують протягом року відзначати їх разом. Дуже скоро платонічні стосунки переростають у щось більше.",
-      "poster_path": "/gSCr70e4rfssaK4S7VtSi25Aq6c.jpg",
-      "backdrop_path": "/8veOfB9RbSzFki0Rq3IQIGsFfhC.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "vote_average": 6.97,
-      "vote_count": 2378,
-      "release_date": "2020-10-27"
-    },
-    {
-      "id": 513576,
-      "media_type": "movie",
-      "title": "Завжди будь моїм «мабуть»",
-      "original_title": "Always Be My Maybe",
-      "overview": "Те, що Саша та Маркус колись зійдуться, вважали всі, окрім самих Саші та Маркуса. І через п'ятнадцять років вони задумалися, чи не створені одне для одного? Мабуть.",
-      "poster_path": "/6XcSP7vKVl9DLbZmFr8E5a2MMmX.jpg",
-      "backdrop_path": "/aC5LAGfHzVH8f7tkCwkxzXsqAZz.jpg",
-      "genre_ids": [
-        10749,
-        35
-      ],
-      "vote_average": 6.6,
-      "vote_count": 1416,
-      "release_date": "2019-05-31"
-    },
-    {
-      "id": 597219,
-      "media_type": "movie",
-      "title": "Половина всього",
-      "original_title": "The Half of It",
-      "overview": "Сором'язливу, студентку відмінницю Еллі наймає милий, але косноязикий качок Пол, якому потрібна допомога в тому, щоб завоювати найпопулярнішу дівчину в школі. Але їх нова і малоймовірна дружба стає хисткою, коли Еллі виявить, що у неї є почуття до тієї самої дівчини.",
-      "poster_path": "/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg",
-      "backdrop_path": "/8YSpQBdGvuvSj9pLsY2yoUb9fZn.jpg",
-      "genre_ids": [
-        35,
-        10749,
-        18
       ],
       "vote_average": 7.1,
-      "vote_count": 1606,
-      "release_date": "2020-05-01"
+      "vote_count": 3683,
+      "release_date": "2014-05-08"
+    },
+    {
+      "id": 246741,
+      "media_type": "movie",
+      "title": "Чим ми займаємося в тінях",
+      "original_title": "What We Do in the Shadows",
+      "overview": "Віаґо, Дікон і Владислав — вампіри, яким доводиться призвичаюватися до сьогодення, що висуває свої вимоги до сплачування житлово-комунальних послуг, прибирання у будинку, відвідування нічних клубів і спільного життя в одному приміщенні.",
+      "poster_path": "/tq3c9gLTwciaOOuNuoIQvJsUtly.jpg",
+      "backdrop_path": "/utjThRtcnsj0GrDwNudjGdfmHfq.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "vote_average": 7.547,
+      "vote_count": 3980,
+      "release_date": "2014-06-19"
+    },
+    {
+      "id": 501929,
+      "media_type": "movie",
+      "title": "Мітчелли супроти Машин",
+      "original_title": "The Mitchells vs. the Machines",
+      "overview": "Повстання роботів зруйнувало їхню сімейну подорож. Тепер Мітчелли — найдивніша сімейка світу — мусять урятувати людство.",
+      "poster_path": "/1M86azAx8hHMnIvHdoHQME24xgu.jpg",
+      "backdrop_path": "/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
+      "genre_ids": [
+        16,
+        12,
+        35
+      ],
+      "vote_average": 7.835,
+      "vote_count": 3416,
+      "release_date": "2021-04-22"
+    },
+    {
+      "id": 926899,
+      "media_type": "movie",
+      "title": "Будинок",
+      "original_title": "The House",
+      "overview": "Похмура анімаційна комедія про загадковий зв’язок злиденної родини, заклопотаного підрядника й примхливої землевласниці з таємничим будинком у різні епохи.",
+      "poster_path": "/xhE1EYcD6U7m5R8AT7yf29CCxia.jpg",
+      "backdrop_path": "/hk4PwhKhT7q7jp1lvA8aiYqDluy.jpg",
+      "genre_ids": [
+        16,
+        18,
+        35,
+        27,
+        14
+      ],
+      "vote_average": 7.021,
+      "vote_count": 1153,
+      "release_date": "2022-01-14"
+    },
+    {
+      "id": 441130,
+      "media_type": "movie",
+      "title": "Вовча ватага",
+      "original_title": "Wolfwalkers",
+      "overview": "Юна мисливиця вирушає зі своїм батьком до Ірландії, щоб допомогти знищити останню зграю вовків. Але все змінюється після знайомства з дівчиною із загадкового племені, яке, за чутками, уночі перетворюється на вовків.",
+      "poster_path": "/2KjFQ4047sRuG5QfoNWinTghZs3.jpg",
+      "backdrop_path": "/3zTbERSBLh7waK9811RTKGAcG86.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14
+      ],
+      "vote_average": 8.175,
+      "vote_count": 1416,
+      "release_date": "2020-10-26"
+    },
+    {
+      "id": 399174,
+      "media_type": "movie",
+      "title": "Острів собак",
+      "original_title": "Isle of Dogs",
+      "overview": "Японія, недалеке майбутнє. 12-річним Атарі Кобаяші опікується корумпований мер Мегасакі, з відома якого в місті починається масовий відлов собак — і безпритульних, і домашніх. Тварин відправляють на острів-звалище, куди вже багато років вивозять відходи людської цивілізації. Хлопчик, виявивши пропажу свого пса Спотса, сідає на міні-супер-джет і летить на допомогу чотирилапому другові. Тим часом назріває змова собак-засланців на острові. Хлопчик і собача зграя починають епічну подорож, яка вирішить долю всієї префектури.",
+      "poster_path": "/rxLO8swGaiRFFhSaa1CsKJPA3Vh.jpg",
+      "backdrop_path": "/goMGTcitprGu7YD6VZS4lUUwzRA.jpg",
+      "genre_ids": [
+        12,
+        35,
+        16
+      ],
+      "vote_average": 7.848,
+      "vote_count": 5464,
+      "release_date": "2018-03-23"
+    },
+    {
+      "id": 869626,
+      "media_type": "movie",
+      "title": "Марсель, мушля в черевичках",
+      "original_title": "Marcel the Shell with Shoes On",
+      "overview": "Марсель - чарівна мушля заввишки в один дюйм, яка тягне барвисте існування зі своєю бабусею Конні та їхнім домашнім улюбленцем Аланом. Колись вони були частиною розгалуженої спільноти мушель, а тепер живуть на самоті, як єдині вцілілі після загадкової трагедії. Коли документаліст знаходить їх серед безладу свого Airbnb, його короткометражний фільм приносить Марселю мільйони палких шанувальників, а також безпрецедентну небезпеку і нову надію знайти свою давно втрачену родину.",
+      "poster_path": "/j1blbkpyIm8nnNJRD8Z4OvA6Qqc.jpg",
+      "backdrop_path": "/1PRWW60yQparK1I8Soyy9Evf7Dv.jpg",
+      "genre_ids": [
+        16,
+        35,
+        18,
+        10751
+      ],
+      "vote_average": 7.625,
+      "vote_count": 714,
+      "release_date": "2022-06-24"
+    },
+    {
+      "id": 24238,
+      "media_type": "movie",
+      "title": "Мері і Макс",
+      "original_title": "Mary and Max",
+      "overview": "Дія стрічки розгортається у період з 1976 по 1994 рік і розповідає про переписку двох друзів протягом 18 років. Вона, 8-річна самотня закомплексована дівчинка з Австралії — Мері Дейзі Дінкл. Він, 44-річний єврей-атеїст, що страждає від ожиріння та проблем з головою, - Макс Горовиць. У центрі уваги — листи, які пишуть одне одному Мері і Макс (у віці від 8 до 26 та від 44 до 62 років відповідно), та їхні життєві історії. Фільм засновано на реальних подіях.",
+      "poster_path": "/zTtFGeLe551o129Ogy2NgC7US98.jpg",
+      "backdrop_path": "/8UxYHvKBNFnoyfHjgjMwzj4zOuy.jpg",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "vote_average": 7.9,
+      "vote_count": 2281,
+      "release_date": "2009-04-09"
     }
   ]
 }
