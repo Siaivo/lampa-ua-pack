@@ -3,246 +3,247 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"32\" d=\"M104 288v-24a152 152 0 0 1 304 0v24\"/><rect x=\"80\" y=\"280\" width=\"72\" height=\"128\" rx=\"28\" fill=\"currentColor\"/><rect x=\"360\" y=\"280\" width=\"72\" height=\"128\" rx=\"28\" fill=\"currentColor\"/></svg>",
   "title": "Фоном",
   "lang": "uk",
-  "updated_at": "2026-07-21T22:56:43Z",
+  "updated_at": "2026-07-22T23:01:46Z",
   "items": [
     {
-      "id": 77791,
+      "id": 93292,
       "media_type": "tv",
-      "title": "Ось як треба!",
-      "original_title": "Nailed It!",
-      "overview": "Пекарі-аматори з жахливою кулінарною репутацією намагаються відтворити їстівні шедеври й виграти 10 000 доларів у конкурсі, що часто нагадує кондитерське побоїще.",
-      "poster_path": "/3wLAkbQu2Ld1rjiEeFvHnqmO5zN.jpg",
-      "backdrop_path": "/vxa8VrOpHgIBxXIVHmhe6SoEjVn.jpg",
+      "title": "Дунканвілл",
+      "original_title": "Duncanville",
+      "overview": "За сюжетом, непосидючий Дункан завжди активний і ніколи не сидить на місці. Його відносини з сусідами можна назвати дружніми, адже і знайомі, і близькі люди є частиною його великої пригоди. Дункан завжди мріяв про те, щоб скоріше стати дорослим. На його погляд, саме так можна досягти чогось видатного і неймовірного. Однак і тепер його енергія змушує хлопчика безкінечно потрапляти у величезну кількість пригод і неймовірних ситуацій...",
+      "poster_path": "/vEpCQqAWwiYvYtKUIPTlDDdHmDS.jpg",
+      "backdrop_path": "/gahwgNlUOWdA7pSgH0HJPEiVOsF.jpg",
       "genre_ids": [
-        10764
+        35,
+        16
       ],
-      "vote_average": 7.118,
-      "vote_count": 76,
-      "release_date": "2018-03-09"
+      "vote_average": 7.728,
+      "vote_count": 278,
+      "release_date": "2020-02-16"
     },
     {
-      "id": 61662,
+      "id": 97727,
       "media_type": "tv",
-      "title": "Шіттс Крік",
-      "original_title": "Schitt's Creek",
-      "overview": "Серіал розповідає про сімейство Роузів: Джонні Роуз — мільярдер, який заробив статок на мережі відеосалонів, його дружина — актриса мильних опер, і двоє дітей — гіпстер Девід та світська левиця Алексіс. Після того, як бізнес Джонні зазнає краху, все сімейство змушене переїхати жити в невелику сільську громаду Шіттс Крік, яку вони придбали кілька років тому заради розваги.",
-      "poster_path": "/3UuaOsE12RIN0IixGRYhh0asao.jpg",
-      "backdrop_path": "/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+      "title": "Корпорація змов",
+      "original_title": "Inside Job",
+      "overview": "Люди-ящірки? Існують. Висадка на Місяць? Вигадка. Управління всесвітніми змовами — ось робота для геніальної вченої і її недоладних колег.",
+      "poster_path": "/kqTaxsIW0R3TBipPRBsWIHsiACv.jpg",
+      "backdrop_path": "/tiLJNqQuCwIIgK30iavU6x0SFQj.jpg",
+      "genre_ids": [
+        35,
+        16
+      ],
+      "vote_average": 8.101,
+      "vote_count": 987,
+      "release_date": "2021-10-22"
+    },
+    {
+      "id": 81144,
+      "media_type": "tv",
+      "title": "Сусідство",
+      "original_title": "The Neighborhood",
+      "overview": "Наймиліший хлопець на Середньому Заході перевозить сім’ю у поганий район Лос-Анджелеса, де далеко не всі задоволені сусідством з ним.",
+      "poster_path": "/uItUViUsFAY7wzufTS2zWNbuuAm.jpg",
+      "backdrop_path": "/2GlkdaHtxORqWfPccv2YLDoLxMb.jpg",
       "genre_ids": [
         35
       ],
-      "vote_average": 7.783,
-      "vote_count": 713,
-      "release_date": "2015-01-13"
+      "vote_average": 7.565,
+      "vote_count": 177,
+      "release_date": "2018-10-01"
     },
     {
-      "id": 2490,
+      "id": 126027,
       "media_type": "tv",
-      "title": "Айтішники",
-      "original_title": "The IT Crowd",
-      "overview": "Дія відбувається в офісах „Рейнхолм Індастріз“ — вигаданій  британській корпорації, розташованій в центрі Лондону. Сюжет  розвивається навколо витівок команди технічної підтримки, що складається  з 3 чоловік і працює в брудному підвалі, що сильно контрастує з блиском  сучасної архітектури і прекрасними видами Лондона, доступних решті працівників організації.",
-      "poster_path": "/xC2mwwN0BLBMb1sF9IboKpmBRZg.jpg",
-      "backdrop_path": "/erljE3cOZ4eyISQunUYmKZ0q7cu.jpg",
+      "title": "Привиди",
+      "original_title": "Ghosts",
+      "overview": "Молоде подружжя Саманта і Джей переїжджають в будинок мрії, в якому сподіваються жити довго і щасливо. Але скоро пара з’ясовує, що, по-перше, будинок від старості розвалюється на частини, а по-друге, він вщент набитий примарами його численних колишніх мешканців.",
+      "poster_path": "/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+      "backdrop_path": "/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
       "genre_ids": [
+        35,
+        10765
+      ],
+      "vote_average": 8.025,
+      "vote_count": 445,
+      "release_date": "2021-10-07"
+    },
+    {
+      "id": 109939,
+      "media_type": "tv",
+      "title": "Наш прапор означає смерть",
+      "original_title": "Our Flag Means Death",
+      "overview": "XVIII століття. Аристократ Стід Боннет зачаровується романтикою піратських пригод, цурається всього, кидає сім’ю, купує корабель і вирушає грабувати торгові судна.",
+      "poster_path": "/wXfC4MBI3Q4RBEMO2XlmP44gRvw.jpg",
+      "backdrop_path": "/uDM0qsZ1q1C82Se2RzVj8I8ufhC.jpg",
+      "genre_ids": [
+        35,
+        10759,
+        18
+      ],
+      "vote_average": 7.534,
+      "vote_count": 356,
+      "release_date": "2022-03-03"
+    },
+    {
+      "id": 96580,
+      "media_type": "tv",
+      "title": "Постоялець з космосу",
+      "original_title": "Resident Alien",
+      "overview": "Після того, як його корабель зазнав аварії на Землі, прибулець Гаррі осів в провінційному містечку штату Колорадо під виглядом місцевого лікаря. Поступово він пристосовується до життя на новій планеті, але чим довше він знаходиться серед людей, тим більше його мучать сумніви з приводу місії, з якою він був сюди посланий, — знищити все людство.",
+      "poster_path": "/1KGZccU33luSAtKMyh0UYpxNOUQ.jpg",
+      "backdrop_path": "/aCbOj4wc6vQUUVNKppssj2PYUy0.jpg",
+      "genre_ids": [
+        10765
+      ],
+      "vote_average": 7.788,
+      "vote_count": 999,
+      "release_date": "2021-01-27"
+    },
+    {
+      "id": 94252,
+      "media_type": "tv",
+      "title": "Людські ресурси",
+      "original_title": "Human Resources",
+      "overview": "Любожуки, гормональні монстри й цілий натовп інших істот намагаються поєднувати кохання, роботу й потреби людей-клієнтів.",
+      "poster_path": "/9uEmYSgYIMBEIN82VAlqZnatpxJ.jpg",
+      "backdrop_path": "/fV6MArs2b71ym7ZIArAiiLiLCUZ.jpg",
+      "genre_ids": [
+        16,
         35
       ],
-      "vote_average": 8.158,
-      "vote_count": 1638,
-      "release_date": "2006-02-03"
+      "vote_average": 6.52,
+      "vote_count": 151,
+      "release_date": "2022-03-18"
     },
     {
-      "id": 67070,
+      "id": 121509,
       "media_type": "tv",
-      "title": "Погань",
-      "original_title": "Fleabag",
-      "overview": "Сюжет розвивається навколо молодої дівчини, яка постійно потрапляє в неприємності. Головна героїня з усіх сил прагне змінити щось в цьому світі, але категорично не здатна приймати допомогу і поради оточуючих. Події серіалу відбуваються в сучасному Лондоні.",
-      "poster_path": "/ufpidoMxDxbbeN2hAQskti3RIme.jpg",
-      "backdrop_path": "/hXdQ4MWsEOX6qg6VydKrLb3YJ4g.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "vote_average": 8.279,
-      "vote_count": 1870,
-      "release_date": "2016-07-21"
-    },
-    {
-      "id": 63404,
-      "media_type": "tv",
-      "title": "Таскмастер",
-      "original_title": "Taskmaster",
-      "overview": "У кожному епізоді шоу Грег Девіс та його вірний помічник Алекс Хорн кидають виклик п'ятьом його учасникам-комікам. Всі вони змагаються в дотепності, хитрощах та кмітливості, попутно виконуючи безглузді та смішні завдання, щоб… повернути власні речі.",
-      "poster_path": "/kvcmmggsMjHzalIFFGuieBdbKGc.jpg",
-      "backdrop_path": "/otzksZ4I7kC0fNrHEFZYANHL7q3.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 8.283,
-      "vote_count": 217,
-      "release_date": "2015-07-28"
-    },
-    {
-      "id": 1554,
-      "media_type": "tv",
-      "title": "QI",
-      "original_title": "QI",
-      "overview": "Quite Interesting (Доволі цікаво) — британська інтелектуальна комедійно-ігрова телепрограма. Сутність гри полягає в тому щоб правильно відповісти на якнайбільше питань, таким чином заробити найбільше балів і перемогти. Більшість питань важкозрозумілі, що зводить вірогідність правильної відповіді майже до нуля, тому бали нараховуються не тільки за правильні, а й за найбільш оригінальні і смішні відповіді.",
-      "poster_path": "/9zWVsauqP7GM9E1N9WDYVf9CWe3.jpg",
-      "backdrop_path": "/ikS12cRIPV1ZDVmCVKMNfMmow9Y.jpg",
-      "genre_ids": [
-        35,
-        10767
-      ],
-      "vote_average": 7.926,
-      "vote_count": 283,
-      "release_date": "2003-09-11"
-    },
-    {
-      "id": 37680,
-      "media_type": "tv",
-      "title": "Форс-мажори",
-      "original_title": "Suits",
-      "overview": "Майк Рос не має вищої освіти, проте має гострий розум і гарну пам'ять. Якось, переховуючись від поліцейських, Майк опиняється в готелі, де Харві Спектор проводить співбесіду з претендентами на посаду помічника юриста. Майк Рос видає себе за випускника Гарварду і успішно проходить співбесіду, вразивши Харві своїм талантом. Так народжується один з найбільш неоднозначних, але, в той же час, і найблискучіших тандемів законників на Манхеттені.",
-      "poster_path": "/9mNLkQvmmhc9LPDO6YSEBfq9iBi.jpg",
-      "backdrop_path": "/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 8.222,
-      "vote_count": 5801,
-      "release_date": "2011-06-23"
-    },
-    {
-      "id": 491418,
-      "media_type": "movie",
-      "title": "Родина за хвилину",
-      "original_title": "Instant Family",
-      "overview": "Історія про подружжя, що зважилось всиновити дитину. Та не одну, а одразу трьох! Смішна і зворушлива комедія про радощі та труднощі сімейних буднів.",
-      "poster_path": "/lS9BRytPM862SPke8ZTBP81M1yV.jpg",
-      "backdrop_path": "/hgESQ2sK21j22Yode4w99jfwj44.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "vote_average": 7.496,
-      "vote_count": 3259,
-      "release_date": "2018-11-13"
-    },
-    {
-      "id": 74016,
-      "media_type": "tv",
-      "title": "Ординатор",
-      "original_title": "The Resident",
-      "overview": "Молодий ідеаліст, випускник престижних університетів США, Девон Правеш потрапляє на роботу в шпиталь Честейн-Парк, де його куратором стає молодий, але високопрофесійний терапевт Конрад Хоукінз. Під його цинічним і безжальним наставництвом Девон відкриває для себе те, що не розкажуть на жодному курсі жодного університету: щастя від успішно врятованого життя пацієнта і одночасно - всі недоліки системи, якою керують безжальні і меркантильні бюрократи та ділки на зразок головного хірурга Рендольфа Белла та його колишньої дружини Лейн Гантер.",
-      "poster_path": "/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
-      "backdrop_path": "/9oVp0xfKW2igxDEo5wr3JTMQBub.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 8.373,
-      "vote_count": 1323,
-      "release_date": "2018-01-21"
-    },
-    {
-      "id": 4500,
-      "media_type": "tv",
-      "title": "Чудові роки",
-      "original_title": "The Wonder Years",
-      "overview": "Кевін Арнольд згадує, як соціальні зміни в 60-і роки робили дорослішання надзвичайно цікавим.",
-      "poster_path": "/tkaduqdhFrF1vp8L55OJfB5jw8Z.jpg",
-      "backdrop_path": "/XuJi5lKkYLCFpJprfSUZveRof7.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10751
-      ],
-      "vote_average": 8.335,
-      "vote_count": 1095,
-      "release_date": "1988-01-31"
-    },
-    {
-      "id": 2352,
-      "media_type": "tv",
-      "title": "Няня",
-      "original_title": "The Nanny",
-      "overview": "Сюжет розвивається навколо Френ Файн — енергійної і екстравагантної єврейки з Квінса, яку кидає і звільняє з роботи її наречений Денні Імперіалі. Працюючи тепер продавщицею косметики, Френ потрапляє в будинок Максвелла Шеффілда — відомого бродвейського продюсера, вдівця і батька трьох дітей. Максвелл влаштовує вечірку для потенційних інвесторів, і йому конче потрібна няня, щоб доглянути за дітьми. У розпачі він бере на роботу Френ, хоча і сумнівається в своєму виборі.",
-      "poster_path": "/4syShXMjaPAP3mG81ekhruv94sd.jpg",
-      "backdrop_path": "/hCUOckGQ4WnYRoCPFSTdxxErnr7.jpg",
-      "genre_ids": [
-        35,
-        10751
-      ],
-      "vote_average": 8.076,
-      "vote_count": 1308,
-      "release_date": "1993-11-03"
-    },
-    {
-      "id": 5639,
-      "media_type": "tv",
-      "title": "Живий за викликом",
-      "original_title": "Pushing Daisies",
-      "overview": "Хлопчик виявляє, що може оживляти одним дотиком. Однак, цей дар як дарує, так і забирає життя. Якщо протягом хвилини не доторкнутися до живого знову, гине хтось інший. Якщо ж доторкнутися... цей живий знову повертається у світ мертвих уже назавжди.  Хлопчик дорослішає та, користуючись своїм даром, розкриває вбивства: оживляє жертву на хвилину, з'ясовує ім'я винного та все повертає назад. Але одного разу він повинен з'ясувати, хто вбив дівчину, що була його дитячим коханням...",
-      "poster_path": "/oSRO8cGvve0pggPK9gHGItfl4j5.jpg",
-      "backdrop_path": "/pOL55kV8xkd6nGZ52s7nQyRov2B.jpg",
-      "genre_ids": [
-        18,
-        10765,
-        80
-      ],
-      "vote_average": 7.864,
-      "vote_count": 470,
-      "release_date": "2007-10-03"
-    },
-    {
-      "id": 19186,
-      "media_type": "movie",
-      "title": "Пастка для батьків",
-      "original_title": "The Parent Trap",
-      "overview": "Дві дівчинки-близнючки, схожі одна на одну, як дві краплі води домагаються того, щоб їх розлучені батьки зійшлися знову після 14 років розлучення.",
-      "poster_path": "/jaZFWy6ZAvQoMW2mo9xP5gx4URo.jpg",
-      "backdrop_path": "/wl7imDwEkYt1HnlsdEcUDXuxnRw.jpg",
+      "title": "Сім’я Апшоу",
+      "original_title": "The Upshaws",
+      "overview": "У цьому комедійному серіалі сім’я чорношкірих у штаті Індіана будує краще життя та затишний дім, долаючи безліч щоденних перешкод.",
+      "poster_path": "/bgtpwAsKNfqJmgp3zBxuSHMBAaW.jpg",
+      "backdrop_path": "/2etWIt4JMD4wHzJIZVi7YeI5UZa.jpg",
       "genre_ids": [
         35,
         10751,
-        10749
+        18
       ],
-      "vote_average": 7.027,
-      "vote_count": 429,
-      "release_date": "1961-05-13"
+      "vote_average": 7.572,
+      "vote_count": 69,
+      "release_date": "2021-05-12"
     },
     {
-      "id": 4575,
+      "id": 76148,
       "media_type": "tv",
-      "title": "Ліззі Макґвайр",
-      "original_title": "Lizzie McGuire",
-      "overview": "Телесеріал про життя 13-річної Ліззі Макґвайр — сором'язливої та незграбної дівчинки-підлітка, яка мріє вписатися в соціальне шкільне життя та бути популярною. В цьому їй допомагають її друзі Міранда та Ґордо. Епізоди сфокусовані на житті Ліззі, її стосунках із батьками Джо та Сем і молодшим братом Меттом, та підліткових проблемах, з якими вона стикається в процесі дорослішання. Ліззі має анімоване alter ego, яке показує її почуття.",
-      "poster_path": "/1ZOelP1XNP8eCwkhJvwRyVU9Ymd.jpg",
-      "backdrop_path": "/9TDtNdKwwJKAbddufpFlfUgBiCl.jpg",
+      "title": "Дівчата з Деррі",
+      "original_title": "Derry Girls",
+      "overview": "П’ятеро підлітків: Ерін, її кузина Орла, їхні подруги Клер та Мішель та британський кузен Мішель Джеймс разом відвідують католицьку школу для дівчат у місті Деррі та переживають вічні проблеми усіх підлітків. Усе це на тлі завершення затяжного політичного конфлікту в Північній Ірландії 90-х років, відомого як \"Клопоти\" (The Troubles).",
+      "poster_path": "/uEy7NZHyDO2ggbDwVGElgCJSYBC.jpg",
+      "backdrop_path": "/nQyQ4c8DUvXra1LDWnNfV9QJluD.jpg",
       "genre_ids": [
         35,
-        10762,
-        10751
+        18
       ],
-      "vote_average": 7.178,
-      "vote_count": 351,
-      "release_date": "2001-01-12"
+      "vote_average": 8.147,
+      "vote_count": 408,
+      "release_date": "2018-01-04"
     },
     {
-      "id": 4177,
+      "id": 62649,
       "media_type": "tv",
-      "title": "Перрі Мейсон",
-      "original_title": "Perry Mason",
-      "overview": "Професійний адвокат вирішує складні кримінальні справи своїх клієнтів.",
-      "poster_path": "/sK6JvgNFP1ClT4aF4nPAZiDpAdk.jpg",
-      "backdrop_path": "/iq4BjyVsDxzg24XnjoGP0Xi2Tz5.jpg",
+      "title": "Супермаркет",
+      "original_title": "Superstore",
+      "overview": "Серіал про великий різношерстий колектив працівників гіпермаркету, які на своєму робочому місці переживають безліч пригод, незважаючи на те, що територія їх проживання обмежується стінами магазину.",
+      "poster_path": "/tbFz1fWpQWKAu62yMvo2VhYUfmm.jpg",
+      "backdrop_path": "/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
       "genre_ids": [
-        9648,
-        18,
+        35
+      ],
+      "vote_average": 7.541,
+      "vote_count": 835,
+      "release_date": "2015-11-30"
+    },
+    {
+      "id": 66573,
+      "media_type": "tv",
+      "title": "У кращому світі",
+      "original_title": "The Good Place",
+      "overview": "Навіжена Елеонор з Нью Джерсі потрапляє туди, де їй наочно пояснюють, що все своє життя вона була вкрай поганою людиною. Головній героїні належить навчитися відрізняти хороше від поганого і допомогти їй дорости до хорошої людини візьметься наставник на ім'я Майкл.",
+      "poster_path": "/iZd6jJEzT7sszoFLd5XsYXgctfq.jpg",
+      "backdrop_path": "/tZmlWeFEMvxrjJhBJJcLNXpSRiG.jpg",
+      "genre_ids": [
+        10765,
+        35
+      ],
+      "vote_average": 7.969,
+      "vote_count": 2005,
+      "release_date": "2016-09-19"
+    },
+    {
+      "id": 48891,
+      "media_type": "tv",
+      "title": "Бруклін 9-9",
+      "original_title": "Brooklyn Nine-Nine",
+      "overview": "Сюжет серіалу оповідає про детектива, на долю якого в один момент випали серйозні зміни. Зовсім недавно він не виявляв до своєї роботи ніякої серйозності, але тепер, коли його штаб очолив новий керівник, детективу доведеться кардинально поміняти своє професійне життя і стати героєм неймовірних історій.",
+      "poster_path": "/a9gmarnmzyd7Q7XkyLxvZvK3jNP.jpg",
+      "backdrop_path": "/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
+      "genre_ids": [
+        35,
         80
       ],
-      "vote_average": 7.71,
-      "vote_count": 138,
-      "release_date": "1957-09-21"
+      "vote_average": 8.211,
+      "vote_count": 4037,
+      "release_date": "2013-09-17"
+    },
+    {
+      "id": 8592,
+      "media_type": "tv",
+      "title": "Парки та зони відпочинку",
+      "original_title": "Parks and Recreation",
+      "overview": "Проста чиновниця Леслі Ноуп якось зрозуміла, що її робота не дає суспільству жодної користі. Вона вирішує перетворити покинутий кар’єр на парк. Перепонами на її шляху стануть негнучка бюрократична система, егоїстичні сусіди, які не бажають змін навіть на краще, та забудовники, що відразу зацікавилися непотрібною їм досі ділянкою. Але Леслі просто так не здасться…",
+      "poster_path": "/t1CnVOaLEdS9ZRMAEIpFf7DiDlC.jpg",
+      "backdrop_path": "/frwl2zBNAl5ZbFDJGoJv0mYo0rF.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 8.038,
+      "vote_count": 1860,
+      "release_date": "2009-04-09"
+    },
+    {
+      "id": 416477,
+      "media_type": "movie",
+      "title": "Кохання – хвороба",
+      "original_title": "The Big Sick",
+      "overview": "У міру розвитку стосунків закоханій парі доводиться зіткнутися зі своїми культурними відмінностями.",
+      "poster_path": "/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
+      "backdrop_path": "/fYI8WX2DquAHMqwh5mOMxc6RU5j.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "vote_average": 7.323,
+      "vote_count": 2655,
+      "release_date": "2017-03-30"
+    },
+    {
+      "id": 290250,
+      "media_type": "movie",
+      "title": "Круті чуваки",
+      "original_title": "The Nice Guys",
+      "overview": "Лос-Анджелес, 1970-ті роки. Найманий охоронець Джексон Хілі і приватний детектив Холланд Марч змушені працювати в парі, щоб розплутати нікчемну справу про зниклу дівчину, яка обертається злочином століття. Детективам потрібно не тільки звикнути до нестандартних професійних методів один одного, але і залишитися в живих серед пострілів і вибухів.",
+      "poster_path": "/ofUWSpDkpM2ysOwzReY4qmGw5TR.jpg",
+      "backdrop_path": "/yxYUN3fBPJdTNdXC1l8L24XFPhX.jpg",
+      "genre_ids": [
+        35,
+        80,
+        28
+      ],
+      "vote_average": 7.1,
+      "vote_count": 8748,
+      "release_date": "2016-05-15"
     }
   ]
 }

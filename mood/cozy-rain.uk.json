@@ -3,259 +3,268 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"104\" y=\"176\" width=\"216\" height=\"208\" rx=\"28\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"28\" d=\"M320 224h28a52 52 0 0 1 0 104h-28\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"20\" stroke-linecap=\"round\" d=\"M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60\"/></svg>",
   "title": "Затишок",
   "lang": "uk",
-  "updated_at": "2026-07-21T22:56:17Z",
+  "updated_at": "2026-07-22T23:01:18Z",
   "items": [
     {
-      "id": 416477,
+      "id": 10315,
       "media_type": "movie",
-      "title": "Кохання – хвороба",
-      "original_title": "The Big Sick",
-      "overview": "У міру розвитку стосунків закоханій парі доводиться зіткнутися зі своїми культурними відмінностями.",
-      "poster_path": "/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
-      "backdrop_path": "/fYI8WX2DquAHMqwh5mOMxc6RU5j.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10749
-      ],
-      "vote_average": 7.323,
-      "vote_count": 2655,
-      "release_date": "2017-03-30"
-    },
-    {
-      "id": 346648,
-      "media_type": "movie",
-      "title": "Пригоди Паддінґтона 2",
-      "original_title": "Paddington 2",
-      "overview": "Продовження пригод ведмежати на ім'я Паддінґтон.",
-      "poster_path": "/f4IDGS1531P7ZCq9zYRRAhXS3mj.jpg",
-      "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+      "title": "Незрівнянний містер Фокс",
+      "original_title": "Fantastic Mr. Fox",
+      "overview": "Розлючені фермери, втомлені від постійних нападів \"хитрого лиса\" на курники, готуються знищити свого ворога та його \"хитру\" родину. Що вийде з цього протистояння?",
+      "poster_path": "/kduzG33eOgzXyG8WB2jEGVZsYh4.jpg",
+      "backdrop_path": "/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
       "genre_ids": [
         12,
+        16,
         35,
         10751
       ],
-      "vote_average": 7.479,
-      "vote_count": 2829,
-      "release_date": "2017-11-09"
+      "vote_average": 7.823,
+      "vote_count": 6180,
+      "release_date": "2009-10-14"
     },
     {
-      "id": 26963,
+      "id": 313297,
       "media_type": "movie",
-      "title": "Таємниця абатства Келс",
-      "original_title": "The Secret of Kells",
-      "overview": "Ірландія, 9 століття. В абатстві Келс, яким керує настоятель Келах, живе маленький хлопчик на ім'я Брендан. Йому 12 років, і він разом з іншими ченцями старанно працює над зміцненням стін абатства для захисту від нападу норманів.  Одного дня в абатство приходить брат Ейдан, відомий майстер-ілюстратор та хранитель дивовижної книги з Іони. З цієї миті Брендану відкривається нове життя, сповнене пригод, в яких йому будуть допомагати нові друзі, кішка Пангур Бан і лісова фея Ешлінг.",
-      "poster_path": "/vBymyj7QsXiW4TICD2JC5pAuBHO.jpg",
-      "backdrop_path": "/740KCabjLKjsrxvEakmmJtDtAGY.jpg",
+      "title": "Кубо і легенда самурая",
+      "original_title": "Kubo and the Two Strings",
+      "overview": "Юний музикант Кубо насолоджувався безтурботним життям на березі океану. У їхньому невеликому селищі ніколи не траплялося нічого незвичайного, і ніхто не чекав змін. Але вони настали, коли в життя юнака і його матері увірвався бунтівний дух, прагнучий помсти. Заново дізнаючись історію свого походження, Кубо відкриває в собі нові, раніше незвідані здатності і розуміє, що він, по суті, дуже схожий на батька, якого ніколи не бачив - легендарного воїна, прославленого самурая, полеглого в битві зі злом.",
+      "poster_path": "/kiSPqUIue8ZjW7m5wwcG0nBvnPX.jpg",
+      "backdrop_path": "/bhspYsRMHgMqzUlxiVpIY8OrqMt.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751
+      ],
+      "vote_average": 7.636,
+      "vote_count": 3850,
+      "release_date": "2016-08-18"
+    },
+    {
+      "id": 9479,
+      "media_type": "movie",
+      "title": "Жах перед Різдвом",
+      "original_title": "The Nightmare Before Christmas",
+      "overview": "Десь глибоко під землею, серед моторошних печер, знаходиться дивне місто Хелловіна. У цьому місті живуть дуже колоритні жителі: чудовиська, привиди, вампіри та перевертні. Життя в місті протікає весело, та не дуже щасливо, але справжнє свято відбувається лише раз на рік, в канун Дня мертвих. Так би вони й жили, аби одного разу допитливий та енергійний Джек Скеленгтон не знайшов портал в паралельний світ і  не потрапив в місто Різдва. Вражений побаченим він вирішив внести в побачене свято свою лепту…",
+      "poster_path": "/4oCXjocqR482uhKhSJd5hOtyyZ0.jpg",
+      "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
+      "genre_ids": [
+        14,
+        16,
+        10751
+      ],
+      "vote_average": 7.834,
+      "vote_count": 10421,
+      "release_date": "1993-10-09"
+    },
+    {
+      "id": 14836,
+      "media_type": "movie",
+      "title": "Кораліна у світі кошмарів",
+      "original_title": "Coraline",
+      "overview": "Після переїзду сім'ї з міста до провінційного містечка,  друзі та звичне життя Кораліни залишилися далеко в минулому, батьки постійно заклопотані та занурені у власні справи, а маленькій дівчинці залишається лише бродити по порожньому незатишному будинку. Але одного разу Кораліна знаходить маленької двері, що заклеєні шпалерами. Дівчинка проникає за двері та опиняється в казковому світі. Але казка з часом перетворюється на жахи…",
+      "poster_path": "/ySD4ngJf55JK4lLpZdbB6RXRoxh.jpg",
+      "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
       "genre_ids": [
         16,
         10751,
         14
       ],
-      "vote_average": 7.4,
-      "vote_count": 797,
-      "release_date": "2009-02-09"
+      "vote_average": 7.923,
+      "vote_count": 9156,
+      "release_date": "2009-02-05"
     },
     {
-      "id": 773,
+      "id": 77174,
       "media_type": "movie",
-      "title": "Маленька міс Щастя",
-      "original_title": "Little Miss Sunshine",
-      "overview": "Історія подорожі багатодітної сім'ї з Альбукерке на конкурс краси «Little Miss Sunshine» до Каліфорнії, де повинна здійснитися мрія чарівної семирічної Оліві. Під час вояжу всім членам сім'ї доводиться мужньо боротися c різного роду пригодами, розчаруваннями, а також зі своїм автобусом VW, який вічно ламається. Подорожуючи по країні, тато, мама, сестри і брати вчаться довіряти і підтримувати один одного, незалежно від того, з якою проблемою вони зіткнулися...",
-      "poster_path": "/qgxHp2E7Yqq4s33gwtvzT4Wa8V.jpg",
-      "backdrop_path": "/yE376O0gMgUE7wX1PQ9bbTPVvFq.jpg",
+      "title": "Паранорман",
+      "original_title": "ParaNorman",
+      "overview": "Норман, Паранорман. Єдина надія напівсонного містечка в боротьбі з полчищами нечисті. Його зброя - супер-мега-дар: вміння спілкуватися з примарами. Втім, мерці - не головна небезпека, куди гірше - дурні дорослі з дробовиками.",
+      "poster_path": "/vpyxp5jnMgXDnrzw2Uvg8U9Z7pe.jpg",
+      "backdrop_path": "/fRhpdmaA1wTAboeiKW2ZHvDezIm.jpg",
       "genre_ids": [
-        35,
-        18
-      ],
-      "vote_average": 7.692,
-      "vote_count": 7922,
-      "release_date": "2006-07-26"
-    },
-    {
-      "id": 147773,
-      "media_type": "movie",
-      "title": "Дорога, дорога додому",
-      "original_title": "The Way Way Back",
-      "overview": "Історія підлітка, який знайшов у собі сили протистояти жорстокому вітчиму і знову знайшов контакт з матір'ю. І все це завдяки дружбі, що зав'язалася у героя одного разу влітку.",
-      "poster_path": "/kd8SrKUEAWsRDemoVk5vglLLvSN.jpg",
-      "backdrop_path": "/bPm5kQLlc2KypdYkUxGbrGfLJ82.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "vote_average": 7.137,
-      "vote_count": 1964,
-      "release_date": "2013-06-06"
-    },
-    {
-      "id": 565310,
-      "media_type": "movie",
-      "title": "Прощання",
-      "original_title": "The Farewell",
-      "overview": "Американка китайського походження повертається до Китаю, коли їй улюбленій бабусі ставлять смертельний діагноз. Біллі бореться з рішенням сім'ї тримати бабусю в невіданні щодо її власної хвороби, коли всі вони влаштовують імпровізоване весілля, щоб побачити бабусю востаннє.",
-      "poster_path": "/7ht2IMGynDSVQGvAXhAb83DLET8.jpg",
-      "backdrop_path": "/5INPBiKVRsyp9kgHfsC0cTfvKFH.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "vote_average": 7.411,
-      "vote_count": 1559,
-      "release_date": "2019-07-12"
-    },
-    {
-      "id": 24803,
-      "media_type": "movie",
-      "title": "Джулі та Джулія",
-      "original_title": "Julie & Julia",
-      "overview": "Душевна історія про Джулі Павелл, яка вирішує урізноманітнити своє нудне життя, приготувавши всі 524 страви з класичної книги рецептів від Джулії Чайлд.",
-      "poster_path": "/aWm7WBkuuqxH2CFOn4p0kaAuV1m.jpg",
-      "backdrop_path": "/1tWpsnSelznXfkdssCWQGgavRZM.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "vote_average": 6.713,
-      "vote_count": 2228,
-      "release_date": "2009-08-06"
-    },
-    {
-      "id": 212778,
-      "media_type": "movie",
-      "title": "Повар на колесах",
-      "original_title": "Chef",
-      "overview": "Карл Каспер – неперевершений кухар, але у нього не склалися стосунки в сім'ї і власник ресторану не дає йому жодної свободи. Він вирішує покинути роботу і купити харчовий фургон, де він зможе готувати власні страви. На хвилі ентузіазму і оптимістичного погляду в майбутнє він спробує повернути прихильність своїх близьких.",
-      "poster_path": "/dM6ldPN0aDQtcyLQMZwjz8ICc5a.jpg",
-      "backdrop_path": "/igVNCpS132rOqrnDsrVYW5HCIsM.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 7.1,
-      "vote_count": 3683,
-      "release_date": "2014-05-08"
-    },
-    {
-      "id": 246741,
-      "media_type": "movie",
-      "title": "Чим ми займаємося в тінях",
-      "original_title": "What We Do in the Shadows",
-      "overview": "Віаґо, Дікон і Владислав — вампіри, яким доводиться призвичаюватися до сьогодення, що висуває свої вимоги до сплачування житлово-комунальних послуг, прибирання у будинку, відвідування нічних клубів і спільного життя в одному приміщенні.",
-      "poster_path": "/tq3c9gLTwciaOOuNuoIQvJsUtly.jpg",
-      "backdrop_path": "/utjThRtcnsj0GrDwNudjGdfmHfq.jpg",
-      "genre_ids": [
-        35,
-        27
-      ],
-      "vote_average": 7.547,
-      "vote_count": 3980,
-      "release_date": "2014-06-19"
-    },
-    {
-      "id": 501929,
-      "media_type": "movie",
-      "title": "Мітчелли супроти Машин",
-      "original_title": "The Mitchells vs. the Machines",
-      "overview": "Повстання роботів зруйнувало їхню сімейну подорож. Тепер Мітчелли — найдивніша сімейка світу — мусять урятувати людство.",
-      "poster_path": "/1M86azAx8hHMnIvHdoHQME24xgu.jpg",
-      "backdrop_path": "/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
-      "genre_ids": [
-        16,
-        12,
-        35
-      ],
-      "vote_average": 7.835,
-      "vote_count": 3416,
-      "release_date": "2021-04-22"
-    },
-    {
-      "id": 926899,
-      "media_type": "movie",
-      "title": "Будинок",
-      "original_title": "The House",
-      "overview": "Похмура анімаційна комедія про загадковий зв’язок злиденної родини, заклопотаного підрядника й примхливої землевласниці з таємничим будинком у різні епохи.",
-      "poster_path": "/xhE1EYcD6U7m5R8AT7yf29CCxia.jpg",
-      "backdrop_path": "/hk4PwhKhT7q7jp1lvA8aiYqDluy.jpg",
-      "genre_ids": [
-        16,
-        18,
-        35,
-        27,
-        14
-      ],
-      "vote_average": 7.021,
-      "vote_count": 1153,
-      "release_date": "2022-01-14"
-    },
-    {
-      "id": 441130,
-      "media_type": "movie",
-      "title": "Вовча ватага",
-      "original_title": "Wolfwalkers",
-      "overview": "Юна мисливиця вирушає зі своїм батьком до Ірландії, щоб допомогти знищити останню зграю вовків. Але все змінюється після знайомства з дівчиною із загадкового племені, яке, за чутками, уночі перетворюється на вовків.",
-      "poster_path": "/2KjFQ4047sRuG5QfoNWinTghZs3.jpg",
-      "backdrop_path": "/3zTbERSBLh7waK9811RTKGAcG86.jpg",
-      "genre_ids": [
-        16,
         10751,
+        16,
         12,
+        35
+      ],
+      "vote_average": 7.046,
+      "vote_count": 2818,
+      "release_date": "2012-08-03"
+    },
+    {
+      "id": 170687,
+      "media_type": "movie",
+      "title": "Сімейка монстрів",
+      "original_title": "The Boxtrolls",
+      "overview": "Мешканці міста Чізбридж вірять, що в глибинах каналізації мешкають страшні і небезпечні монстри. З настанням сутінків вони виходять на лови і викрадають дітей та сир. Насправді ж монстри кумедні, добрі і сердечні. У цьому переконався хлопчик-сирота, якого всиновила сімейка монстрів. З такою родиною не знудишся. Пригоди починаються!",
+      "poster_path": "/E4hb1fyyyCdefxQ0Pxp38Y9VH7.jpg",
+      "backdrop_path": "/q2vz5DeLbegD2teJU29Gtb4t2sO.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
         14
       ],
-      "vote_average": 8.175,
-      "vote_count": 1416,
-      "release_date": "2020-10-26"
+      "vote_average": 6.726,
+      "vote_count": 1827,
+      "release_date": "2014-09-10"
     },
     {
-      "id": 399174,
+      "id": 458253,
       "media_type": "movie",
-      "title": "Острів собак",
-      "original_title": "Isle of Dogs",
-      "overview": "Японія, недалеке майбутнє. 12-річним Атарі Кобаяші опікується корумпований мер Мегасакі, з відома якого в місті починається масовий відлов собак — і безпритульних, і домашніх. Тварин відправляють на острів-звалище, куди вже багато років вивозять відходи людської цивілізації. Хлопчик, виявивши пропажу свого пса Спотса, сідає на міні-супер-джет і летить на допомогу чотирилапому другові. Тим часом назріває змова собак-засланців на острові. Хлопчик і собача зграя починають епічну подорож, яка вирішить долю всієї префектури.",
-      "poster_path": "/rxLO8swGaiRFFhSaa1CsKJPA3Vh.jpg",
-      "backdrop_path": "/goMGTcitprGu7YD6VZS4lUUwzRA.jpg",
+      "title": "Містер Лінк: Загублена ланка еволюції",
+      "original_title": "Missing Link",
+      "overview": "Безстрашний натураліст і дослідник Лайонел Фрост поставив перед собою завдання розповісти світові про існування різних створінь, про які говорять тільки в легендах. Його новим відкриттям стає Лінк, так звана «відсутня ланка», що зв’язує людство з його предками по еволюційних щаблях.",
+      "poster_path": "/dTsFfsGkNwi4r1ZMWMqP9qmKbu7.jpg",
+      "backdrop_path": "/l36ekUEEDLMAuL0YAU2Qxfq1i6X.jpg",
       "genre_ids": [
+        10751,
+        16,
+        35,
         12,
-        35,
-        16
+        28
       ],
-      "vote_average": 7.848,
-      "vote_count": 5464,
-      "release_date": "2018-03-23"
+      "vote_average": 6.905,
+      "vote_count": 941,
+      "release_date": "2019-04-04"
     },
     {
-      "id": 869626,
+      "id": 422803,
       "media_type": "movie",
-      "title": "Марсель, мушля в черевичках",
-      "original_title": "Marcel the Shell with Shoes On",
-      "overview": "Марсель - чарівна мушля заввишки в один дюйм, яка тягне барвисте існування зі своєю бабусею Конні та їхнім домашнім улюбленцем Аланом. Колись вони були частиною розгалуженої спільноти мушель, а тепер живуть на самоті, як єдині вцілілі після загадкової трагедії. Коли документаліст знаходить їх серед безладу свого Airbnb, його короткометражний фільм приносить Марселю мільйони палких шанувальників, а також безпрецедентну небезпеку і нову надію знайти свою давно втрачену родину.",
-      "poster_path": "/j1blbkpyIm8nnNJRD8Z4OvA6Qqc.jpg",
-      "backdrop_path": "/1PRWW60yQparK1I8Soyy9Evf7Dv.jpg",
+      "title": "Баранчик Шон: Фермагеддон",
+      "original_title": "A Shaun the Sheep Movie: Farmageddon",
+      "overview": "На ферму приземляється космічний корабель і Шон знайомиться з інопланетянкою на ім’я Лу-Ла. Він намагається допомогти їй повернутися додому, але агентство з полювання на інопланетян вже йде їхнім слідом.",
+      "poster_path": "/b7WfLA5FB0V0EMaZqcJGSjcshop.jpg",
+      "backdrop_path": "/AgYlP6g4vrNn1sVsAIvflW3TfJU.jpg",
       "genre_ids": [
-        16,
+        10751,
         35,
+        12,
+        16,
+        878
+      ],
+      "vote_average": 6.894,
+      "vote_count": 599,
+      "release_date": "2019-09-26"
+    },
+    {
+      "id": 387592,
+      "media_type": "movie",
+      "title": "Дикі предки",
+      "original_title": "Early Man",
+      "overview": "Події розвиваються на зорі часів, коли по землі бігали динозаври і мамонти. Мультфільм розповідає історію про те, як одна хоробра печерна людина об'єднує своє плем'я проти могутнього ворога і рятує день.",
+      "poster_path": "/4L0XnYWXNKVLOtWlJw6HU9MELSi.jpg",
+      "backdrop_path": "/o3XZUwX37gqhpoQcBpqturGTF3Z.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        16,
+        12
+      ],
+      "vote_average": 6.144,
+      "vote_count": 886,
+      "release_date": "2018-01-26"
+    },
+    {
+      "id": 546554,
+      "media_type": "movie",
+      "title": "Ножі наголо",
+      "original_title": "Knives Out",
+      "overview": "Допитливий детектив на ім’я Бенуа Блан розслідує вбивство відомого романіста Гарлана Тромбі, якого було знайдено мертвим на території власного маєтку одразу після святкування 85-річчя.  Детективу доведеться розібратися у хитросплетінні хибних слідів та брехні, щоб встановити особу вбивці.",
+      "poster_path": "/6zIRVYhGPPjdQTETiZVCkFAfz0C.jpg",
+      "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+      "genre_ids": [
+        35,
+        80,
+        9648
+      ],
+      "vote_average": 7.841,
+      "vote_count": 14194,
+      "release_date": "2019-11-27"
+    },
+    {
+      "id": 392044,
+      "media_type": "movie",
+      "title": "Вбивство у «Східному експресі»",
+      "original_title": "Murder on the Orient Express",
+      "overview": "Події обертаються навколо вбивства на борту відомого на весь світ експреса, яке має розслідувати бельгійський детектив Еркюль Пуаро. Його завдання ускладнюється тим, що майже кожен пасажир мав мотив для скоєння злочину.",
+      "poster_path": "/8blAgu9Lqh8V3NdY67cBy8ChBTQ.jpg",
+      "backdrop_path": "/IQyEvPTYvrzsa7qstRj6VLQupr.jpg",
+      "genre_ids": [
+        9648,
         18,
-        10751
+        80
       ],
-      "vote_average": 7.625,
-      "vote_count": 714,
-      "release_date": "2022-06-24"
+      "vote_average": 6.706,
+      "vote_count": 10607,
+      "release_date": "2017-11-03"
     },
     {
-      "id": 24238,
-      "media_type": "movie",
-      "title": "Мері і Макс",
-      "original_title": "Mary and Max",
-      "overview": "Дія стрічки розгортається у період з 1976 по 1994 рік і розповідає про переписку двох друзів протягом 18 років. Вона, 8-річна самотня закомплексована дівчинка з Австралії — Мері Дейзі Дінкл. Він, 44-річний єврей-атеїст, що страждає від ожиріння та проблем з головою, - Макс Горовиць. У центрі уваги — листи, які пишуть одне одному Мері і Макс (у віці від 8 до 26 та від 44 до 62 років відповідно), та їхні життєві історії. Фільм засновано на реальних подіях.",
-      "poster_path": "/zTtFGeLe551o129Ogy2NgC7US98.jpg",
-      "backdrop_path": "/8UxYHvKBNFnoyfHjgjMwzj4zOuy.jpg",
+      "id": 81049,
+      "media_type": "tv",
+      "title": "Убивства за абеткою",
+      "original_title": "The ABC Murders",
+      "overview": "Сюжет добре відомий усім шанувальникам класики детективного жанру. Серійний вбивця вбиває нічим між собою не пов'язаних людей в алфавітному порядку їх імен. Вбивця відправляє Еркюлю Пуаро лист перед кожним вбивством, повідомляючи де і коли буде здійснено черговий злочин, але поліція та славетний детектив завжди з’являються із запізненням. Розплутати цю надскладну справу допомагає лише щасливий випадок…",
+      "poster_path": "/ve9sInW3bBHalWdryBDsRZn2qRO.jpg",
+      "backdrop_path": "/nkTuFSvNpOThKzKyWZJviYa6hs9.jpg",
       "genre_ids": [
-        16,
-        35,
-        18
+        80,
+        18,
+        9648
       ],
-      "vote_average": 7.9,
-      "vote_count": 2281,
-      "release_date": "2009-04-09"
+      "vote_average": 6.5,
+      "vote_count": 169,
+      "release_date": "2018-12-26"
+    },
+    {
+      "id": 157372,
+      "media_type": "tv",
+      "title": "Чому не Еванс?",
+      "original_title": "Why Didn't They Ask Evans?",
+      "overview": "Розповідь про Боббі Джонса, який, шукаючи свій м’яч для ґольфу, натрапляє на помираючого чоловіка. Разом зі своєю подругою Боббі спробує розкрити таємницю останніх слів покійного: «Чому не Еванс?».",
+      "poster_path": "/3q2ZYEkOB4J8Yp9Y03eZf7OWcro.jpg",
+      "backdrop_path": "/9LBVRKjrpFBrZG7eF2u6taktCzq.jpg",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "vote_average": 6.643,
+      "vote_count": 105,
+      "release_date": "2022-04-12"
+    },
+    {
+      "id": 945729,
+      "media_type": "movie",
+      "title": "Привиди у Венеції",
+      "original_title": "A Haunting in Venice",
+      "overview": "Тепер Пуаро, який вийшов на пенсію та живе в добровільному вигнанні у вишуканій Венеції, неохоче відвідує спіритичний сеанс у напівзруйнованому палаці з привидами. Коли одного з гостей убивають, детектив поринає в зловісний світ тіней і таємниць.",
+      "poster_path": "/81c2ZIwJcsjILVFtOTwtjHdvXhv.jpg",
+      "backdrop_path": "/qB9wshRySHgN2MibLOlsW6YalqD.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        80
+      ],
+      "vote_average": 6.565,
+      "vote_count": 2886,
+      "release_date": "2023-09-13"
+    },
+    {
+      "id": 514999,
+      "media_type": "movie",
+      "title": "Загадкове вбивство",
+      "original_title": "Murder Mystery",
+      "overview": "Американська подружня пара відправляється у відпустку в Європу та стає свідком убивства старого мільйонера.",
+      "poster_path": "/mVygOa7mW2jnHROwVuZ3XQzuXF9.jpg",
+      "backdrop_path": "/wL8KA3zIJQPbbU5hJlyIdmmLZit.jpg",
+      "genre_ids": [
+        35,
+        9648
+      ],
+      "vote_average": 6.256,
+      "vote_count": 4841,
+      "release_date": "2019-05-25"
     }
   ]
 }
