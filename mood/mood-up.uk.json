@@ -3,257 +3,251 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"256\" cy=\"256\" r=\"104\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"32\" stroke-linecap=\"round\" d=\"M256 40v48M256 424v48M40 256h48M424 256h48M107 107l34 34M371 371l34 34M405 107l-34 34M141 371l-34 34\"/></svg>",
   "title": "Позитив",
   "lang": "uk",
-  "updated_at": "2026-07-26T22:58:50Z",
+  "updated_at": "2026-07-27T23:01:46Z",
   "items": [
     {
-      "id": 455207,
+      "id": 8346,
       "media_type": "movie",
-      "title": "Шалені багатії",
-      "original_title": "Crazy Rich Asians",
-      "overview": "Екранізація бестселлера Кевіна Квана про нечувано багату азіатську сім'ю зі старомодними принципами. Її спадкоємець Нік Янг привозить з Нью-Йорку свою кохану Рейчел, яка навіть не підозрювала про його походження. Проста американка потрапляє до світу величезних грошей і незвичайних китайських традицій, де їй зовсім не раді.",
-      "poster_path": "/8Qh8aQEXQztbHwP0xuNaPRhSLKM.jpg",
-      "backdrop_path": "/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg",
+      "title": "Моє велике грецьке весілля",
+      "original_title": "My Big Fat Greek Wedding",
+      "overview": "Головна героїня Тула - дівчина «злегка за 30», яка живе з батьками і працює в ресторанчику свого батька. Те, що життя її не склалося, зрозуміло всім навколо, включаючи саму Тулу: свою головну місію - вийти заміж за грека і народжувати грецьких дітей вона не виконала. Несподіване знайомство з американцем Яном обертається великими неприємностями, великою любов'ю і, як можна здогадатися, великим грецьким весіллям.",
+      "poster_path": "/gdFcpkCuwaKIPE0RoTk6029vHSN.jpg",
+      "backdrop_path": "/3d8Y4q172YFp2obUdfMjyErB7eU.jpg",
       "genre_ids": [
         35,
+        18,
         10749
       ],
-      "vote_average": 7.053,
-      "vote_count": 3988,
-      "release_date": "2018-08-15"
+      "vote_average": 6.5,
+      "vote_count": 2315,
+      "release_date": "2002-04-19"
     },
     {
-      "id": 71,
+      "id": 338,
       "media_type": "movie",
-      "title": "Біллі Елліот",
-      "original_title": "Billy Elliot",
-      "overview": "11-річний Біллі Елліот — син звичайного шахтаря. В очах своєї родини — батька і брата — він обов'язково повинен стати боксером. Але у маленького Біллі душа до спорту не лежить, до того ж у нього нічого і не виходить. Одного разу він бачить, як група дівчат займається балетом, і розуміє, що більш за все йому подобаються танці. Але як переконати батька повірити в настільки незвичайне для хлопця захоплення?",
-      "poster_path": "/6pQUE2pXkLmO0ILzIUMIzSdhDXN.jpg",
-      "backdrop_path": "/urzflyf41uySpgciGHdQzpcaMOY.jpg",
+      "title": "Ґудбай, Леніне!",
+      "original_title": "Good Bye, Lenin!",
+      "overview": "Мати Алекса опинилась в комі незадовго до падіння Берлінської стіни. А коли, нарешті, прийшла до тями, не було вже ні ГДР, ні країн соціалізму, що «переміг». Через тривогу за здоров`я матері, Александр вирішив не розповідати їй про зміни: адже що ще як не торжество капіталізму може доконати переконану комуністку? Синові довелося піти на обман і перетворити свою квартиру на острівець минулого, в останню фортецю неіснуючої держави. Старанно вдавати, що справа Леніна як і раніше живе й перемагає.",
+      "poster_path": "/nxKe04OP2GOpVsGneqFiBg7h0bS.jpg",
+      "backdrop_path": "/uBLmfG7MyNXPXI50eMs1ZjxpbnV.jpg",
       "genre_ids": [
-        18,
         35,
-        10402
+        18
       ],
-      "vote_average": 7.594,
-      "vote_count": 4127,
-      "release_date": "2000-09-28"
+      "vote_average": 7.541,
+      "vote_count": 2653,
+      "release_date": "2003-02-13"
     },
     {
-      "id": 369557,
+      "id": 371645,
       "media_type": "movie",
-      "title": "Сінґ Стріт",
-      "original_title": "Sing Street",
-      "overview": "Ностальгічна музична драма про дорослішання. Коли економічна криза 1980-х вдаряє по родині Конора, його переводять з престижної приватної школи в державну. Підліток стикається з грубістю і невіглаством нового середовища і, крім того, закохується в недосяжну красуню. Бажаючи вразити дівчину, Конор збирає рок-гурт.",
-      "poster_path": "/wVooPiwY95OOe3YOb5tc1pixW4L.jpg",
-      "backdrop_path": "/zArKQrtZRb4lqjYXepBMLdegiDz.jpg",
+      "title": "Полювання на дикунів",
+      "original_title": "Hunt for the Wilderpeople",
+      "overview": "Сирота Ріккі Бейкер – невиправний хуліган. Співробітниця соціальної служби Пола Голл відвозить підлітка в сільську місцевість, де живе єдина сім'я, яка готова його прийняти, – Белла та її відлюдькуватий чоловік Гек. Коли Белла вмирає і соціальний захист збирається забрати Ріккі, хлопець тікає в неозорий новозеландський буш. Гек відправляється за ним. Навіжена Пола оголошує загальнонаціональне полювання на втікачів ...",
+      "poster_path": "/tmxTu7rM3Kfnoc95dpY9LzV9HCf.jpg",
+      "backdrop_path": "/ixpUtvrZNwk6LBObXaNH8fh4FYf.jpg",
       "genre_ids": [
-        10749,
+        12,
+        35,
+        18
+      ],
+      "vote_average": 7.645,
+      "vote_count": 2335,
+      "release_date": "2016-01-22"
+    },
+    {
+      "id": 231576,
+      "media_type": "movie",
+      "title": "Хотів би я бути тут",
+      "original_title": "Wish I Was Here",
+      "overview": "Історія Айдана Блума — актора, батька і чоловіка, який у свої 35 років все ще намагається знайти себе, мету свого життя. Навчаючи життя двох своїх дітей, Айдан поступово виявляє деякі частини себе, які він не міг знайти раніше...",
+      "poster_path": "/x2PbkErUmVfeRkdJe5CCZSkqk4B.jpg",
+      "backdrop_path": "/uhnA40snHwYSUkGA0rgGLmmGgE2.jpg",
+      "genre_ids": [
         18,
-        10402,
         35
       ],
-      "vote_average": 7.858,
-      "vote_count": 2472,
-      "release_date": "2016-03-11"
+      "vote_average": 6.5,
+      "vote_count": 786,
+      "release_date": "2014-07-18"
     },
     {
-      "id": 49009,
+      "id": 16367,
       "media_type": "movie",
-      "title": "Шлях додому",
-      "original_title": "The Way Back",
-      "overview": "У фільмі розповідається про втечу групи в’язнів із табору ГУЛАГу в Сибірі та їх тернистий шлях до свободи.",
-      "poster_path": "/xQ6hxfpD5XQGJz0ekVle5zegam7.jpg",
-      "backdrop_path": "/jcQfgcq1j7Vit4wQ54niXiLfvE8.jpg",
-      "genre_ids": [
-        18,
-        12,
-        36
-      ],
-      "vote_average": 7.002,
-      "vote_count": 1787,
-      "release_date": "2010-11-22"
-    },
-    {
-      "id": 82693,
-      "media_type": "movie",
-      "title": "Збірка промінців надії",
-      "original_title": "Silver Linings Playbook",
-      "overview": "Часом доля нас випробовує. Іноді її удари бувають дошкульними і неприємними, а бувають і такими, що можуть покласти в психіатричну лікарню. Саме такого удару отримав Пет Солатано. Тепер для нього головне знову стати на ноги і повернути свою дружину. Хай навіть він і досі одужав не до кінця та хай навіть дружина має проти нього судову заборону. За старання він заслуговує хоч промінчик надії і цей промінчик зватимуть Тіфані.",
-      "poster_path": "/oZkwUIPJXtTqrYEnDblD2BmqrQE.jpg",
-      "backdrop_path": "/12GpsUm9nVVKFlcjDTflKLClFVA.jpg",
-      "genre_ids": [
-        18,
-        35,
-        10749
-      ],
-      "vote_average": 7.2,
-      "vote_count": 12718,
-      "release_date": "2012-11-16"
-    },
-    {
-      "id": 167073,
-      "media_type": "movie",
-      "title": "Бруклін",
-      "original_title": "Brooklyn",
-      "overview": "Історія Елліс Лейсі, яка неохоче покидає своє рідне ірландське містечко і вирушає на пошуки роботи до Америки. Вона поселяється в Брукліні, поступово виліковується від ностальгії і починає насолоджуватися повітрям свободи. До всього іншого Елліс закохується, але трагічні новини з батьківщини змушують її повернутися до Ірландії, де вона зустрічає іншого чоловіка і в результаті змушена робити нелегкий вибір.",
-      "poster_path": "/pagrbjTRzrQEZG6N15vtcq3UHGD.jpg",
-      "backdrop_path": "/2T4bqHgYfzXNQoALJsvhW40kDTg.jpg",
-      "genre_ids": [
-        10749,
-        18,
-        36
-      ],
-      "vote_average": 7.297,
-      "vote_count": 3287,
-      "release_date": "2015-10-20"
-    },
-    {
-      "id": 346648,
-      "media_type": "movie",
-      "title": "Пригоди Паддінґтона 2",
-      "original_title": "Paddington 2",
-      "overview": "Продовження пригод ведмежати на ім'я Паддінґтон.",
-      "poster_path": "/f4IDGS1531P7ZCq9zYRRAhXS3mj.jpg",
-      "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
-      "genre_ids": [
-        12,
-        35,
-        10751
-      ],
-      "vote_average": 7.478,
-      "vote_count": 2838,
-      "release_date": "2017-11-09"
-    },
-    {
-      "id": 316029,
-      "media_type": "movie",
-      "title": "Найвеличніший шоумен",
-      "original_title": "The Greatest Showman",
-      "overview": "Фінеас Тейлор Барнум завжди мріяв увійти в історію, але всі його заняття не приносили йому задоволення. І коли, здавалося, весь світ обернувся проти нього, він вирішує піти слідом за своєю мрією. Барнум створює неймовірне представлення-сенсацію, яке стало народженням світового шоу-бізнесу.",
-      "poster_path": "/5XnDBOkBOb3suTIus7doKMOvkbi.jpg",
-      "backdrop_path": "/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.857,
-      "vote_count": 10129,
-      "release_date": "2017-12-20"
-    },
-    {
-      "id": 2270,
-      "media_type": "movie",
-      "title": "Зоряний пил",
-      "original_title": "Stardust",
-      "overview": "Маленьке англійське селище відокремлене стародавньою стіною від надприродного паралельного всесвіту, де панують магія і чаклунство. Молодий Тристан Торн необачно обіцяє найкрасивішій дівчині селища, що принесе їй зірку, що злетіла з неба і впала по той бік стіни. На своїй дорозі слідами прадавніх легенд Тристан зустріне всесильного короля і його змовника-сина, могутню відьму, капітана піратського корабля і хитромудрого торговця, а також знайде свою дійсну любов, ключ до розуміння своєї суті і долі, про яку він міг лише мріяти.",
-      "poster_path": "/3jfVcI7Y7YWJjni8KfIYXnICENg.jpg",
-      "backdrop_path": "/8i68M9wkPc5hilvGCoatQmGHV9h.jpg",
-      "genre_ids": [
-        12,
-        14,
-        10749,
-        10751
-      ],
-      "vote_average": 7.294,
-      "vote_count": 4505,
-      "release_date": "2007-08-10"
-    },
-    {
-      "id": 2976,
-      "media_type": "movie",
-      "title": "Лак для волосся",
-      "original_title": "Hairspray",
-      "overview": "Події розгортаються у США 1960-х років. За сюжетом, дев’ятнадцятирічна Трейсі Тернблад – чудова дівчина, як не глянь: кумедна і заводна, співає і танцює. Тільки занадто пухкенька. Як і її мама Една. Обидві від цього страждають. Але Трейсі має мрію – стати відомою та популярною танцівницею. І заради цієї мрії, дівчина готова на будь-що. Важкою працею та вірою в себе дівчина долає життєві труднощі і стати зіркою популярного танцювального телешоу...",
-      "poster_path": "/bXSsdTwPZQ25ZuOv6u7v1upcSdi.jpg",
-      "backdrop_path": "/oO55Z71apssUy4Cf0obsK2kX3oK.jpg",
-      "genre_ids": [
-        35,
-        10749,
-        18
-      ],
-      "vote_average": 6.666,
-      "vote_count": 2643,
-      "release_date": "2007-07-19"
-    },
-    {
-      "id": 10409,
-      "media_type": "movie",
-      "title": "Австралійське танго",
-      "original_title": "Strictly Ballroom",
-      "overview": "Театралізований фільм, несподівано теплий і чуттєвий, іронічний, про молодого танцюриста-новатора, що намагається започаткувати власний стиль всупереч консервативним хореографам і підступним знайомим. Водночас це історія його нової \"партнерки-замазури\", яка стає королевою танцю.",
-      "poster_path": "/s4laGZwOIdiKwIlCr1jhFCcTiNj.jpg",
-      "backdrop_path": "/5gPUA8ABoBK4D1GUkL1NXTSS8Wq.jpg",
+      "title": "Чумові боти",
+      "original_title": "Kinky Boots",
+      "overview": "Трансвестит приходить на допомогу другу, який успадкував взуттєвий бізнес. Щоб утримати справу на плаву необхідно терміново урізноманітнити асортимент...",
+      "poster_path": "/gkJ89Aa08RrBcNADuHiNkXdB2G0.jpg",
+      "backdrop_path": "/vci6naDOvRXfyfycAPIsM6dl4mA.jpg",
       "genre_ids": [
         35,
         18,
-        10749
-      ],
-      "vote_average": 6.595,
-      "vote_count": 386,
-      "release_date": "1992-08-20"
-    },
-    {
-      "id": 114150,
-      "media_type": "movie",
-      "title": "Ідеальний голос",
-      "original_title": "Pitch Perfect",
-      "overview": "Молода дівчина Бека Мітчелл, яка захоплюється створенням музичних реміксів, з волі свого батька стає студенткою Барденского університету. Там вона опиняється в акапельному гурті «The Barden Bellas». Це жіночий колектив із дуже різних, але яскравих особистостей, які прагнуть довести, що можуть бути кращими за всіх. На шляху до перемоги в національному чемпіонаті їх чекають випробування, божевільні суперники і несподівана дружба.",
-      "poster_path": "/jV2AGbsiK7L8O90Gy4HqPU2gegh.jpg",
-      "backdrop_path": "/2sE6hrwfn9IV7eDlMvpIb9q1EWy.jpg",
-      "genre_ids": [
-        35,
-        10402,
-        10749
-      ],
-      "vote_average": 7.265,
-      "vote_count": 6926,
-      "release_date": "2012-09-28"
-    },
-    {
-      "id": 1584,
-      "media_type": "movie",
-      "title": "Школа Року",
-      "original_title": "The School of Rock",
-      "overview": "Успішна кар’єра рок-знаменитості сходить нанівець, і тепер чоловікові залишаються тільки борги і глибока депресія. Незабаром він відповідає на телефонний дзвінок, адресований не йому, і влаштовується учителем музики в приватну школу. Пізніше в нього з’являється шанс повернутися на сцену, і в цьому йому допомагає віртуозний гравець на гітарі — 9-річний Зак.",
-      "poster_path": "/845aHScQP1BUZWBbCkavpNusaLl.jpg",
-      "backdrop_path": "/k5MTAtE9CCi5TWA84qaFMYv3ajB.jpg",
-      "genre_ids": [
-        35,
-        10751,
         10402
       ],
-      "vote_average": 7.086,
-      "vote_count": 6253,
-      "release_date": "2003-10-03"
+      "vote_average": 6.701,
+      "vote_count": 366,
+      "release_date": "2005-08-30"
     },
     {
-      "id": 61662,
-      "media_type": "tv",
-      "title": "Шіттс Крік",
-      "original_title": "Schitt's Creek",
-      "overview": "Серіал розповідає про сімейство Роузів: Джонні Роуз — мільярдер, який заробив статок на мережі відеосалонів, його дружина — актриса мильних опер, і двоє дітей — гіпстер Девід та світська левиця Алексіс. Після того, як бізнес Джонні зазнає краху, все сімейство змушене переїхати жити в невелику сільську громаду Шіттс Крік, яку вони придбали кілька років тому заради розваги.",
-      "poster_path": "/3UuaOsE12RIN0IixGRYhh0asao.jpg",
-      "backdrop_path": "/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+      "id": 416477,
+      "media_type": "movie",
+      "title": "Кохання – хвороба",
+      "original_title": "The Big Sick",
+      "overview": "У міру розвитку стосунків закоханій парі доводиться зіткнутися зі своїми культурними відмінностями.",
+      "poster_path": "/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
+      "backdrop_path": "/fYI8WX2DquAHMqwh5mOMxc6RU5j.jpg",
       "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "vote_average": 7.323,
+      "vote_count": 2656,
+      "release_date": "2017-03-30"
+    },
+    {
+      "id": 459992,
+      "media_type": "movie",
+      "title": "Божевільна парочка",
+      "original_title": "Long Shot",
+      "overview": "Фред Фларські, безробітний журналіст-невдаха, вирішує завоювати серце жінки, що в дитинстві була його нянею, а зараз стала чи не найбільш впливовою жінкою на планеті і абсолютно недосяжною.",
+      "poster_path": "/mNY2iifXVI1xmMVwZUFxpFCgmXq.jpg",
+      "backdrop_path": "/jYnQgKYACzQ06gRf15hRbyRkQsp.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 6.702,
+      "vote_count": 2916,
+      "release_date": "2019-05-02"
+    },
+    {
+      "id": 508101,
+      "media_type": "movie",
+      "title": "Плюс один",
+      "original_title": "Plus One",
+      "overview": "Головний герой – затятий холостяк на ім’я Бен. Він не вірить в кохання, відносячись до стосунків лише як до фізіологічної потреби. Але одного літа виходить так, що він отримує запрошення одразу на десять весіль. І для кожного весілля необхідно знайти супутницю. Вирішення проблеми виходить в той момент, коли подружка Бена Еліс розриває зі своїм хлопцем. Їй треба розвіятись і вона також має запрошення. Бен та Еліс вирішують відпочити разом, але це перетворюється в дещо більше…",
+      "poster_path": "/zb7mIyHjLDlwhiyqd1FlRGYT2On.jpg",
+      "backdrop_path": "/sjLo8RbshOyglJK2NLGqIfdzPCp.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 6.829,
+      "vote_count": 418,
+      "release_date": "2019-06-14"
+    },
+    {
+      "id": 615665,
+      "media_type": "movie",
+      "title": "Пара на свята",
+      "original_title": "Holidate",
+      "overview": "Їм набридли свята наодинці із собою, тож двоє незнайомців вирішують протягом року відзначати їх разом. Дуже скоро платонічні стосунки переростають у щось більше.",
+      "poster_path": "/gSCr70e4rfssaK4S7VtSi25Aq6c.jpg",
+      "backdrop_path": "/8veOfB9RbSzFki0Rq3IQIGsFfhC.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 6.97,
+      "vote_count": 2382,
+      "release_date": "2020-10-27"
+    },
+    {
+      "id": 384677,
+      "media_type": "movie",
+      "title": "Пастка для босів",
+      "original_title": "Set It Up",
+      "overview": "Події стрічки обертаються навколо двох асистентів, які придумують підступний план, щоб змусити своїх нестерпних босів зустрічатися. Рік — вкрай агресивний керівник, який домігся завдяки своєму характеру успіхів в бізнесі, але й стає через це нестерпним щодо підлеглих.",
+      "poster_path": "/7omfwqiiMld9EnUps3Uk9YZLy6g.jpg",
+      "backdrop_path": "/kOCJvnRYKg6CkvoFYbzz0itrUzR.jpg",
+      "genre_ids": [
+        10749,
         35
       ],
-      "vote_average": 7.785,
-      "vote_count": 719,
-      "release_date": "2015-01-13"
+      "vote_average": 6.905,
+      "vote_count": 2825,
+      "release_date": "2018-06-15"
     },
     {
-      "id": 111141,
-      "media_type": "tv",
-      "title": "Покоївка",
-      "original_title": "Maid",
-      "overview": "Вирвавшися з аб’юзивних стосунків, молода матір улаштовується на роботу прибиральницею, щоб забезпечити свою дитину всім необхідним і збудувати для неї краще майбутнє.",
-      "poster_path": "/eu3FwiCA0QaeGrvx2YlrPYM7Yp8.jpg",
-      "backdrop_path": "/zzZ1U0y3r0owZ8y0FIf7rMKKvZI.jpg",
+      "id": 513576,
+      "media_type": "movie",
+      "title": "Завжди будь моїм «мабуть»",
+      "original_title": "Always Be My Maybe",
+      "overview": "Те, що Саша та Маркус колись зійдуться, вважали всі, окрім самих Саші та Маркуса. І через п'ятнадцять років вони задумалися, чи не створені одне для одного? Мабуть.",
+      "poster_path": "/6XcSP7vKVl9DLbZmFr8E5a2MMmX.jpg",
+      "backdrop_path": "/aC5LAGfHzVH8f7tkCwkxzXsqAZz.jpg",
       "genre_ids": [
+        10749,
+        35
+      ],
+      "vote_average": 6.641,
+      "vote_count": 1421,
+      "release_date": "2019-05-31"
+    },
+    {
+      "id": 508791,
+      "media_type": "movie",
+      "title": "Сонце також зірка",
+      "original_title": "The Sun Is Also a Star",
+      "overview": "Підліток знаходить кохання у важкий час для своєї родини.",
+      "poster_path": "/wCvUV9ZcAgQPPzndX26GivwKpZ3.jpg",
+      "backdrop_path": "/3CFuFIwtSSQU4Fyd5NnmHnNZq9w.jpg",
+      "genre_ids": [
+        10749,
         18
       ],
-      "vote_average": 7.953,
-      "vote_count": 955,
-      "release_date": "2021-09-30"
+      "vote_average": 6.939,
+      "vote_count": 633,
+      "release_date": "2019-05-16"
+    },
+    {
+      "id": 623195,
+      "media_type": "movie",
+      "title": "Зустрінемося наступного Різдва",
+      "original_title": "Falling Inn Love",
+      "overview": "У прагненні знову зустріти чоловіка своєї мрії Лейла намагається знайти в Нью-Йорку квиток на різдвяний концерт гурту Pentatonix.",
+      "poster_path": "/4bzu5k5vwLKgwap6pHXlCY8nlh3.jpg",
+      "backdrop_path": "/lVJdFZc8hBJRVnOIay60tl04Qjv.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "vote_average": 6.524,
+      "vote_count": 1214,
+      "release_date": "2019-08-29"
+    },
+    {
+      "id": 565426,
+      "media_type": "movie",
+      "title": "Усім хлопцям: P.S. Досі кохаю",
+      "original_title": "To All the Boys: P.S. I Still Love You",
+      "overview": "Лара-Джин і Пітер — офіційно пара, отже, у них усе має бути чудово, так? Але все ускладнюється, коли в її життя повертається давнє кохання.",
+      "poster_path": "/maib5VlmEqp5xlN8lptnBSftp2o.jpg",
+      "backdrop_path": "/9LsJP9OuIBmBUxZpmVKtUUjF0PA.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "vote_average": 6.828,
+      "vote_count": 2716,
+      "release_date": "2020-02-03"
+    },
+    {
+      "id": 846250,
+      "media_type": "movie",
+      "title": "Файр-Айленд",
+      "original_title": "Fire Island",
+      "overview": "Група найкращих друзів збирається у Файр-Айленд-Пайнс на щорічний тиждень любові та сміху, але раптова зміна подій може зробити це їхнє літо останнім в гей-раю.",
+      "poster_path": "/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg",
+      "backdrop_path": "/4uwOKYaySkczmZ5C4EO50Ay3IoT.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "vote_average": 6.913,
+      "vote_count": 288,
+      "release_date": "2022-06-02"
     }
   ]
 }
