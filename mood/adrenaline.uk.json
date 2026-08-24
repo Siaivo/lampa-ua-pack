@@ -3,261 +3,261 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><polygon fill=\"currentColor\" points=\"300,32 116,296 236,296 212,480 396,216 276,216\"/></svg>",
   "title": "Адреналін",
   "lang": "uk",
-  "updated_at": "2026-08-23T22:28:21Z",
+  "updated_at": "2026-08-24T22:31:44Z",
   "items": [
     {
-      "id": 562,
+      "id": 245891,
       "media_type": "movie",
-      "title": "Міцний горішок",
-      "original_title": "Die Hard",
-      "overview": "В суперсучасному хмарочосі Лос-Анджелеса поліцейський Джон МакКлейн веде смертельну сутичку з бандою терористів, що взяли в заручники два десятки людей, серед яких і його дружина.",
-      "poster_path": "/dvWgzrTEwA2DGIozUdIN3E66Jbm.jpg",
-      "backdrop_path": "/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+      "title": "Джон Уік",
+      "original_title": "John Wick",
+      "overview": "Джон Уік - колишній найманий вбивця - живе спокійним життям, аж раптом злочинець викрадає його улюблений Mustang 1969 і заразом убиває собаку Дейзі, єдину живу згадку, що лишилася від покійної дружини. Жага помсти пробуджує у ньому задвалося б забуту мертву хватку. Джон переслідує свого ворога до Нью-Йорка, де великі боси мафії запропонують кілеру угоду...",
+      "poster_path": "/cNRQL3GdRmbD9b8MqAbBUZO5B81.jpg",
+      "backdrop_path": "/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
       "genre_ids": [
         28,
         53
       ],
-      "vote_average": 7.815,
-      "vote_count": 12532,
-      "release_date": "1988-07-15"
+      "vote_average": 7.462,
+      "vote_count": 21216,
+      "release_date": "2014-10-16"
     },
     {
-      "id": 1089,
+      "id": 101,
       "media_type": "movie",
-      "title": "На гребені хвилі",
-      "original_title": "Point Break",
-      "overview": "Таємнича банда серфінгістів, серед білого дня, здійснює пограбування банків. Поліція і ФБР вражені професійністю і швидкістю проведення злочинів. Слідство веде молодий і претензійний агент ФБР, який, ризикуючи життям, впроваджується в банду і розкриває цю справу, але несподівано для самого себе він усвідомлює, що повернутися до нормального життя він вже не зможе.",
-      "poster_path": "/tjKriakV3K6VTap6sL0VoyaRgYY.jpg",
-      "backdrop_path": "/yGOHbICOQwlJ20UjK8F2ChGJjvl.jpg",
+      "title": "Леон",
+      "original_title": "Léon",
+      "overview": "Професійний вбивця Леон, що не знає пощади і жалості, знайомиться з своєю чарівною сусідкою Матільдою, сім’ю якій розстрілюють поліцейські, замішані в торгівлі наркотиками. Завдяки цьому знайомству він вперше переживає почуття любові, але... яке коротке життя професійного вбивці.",
+      "poster_path": "/bHQQkJJ87lK3j7lRXBJQNUFkdIr.jpg",
+      "backdrop_path": "/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg",
       "genre_ids": [
-        28,
-        53,
-        80
-      ],
-      "vote_average": 7.15,
-      "vote_count": 4097,
-      "release_date": "1991-07-12"
-    },
-    {
-      "id": 8195,
-      "media_type": "movie",
-      "title": "Ронін",
-      "original_title": "Ronin",
-      "overview": "Хоча холодна війна давно завершена, таємні найманці, чиї навички у стеженні, шпигунстві і силових сутичках буквально легендарні, залишаються дуже потрібними при новому світовому порядку і завжди знаходять високооплачувану роботу. Якийсь таємничий клієнт збирає в Парижі команду таких \"платних оперативників\", відомих як «Роніни», для викрадення надсекретного портфелю.",
-      "poster_path": "/2s4RnUdF1X7AqHFqqaBNJVqzxcu.jpg",
-      "backdrop_path": "/frqahc6v8wt0p2Zo3XKBu2dg73z.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ],
-      "vote_average": 6.967,
-      "vote_count": 2744,
-      "release_date": "1998-09-25"
-    },
-    {
-      "id": 70954,
-      "media_type": "movie",
-      "title": "Мисливець",
-      "original_title": "The Hunter",
-      "overview": "Мартін - мисливець-одинак. У нього немає друзів та родини. Він береться за найризиковіші і найнебезпечніші завдання — адже йому нема чого втрачати. У пошуках легкого заробітку за контрактом із загадковою біотехнологічною компанією він вирушає у дикі землі Тасманії. Його завдання - знайти і вбити останнього Австралійського Тигра, який вже кілька років вважається повністю винищеним.",
-      "poster_path": "/KgFYNh3GE36FrXjo9udZbnV1z6.jpg",
-      "backdrop_path": "/fAsuiSAYRg0iadijOdEqK9CO6kY.jpg",
-      "genre_ids": [
+        80,
         18,
+        28
+      ],
+      "vote_average": 8.293,
+      "vote_count": 16406,
+      "release_date": "1994-09-14"
+    },
+    {
+      "id": 718930,
+      "media_type": "movie",
+      "title": "Швидкісний поїзд",
+      "original_title": "Bullet Train",
+      "overview": "П’ятеро найманих вбивць, яких пов’язує одна й та сама місія, опиняються разом в швидкісному поїзді. Що це, дивний збіг чи хитросплетений план? Герої з’ясують це власними методами.",
+      "poster_path": "/RZ8jxobYo6zdtnkR94YmjCkkjN.jpg",
+      "backdrop_path": "/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
+      "genre_ids": [
+        28,
+        35,
+        53
+      ],
+      "vote_average": 7.408,
+      "vote_count": 7817,
+      "release_date": "2022-08-03"
+    },
+    {
+      "id": 156022,
+      "media_type": "movie",
+      "title": "Праведник",
+      "original_title": "The Equalizer",
+      "overview": "Головний герой живе досить тихим життям, забувши про своє бурхливе минуле бійця елітного спецпідрозділу. Але ось доля робить крутий поворот і забуті навички стають знову затребуваними. Чоловік заступається за невдачливу куртизанку і виявляється втягнутим в протистояння з синдикатом продажних агентів ЦРУ і російської мафії.",
+      "poster_path": "/5mmNW3c2XIUBaAaglAEpwPOSxZ5.jpg",
+      "backdrop_path": "/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg",
+      "genre_ids": [
+        53,
+        28,
+        80
+      ],
+      "vote_average": 7.293,
+      "vote_count": 10137,
+      "release_date": "2014-09-24"
+    },
+    {
+      "id": 50456,
+      "media_type": "movie",
+      "title": "Ханна",
+      "original_title": "Hanna",
+      "overview": "Тендітна на перший погляд Ханна - ідеальний солдат. Таємниця її народження ревно охороняється американським урядом. Її місія - відімстити колишнім роботодавцям батька, в минулому секретного агента. Спецслужби всього світу виходять на слід дівчинки-вбивці. Полювання почалося..",
+      "poster_path": "/hkRFaD1SF1Wy2MlSoKxz9H17Uue.jpg",
+      "backdrop_path": "/qq39KWLKBBJmOtj54grO58XyoXG.jpg",
+      "genre_ids": [
+        28,
         53,
         12
       ],
-      "vote_average": 6.658,
-      "vote_count": 732,
-      "release_date": "2011-10-06"
+      "vote_average": 6.583,
+      "vote_count": 3751,
+      "release_date": "2011-04-07"
     },
     {
-      "id": 500664,
+      "id": 241848,
       "media_type": "movie",
-      "title": "Апгрейд",
-      "original_title": "Upgrade",
-      "overview": "Мільйонер-розробник пропонує герою позбутися паралічу за допомогою імплантації експериментального чіпа під назвою Stem. Цей чіп має власний розум.",
-      "poster_path": "/s0CDJMbhh6jpxOlzQsUCaoa9yBV.jpg",
-      "backdrop_path": "/oiPUcD1IIZrYGTSIpvTmd3dRmPo.jpg",
+      "title": "Гість",
+      "original_title": "The Guest",
+      "overview": "Сім’я Пітерсон недавно втратила на війні в Афганістані сина Калеба, і все ще оплакує його. Раптом на порозі їх будинку з’являється незнайомець, який говорить невтішним батькам, що він армійський товариш їхнього сина і приїхав, виконуючи тим самим його останню волю. Рідні Калеба раді прийняти Девіда, але з його появою в окрузі відбувається серія смертей...",
+      "poster_path": "/1JkmMFZM6GbeKI8wBkBtN5GiXfQ.jpg",
+      "backdrop_path": "/tooNIFHXIY3rBjCMLCET8yC8cIb.jpg",
       "genre_ids": [
-        28,
+        9648,
         53,
-        878
-      ],
-      "vote_average": 7.511,
-      "vote_count": 5181,
-      "release_date": "2018-05-31"
-    },
-    {
-      "id": 94329,
-      "media_type": "movie",
-      "title": "Рейд: Спокута",
-      "original_title": "Serbuan Maut",
-      "overview": "Загін спецпризначення потрапив у пастку кримінального ватажка та його армії головорізів...",
-      "poster_path": "/ignha4tJx2ss7yXNtLbC0PYhIjN.jpg",
-      "backdrop_path": "/3wf5wV222vqTmz10y1vbrPgrGDf.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ],
-      "vote_average": 7.412,
-      "vote_count": 3992,
-      "release_date": "2012-03-22"
-    },
-    {
-      "id": 70670,
-      "media_type": "movie",
-      "title": "Мисливці за головами",
-      "original_title": "Hodejegerne",
-      "overview": "Роджер Браун працює у норвезькій рекрутинговій компанії і його спеціалізація підшуковування топ-менеджерів для провідних компаній. Проте ця робота є прикриттям для його прибутковішої праці — він викрадає картини своїх клієнтів. Але одного разу його клієнтом виявився колишній боєць спецпідрозділу ...",
-      "poster_path": "/6VDVD5usal6rPhrPGlS7kHBYZbZ.jpg",
-      "backdrop_path": "/cuodmX7wuVDciUH8LdSFEqoTzIy.jpg",
-      "genre_ids": [
-        53,
-        80,
         28
       ],
-      "vote_average": 7.232,
-      "vote_count": 1405,
-      "release_date": "2011-08-26"
+      "vote_average": 6.62,
+      "vote_count": 2192,
+      "release_date": "2014-09-05"
     },
     {
-      "id": 755,
+      "id": 252822,
       "media_type": "movie",
-      "title": "Від заходу до світанку",
-      "original_title": "From Dusk Till Dawn",
-      "overview": "Рятуючись від поліції після пограбування банку, два брати - грабіжника беруть в заручники священика і його дітей. Біля мексиканської границі вони вирішують провести ніч в придорожньому барі. Тут те все і починається...",
-      "poster_path": "/rS6KeQsByFRR8I7DOibfAQ7sF9m.jpg",
-      "backdrop_path": "/phiRQhfwZZeMMn3osvQUmGYmJbp.jpg",
+      "title": "Послідовне зникнення",
+      "original_title": "Kraftidioten",
+      "overview": "Головному герою Нільсу повідомили, що його син помер від передозування наркотиків. Він не може в це повірити, а колишній колега сина по роботі повідомляє йому, що того помилково вбили наркоторговці. Нільс вирішує за будь-яку ціну пройти від дрібного дилера до наркобарона та покарати всіх за смерть сина.",
+      "poster_path": "/IGN1ZWwXU1m3vaJJPBHXOVcm3f.jpg",
+      "backdrop_path": "/exPxtvZYNxpt6xTCPYYkCVyquh5.jpg",
       "genre_ids": [
-        27,
+        53,
+        28,
+        35,
+        80
+      ],
+      "vote_average": 6.903,
+      "vote_count": 696,
+      "release_date": "2014-02-21"
+    },
+    {
+      "id": 26039,
+      "media_type": "movie",
+      "title": "Під прицілом",
+      "original_title": "Point Blank",
+      "overview": "Після жорстокого пограбування головного героя на ім'я Вокер зраджує напарник і залишає помирати. Та він виживає і повертається, щоб методично повернути свої вкрадені $93,000",
+      "poster_path": "/n78l3i0504fmnuUPULTheUob6D6.jpg",
+      "backdrop_path": "/sousyLLi3l14qho6gATKYX7pEyR.jpg",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "vote_average": 7.052,
+      "vote_count": 446,
+      "release_date": "1967-08-30"
+    },
+    {
+      "id": 76341,
+      "media_type": "movie",
+      "title": "Шалений Макс: Дорога гніву",
+      "original_title": "Mad Max: Fury Road",
+      "overview": "Дія фільму відбувається в Австралії після глобальної катастрофи. Поховавши свою сім'ю, колишній поліцейський Макс Рокатанскі перетворюється на самотнього кочівника: він безцільно блукає по континенту, де йде жорстока боротьба за виживання ..",
+      "poster_path": "/dQEWWw2EkhV49NENQB7pzkfD0Eb.jpg",
+      "backdrop_path": "/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "vote_average": 7.636,
+      "vote_count": 24469,
+      "release_date": "2015-05-13"
+    },
+    {
+      "id": 339403,
+      "media_type": "movie",
+      "title": "На драйві",
+      "original_title": "Baby Driver",
+      "overview": "Вимушений працювати на кримінального боса, молодий хлопець виявляється втягнутий у приречене на провал пограбування.",
+      "poster_path": "/rqnFK6y1tGpieezm52LdM1GWd6b.jpg",
+      "backdrop_path": "/yir5430WblZSZuIMd9C6pIZerfA.jpg",
+      "genre_ids": [
         28,
         80
       ],
-      "vote_average": 7.05,
-      "vote_count": 6648,
-      "release_date": "1996-01-19"
+      "vote_average": 7.444,
+      "vote_count": 17104,
+      "release_date": "2017-06-28"
     },
     {
-      "id": 11880,
+      "id": 1991,
       "media_type": "movie",
-      "title": "Пси-воїни",
-      "original_title": "Dog Soldiers",
-      "overview": "Підрозділ англійських солдатів з 6 чоловік під командуванням сержанта Веллса рушив на бойове завдання в дикі ліси гірської Шотландії. Але те, що почалося як звичайні військові навчання, перевтілилося в капітальний жах. Після прибуття на таємну військову базу, підрозділ виявив спливаючого кров’ю капітана Річарда Райана і розірвані останки його підлеглих. Приступивши до розшуків убивці, бійці натрапили на ферму, що виявилася притулком цілої зграї голодних перевертнів.",
-      "poster_path": "/s5UoQGEquArWnhIGwsinmwmwyO6.jpg",
-      "backdrop_path": "/bZVVaZK4ig2CMwbMcBfkqwK5mQU.jpg",
+      "title": "Доказ смерті",
+      "original_title": "Death Proof",
+      "overview": "Психопат \"Каскадер\" Майк на своїй машині полює за гарними дівчатами. Але його останні мішені, схоже, можуть дати відсіч...",
+      "poster_path": "/xIMUS7owxyMvgMjJAD96edi9LOf.jpg",
+      "backdrop_path": "/qbVCChwbGWDAgsCXKZxyjBrRiWx.jpg",
       "genre_ids": [
-        27,
         28,
         53
       ],
-      "vote_average": 6.726,
-      "vote_count": 1026,
-      "release_date": "2002-05-10"
+      "vote_average": 6.837,
+      "vote_count": 5765,
+      "release_date": "2007-05-22"
     },
     {
-      "id": 106,
+      "id": 916,
       "media_type": "movie",
-      "title": "Хижак",
-      "original_title": "Predator",
-      "overview": "Елітна група спецназу на чолі з майором Датчем прибуває до джунглів Південної Америки та отримує наказ допомогти агенту ЦРУ, полковнику Алу Діллону, у рятувальній місії потенційних врятованих після збиття гелікоптера. Невдовзі після посадки, Датч і його команда виявляють що їх обманювали та відправили під хибним приводом. Проте це виявилось найменшою їхньою проблемою коли вони зрозуміли, що на них методично полює щось не від цього світу.",
-      "poster_path": "/wPvxgucNz0AX7kdFsNrCcOqNbyi.jpg",
-      "backdrop_path": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+      "title": "Детектив Буліт",
+      "original_title": "Bullitt",
+      "overview": "Нове завдання детектива Френка Буліта на перший погляд виглядає цілком звичайне: охороняти відомого свідка під час слухання гучної справи. Проте до настання наступного дня свідка вбивають. Холоднокровний і рішучий Буліт не заспокоїться, поки вбивці і той, хто за ними стоїть, не будуть покарані.",
+      "poster_path": "/kcsv7Oi8CbtIE6O1VKYDjBMfUod.jpg",
+      "backdrop_path": "/glvwKs7zwGh6G3hoCYJexwEfPfT.jpg",
       "genre_ids": [
-        878,
         28,
-        12,
+        80,
         53
       ],
-      "vote_average": 7.577,
-      "vote_count": 9412,
-      "release_date": "1987-06-12"
+      "vote_average": 7.143,
+      "vote_count": 1321,
+      "release_date": "1968-10-17"
     },
     {
-      "id": 679,
+      "id": 11951,
       "media_type": "movie",
-      "title": "Чужі",
-      "original_title": "Aliens",
-      "overview": "Капсула з Елен знайдена рятувальниками після багатьох років блукання у космосі. Їй повідомляють, що планета LV-426 колонізована, і їй доведеться повернутися туди, де розпочалося її пекло, тому що зв'язок із колоністами перервався.  І ось у складі групи космічного десанту Ріплі вирушає на прокляту планету. Але тепер на людей там чекає не один Чужий, а тисячі. Хто зможе вижити у цій війні: чудовиська, здатні лише вбивати, або люди, здатні мислити?",
-      "poster_path": "/5SVwDvxuRAxBt56KBE9j19fJxgx.jpg",
-      "backdrop_path": "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+      "title": "Точка зникнення",
+      "original_title": "Vanishing Point",
+      "overview": "Заробляючи на життя перепродажем автівок з одного міста в інше, Ковальські отримує чергове завдання — переправити білий Dodge Challenger в Сан-Франциско з Денвера...",
+      "poster_path": "/1ThnpFx2G2HPhecvODGFEQxfOpO.jpg",
+      "backdrop_path": "/sYn05iS9AxV9rsjqBSHrI4azji1.jpg",
       "genre_ids": [
         28,
-        53,
-        878
-      ],
-      "vote_average": 7.965,
-      "vote_count": 11093,
-      "release_date": "1986-07-18"
-    },
-    {
-      "id": 170,
-      "media_type": "movie",
-      "title": "28 днів по тому",
-      "original_title": "28 Days Later",
-      "overview": "Захисники тварин випускають з секретної наукової лабораторії піддослідну мавпу, заражену страшним вірусом нестримної агресії. Смертельно небезпечний вірус миттєво поширюється по всій Англії, перетворюючи всіх живих істот у жахливо агресивних і кровожерливих монстрів ...",
-      "poster_path": "/8AT6uyU9xlYEkEBG7a4bEqDwmoo.jpg",
-      "backdrop_path": "/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
-      "genre_ids": [
-        27,
-        53,
-        878
-      ],
-      "vote_average": 7.2,
-      "vote_count": 8779,
-      "release_date": "2002-10-31"
-    },
-    {
-      "id": 9392,
-      "media_type": "movie",
-      "title": "Спуск",
-      "original_title": "The Descent",
-      "overview": "Компанія відчайдушних подруг вирушає у відпустку для вивчення віддалених гірських печер. Таємниці підземного світу примушують їх забути про обережність і спуститися у загадковий грот. Темрява, холод, відчай і жах — далеко не єдині їх попутники у цих мандрах...",
-      "poster_path": "/76buonT9VOacq8fI6Zmx8LMpc72.jpg",
-      "backdrop_path": "/9T5D5RGuCsC6CeqYZJTv4rT4RPy.jpg",
-      "genre_ids": [
-        12,
-        27
-      ],
-      "vote_average": 6.985,
-      "vote_count": 4532,
-      "release_date": "2005-07-08"
-    },
-    {
-      "id": 438799,
-      "media_type": "movie",
-      "title": "Оверлорд",
-      "original_title": "Overlord",
-      "overview": "Фантастичний горрор від режисера Джей Джей Абрамса. 1944 рік, Нормандія. Двоє американських десантників висаджуються в тилу ворога з важливою місією. Наближаючись до своєї мети, вони усвідомлюють, що в селищі, окупованому нацистами, відбувається щось паранормальне.",
-      "poster_path": "/6polPocVGllX3XGjFooSvnCKS0c.jpg",
-      "backdrop_path": "/10wHo9VmDvBW9wtSZ26bgjm9GKY.jpg",
-      "genre_ids": [
-        27,
-        10752,
-        878
-      ],
-      "vote_average": 6.7,
-      "vote_count": 3208,
-      "release_date": "2018-11-01"
-    },
-    {
-      "id": 1255,
-      "media_type": "movie",
-      "title": "Вторгнення динозавра",
-      "original_title": "괴물",
-      "overview": "Під час утилізації формальдегіду з американської військової бази в річку Хан виливається величезна кількість токсичних речовин. Через деякий час в річці заводиться страшне чудовисько.",
-      "poster_path": "/i4WN54nsdNMSaIyOxKqX0m0itj9.jpg",
-      "backdrop_path": "/m0wczZyNfWpu5q9wNuhFUGGiLxG.jpg",
-      "genre_ids": [
-        27,
+        80,
         18,
-        878
+        53
       ],
-      "vote_average": 6.977,
-      "vote_count": 3216,
-      "release_date": "2006-07-27"
+      "vote_average": 7.091,
+      "vote_count": 537,
+      "release_date": "1971-01-15"
+    },
+    {
+      "id": 64690,
+      "media_type": "movie",
+      "title": "Драйв",
+      "original_title": "Drive",
+      "overview": "Чудовий гонщик - вдень він виконує каскадерські трюки на знімальних майданчиках Голлівуду, а вночі веде ризиковану гру. Але один небезпечний контракт - і за його життя призначена нагорода. Тепер, щоб залишитися живим і врятувати свою чарівну сусідку, він повинен робити те, що вміє найкраще - віртуозно втікати від переслідування...",
+      "poster_path": "/yhVVGcVGXFlLDpuauSNb5dUhSQ9.jpg",
+      "backdrop_path": "/iymDDg4upZWgpbSeiE1JCjsSPBs.jpg",
+      "genre_ids": [
+        18,
+        53,
+        80
+      ],
+      "vote_average": 7.583,
+      "vote_count": 13904,
+      "release_date": "2011-09-15"
+    },
+    {
+      "id": 2153,
+      "media_type": "movie",
+      "title": "Водій",
+      "original_title": "The Driver",
+      "overview": "Обов'язок «Водія» — тікати від переслідування поліції після пограбування. Ще нікому не вдалося його зловити. Після чергового вдалого пограбування, детектив вирішує поставити на карту свою репутацію, але знайти злочинця. Він домовляється з кількома кримінальниками, щоб ті заманили його в пастку. Водій і його компаньйонка, дівчина, що промишляє азартними іграми, намагаються обіграти детектива.",
+      "poster_path": "/4tDKjtxMOEkNm7f69Ixr8lonsR3.jpg",
+      "backdrop_path": "/qJiaKFJ25vElTeDgxOyU7QU5nGZ.jpg",
+      "genre_ids": [
+        80,
+        53,
+        28
+      ],
+      "vote_average": 7.189,
+      "vote_count": 533,
+      "release_date": "1978-06-08"
     }
   ]
 }
