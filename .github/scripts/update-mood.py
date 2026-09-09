@@ -30,9 +30,13 @@ ENV:
   OPENCODE_RETRIES  — (опц.) додаткові спроби ІІ-запиту на таймаут/помилку (дефолт 2)
   DISCOVER_PAGES    — (опц.) сторінок /discover на кожен тип (дефолт 2)
   MAX_THEME_REUSE   — (опц.) у скількох темах може зустрічатись один тайтл (дефолт 2)
+  MIN_YEAR          — (опц.) нижня межа року релізу (дефолт 1970; тема може задати свій min_year)
   TARGET_COUNT      — (опц.) фінальних тайтлів на тему (дефолт 10)
   AI_REQUEST_COUNT  — (опц.) скільки назв просити в ІІ (дефолт 36)
-  JUDGE_MIN         — (опц.) поріг ІІ-судді 0-10 для зрезолвлених кандидатів (дефолт 6; 0 = вимкнено)
+  JUDGE_MIN         — (опц.) поріг ІІ-судді 0-10 для зрезолвлених кандидатів (дефолт 6; 0 = вимкнено;
+                      тема може задати свій judge_min)
+  JUDGE_MODELS      — (опц.) окремий ланцюг моделей для судді (дефолт = OPENCODE_MODELS). Суддя — задача
+                      на ЗНАННЯ фільму, тут сильніша модель окупається: 3.5-flash-lite 4/32 помилок vs 13/32
   OPENCODE_TEMPERATURE — (опц.) температура ІІ; вище = різноманітніше (дефолт 0.9)
   OPENCODE_SEED     — (опц.) seed ІІ; порожньо = без seed, свіжа вибірка щоразу
 """
@@ -69,6 +73,7 @@ OPENCODE_TOKEN = os.environ.get("OPENCODE_TOKEN", "").strip()
 # захардкоджений ланцюг 6 тижнів мовчки лишав усі теми stale. Модель задається лише явно.
 # Працює з будь-яким OpenAI-сумісним API (Gemini: https://generativelanguage.googleapis.com/v1beta/openai).
 MODEL_CHAIN = [m.strip() for m in (OPENCODE_MODELS or OPENCODE_MODEL).split(",") if m.strip()]
+JUDGE_CHAIN = [m.strip() for m in os.environ.get("JUDGE_MODELS", "").split(",") if m.strip()] or MODEL_CHAIN
 
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 MOOD_DIR = Path("mood")
@@ -78,7 +83,7 @@ OPENCODE_RETRIES = int(os.environ.get("OPENCODE_RETRIES", "0"))  # без нег
                                                                 # моделі лише палить час); 2й шанс — у salvage
 OPENCODE_TEMPERATURE = float(os.environ.get("OPENCODE_TEMPERATURE", "0.9"))  # вище = різноманітніше
 OPENCODE_SEED = os.environ.get("OPENCODE_SEED", "").strip()  # порожньо = без seed (свіжа вибірка щоразу)
-AI_BUDGET_SEC = int(os.environ.get("AI_BUDGET_SEC", "540"))  # ліміт часу на ВСЮ ІІ-фазу; після нього
+AI_BUDGET_SEC = int(os.environ.get("AI_BUDGET_SEC", "1500"))  # ліміт часу на ВСЮ ІІ-фазу; після нього
                                                             # нові ІІ-запити не робляться (теми -> stale)
 _AI_START = time.monotonic()  # старт відліку бюджету ІІ (звичайний скрипт — time доступний)
 
@@ -111,6 +116,8 @@ QUALITY_MIN = float(os.environ.get("QUALITY_MIN", "6.5"))  # м'який пор�
                                                            # ~5.x, але лишає пул широким → рандом цілий),
                                                            # нижче — лише на послаблення. Планку 7+ тягне
                                                            # промт; код 6.5 — компроміс якість/різноманіття
+MIN_YEAR = int(os.environ.get("MIN_YEAR", "1970"))  # старіше онлайн з uk/ru-озвучкою майже не знайти;
+                                                    # без межі модель тягнула 1930-ті (Thin Man, Top Hat)
 MAX_THEME_REUSE = int(os.environ.get("MAX_THEME_REUSE", "2"))  # у скількох темах може бути один тайтл
                                                                # (жанри мудів реально перетинаються)
 
@@ -163,7 +170,7 @@ def run_rng(tag: str) -> random.Random:
 # з max_year підстрахований ще й кодовим фільтром, тож "recent" безпечний).
 RUN_LENSES = [
     "with an international / world-cinema slant where the theme allows",
-    "leaning older / classic where the era fits",
+    "leaning 1980s-2000s classics where the era fits",
     "leaning more recent where the era fits",
     "favoring lesser-known hidden gems",
     "favoring the big beloved pillars",
@@ -262,7 +269,8 @@ def opencode_endpoint() -> str:
     return url + "/chat/completions"
 
 
-def _opencode_chat(system_prompt: str, user_prompt: str, label: str):
+def _opencode_chat(system_prompt: str, user_prompt: str, label: str, models: list = None,
+                   temperature: float = None, timeout: int = None):
     """
     chat/completions по ЛАНЦЮГУ моделей: пробуємо MODEL_CHAIN по черзі, перша валідна відповідь
     виграє. `reasoning.enabled=false` вимикає «розмисли» там, де вони є (big-pickle/mimo -> ~4с),
@@ -275,7 +283,7 @@ def _opencode_chat(system_prompt: str, user_prompt: str, label: str):
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
             ],
-            "temperature": OPENCODE_TEMPERATURE,
+            "temperature": OPENCODE_TEMPERATURE if temperature is None else temperature,
             "response_format": {"type": "json_object"},   # валідний JSON без fences (Gemini/OpenAI)
         }
         if "opencode.ai" in OPENCODE_URL:
@@ -291,14 +299,14 @@ def _opencode_chat(system_prompt: str, user_prompt: str, label: str):
     }
     endpoint = opencode_endpoint()
 
-    for model in MODEL_CHAIN:
+    for model in (models or MODEL_CHAIN):
         for attempt in range(1, OPENCODE_RETRIES + 2):
             if time.monotonic() - _AI_START > AI_BUDGET_SEC:
                 print(f"[warn] OpenCode {label}: AI time budget ({AI_BUDGET_SEC}s) exhausted, skipping")
                 return None
             try:
                 resp = session.post(endpoint, json=make_payload(model), headers=headers,
-                                    timeout=OPENCODE_TIMEOUT)
+                                    timeout=timeout or OPENCODE_TIMEOUT)
                 if resp.status_code == 200:
                     return resp.json()["choices"][0]["message"]["content"]
                 last_err = f"HTTP {resp.status_code}: {resp.text[:120]}"
@@ -336,8 +344,9 @@ def ai_suggest_batch(batch: list, extra_avoid: list = None) -> dict:
         "1. Mood first. Judge how the title FEELS overall and how it ENDS, not its genre tags. "
         "Obey the theme's EXCLUDE list literally.\n"
         "2. Never: productions of the USSR, Russia, Belarus or other post-Soviet CIS states; "
-        "Japanese anime; anything in the AVOID list; the same title twice; more than one entry "
-        "per franchise.\n"
+        "Japanese anime; political films of any kind (political satire, politicians, elections, "
+        "government or party politics as the subject); anything in the AVOID list; the same title "
+        "twice; more than one entry per franchise.\n"
         "3. Real, well-regarded titles only, audience rating around 7+/10. Lower is fine only for "
         "a beloved cult favorite that nails the mood. Never list a title you are unsure exists.\n"
         "4. Follow the run FOCUS for most of the list; drop any focus title that breaks the mood.\n"
@@ -351,6 +360,7 @@ def ai_suggest_batch(batch: list, extra_avoid: list = None) -> dict:
         craft = t.get("craft")
         if craft:
             line += " " + craft              # деталі під специфіку жанру
+        line += f" Only titles released {t.get('min_year', MIN_YEAR)} or later."
         line += daily_style(t)               # ротирующий фокус (саб-жанри дня/прогону)
         avoid = read_prev_titles(t["slug"]) + (extra_avoid or [])
         if avoid:                            # останнім — свіже в контексті, модель це шанує краще
@@ -409,20 +419,39 @@ def ai_judge(theme: dict, cands: list):
         return None
     lines = [f'{i}. {c.get("title")} ({c.get("year")}, {c["media_type"]}, {c.get("vote_average")}/10): '
              f'{(c.get("overview") or "")[:300]}' for i, c in enumerate(cands)]
+    # Суддя судить зі ЗНАННЯ фільму, синопсис лише ідентифікує тайтл: Whiplash за синопсисом TMDB
+    # читається як історія успіху. Поля ending/tone ПЕРЕД score — модель мусить назвати фінал до
+    # оцінки (A/B на 32 відомих промахах: 17 -> 4 помилок).
     system_prompt = (
-        "You verify mood fit for a curated watchlist. Return only a JSON object mapping each "
-        "item index (as a string) to an integer 0-10: 10 = perfectly delivers this mood, 5 = only "
-        "partly, 0 = breaks it or violates an EXCLUDE rule. Judge the actual title from its "
-        "synopsis, overall feel and ending, not its genre tags. Be strict: the final list is short."
+        "You are a strict film critic verifying mood fit for a curated watchlist. You KNOW these "
+        "titles; the synopsis only identifies which film is meant. Judge from your own knowledge of "
+        "the actual film: its overall tone, its heaviest scenes, and above all how it ENDS.\n"
+        "Return only a JSON object mapping each item index (string) to "
+        '{"ending": "happy"|"bittersweet"|"sad"|"open", "tone": "light"|"mixed"|"heavy", "score": 0-10}. '
+        "Fill ending and tone BEFORE the score. Score: 10 = delivers this mood perfectly; 5 = partly; "
+        "0 = breaks the mood or violates an EXCLUDE rule. Being acclaimed or 'about' the right topic "
+        "is not fit: a film about a dancer is not uplifting if it ends in ruin. Political films "
+        "(political satire, politicians, elections, government politics as the subject) score 0 in "
+        "EVERY mood. Be strict: the list is short."
     )
-    user_prompt = (f"Mood [{theme['slug']}]: {theme['prompt']} {theme.get('craft', '')}\n\n"
-                   + "\n".join(lines))
-    content = _opencode_chat(system_prompt, user_prompt, "judge:" + theme["slug"])
+    gate = theme.get("judge_gate") or (
+        "any title whose ending is sad or bittersweet, or whose tone is heavy, scores 0-3 regardless "
+        "of quality" if theme.get("tone_strict") else "")
+    user_prompt = f"Mood [{theme['slug']}]: {theme['prompt']} {theme.get('craft', '')}"
+    if gate:
+        user_prompt += f"\nHARD GATE for this mood: {gate}."
+    user_prompt += "\n\n" + "\n".join(lines)
+    t0 = time.monotonic()
+    content = _opencode_chat(system_prompt, user_prompt, "judge:" + theme["slug"], models=JUDGE_CHAIN,
+                             temperature=0.2,   # оцінка має бути стабільною між раундами, не «творчою»
+                             timeout=60)        # суддя зазвичай 3-15с; завислий виклик -> швидше на фолбэк
     if not content:
         return None
     try:
-        obj = json.loads(_strip_fences(content))
-        return {int(k): float(v) for k, v in obj.items()}
+        obj, _ = json.JSONDecoder().raw_decode(_strip_fences(content))
+        scores = {int(k): float(v["score"] if isinstance(v, dict) else v) for k, v in obj.items()}
+        print(f"  judge: {len(scores)} scored in {time.monotonic() - t0:.0f}s")
+        return scores
     except Exception as e:
         print(f"[warn] judge {theme['slug']}: bad JSON ({e})")
         return None
@@ -496,7 +525,7 @@ def parse_ai_object(content: str) -> dict:
         if m:
             text = m.group(0)
     try:
-        data = json.loads(text)
+        data, _ = json.JSONDecoder().raw_decode(text)   # перший об'єкт; хвіст після нього ігноруємо
     except Exception as e:
         print(f"[warn] Failed to parse AI JSON object: {e}")
         return {}
@@ -623,8 +652,32 @@ def tmdb_discover(theme: dict) -> list:
     return candidates
 
 
-def tmdb_detail(tmdb_id: int, media_type: str, language: str):
-    return tmdb_get(f"{media_type}/{tmdb_id}", {"language": language})
+def tmdb_detail(tmdb_id: int, media_type: str, language: str, keywords: bool = False):
+    params = {"language": language}
+    if keywords:
+        params["append_to_response"] = "keywords"   # той самий запит, нуль додаткових викликів
+    return tmdb_get(f"{media_type}/{tmdb_id}", params)
+
+
+# Політика — під забороною в УСІХ темах (запит користувача). Детерміновано, без хардкоду назв:
+# TMDB-теги фільму. Відкалібровано: ловить Vice, JFK, Wag the Dog, Veep, House of Cards, The Death of
+# Stalin (political satire / dictator); НЕ чіпає Air Force One, Forrest Gump (лише "usa president"),
+# Gladiator ("senate"), Hunger Games ("revolution"), Band of Brothers. Тому "usa president",
+# "the white house", "government", "senate", "conspiracy" свідомо НЕ в списку — надто широкі.
+POLITICS_KEYWORDS = {
+    "politics", "political", "usa politics", "british politics", "power politics",
+    "political satire", "political drama", "political thriller", "political comedy",
+    "political intrigue", "political corruption", "political incompetence", "political machine",
+    "political campaign", "presidential campaign", "presidential election", "election campaign",
+    "politician", "female politician", "senator", "vice president", "lobbyist",
+    "dictator", "dictatorship", "propaganda",
+}
+
+
+def item_keywords(detail: dict) -> set:
+    ks = (detail or {}).get("keywords") or {}
+    return {str(k.get("name", "")).replace("\xa0", " ").strip().lower()
+            for k in (ks.get("keywords") or ks.get("results") or [])}
 
 
 def _item_from_detail(d: dict, media_type: str) -> dict:
@@ -650,13 +703,18 @@ def hydrate_and_validate(key):
     Гідрує тайтл мовами uk та ru і валідує:
       - країна виробництва НЕ в блок-листі (СРСР/РФ/СНД);
       - НЕ японське аніме (жанр Animation + оригінал ja / країна JP);
+      - НЕ політика (TMDB-теги з POLITICS_KEYWORDS) — заборона в усіх темах;
       - є переклад на ОБИДВІ мови (непорожній overview і uk, і ru).
     Повертає (key, uk_item, ru_item) або None, якщо тайтл не проходить.
     """
     mt, tid = key
-    uk = tmdb_detail(tid, mt, "uk")
+    uk = tmdb_detail(tid, mt, "uk", keywords=True)
     ru = tmdb_detail(tid, mt, "ru")
     if not uk or not ru:
+        return None
+    hit = item_keywords(uk) & POLITICS_KEYWORDS
+    if hit:
+        print(f"  [politics] drop {item_original_title(uk) or item_title(uk)}: {sorted(hit)[:3]}")
         return None
     countries = {c.get("iso_3166_1") for c in uk.get("production_countries", [])}
     countries |= set(uk.get("origin_country") or [])   # для ТВ
@@ -686,6 +744,8 @@ def passes_filters(cand: dict, theme: dict) -> bool:
             return False
     max_year = theme.get("max_year")
     if max_year and cand.get("year") and cand["year"] > max_year:
+        return False
+    if cand.get("year") and cand["year"] < theme.get("min_year", MIN_YEAR):
         return False
     return True
 
@@ -860,6 +920,7 @@ def process_theme(theme: dict, suggestions: list, global_used) -> dict:
     def _gmatch(v):
         return (not req_genre) or bool(set(v[1].get("genre_ids") or ()) & req_genre)
 
+    judged = {}   # key -> score; кеш між раундами: другий раунд судить лише НОВИХ кандидатів
     for attempt in (1, 2):
         candidates = collect_candidates(theme, suggestions)
 
@@ -867,13 +928,19 @@ def process_theme(theme: dict, suggestions: list, global_used) -> dict:
         filtered = [c for k, c in candidates.items()
                     if passes_filters(c, theme) and global_used[k] < MAX_THEME_REUSE]
 
-        # ІІ-суддя над УСІМА кандидатами, і ІІ-, і торішніми: хибний резолв чи не той тон -> геть
-        scores = ai_judge(theme, filtered)
+        # ІІ-суддя над УСІМА кандидатами, і ІІ-, і торішніми: хибний резолв чи не той тон -> геть.
+        # Незасуджені (збій судді) лишаються — fail-open, але вже оцінені у 1-му раунді не втрачаються.
+        jmin = float(theme.get("judge_min", JUDGE_MIN))  # тема може мати м'якший поріг (затишок)
+        fresh_c = [c for c in filtered if (c["media_type"], c["id"]) not in judged]
+        scores = ai_judge(theme, fresh_c)
         if scores:
-            dropped = [f'{c.get("title")}={scores.get(i)}' for i, c in enumerate(filtered)
-                       if scores.get(i, 10) < JUDGE_MIN]
-            filtered = [c for i, c in enumerate(filtered) if scores.get(i, 10) >= JUDGE_MIN]
-            print(f"  judge: kept {len(filtered)}/{len(filtered) + len(dropped)}; dropped: {dropped}")
+            for i, c in enumerate(fresh_c):
+                if i in scores:
+                    judged[(c["media_type"], c["id"])] = scores[i]
+        dropped = [f'{c.get("title")}={judged[(c["media_type"], c["id"])]}' for c in filtered
+                   if judged.get((c["media_type"], c["id"]), 10) < jmin]
+        filtered = [c for c in filtered if judged.get((c["media_type"], c["id"]), 10) >= jmin]
+        print(f"  judge: kept {len(filtered)}/{len(filtered) + len(dropped)}; dropped: {dropped}")
 
         # ранжування: ІІ-добірка попереду (day-seeded shuffle зсуває вікно cap), prev — на добір
         ai_cands = [c for c in filtered if c["source"] == "ai"]
@@ -901,7 +968,11 @@ def process_theme(theme: dict, suggestions: list, global_used) -> dict:
         if fresh_good >= TARGET_COUNT or attempt == 2:
             break
         print(f"  [resupply] only {fresh_good} fresh quality titles < {TARGET_COUNT} - asking AI for more")
-        more = ai_suggest_batch([theme], extra_avoid=[x["title"] for x in suggestions]).get(slug) or []
+        more = []
+        for _ in range(2):   # битий JSON від моделі трапляється; один повтор дешевший за 9/15 у файлі
+            more = ai_suggest_batch([theme], extra_avoid=[x["title"] for x in suggestions]).get(slug) or []
+            if more:
+                break
         if not more:
             break
         suggestions = suggestions + more
@@ -915,12 +986,16 @@ def process_theme(theme: dict, suggestions: list, global_used) -> dict:
                 [v for v in ng if _va(v) >= qmin], [v for v in ng if _va(v) < qmin])
 
     rng = run_rng(slug)
-    picked = []
+    picked, titles_seen = [], set()
     for bucket in (*_tier(fresh), *_tier(seen)):
         if len(picked) >= TARGET_COUNT:
             break
+        # оригінал і ремейк — різні TMDB id, але одна назва (Funny Games 1997/2007): один на добірку
+        bucket = [v for v in bucket if normalize_title(v[1].get("original_title") or v[1].get("title")) not in titles_seen]
         need = TARGET_COUNT - len(picked)
-        picked += bucket if len(bucket) <= need else rng.sample(bucket, need)
+        take = bucket if len(bucket) <= need else rng.sample(bucket, need)
+        picked += take
+        titles_seen |= {normalize_title(v[1].get("original_title") or v[1].get("title")) for v in take}
 
     # порядок виводу — за кураторським ai_order
     ai_order_of = {(c["media_type"], c["id"]): c.get("ai_order", 10**6) for c in ai_cands}
@@ -988,10 +1063,19 @@ def main():
     # A. ІІ-пропозиції для всіх тем: батчами, паралельно, з ретраями на таймаут
     suggestions_by_slug = suggestions_for_all(themes)
 
-    # B. теми послідовно — заради детермінованого м'якого дедупу між темами
+    # B. теми послідовно — заради детермінованого м'якого дедупу між темами.
+    # Теми поза MOOD_ONLY лишаються в маніфесті зі старим записом (інакше частковий прогін їх стирав).
+    try:
+        prev_index = {t["slug"]: t for t in json.loads((MOOD_DIR / "index.json").read_text(encoding="utf-8"))["themes"]}
+    except Exception:
+        prev_index = {}
     global_used = Counter()
     index_themes = []
-    for theme in themes:
+    run_slugs = {t["slug"] for t in themes}
+    for theme in THEMES:
+        if theme["slug"] not in run_slugs:
+            index_themes.append(prev_index.get(theme["slug"]) or stale_entry(theme))
+            continue
         try:
             index_themes.append(
                 process_theme(theme, suggestions_by_slug.get(theme["slug"], []), global_used))
@@ -1005,9 +1089,9 @@ def main():
 
     HISTORY_PATH.write_text(json.dumps(_history, ensure_ascii=False, indent=1), encoding="utf-8")
 
-    ok = sum(1 for t in index_themes if not t["stale"])
-    print(f"\n[ok] Done. {ok}/{len(index_themes)} themes regenerated.")
-    if index_themes and ok == 0:
+    ok = sum(1 for t in index_themes if t["slug"] in run_slugs and not t["stale"])
+    print(f"\n[ok] Done. {ok}/{len(themes)} themes regenerated.")
+    if themes and ok == 0:
         # ненульовий код -> GitHub шле лист про збій; мовчазний stale лежав непоміченим 6 тижнів
         raise SystemExit("[fail] no theme regenerated - AI source is down")
 

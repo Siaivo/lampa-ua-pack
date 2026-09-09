@@ -17,7 +17,7 @@ permissions:
 jobs:
   update-mood:
     runs-on: ubuntu-latest
-    timeout-minutes: 20   # жорсткий запобіжник: GitHub акуратно вб'є, а не зависне
+    timeout-minutes: 40   # жорсткий запобіжник: GitHub акуратно вб'є, а не зависне (суддя ~20с/тему)
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -45,6 +45,8 @@ jobs:
           OPENCODE_MODEL: ${{ vars.OPENCODE_MODEL || secrets.OPENCODE_MODEL }}
           # кома-список моделей (фолбэк-ланцюг), напр. "gemini-3.1-flash-lite,gemini-3.5-flash-lite"
           OPENCODE_MODELS: ${{ vars.OPENCODE_MODELS }}
+          # окремий ланцюг для ІІ-судді (сильніша модель окупається); порожньо = як OPENCODE_MODELS
+          JUDGE_MODELS: ${{ vars.JUDGE_MODELS }}
           # токен — лише секрет
           OPENCODE_TOKEN: ${{ secrets.OPENCODE_TOKEN }}
         run: python -u .github/scripts/update-mood.py   # -u = живий (небуферизований) лог
