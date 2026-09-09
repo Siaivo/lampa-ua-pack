@@ -3,39 +3,229 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"104\" y=\"176\" width=\"216\" height=\"208\" rx=\"28\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"28\" d=\"M320 224h28a52 52 0 0 1 0 104h-28\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"20\" stroke-linecap=\"round\" d=\"M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60\"/></svg>",
   "title": "Затишок",
   "lang": "uk",
-  "updated_at": "2026-09-09T14:57:46Z",
+  "updated_at": "2026-09-09T15:19:36Z",
   "items": [
     {
-      "id": 508965,
+      "id": 450322,
       "media_type": "movie",
-      "title": "Клаус",
-      "original_title": "Klaus",
-      "overview": "Егоїстичний листоноша та самотній майстер іграшок починають дружити та приносять радість у холодне і темне місто, яке вкрай потребує надії.",
-      "poster_path": "/fKnilr2m8Rx7J18Yislz5v6Oc7H.jpg",
-      "backdrop_path": "/cYQvXNPZLow73lhspVQ7CYlT3Mi.jpg",
+      "title": "Людина, яка винайшла Різдво",
+      "original_title": "The Man Who Invented Christmas",
+      "overview": "Історія, що призвела до появи Ебенезера Скруджа та інших класичних персонажів із \"Різдвяної Історії\". Фільм показує, як Чарльз Діккенс створив класичну казку.",
+      "poster_path": "/gSljPg9lvMaoN4FpNUm6xD6IzE3.jpg",
+      "backdrop_path": "/hm8Gux0946IfeJ1PZwztOo6lVHH.jpg",
+      "genre_ids": [
+        18,
+        36,
+        35,
+        10751
+      ],
+      "vote_average": 6.846,
+      "vote_count": 880,
+      "release_date": "2017-10-12"
+    },
+    {
+      "id": 263109,
+      "media_type": "movie",
+      "title": "Баранчик Шон",
+      "original_title": "Shaun the Sheep Movie",
+      "overview": "Події цього захоплюючого і веселого мультфільму обертаються навколо Шона, який вирішує взяти вихідний і повеселитися, але в підсумку ситуація, на жаль, як завжди виходять з-під контролю. Тепер разом з дружною компанією своїх вірних друзів баранчикові Шону доведеться вирушити у велике місто, щоб допомогти фермеру, який потрапив у великі неприємності.",
+      "poster_path": "/bGSYOkpVD188hlEzQY5H2f2P3fV.jpg",
+      "backdrop_path": "/sQbpfYoGiEBUnr8tBjHP51heNNT.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        35,
+        12
+      ],
+      "vote_average": 6.985,
+      "vote_count": 1554,
+      "release_date": "2015-02-05"
+    },
+    {
+      "id": 15489,
+      "media_type": "movie",
+      "title": "Снігопад",
+      "original_title": "Snow Day",
+      "overview": "Коли все місто в штаті Нью-Йорк несподівано накриває снігопадом, починається \"сніговий день\". Група дітей початкової школи на чолі з Наталі Брандстон намагаються забезпечити, щоб школи залишалися закритими, зупинивши водія снігоочисника від спроб викрасти свій грейдер. Тим часом старший брат Наталі, Хал використовує цей день, щоб спробувати здобути прихильність Клер Боннер, найпопулярнішої дівчини в його школі, а батько Хела та Наталі, Том, телеметеоролог, вступає в двобій з суперником-метеорологом.",
+      "poster_path": "/myTnHKy178rrd1oUG3GkEvc641G.jpg",
+      "backdrop_path": "/1pRWwg3MkUpUvbsFOgUTEvMaNvA.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        12
+      ],
+      "vote_average": 5.1,
+      "vote_count": 228,
+      "release_date": "2000-02-11"
+    },
+    {
+      "id": 126319,
+      "media_type": "movie",
+      "title": "Ернест і Селестіна",
+      "original_title": "Ernest et Célestine",
+      "overview": "Зворушлива історія про дружбу ведмедя Ернеста та мишки Селєстіни. Їхні світи зовсім різні, але в чомусь дуже схожі. Як от в упередженому ставленні двох народів одне до одного. Але справжня дружба здолає будь-які перепони.",
+      "poster_path": "/a15e4wuYLjjUtDZPYrKkqDT7buX.jpg",
+      "backdrop_path": "/1yQpY4UCaGEirYq9EqTrDvZ24KQ.jpg",
       "genre_ids": [
         16,
         10751,
+        80,
+        18,
         35
       ],
-      "vote_average": 8.218,
-      "vote_count": 4810,
-      "release_date": "2019-11-08"
+      "vote_average": 7.753,
+      "vote_count": 713,
+      "release_date": "2012-12-12"
     },
     {
-      "id": 73937,
+      "id": 212778,
       "media_type": "movie",
-      "title": "Великий рік",
-      "original_title": "The Big Year",
-      "overview": "Троє чоловіків змагаються в пошуках рідкісної пташки. Суперництво — алегорія їх проблем... Стрічку знято на основі однойменної книги Марка Обмачіка.",
-      "poster_path": "/eNrQE02R5ht0kuil6Q8duPqDXDS.jpg",
-      "backdrop_path": "/3WD1vyCtqMyqC6QZbDc0DblywNe.jpg",
+      "title": "Повар на колесах",
+      "original_title": "Chef",
+      "overview": "Карл Каспер – неперевершений кухар, але у нього не склалися стосунки в сім'ї і власник ресторану не дає йому жодної свободи. Він вирішує покинути роботу і купити харчовий фургон, де він зможе готувати власні страви. На хвилі ентузіазму і оптимістичного погляду в майбутнє він спробує повернути прихильність своїх близьких.",
+      "poster_path": "/dM6ldPN0aDQtcyLQMZwjz8ICc5a.jpg",
+      "backdrop_path": "/igVNCpS132rOqrnDsrVYW5HCIsM.jpg",
       "genre_ids": [
         35
       ],
-      "vote_average": 5.998,
-      "vote_count": 911,
-      "release_date": "2011-10-13"
+      "vote_average": 7.112,
+      "vote_count": 3755,
+      "release_date": "2014-05-08"
+    },
+    {
+      "id": 9969,
+      "media_type": "movie",
+      "title": "Ласкаво просимо, або Сусідам вхід заборонено",
+      "original_title": "Deck the Halls",
+      "overview": "У маленькому північноамериканському містечку напередодні Різдва якраз оголошувати військовий стан: один з жителів вирішив прикрасити свій будинок ілюмінацією, яку було б можна бачити з космосу. Це не припало до душі городянам і особливо його найближчому сусідові.",
+      "poster_path": "/zTNIJqSYa0xMakwwwTMeOPa7Mgl.jpg",
+      "backdrop_path": "/lVSj3d2dvTaK3qO9K2aD1W4L7R0.jpg",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "vote_average": 5.604,
+      "vote_count": 826,
+      "release_date": "2006-11-22"
+    },
+    {
+      "id": 10510,
+      "media_type": "movie",
+      "title": "Диво на 34-й вулиці",
+      "original_title": "Miracle on 34th Street",
+      "overview": "Маленькі діти щиро вірять у дива та завжди чекають Різдва - найчарівнішого свята в році. А шестирічна Сюзан, у якої немає тата, не вірить, що Санта Клаус - справжній чарівник. Мама давним-давно відкрила дівчинці його «секрет».  І хоча Сюзан, як і всі діти, складає свій Різдвяний список для Санти, вона насправді не розраховує отримати бажані подарунки: новий будинок, тата і маленького братика. Але диво сталося після зустрічі з Санта Клаусом у великому нью-йоркському універмазі «Коул». Сюзан розуміє: Санта справжній, і її заповітні мрії обов'язково здійсняться...",
+      "poster_path": "/toFcVZLe0eQHt7AnaEx01TE4QJP.jpg",
+      "backdrop_path": "/oU0lGpUukjNOgZeuIqueNM3QiBE.jpg",
+      "genre_ids": [
+        14,
+        18,
+        10751
+      ],
+      "vote_average": 6.758,
+      "vote_count": 1192,
+      "release_date": "1994-11-18"
+    },
+    {
+      "id": 116149,
+      "media_type": "movie",
+      "title": "Пригоди Паддінґтона",
+      "original_title": "Paddington",
+      "overview": "Події фільму «Паддінґтон» починаються з того, що в Англію, на Паддінґтонський вокзал Лондона прибуває з далеких перуанських лісів ведмежа. Дружня родина Браунів вирішують взяти маленького та охайного ведмедика собі й називають його на честь залізничної станції Паддінґтоном. Такі справи обіцяють нашому герою безхмарне існування на довгі роки, та все йде шкереберть. Зла таксидермістка надумала зробити з ведмежати опудало для музею...",
+      "poster_path": "/tWP9IaF0Xmfrzi08v0R67V0rOAF.jpg",
+      "backdrop_path": "/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+      "genre_ids": [
+        35,
+        12,
+        10751
+      ],
+      "vote_average": 7.125,
+      "vote_count": 4341,
+      "release_date": "2014-11-24"
+    },
+    {
+      "id": 5825,
+      "media_type": "movie",
+      "title": "Різдвяні канікули",
+      "original_title": "National Lampoon's Christmas Vacation",
+      "overview": "У будинку Ґрізвольдів святкують Різдво. Час, коли дарують подарунки, співають колядки, радісно мерехтять вогники різдвяної ялинки ... Але стривайте-но: ця ялинка зовсім не мерехтить. Вона вся у вогні! Різдво – прекрасний час для Кларка Ґрізвольд і його родини.",
+      "poster_path": "/uPDT1QoZOE70q772c00bHUV3QTx.jpg",
+      "backdrop_path": "/klH8ti8LUaEhktnjdHb1RW8Yq6w.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.232,
+      "vote_count": 2786,
+      "release_date": "1989-11-30"
+    },
+    {
+      "id": 13396,
+      "media_type": "movie",
+      "title": "Сніговик",
+      "original_title": "The Snowman",
+      "overview": "Один з найдобріших мультфільмів знятий за чарівної книгою Реймонда Бріґcа - Сніговик / The Snowman, розповідає про маленького хлопчину і чарівного сніговика, якого він зробив напередодні Різдва, і про їхні дивовижні пригоди у Різдвяну Ніч.",
+      "poster_path": "/b3CMolkeXrPaVvd5vTsssMKfZZo.jpg",
+      "backdrop_path": "/aNCGvBqqrc9L6JKgujYkc2EKbXH.jpg",
+      "genre_ids": [
+        12,
+        16,
+        10751,
+        14
+      ],
+      "vote_average": 7.574,
+      "vote_count": 364,
+      "release_date": "1982-12-26"
+    },
+    {
+      "id": 13610,
+      "media_type": "movie",
+      "title": "Різдвяний будиночок",
+      "original_title": "Christmas Cottage",
+      "overview": "Біографічна стрічка, присвячена одному із найвідоміших художників сучасності Томасу Кінкейду. Майбутньому художнику добитися визнання і всесвітньої популярності допомогло нещастя - його мама ледь не втратила свого будинку. Щоб допомогти мамі розрахуватися з боргами, молодий художник береться за пензель і фарби.",
+      "poster_path": "/xgVxmbD4mLtvelP8U5jbT7Rxjiv.jpg",
+      "backdrop_path": "/AaS3uD7RUMGMXdZzhI4ITa4aSMO.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        10751
+      ],
+      "vote_average": 6.3,
+      "vote_count": 55,
+      "release_date": "2008-10-15"
+    },
+    {
+      "id": 10612,
+      "media_type": "movie",
+      "title": "Англієць, який піднявся на пагорб, а спустився з гори",
+      "original_title": "The Englishman Who Went Up a Hill But Came Down a Mountain",
+      "overview": "Двоє англійців приїжджають в 1917-му році в Уельське село як картографи і наштовхуються на місцевий пагорб Фінан-Гару, якому не вистачає всього 16 футів, щоб стати горою на карті. Незадоволені і ексцентричні жителі села вимагають переміряти гору, але уперті картографи цього робити не бажають. Тоді місцеві пускаються на хитрість, вирішуючи наростити пагорб землею з місцевих полів...",
+      "poster_path": "/s96XNz6eBsYDK3A9nVyEuHdv7BG.jpg",
+      "backdrop_path": "/wY1Rn2DnmDt7QKnGSH5be3JM7u7.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "vote_average": 6.346,
+      "vote_count": 328,
+      "release_date": "1995-05-12"
+    },
+    {
+      "id": 149786,
+      "media_type": "movie",
+      "title": "Різдво з Голлі",
+      "original_title": "Christmas with Holly",
+      "overview": "Звичайна дівчина вирішує змінити своє життя. Вона переїжджає в маленьке містечко і планує зайнятися невеликим бізнесом. На новому місці, Меггі знайомиться з приємним молодим чоловіком, який володіє власним кафе. Між ними виникає симпатія, однак хлопець давно подарував свій особистий час своїй маленькій племінниці.",
+      "poster_path": "/bGbvMw4pkSHLFAYVjvOZsR0WwPZ.jpg",
+      "backdrop_path": "/taCpUDYeSBKFZqwNW8JHP46gBzC.jpg",
+      "genre_ids": [
+        18,
+        10751,
+        10770,
+        10749
+      ],
+      "vote_average": 6.3,
+      "vote_count": 100,
+      "release_date": "2012-12-09"
     },
     {
       "id": 622855,
@@ -55,23 +245,6 @@
       "release_date": "2020-11-06"
     },
     {
-      "id": 615666,
-      "media_type": "movie",
-      "title": "Хлопчик на ім’я Різдво",
-      "original_title": "A Boy Called Christmas",
-      "overview": "Рішучий хлопчина Ніколас вирушає на пошуки батька й іскри надії для свого королівства та знаходить свою долю в чарівному краю, населеному ельфами.",
-      "poster_path": "/hJZTQHp5Zg83DLpplwIV4KGKT1C.jpg",
-      "backdrop_path": "/odKqOY6VE6C59YAdGHB0b5Havye.jpg",
-      "genre_ids": [
-        10751,
-        12,
-        14
-      ],
-      "vote_average": 7.275,
-      "vote_count": 830,
-      "release_date": "2021-11-24"
-    },
-    {
       "id": 563710,
       "media_type": "movie",
       "title": "Різдво Анджели",
@@ -86,173 +259,6 @@
       "vote_average": 6.8,
       "vote_count": 250,
       "release_date": "2017-12-02"
-    },
-    {
-      "id": 449755,
-      "media_type": "movie",
-      "title": "Різдвяна спадщина",
-      "original_title": "Christmas Inheritance",
-      "overview": "Щоб успадкувати багатомільярдну компанію, Еллен має виконати низку незвичайних умов свого батька: доставити різдвяні листи до Сноу Фолс — міста, де виросли її батьки, витративши при цьому лише сто доларів. У незнайомому місці їй доведеться подолати чимало труднощів, дізнатися багато нового про світ простих людей, а також знайти своє справжнє кохання і осягнути дух Різдва.",
-      "poster_path": "/sqdbF40nBzS2IZVAGPxJT7loxoM.jpg",
-      "backdrop_path": "/n1daj6hS4yf858HgPfe7kGyjISp.jpg",
-      "genre_ids": [
-        10749,
-        35
-      ],
-      "vote_average": 6.267,
-      "vote_count": 859,
-      "release_date": "2017-12-15"
-    },
-    {
-      "id": 13673,
-      "media_type": "movie",
-      "title": "Різдво з невдахами",
-      "original_title": "Christmas with the Kranks",
-      "overview": "Лютера і його дружину Нору просто дістало Різдво. Вся ця суєта, ці ялинки, подарунки і хлопавки. У цей рік вони твердо вирішують «забити» на нього і змотатися в круїз по Карибах, забувши про ідіотські колядки під вікнами і тріскучі феєрверки сусідів. Зовсім скоро ця чутка облетіла все місто і люди почали організовувати мітинги та протести сімейці. Проте, обставини міняються, дочка Кранків приїдждає на Різдво з своїм нареченим і батькам доводиться готуватись до Різдва!",
-      "poster_path": "/hQzRKZhjbuHqbveTHmZcjncy1Wp.jpg",
-      "backdrop_path": "/lcFar2tdF9Lir12R0K3Dvw6uABu.jpg",
-      "genre_ids": [
-        35,
-        10751
-      ],
-      "vote_average": 6.166,
-      "vote_count": 1338,
-      "release_date": "2004-11-24"
-    },
-    {
-      "id": 758879,
-      "media_type": "movie",
-      "title": "Замок на Різдво",
-      "original_title": "A Castle for Christmas",
-      "overview": "Щоб уникнути скандалу, популярна письменниця вирушає до Шотландії, де закохується в замок і стикається з його власником, сварливим герцогом.",
-      "poster_path": "/5T2kZVuNNsI4hp9fO8qPpMrn09U.jpg",
-      "backdrop_path": "/7O6yp5DoR6uQlJVqfxkI4Vt8Wan.jpg",
-      "genre_ids": [
-        35,
-        12
-      ],
-      "vote_average": 5.996,
-      "vote_count": 364,
-      "release_date": "2021-11-26"
-    },
-    {
-      "id": 738646,
-      "media_type": "movie",
-      "title": "Операція «Подарунки з неба»",
-      "original_title": "Operation Christmas Drop",
-      "overview": "Помічниця політика збирається закрити базу ВПС в тропіках і покласти край місцевій різдвяній традиції. Але несподівано вона переймається почуттям до добродушного пілота.",
-      "poster_path": "/1fUcKFDy58DhWYd5Y7Nu5DgpxaE.jpg",
-      "backdrop_path": "/q9ZLjqti3UTt5ZC3qQMZhRNueGc.jpg",
-      "genre_ids": [
-        35,
-        10751,
-        10749,
-        10770
-      ],
-      "vote_average": 6.371,
-      "vote_count": 594,
-      "release_date": "2020-11-05"
-    },
-    {
-      "id": 611207,
-      "media_type": "movie",
-      "title": "Лицар перед Різдвом",
-      "original_title": "The Knight Before Christmas",
-      "overview": "Середньовічний англійський лицар чарівним чином переноситься в наші дні, де він закохується в учителя природознавства в середній школі.",
-      "poster_path": "/ivymBQYzYqZoLhvgYg77gSzXKsA.jpg",
-      "backdrop_path": "/YZMpzCAQ8Ljnq2XOWkWOasexsw.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "vote_average": 6.354,
-      "vote_count": 1181,
-      "release_date": "2019-11-21"
-    },
-    {
-      "id": 299582,
-      "media_type": "movie",
-      "title": "Королівське Різдво",
-      "original_title": "A Royal Christmas",
-      "overview": "Емілі і Лео кохають один одного і готові провести перше спільне Різдво. Але їх ідеальний роман піддається серйозному випробуванню на міцність. Лео вимушений повідомити своїй коханій, що він є спадкоємцем трону невеликої європейської країни під назвою Кордінія. Він запрошує Емілі поїхати разом з ним на свято Різдва і сподівається, що там вона зможе краще дізнатися його з нового для себе боку, а також спробує завоювати розташування своєї матері - королеви Ізадори.",
-      "poster_path": "/r7wDZesIEdn9UJgqBLzulbFRhCr.jpg",
-      "backdrop_path": "/jijTbvaz8q8Fpega331tBFwQm3s.jpg",
-      "genre_ids": [
-        10770,
-        10749,
-        10751
-      ],
-      "vote_average": 6.671,
-      "vote_count": 249,
-      "release_date": "2014-11-21"
-    },
-    {
-      "id": 535812,
-      "media_type": "movie",
-      "title": "Різдвяна радість",
-      "original_title": "Christmas Joy",
-      "overview": "Джой Голбрук працює дослідником корпоративного ринку і прагне отримати підвищення у своїй фірмі. Але коли президент компанії нарешті звертає увагу на її роботу, тітка Джой ламає ногу, і героїня кидає роботу та їде додому в містечко Крістал Фоллс, щоб допомогти тітці встати на ноги. В лікарні Джой зустрічає хлопця Бена Ендрюса, в якого вона раніше була закохана. Спершу дівчина зосереджена виключно на допомозі своїй тітці, але поступово на тлі різдвяних свят у неї з Беном зав’язуються романтичні стосунки.",
-      "poster_path": "/nyBL0NqfIgMrtAGTp7W2ilosvpz.jpg",
-      "backdrop_path": "/57SB156vTF6NfthrwJKYr92TgLI.jpg",
-      "genre_ids": [
-        10751,
-        10770,
-        10749
-      ],
-      "vote_average": 6.5,
-      "vote_count": 70,
-      "release_date": "2018-11-03"
-    },
-    {
-      "id": 360603,
-      "media_type": "movie",
-      "title": "Корона на Різдво",
-      "original_title": "Crown for Christmas",
-      "overview": "Після звільнення з роботи покоївки в шикарному готелі Нью-Йорка, Еллі з небажанням погоджується на тимчасову роботу гувернанткою для юної дівчини, чия сім'я, одна з найвпливовіших сімей Європи, яка проживає у справжньому замку.",
-      "poster_path": "/uAU7s4Nrn9xIG2K5QYAipaWDw7X.jpg",
-      "backdrop_path": "/xlrfVXG27AND092TU8XKPWTyGn1.jpg",
-      "genre_ids": [
-        10749,
-        10770
-      ],
-      "vote_average": 6.947,
-      "vote_count": 206,
-      "release_date": "2015-11-27"
-    },
-    {
-      "id": 61511,
-      "media_type": "tv",
-      "title": "Отець Браун",
-      "original_title": "Father Brown",
-      "overview": "Отець Браун - непримітного вигляду священик, який володіє влучним оком, здатним помічати найдрібніші хвилювання в душах людей, які приходять до нього за порадою і підтримкою.",
-      "poster_path": "/p7vhDIkPVySMBGsPnAQXIiC6OsB.jpg",
-      "backdrop_path": "/96v57BttdxvquxnVozkQUsGvawQ.jpg",
-      "genre_ids": [
-        18,
-        80,
-        9648
-      ],
-      "vote_average": 7.649,
-      "vote_count": 141,
-      "release_date": "2013-01-14"
-    },
-    {
-      "id": 13396,
-      "media_type": "movie",
-      "title": "Сніговик",
-      "original_title": "The Snowman",
-      "overview": "Один з найдобріших мультфільмів знятий за чарівної книгою Реймонда Бріґcа - Сніговик / The Snowman, розповідає про маленького хлопчину і чарівного сніговика, якого він зробив напередодні Різдва, і про їхні дивовижні пригоди у Різдвяну Ніч.",
-      "poster_path": "/b3CMolkeXrPaVvd5vTsssMKfZZo.jpg",
-      "backdrop_path": "/aNCGvBqqrc9L6JKgujYkc2EKbXH.jpg",
-      "genre_ids": [
-        12,
-        16,
-        10751,
-        14
-      ],
-      "vote_average": 7.574,
-      "vote_count": 364,
-      "release_date": "1982-12-26"
     }
   ]
 }
