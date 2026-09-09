@@ -3,25 +3,54 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"104\" y=\"176\" width=\"216\" height=\"208\" rx=\"28\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"28\" d=\"M320 224h28a52 52 0 0 1 0 104h-28\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"20\" stroke-linecap=\"round\" d=\"M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60\"/></svg>",
   "title": "Затишок",
   "lang": "uk",
-  "updated_at": "2026-09-09T15:19:36Z",
+  "updated_at": "2026-09-09T23:56:10Z",
   "items": [
     {
-      "id": 450322,
+      "id": 392011,
       "media_type": "movie",
-      "title": "Людина, яка винайшла Різдво",
-      "original_title": "The Man Who Invented Christmas",
-      "overview": "Історія, що призвела до появи Ебенезера Скруджа та інших класичних персонажів із \"Різдвяної Історії\". Фільм показує, як Чарльз Діккенс створив класичну казку.",
-      "poster_path": "/gSljPg9lvMaoN4FpNUm6xD6IzE3.jpg",
-      "backdrop_path": "/hm8Gux0946IfeJ1PZwztOo6lVHH.jpg",
+      "title": "Королівство котів",
+      "original_title": "Kedi",
+      "overview": "Вулиці Стамбула належать тим, хто гуляє по ним сам по собі: тисячам котів і кішок. «Кеді» — історія красивого міста  очима семи чарівних і дуже незалежних гультяй героїв — кішок, а також людей, які піклуються про них.",
+      "poster_path": "/8jukiwoXZRo7oBsxAwFk1tA5HUq.jpg",
+      "backdrop_path": "/x4yZrzpiVhdWV6Q5KURqiezChbV.jpg",
       "genre_ids": [
-        18,
-        36,
+        99
+      ],
+      "vote_average": 7.505,
+      "vote_count": 374,
+      "release_date": "2017-01-08"
+    },
+    {
+      "id": 1041580,
+      "media_type": "movie",
+      "title": "Заклинателі слонів",
+      "original_title": "தி எலிபெண்ட் விசுபெரர்சு",
+      "overview": "На півдні Індії Бомман і Беллі присвячують життя піклуванню про слоненя-сироту, на ім’я Раґху, і створюють унікальну родину.",
+      "poster_path": "/jObji7LDT1yvZobg6kKcVZ6bzP8.jpg",
+      "backdrop_path": "/qSuSc03Kz90CtrIvaYBdYuyMpkd.jpg",
+      "genre_ids": [
+        99
+      ],
+      "vote_average": 7.273,
+      "vote_count": 150,
+      "release_date": "2022-12-07"
+    },
+    {
+      "id": 116149,
+      "media_type": "movie",
+      "title": "Пригоди Паддінґтона",
+      "original_title": "Paddington",
+      "overview": "Події фільму «Паддінґтон» починаються з того, що в Англію, на Паддінґтонський вокзал Лондона прибуває з далеких перуанських лісів ведмежа. Дружня родина Браунів вирішують взяти маленького та охайного ведмедика собі й називають його на честь залізничної станції Паддінґтоном. Такі справи обіцяють нашому герою безхмарне існування на довгі роки, та все йде шкереберть. Зла таксидермістка надумала зробити з ведмежати опудало для музею...",
+      "poster_path": "/tWP9IaF0Xmfrzi08v0R67V0rOAF.jpg",
+      "backdrop_path": "/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+      "genre_ids": [
         35,
+        12,
         10751
       ],
-      "vote_average": 6.846,
-      "vote_count": 880,
-      "release_date": "2017-10-12"
+      "vote_average": 7.125,
+      "vote_count": 4341,
+      "release_date": "2014-11-24"
     },
     {
       "id": 263109,
@@ -38,25 +67,8 @@
         12
       ],
       "vote_average": 6.985,
-      "vote_count": 1554,
+      "vote_count": 1555,
       "release_date": "2015-02-05"
-    },
-    {
-      "id": 15489,
-      "media_type": "movie",
-      "title": "Снігопад",
-      "original_title": "Snow Day",
-      "overview": "Коли все місто в штаті Нью-Йорк несподівано накриває снігопадом, починається \"сніговий день\". Група дітей початкової школи на чолі з Наталі Брандстон намагаються забезпечити, щоб школи залишалися закритими, зупинивши водія снігоочисника від спроб викрасти свій грейдер. Тим часом старший брат Наталі, Хал використовує цей день, щоб спробувати здобути прихильність Клер Боннер, найпопулярнішої дівчини в його школі, а батько Хела та Наталі, Том, телеметеоролог, вступає в двобій з суперником-метеорологом.",
-      "poster_path": "/myTnHKy178rrd1oUG3GkEvc641G.jpg",
-      "backdrop_path": "/1pRWwg3MkUpUvbsFOgUTEvMaNvA.jpg",
-      "genre_ids": [
-        35,
-        10751,
-        12
-      ],
-      "vote_average": 5.1,
-      "vote_count": 228,
-      "release_date": "2000-02-11"
     },
     {
       "id": 126319,
@@ -78,37 +90,6 @@
       "release_date": "2012-12-12"
     },
     {
-      "id": 212778,
-      "media_type": "movie",
-      "title": "Повар на колесах",
-      "original_title": "Chef",
-      "overview": "Карл Каспер – неперевершений кухар, але у нього не склалися стосунки в сім'ї і власник ресторану не дає йому жодної свободи. Він вирішує покинути роботу і купити харчовий фургон, де він зможе готувати власні страви. На хвилі ентузіазму і оптимістичного погляду в майбутнє він спробує повернути прихильність своїх близьких.",
-      "poster_path": "/dM6ldPN0aDQtcyLQMZwjz8ICc5a.jpg",
-      "backdrop_path": "/igVNCpS132rOqrnDsrVYW5HCIsM.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 7.112,
-      "vote_count": 3755,
-      "release_date": "2014-05-08"
-    },
-    {
-      "id": 9969,
-      "media_type": "movie",
-      "title": "Ласкаво просимо, або Сусідам вхід заборонено",
-      "original_title": "Deck the Halls",
-      "overview": "У маленькому північноамериканському містечку напередодні Різдва якраз оголошувати військовий стан: один з жителів вирішив прикрасити свій будинок ілюмінацією, яку було б можна бачити з космосу. Це не припало до душі городянам і особливо його найближчому сусідові.",
-      "poster_path": "/zTNIJqSYa0xMakwwwTMeOPa7Mgl.jpg",
-      "backdrop_path": "/lVSj3d2dvTaK3qO9K2aD1W4L7R0.jpg",
-      "genre_ids": [
-        35,
-        10751
-      ],
-      "vote_average": 5.604,
-      "vote_count": 826,
-      "release_date": "2006-11-22"
-    },
-    {
       "id": 10510,
       "media_type": "movie",
       "title": "Диво на 34-й вулиці",
@@ -126,71 +107,20 @@
       "release_date": "1994-11-18"
     },
     {
-      "id": 116149,
+      "id": 563710,
       "media_type": "movie",
-      "title": "Пригоди Паддінґтона",
-      "original_title": "Paddington",
-      "overview": "Події фільму «Паддінґтон» починаються з того, що в Англію, на Паддінґтонський вокзал Лондона прибуває з далеких перуанських лісів ведмежа. Дружня родина Браунів вирішують взяти маленького та охайного ведмедика собі й називають його на честь залізничної станції Паддінґтоном. Такі справи обіцяють нашому герою безхмарне існування на довгі роки, та все йде шкереберть. Зла таксидермістка надумала зробити з ведмежати опудало для музею...",
-      "poster_path": "/tWP9IaF0Xmfrzi08v0R67V0rOAF.jpg",
-      "backdrop_path": "/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+      "title": "Різдво Анджели",
+      "original_title": "Angela's Christmas",
+      "overview": "Похід до церкви з родиною напередодні Різдва дає молодій Анжелі надзвичайну ідею.",
+      "poster_path": "/3sUXtCQsT49bGw1zPtSnYeBpKpF.jpg",
+      "backdrop_path": "/8uj9vrZtZHJKIyYEKH6DuU0B6Sr.jpg",
       "genre_ids": [
-        35,
-        12,
-        10751
-      ],
-      "vote_average": 7.125,
-      "vote_count": 4341,
-      "release_date": "2014-11-24"
-    },
-    {
-      "id": 5825,
-      "media_type": "movie",
-      "title": "Різдвяні канікули",
-      "original_title": "National Lampoon's Christmas Vacation",
-      "overview": "У будинку Ґрізвольдів святкують Різдво. Час, коли дарують подарунки, співають колядки, радісно мерехтять вогники різдвяної ялинки ... Але стривайте-но: ця ялинка зовсім не мерехтить. Вона вся у вогні! Різдво – прекрасний час для Кларка Ґрізвольд і його родини.",
-      "poster_path": "/uPDT1QoZOE70q772c00bHUV3QTx.jpg",
-      "backdrop_path": "/klH8ti8LUaEhktnjdHb1RW8Yq6w.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 7.232,
-      "vote_count": 2786,
-      "release_date": "1989-11-30"
-    },
-    {
-      "id": 13396,
-      "media_type": "movie",
-      "title": "Сніговик",
-      "original_title": "The Snowman",
-      "overview": "Один з найдобріших мультфільмів знятий за чарівної книгою Реймонда Бріґcа - Сніговик / The Snowman, розповідає про маленького хлопчину і чарівного сніговика, якого він зробив напередодні Різдва, і про їхні дивовижні пригоди у Різдвяну Ніч.",
-      "poster_path": "/b3CMolkeXrPaVvd5vTsssMKfZZo.jpg",
-      "backdrop_path": "/aNCGvBqqrc9L6JKgujYkc2EKbXH.jpg",
-      "genre_ids": [
-        12,
         16,
-        10751,
-        14
-      ],
-      "vote_average": 7.574,
-      "vote_count": 364,
-      "release_date": "1982-12-26"
-    },
-    {
-      "id": 13610,
-      "media_type": "movie",
-      "title": "Різдвяний будиночок",
-      "original_title": "Christmas Cottage",
-      "overview": "Біографічна стрічка, присвячена одному із найвідоміших художників сучасності Томасу Кінкейду. Майбутньому художнику добитися визнання і всесвітньої популярності допомогло нещастя - його мама ледь не втратила свого будинку. Щоб допомогти мамі розрахуватися з боргами, молодий художник береться за пензель і фарби.",
-      "poster_path": "/xgVxmbD4mLtvelP8U5jbT7Rxjiv.jpg",
-      "backdrop_path": "/AaS3uD7RUMGMXdZzhI4ITa4aSMO.jpg",
-      "genre_ids": [
-        18,
-        10749,
         10751
       ],
-      "vote_average": 6.3,
-      "vote_count": 55,
-      "release_date": "2008-10-15"
+      "vote_average": 6.8,
+      "vote_count": 250,
+      "release_date": "2017-12-02"
     },
     {
       "id": 10612,
@@ -208,57 +138,6 @@
       "vote_average": 6.346,
       "vote_count": 328,
       "release_date": "1995-05-12"
-    },
-    {
-      "id": 149786,
-      "media_type": "movie",
-      "title": "Різдво з Голлі",
-      "original_title": "Christmas with Holly",
-      "overview": "Звичайна дівчина вирішує змінити своє життя. Вона переїжджає в маленьке містечко і планує зайнятися невеликим бізнесом. На новому місці, Меггі знайомиться з приємним молодим чоловіком, який володіє власним кафе. Між ними виникає симпатія, однак хлопець давно подарував свій особистий час своїй маленькій племінниці.",
-      "poster_path": "/bGbvMw4pkSHLFAYVjvOZsR0WwPZ.jpg",
-      "backdrop_path": "/taCpUDYeSBKFZqwNW8JHP46gBzC.jpg",
-      "genre_ids": [
-        18,
-        10751,
-        10770,
-        10749
-      ],
-      "vote_average": 6.3,
-      "vote_count": 100,
-      "release_date": "2012-12-09"
-    },
-    {
-      "id": 622855,
-      "media_type": "movie",
-      "title": "Містер Джанґл і різдвяна подорож",
-      "original_title": "Jingle Jangle: A Christmas Journey",
-      "overview": "Вірний учень його зрадив. Через багато років у житті колись радісного майстра іграшок з’являється допитлива онука, а разом з нею — і нова надія.",
-      "poster_path": "/fr8gpybKBuKAL2yBuODUTJvP8X5.jpg",
-      "backdrop_path": "/6C7ZGYeR8QpT3X6C2RFEu6yiSKK.jpg",
-      "genre_ids": [
-        10751,
-        14,
-        10402
-      ],
-      "vote_average": 6.543,
-      "vote_count": 581,
-      "release_date": "2020-11-06"
-    },
-    {
-      "id": 563710,
-      "media_type": "movie",
-      "title": "Різдво Анджели",
-      "original_title": "Angela's Christmas",
-      "overview": "Похід до церкви з родиною напередодні Різдва дає молодій Анжелі надзвичайну ідею.",
-      "poster_path": "/3sUXtCQsT49bGw1zPtSnYeBpKpF.jpg",
-      "backdrop_path": "/8uj9vrZtZHJKIyYEKH6DuU0B6Sr.jpg",
-      "genre_ids": [
-        16,
-        10751
-      ],
-      "vote_average": 6.8,
-      "vote_count": 250,
-      "release_date": "2017-12-02"
     }
   ]
 }
