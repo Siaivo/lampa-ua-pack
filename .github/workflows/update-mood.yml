@@ -43,6 +43,8 @@ jobs:
           # URL і модель не секретні — беремо з Variables або Secrets (що задано)
           OPENCODE_URL: ${{ vars.OPENCODE_URL || secrets.OPENCODE_URL }}
           OPENCODE_MODEL: ${{ vars.OPENCODE_MODEL || secrets.OPENCODE_MODEL }}
+          # кома-список моделей (фолбэк-ланцюг), напр. "gemini-3.1-flash-lite,gemini-3.5-flash-lite"
+          OPENCODE_MODELS: ${{ vars.OPENCODE_MODELS }}
           # токен — лише секрет
           OPENCODE_TOKEN: ${{ secrets.OPENCODE_TOKEN }}
         run: python -u .github/scripts/update-mood.py   # -u = живий (небуферизований) лог
