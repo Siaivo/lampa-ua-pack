@@ -3,246 +3,260 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"256\" cy=\"256\" r=\"104\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"32\" stroke-linecap=\"round\" d=\"M256 40v48M256 424v48M40 256h48M424 256h48M107 107l34 34M371 371l34 34M405 107l-34 34M141 371l-34 34\"/></svg>",
   "title": "Натхнення",
   "lang": "uk",
-  "updated_at": "2026-09-18T23:58:31Z",
+  "updated_at": "2026-09-19T23:59:14Z",
   "items": [
     {
-      "id": 376660,
+      "id": 369557,
       "media_type": "movie",
-      "title": "Буремні сімнадцять",
-      "original_title": "The Edge of Seventeen",
-      "overview": "Для Надін життя в школі стає ще більш нестерпним, коли її краща подруга Кріста починає зустрічатися з її старшим братом.",
-      "poster_path": "/amW1VivDNFFQkFBxoCWCf1aLFZA.jpg",
-      "backdrop_path": "/9g8UsxDTkzlVyjBJBRJT3zDceTC.jpg",
+      "title": "Сінґ Стріт",
+      "original_title": "Sing Street",
+      "overview": "Ностальгічна музична драма про дорослішання. Коли економічна криза 1980-х вдаряє по родині Конора, його переводять з престижної приватної школи в державну. Підліток стикається з грубістю і невіглаством нового середовища і, крім того, закохується в недосяжну красуню. Бажаючи вразити дівчину, Конор збирає рок-гурт.",
+      "poster_path": "/wVooPiwY95OOe3YOb5tc1pixW4L.jpg",
+      "backdrop_path": "/zArKQrtZRb4lqjYXepBMLdegiDz.jpg",
       "genre_ids": [
+        10749,
+        18,
+        10402,
+        35
+      ],
+      "vote_average": 7.856,
+      "vote_count": 2511,
+      "release_date": "2016-03-11"
+    },
+    {
+      "id": 467909,
+      "media_type": "movie",
+      "title": "На висотах Нью-Йорка",
+      "original_title": "In the Heights",
+      "overview": "Запах гарячої кави витає в повітрі біля станції метро «181-а вулиця», а калейдоскоп бажань єднає там гучних і дружніх жителів цього району Нью-Йорка. У цей вихор потрапляє і Уснаві, харизматичний власник невеликого магазинчика, який економить кожен зароблений нелегкою працею цент для втілення своєї мрії про краще життя.",
+      "poster_path": "/6ikgyU0EYvJKguo64U7eBczth1C.jpg",
+      "backdrop_path": "/uEJuqp08dH6IQwZJGASlPZOXqKu.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 7.11,
+      "vote_count": 817,
+      "release_date": "2021-06-10"
+    },
+    {
+      "id": 371645,
+      "media_type": "movie",
+      "title": "Полювання на дикунів",
+      "original_title": "Hunt for the Wilderpeople",
+      "overview": "Сирота Ріккі Бейкер – невиправний хуліган. Співробітниця соціальної служби Пола Голл відвозить підлітка в сільську місцевість, де живе єдина сім'я, яка готова його прийняти, – Белла та її відлюдькуватий чоловік Гек. Коли Белла вмирає і соціальний захист збирається забрати Ріккі, хлопець тікає в неозорий новозеландський буш. Гек відправляється за ним. Навіжена Пола оголошує загальнонаціональне полювання на втікачів ...",
+      "poster_path": "/tmxTu7rM3Kfnoc95dpY9LzV9HCf.jpg",
+      "backdrop_path": "/ixpUtvrZNwk6LBObXaNH8fh4FYf.jpg",
+      "genre_ids": [
+        12,
         35,
-        18
-      ],
-      "vote_average": 7.148,
-      "vote_count": 4325,
-      "release_date": "2016-11-18"
-    },
-    {
-      "id": 31451,
-      "media_type": "movie",
-      "title": "Незгасаючий",
-      "original_title": "Forever Strong",
-      "overview": "Рік Пенінг живе точно так, як грає в регбі: швидко, жорстко та інтенсивно. Коли таке життя доводить його до в'язниці, тюремний опікун Маркус Тейт пропонує йому шанс повернутися до гри, але граючи за його конкурентів, «Highland Rugby». Неохоче Рік приєднується до команди, де він повинен прийняти виснажливий графік навчання і унікальний кодекс поведінки, який наказує тренер Джелвікс, або завершити сезон за ґратами.",
-      "poster_path": "/7NPSb2DSNxmXhu6DFkr47X8NHgT.jpg",
-      "backdrop_path": "/18XYi4dmUp1YVR9kokREH4Nmpa4.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.128,
-      "vote_count": 226,
-      "release_date": "2008-09-26"
-    },
-    {
-      "id": 1646,
-      "media_type": "movie",
-      "title": "Щоденники свободи",
-      "original_title": "Freedom Writers",
-      "overview": "Розповідь про нелегкі будні вчительки англійської, яка викладає в одній із шкіл каліфорнійського містечка Лонг-Біч. Практично всі її учні - це особи, для яких англійська не є рідною. До того ж, Лонг-Біч відомий своїми бандитськими традиціями...",
-      "poster_path": "/vAlbJRxgz5SoeC6ffcdT96VV3eI.jpg",
-      "backdrop_path": "/oVCyqxwLkRPJC51w89Dwp6VL9vk.jpg",
-      "genre_ids": [
-        80,
-        18
-      ],
-      "vote_average": 7.929,
-      "vote_count": 2489,
-      "release_date": "2007-01-05"
-    },
-    {
-      "id": 11548,
-      "media_type": "movie",
-      "title": "Батарейки не додаються",
-      "original_title": "*batteries not included",
-      "overview": "Будівельна компанія намагається знести старий будинок, щоб побудувати новий хмарочос. Але деякі мешканці ні за що на світі не хочуть виселятися зі своїх квартир. Найняті бандити починають залякувати людей. На допомогу мешканцям прилітають маленькі роботи-іншопланетяни.",
-      "poster_path": "/8NkpnpdLd8J6zCR8ZGTeGTur4uO.jpg",
-      "backdrop_path": "/AdSU7O4KhqqZuYadNAdWSEROSNg.jpg",
-      "genre_ids": [
-        10751,
-        35,
-        14,
-        878
-      ],
-      "vote_average": 6.744,
-      "vote_count": 835,
-      "release_date": "1987-12-18"
-    },
-    {
-      "id": 9763,
-      "media_type": "movie",
-      "title": "Гол!",
-      "original_title": "Goal!",
-      "overview": "Як і мільйони підлітків у всьому світі, Сантьяго все дитинство мріяв стати професійним футболістом. Але життя в нетрях Лос-Анджелеса ніяк не сприяло втіленню мрії в життя. І ось одного дня, завдяки ланцюжку дивних подій, він потрапив не просто у професійний футбол, а в команду «Ньюкасл»!",
-      "poster_path": "/d6CzJTJKfk0sGKTD0wmxvorCcPn.jpg",
-      "backdrop_path": "/hpuWR2rfcjRMni6HLtxPet4o4P4.jpg",
-      "genre_ids": [
         18,
         10751
       ],
-      "vote_average": 6.8,
-      "vote_count": 1247,
-      "release_date": "2005-09-29"
+      "vote_average": 7.644,
+      "vote_count": 2395,
+      "release_date": "2016-01-22"
     },
     {
-      "id": 71,
+      "id": 10409,
       "media_type": "movie",
-      "title": "Біллі Елліот",
-      "original_title": "Billy Elliot",
-      "overview": "11-річний Біллі Елліот — син звичайного шахтаря. В очах своєї родини — батька і брата — він обов'язково повинен стати боксером. Але у маленького Біллі душа до спорту не лежить, до того ж у нього нічого і не виходить. Одного разу він бачить, як група дівчат займається балетом, і розуміє, що більш за все йому подобаються танці. Але як переконати батька повірити в настільки незвичайне для хлопця захоплення?",
-      "poster_path": "/6pQUE2pXkLmO0ILzIUMIzSdhDXN.jpg",
-      "backdrop_path": "/urzflyf41uySpgciGHdQzpcaMOY.jpg",
+      "title": "Австралійське танго",
+      "original_title": "Strictly Ballroom",
+      "overview": "Театралізований фільм, несподівано теплий і чуттєвий, іронічний, про молодого танцюриста-новатора, що намагається започаткувати власний стиль всупереч консервативним хореографам і підступним знайомим. Водночас це історія його нової \"партнерки-замазури\", яка стає королевою танцю.",
+      "poster_path": "/s4laGZwOIdiKwIlCr1jhFCcTiNj.jpg",
+      "backdrop_path": "/5gPUA8ABoBK4D1GUkL1NXTSS8Wq.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "vote_average": 6.606,
+      "vote_count": 397,
+      "release_date": "1992-08-20"
+    },
+    {
+      "id": 463257,
+      "media_type": "movie",
+      "title": "Арахісовий сокіл",
+      "original_title": "The Peanut Butter Falcon",
+      "overview": "У центрі сюжету стрічки — хлопець із синдромом Дауна Зак. Одного разу герой вирішує втекти з лікарні, щоб здійснитити мрію — відвідати школу боротьби і стати професійним реслером. Зак знайомиться зі злочинцем Тайлером, який тренує хлопця та стає його другом. Повернути Зака має намір співробітниця лікарні Елеонора, яку хлопці намагаються переконати приєднатися до них.",
+      "poster_path": "/vtB4nU1d5ljTz9l11necTrDPzH1.jpg",
+      "backdrop_path": "/g1Y4fQidcbG1kWLIDRNXIN6xdit.jpg",
+      "genre_ids": [
+        12,
+        35,
+        18
+      ],
+      "vote_average": 7.388,
+      "vote_count": 1666,
+      "release_date": "2019-08-09"
+    },
+    {
+      "id": 2976,
+      "media_type": "movie",
+      "title": "Лак для волосся",
+      "original_title": "Hairspray",
+      "overview": "Події розгортаються у США 1960-х років. За сюжетом, дев’ятнадцятирічна Трейсі Тернблад – чудова дівчина, як не глянь: кумедна і заводна, співає і танцює. Тільки занадто пухкенька. Як і її мама Една. Обидві від цього страждають. Але Трейсі має мрію – стати відомою та популярною танцівницею. І заради цієї мрії, дівчина готова на будь-що. Важкою працею та вірою в себе дівчина долає життєві труднощі і стати зіркою популярного танцювального телешоу...",
+      "poster_path": "/bXSsdTwPZQ25ZuOv6u7v1upcSdi.jpg",
+      "backdrop_path": "/oO55Z71apssUy4Cf0obsK2kX3oK.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "vote_average": 6.665,
+      "vote_count": 2674,
+      "release_date": "2007-07-19"
+    },
+    {
+      "id": 1788,
+      "media_type": "movie",
+      "title": "Вільні",
+      "original_title": "Footloose",
+      "overview": "Заручившись підтримкою свого приятеля і коханої, юний бунтар Рен МакКормак вирішує змінити старомодні порядки, встановлені преподобним Муром і змусити благочестивих городян «згадати молодість».",
+      "poster_path": "/weNBCQ20hsigF01vHL8SusGKxlb.jpg",
+      "backdrop_path": "/t8n5mvmnJUYJkyfOPWYEtvqePuM.jpg",
       "genre_ids": [
         18,
+        10749
+      ],
+      "vote_average": 6.688,
+      "vote_count": 2265,
+      "release_date": "1984-02-17"
+    },
+    {
+      "id": 11631,
+      "media_type": "movie",
+      "title": "Мамма міа!",
+      "original_title": "Mamma Mia!",
+      "overview": "Це історія нареченої - молодої дівчини Софі, яка мріє щоб її до вівтаря супроводжував батько. Але так і не дізнавшись від матері хто ж насправді є її батьком, Софі вирішує знайти його самостійно...",
+      "poster_path": "/iFhqDqYM8qSOWMOZavF4orxIySy.jpg",
+      "backdrop_path": "/90sDsHugeRU5dtTG3zEVIOXXl4L.jpg",
+      "genre_ids": [
         35,
+        10749
+      ],
+      "vote_average": 7.0,
+      "vote_count": 7168,
+      "release_date": "2008-07-03"
+    },
+    {
+      "id": 13156,
+      "media_type": "movie",
+      "title": "Старі леви",
+      "original_title": "Secondhand Lions",
+      "overview": "Малого і невпевненого в собі хлопця Волтера мати Мей (жіночка вертлявої натури) привозить до двох старих дядьків. Вони не дуже раді цьому візиту, оскільки живуть майже як відлюдники. Ходять чутки, що старі ветерани приховують величезні статки (купу грошей). Мей дає Волтеру завдання дізнатися, де вони їх ховають, очевидно, щоб потім привласнити. Але події розгортаються в іншому руслі...",
+      "poster_path": "/rUCKOoeg70vBKlAGLNfLHEtikVI.jpg",
+      "backdrop_path": "/ithoU8bcAj5dIaKkhN4ybiiWhyK.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        18
+      ],
+      "vote_average": 7.237,
+      "vote_count": 860,
+      "release_date": "2003-09-19"
+    },
+    {
+      "id": 2759,
+      "media_type": "movie",
+      "title": "Пригоди Прісцилли, королеви пустелі",
+      "original_title": "The Adventures of Priscilla, Queen of the Desert",
+      "overview": "Історія про компанію трьох трансвеститів, які відправляються в довгу і неймовірну подорож по австралійській пустелі в містечко Аліс-Спрінгс, де вони повинні провести своє музичне шоу.",
+      "poster_path": "/rSkhcbHkk23fR3qhYJestqtamWK.jpg",
+      "backdrop_path": "/q1PuySDtRiKSgxAZjpIbFvvLOus.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "vote_average": 7.247,
+      "vote_count": 958,
+      "release_date": "1994-08-10"
+    },
+    {
+      "id": 116745,
+      "media_type": "movie",
+      "title": "Таємне життя Волтера Мітті",
+      "original_title": "The Secret Life of Walter Mitty",
+      "overview": "Волтер Мітті - співробітник фотослужби журналу «Life», якому загрожує реорганізація в онлайн і скороченя співробітників. Знаменитий фотограф Шон О`Коннел надсилає плівку, один з кадрів повинен піти на обкладинку останнього паперового номера журналу. Проте саме цей кадр загадковим чином зникає. Тоді скромний і непомітний фоторедактор Мітті відправляється у подорож на край світу на пошуки загубленого негативу ...",
+      "poster_path": "/pNgx4WzFnE35w8jkZulmtr1W6dM.jpg",
+      "backdrop_path": "/8hSjOHRY4OUEpqxszYbMdem8z9C.jpg",
+      "genre_ids": [
+        12,
+        35,
+        18,
+        14
+      ],
+      "vote_average": 7.23,
+      "vote_count": 8479,
+      "release_date": "2013-12-18"
+    },
+    {
+      "id": 10830,
+      "media_type": "movie",
+      "title": "Матильда",
+      "original_title": "Matilda",
+      "overview": "Матильда - дуже незвичайна дівчинка. Ну поміркуйте самі - множити в голові величезні цифри, рухати поглядом предмети, і робити ще багато чого надприродного - це що, по-вашому, нормально? Але її батьки байдужі до неї - їх не тільки не вражають здібності Матильди, їм навіть не цікаво як живе їх дочка.  Все, чого хочуть «жалісливі» мама з татом - позбавитися від неї. Так вони і поступають - відправляють дівчинку в інтернат. Ось там-то Матильда і починає давати волю своїм вражаючим талантам!",
+      "poster_path": "/kJzjyqVf2APWzfsH8Ix1HrvueVW.jpg",
+      "backdrop_path": "/t3HVA7XdVnQneMjI5hYjEhXmHY3.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        14
+      ],
+      "vote_average": 7.187,
+      "vote_count": 4955,
+      "release_date": "1996-08-02"
+    },
+    {
+      "id": 335797,
+      "media_type": "movie",
+      "title": "Співай",
+      "original_title": "Sing",
+      "overview": "Творці «Посіпак» оголошують старт небаченої досі пісенної битви талантів! Директор колись успішного театру коала Бастер хоче повернути своєму закладові славу і визнання. Він твердо налаштований організувати найграндіозніше у світі шоу. На прослуховування запрошено усіх! І навіть якщо ти сором’язливе слоненя-підліток, рішуча крихітна миша, заклопотана мама-свинка, крутий горила-гангстер чи дикобразиха-рокерка – не вагайся, приходь і співай на повні груди, порви усіх улюбленими хітами. Це твій шанс!",
+      "poster_path": "/4ExqASnYNP5wC7z8b4n6VgHK0Ql.jpg",
+      "backdrop_path": "/z9ft5HYHzWcasR6SGcgeluxTznB.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
         10402
       ],
-      "vote_average": 7.598,
-      "vote_count": 4171,
-      "release_date": "2000-09-28"
+      "vote_average": 7.124,
+      "vote_count": 8583,
+      "release_date": "2016-11-23"
     },
     {
-      "id": 727333,
+      "id": 10934,
       "media_type": "movie",
-      "title": "Ті, що прибули здалеку",
-      "original_title": "Come from Away",
-      "overview": "Бродвейський мюзикл розповідає неймовірну історію пасажирів 38 рейсів, що були змушені сісти в невеличкому канадському містечку 11 вересня 2001 року. І місцевих, і несподіваних гостей об’єднає надія.",
-      "poster_path": "/sjpctd2F5vZoGOh418g7ED866MN.jpg",
-      "backdrop_path": "/hYZN2rkYblZwKDqq3xll45hfpYk.jpg",
+      "title": "Під сонцем Тоскани",
+      "original_title": "Under the Tuscan Sun",
+      "overview": "Головна героїня, письменниця Френсіс Мейс, після розлучення з чоловіком вирушає в подорож з легкої руки своїх подруг. Вона вирішує купити віллу в Тоскані, сподіваючись, що це стане початком змін на краще в її житті ...",
+      "poster_path": "/98sMHrYInKbvmH4xYY4eF53T2mD.jpg",
+      "backdrop_path": "/dy516GsG7lvszB47FiotNjLARDY.jpg",
       "genre_ids": [
-        35,
-        18
-      ],
-      "vote_average": 7.5,
-      "vote_count": 58,
-      "release_date": "2021-09-09"
-    },
-    {
-      "id": 209185,
-      "media_type": "movie",
-      "title": "Грандіозне зваблення",
-      "original_title": "The Grand Seduction",
-      "overview": "Ласкаво просимо до раю, де виконуються всі бажання без виключення! Мальовниче містечко біля моря. Населення: 120 запеклих брехунів. Вони дуже потребують хорошого лікаря.",
-      "poster_path": "/aCN4iCtiC2xOXcZ9fsO6xjHwsEC.jpg",
-      "backdrop_path": "/wUG2O57Rg0hrMtwsL6b9etPkKAD.jpg",
-      "genre_ids": [
+        10749,
         35
       ],
-      "vote_average": 6.684,
-      "vote_count": 370,
-      "release_date": "2014-05-30"
+      "vote_average": 6.888,
+      "vote_count": 1004,
+      "release_date": "2003-09-20"
     },
     {
-      "id": 9912,
+      "id": 2005,
       "media_type": "movie",
-      "title": "Найпрудкіший Індіан",
-      "original_title": "The World's Fastest Indian",
-      "overview": "Історія легендарного новозеландця Берта Монро. Десятки років він удосконалював і модифікував свого улюбленця-мотоцикла марки \"Indian Scout\" 1920-го року випуску. На ньому Берт об'їздив весь світ і врешті реалізував свою мрію: на знаменитих перегонах 1967-го року, що проходили в соляній пустелі Бонневілль-Флетс в американському штаті Юта, він встановив світовий рекорд швидкості на відкритих просторах, який тримається і до сьогодні.",
-      "poster_path": "/5iO1iYkY8pMlglbqGfeDAYceoMA.jpg",
-      "backdrop_path": "/qKxAghWoR2M8ZIheMpbHp8jeXFi.jpg",
+      "title": "Сестро, дій",
+      "original_title": "Sister Act",
+      "overview": "Простодушна і життєрадісна співачка Долорес, яка стала свідком злочину свого коханця-гангстера, змушена на час зачаїтися в жіночому монастирі. Від нудьги на новому місці нова «сестра» вирішує навчити черниць розважатися ...",
+      "poster_path": "/xZvVSZ0RTxIjblLV87vs7ADM12m.jpg",
+      "backdrop_path": "/bNiBuekwqwNKFGSqlJRDZIF4ADB.jpg",
       "genre_ids": [
-        18,
-        12,
-        36
-      ],
-      "vote_average": 7.7,
-      "vote_count": 926,
-      "release_date": "2005-10-12"
-    },
-    {
-      "id": 234200,
-      "media_type": "movie",
-      "title": "Гордість",
-      "original_title": "Pride",
-      "overview": "Заснований на реальній історії, фільм розповідає про групу лесбі та ґей активістів, які збирали гроші на допомогу сім’ям, що зазнали збитків внаслідок страйку британських шахтарів 1984 року. Ініціатива пізніше стала відомою як «Ґеї на підтримку Шахтарської кампанії».",
-      "poster_path": "/vw6K8NDnJZoebY4H75EEAYbHJ9P.jpg",
-      "backdrop_path": "/tqLjEqOELHek2zfZ1d3vknG7Dfu.jpg",
-      "genre_ids": [
-        18,
+        10402,
         35
       ],
-      "vote_average": 7.685,
-      "vote_count": 1446,
-      "release_date": "2014-09-12"
-    },
-    {
-      "id": 665877,
-      "media_type": "movie",
-      "title": "Критичне мислення",
-      "original_title": "Critical Thinking",
-      "overview": "Маріо Мартінез є керівником гуртка з шахів для підлітків із гетто. Його вихованці з нещасливих сімей постійно зазнають різних прикрощів. Правда, чоловік упевнений, що його учні зможуть протистояти гравцям національного турніру.",
-      "poster_path": "/l1OR2xTnOOX95KGrS3dm5YQopy5.jpg",
-      "backdrop_path": "/h0NZTkfmEJosQ52WSnzmN0lDSXG.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 6.5,
-      "vote_count": 53,
-      "release_date": "2020-12-18"
-    },
-    {
-      "id": 491480,
-      "media_type": "movie",
-      "title": "Хлопчик, який приборкав вітер",
-      "original_title": "The Boy Who Harnessed the Wind",
-      "overview": "Хлопчик, який живе в бідному африканському селі в Малаві, допомагає дорослим будувати вітряк, черпаючи знання з бібліотечної книги.",
-      "poster_path": "/7XXdeGCFIMu1OQFmXYGDfFZycyb.jpg",
-      "backdrop_path": "/lB8mrGjgOxVuiGzBNbHfUrFw02d.jpg",
-      "genre_ids": [
-        18,
-        36
-      ],
-      "vote_average": 7.886,
-      "vote_count": 1921,
-      "release_date": "2019-02-14"
-    },
-    {
-      "id": 581420,
-      "media_type": "movie",
-      "title": "Ходьба. Їзда. Родео.",
-      "original_title": "Walk. Ride. Rodeo.",
-      "overview": "Фільм розповідає правдиву історію про професійну наїзницю Емберлі Снайдер, якій дивом вдається вижити в автомобільній аварії. Після того, що сталося у Снайдер паралізує нижню половину тіла, але вона не має наміру здаватися.",
-      "poster_path": "/eUQyvpTtirjQRYi4gVRsVrDvf6T.jpg",
-      "backdrop_path": "/i6auhKuoS5UwCQBp4LsESjFJq4I.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 6.958,
-      "vote_count": 250,
-      "release_date": "2019-03-08"
-    },
-    {
-      "id": 1041580,
-      "media_type": "movie",
-      "title": "Заклинателі слонів",
-      "original_title": "தி எலிபெண்ட் விசுபெரர்சு",
-      "overview": "На півдні Індії Бомман і Беллі присвячують життя піклуванню про слоненя-сироту, на ім’я Раґху, і створюють унікальну родину.",
-      "poster_path": "/jObji7LDT1yvZobg6kKcVZ6bzP8.jpg",
-      "backdrop_path": "/qSuSc03Kz90CtrIvaYBdYuyMpkd.jpg",
-      "genre_ids": [
-        99
-      ],
-      "vote_average": 7.273,
-      "vote_count": 150,
-      "release_date": "2022-12-07"
-    },
-    {
-      "id": 77338,
-      "media_type": "movie",
-      "title": "1+1",
-      "original_title": "Intouchables",
-      "overview": "Ставши інвалідом унаслідок нещасного випадку, багатій Філіп наймає в помічники людину, що менше всього підходить для цієї роботи — молодого мешканця нетрів Дрісса, який щойно звільнився з в’язниці. Незважаючи на те, що Філіп прикутий до інвалідного крісла, Дріссу вдається привнести в розмірене існування багатія дух пригод та жагу життя.",
-      "poster_path": "/zH6pl2chTsiO8MXRSLrYySUNSGD.jpg",
-      "backdrop_path": "/q6OGlZ1KMEb14AC8KbPCxyNOal6.jpg",
-      "genre_ids": [
-        18,
-        35
-      ],
-      "vote_average": 8.273,
-      "vote_count": 18817,
-      "release_date": "2011-11-02"
+      "vote_average": 6.837,
+      "vote_count": 3534,
+      "release_date": "1992-05-28"
     }
   ]
 }
