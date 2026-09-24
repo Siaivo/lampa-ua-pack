@@ -1,6 +1,23 @@
 {
  "no-think": [
   [
+   "Treasure Planet",
+   "Home",
+   "Flight of the Navigator",
+   "Titan A.E.",
+   "Galaxy Quest",
+   "Guardians of the Galaxy",
+   "The Last Starfighter",
+   "Holes",
+   "The Sandlot",
+   "A Little Princess",
+   "Fly Away Home",
+   "Whale Rider",
+   "Tuck Everlasting",
+   "La Marche de l'empereur",
+   "Big Fish"
+  ],
+  [
    "Moana",
    "Raya and the Last Dragon",
    "The Road to El Dorado",
@@ -33,26 +50,26 @@
    "The Pagemaster",
    "Meet the Robinsons",
    "Stardust"
-  ],
-  [
-   "Jumanji",
-   "Wreck-It Ralph",
-   "Die unendliche Geschichte",
-   "Dungeons & Dragons: Honor Among Thieves",
-   "Willow",
-   "Hook",
-   "Jumanji: The Next Level",
-   "Abominable",
-   "Epic",
-   "Song of the Sea",
-   "The Fall",
-   "The Secret of Kells",
-   "Prince of Persia: The Sands of Time",
-   "The Darjeeling Limited",
-   "Smallfoot"
   ]
  ],
  "blow-mind": [
+  [
+   "The Quiet Earth",
+   "El Incidente",
+   "Spoorloos",
+   "In the Mouth of Madness",
+   "The Fountain",
+   "Caché",
+   "ワンダフルライフ",
+   "キュア",
+   "The Others",
+   "Memento",
+   "Eternal Sunshine of the Spotless Mind",
+   "Barton Fink",
+   "Videodrome",
+   "Us",
+   "Blue Velvet"
+  ],
   [
    "Los cronocrímenes",
    "Primer",
@@ -86,26 +103,26 @@
    "The Leftovers",
    "Dark",
    "Shutter Island"
-  ],
-  [
-   "House of Games",
-   "Possession",
-   "Arrival",
-   "Den skyldige",
-   "Lost Highway",
-   "Los cronocrímenes",
-   "The Game",
-   "The Wicker Man",
-   "The Conversation",
-   "Lola rennt",
-   "Searching",
-   "Frailty",
-   "Brick",
-   "Jacob's Ladder",
-   "Total Recall"
   ]
  ],
  "cry": [
+  [
+   "Viskningar och rop",
+   "ワンダフルライフ",
+   "Biutiful",
+   "Beaches",
+   "Me and Earl and the Dying Girl",
+   "Rabbit Hole",
+   "Mar adentro",
+   "Nuovo Cinema Paradiso",
+   "Bridge to Terabithia",
+   "A Ghost Story",
+   "Steel Magnolias",
+   "Petite Maman",
+   "Mask",
+   "Love Story",
+   "La stanza del figlio"
+  ],
   [
    "The Straight Story",
    "Life as a House",
@@ -139,26 +156,26 @@
    "House of Sand and Fog",
    "Winter's Bone",
    "The Florida Project"
-  ],
-  [
-   "花樣年華",
-   "おくりびと",
-   "一一",
-   "Höstsonaten",
-   "Call Me by Your Name",
-   "The Father",
-   "Minari",
-   "The Remains of the Day",
-   "Living",
-   "万引き家族",
-   "ลุงบุญมีระลึกชาติ",
-   "ドライブ・マイ・カー",
-   "Stand by Me",
-   "ワンダフルライフ",
-   "밀양"
   ]
  ],
  "cozy-rain": [
+  [
+   "The Straight Story",
+   "Ma vie de courgette",
+   "Marcel the Shell with Shoes On",
+   "Fly Away Home",
+   "A Little Chaos",
+   "A Good Year",
+   "Paddington 2",
+   "Babe",
+   "Babettes gæstebud",
+   "A Shaun the Sheep Movie: Farmageddon",
+   "Wallace & Gromit: The Curse of the Were-Rabbit",
+   "Black Books",
+   "Fantastic Mr. Fox",
+   "The Snowman",
+   "The Gruffalo"
+  ],
   [
    "Paper Moon",
    "Les Choristes",
@@ -192,25 +209,26 @@
    "The Durrells",
    "Les Glaneurs et la Glaneuse",
    "Ernest et Célestine"
-  ],
-  [
-   "Les Glaneurs et la Glaneuse",
-   "Les Saisons",
-   "Le Peuple migrateur",
-   "Intouchables",
-   "Le Fabuleux Destin d'Amélie Poulain",
-   "Paddington",
-   "PERFECT DAYS",
-   "Bienvenue chez les Ch'tis",
-   "بچه‌های آسمان",
-   "Black Books",
-   "Ernest et Célestine",
-   "Jingle Jangle: A Christmas Journey",
-   "Tillsammans",
-   "The Durrells"
   ]
  ],
  "adrenaline": [
+  [
+   "Dog Soldiers",
+   "Panic Room",
+   "The Hitcher",
+   "The Mist",
+   "The Driver",
+   "Joy Ride",
+   "Death Proof",
+   "Breakdown",
+   "Reservoir Dogs",
+   "The Thing",
+   "The Fugitive",
+   "Falling Down",
+   "Ronin",
+   "The Descent",
+   "Vanishing Point"
+  ],
   [
    "Assault on Precinct 13",
    "The Taking of Pelham One Two Three",
@@ -244,26 +262,26 @@
    "辣手神探",
    "卧虎藏龍",
    "Mad Max 2"
-  ],
-  [
-   "Lola rennt",
-   "Inside Man",
-   "Phone Booth",
-   "Green Room",
-   "To Live and Die in L.A.",
-   "Thief",
-   "Brawl in Cell Block 99",
-   "Apocalypto",
-   "Hell or High Water",
-   "Non-Stop",
-   "Speed",
-   "Taken",
-   "Victoria",
-   "Baby Driver",
-   "Point Break"
   ]
  ],
  "mood-up": [
+  [
+   "Chef",
+   "Bienvenue chez les Ch'tis",
+   "Rocky Balboa",
+   "Brassed Off",
+   "Accepted",
+   "The School of Rock",
+   "Ratatouille",
+   "Stick It",
+   "The Majestic",
+   "Step Up",
+   "Queen of Katwe",
+   "Begin Again",
+   "Bleed for This",
+   "Big Eyes",
+   "The Hundred-Foot Journey"
+  ],
   [
    "Miracle",
    "Glory Road",
@@ -297,26 +315,26 @@
    "Hoosiers",
    "The Grand Seduction",
    "Freedom Writers"
-  ],
-  [
-   "Sing Street",
-   "In the Heights",
-   "Hunt for the Wilderpeople",
-   "Strictly Ballroom",
-   "The Peanut Butter Falcon",
-   "Hairspray",
-   "Footloose",
-   "Mamma Mia!",
-   "Secondhand Lions",
-   "The Adventures of Priscilla, Queen of the Desert",
-   "The Secret Life of Walter Mitty",
-   "Matilda",
-   "Sing",
-   "Under the Tuscan Sun",
-   "Sister Act"
   ]
  ],
  "dark": [
+  [
+   "Possession",
+   "The Road",
+   "Spoorloos",
+   "Eraserhead",
+   "Bad Lieutenant",
+   "The Lighthouse",
+   "The War of the Roses",
+   "Children of Men",
+   "Antichrist",
+   "The Day After",
+   "Shame",
+   "Animal Kingdom",
+   "The Mist",
+   "The Grey",
+   "Mystic River"
+  ],
   [
    "Tinker Tailor Soldier Spy",
    "The Conversation",
@@ -350,26 +368,26 @@
    "Gone Girl",
    "기생충",
    "American History X"
-  ],
-  [
-   "Sharp Objects",
-   "Manchester by the Sea",
-   "Blue Ruin",
-   "Enemy",
-   "キュア",
-   "Jagten",
-   "The House That Jack Built",
-   "Winter's Bone",
-   "Speak No Evil",
-   "Deep Cover",
-   "The Gift",
-   "The Man Who Wasn't There",
-   "Blue Valentine",
-   "추격자",
-   "친절한 금자씨"
   ]
  ],
  "date-night": [
+  [
+   "Much Ado About Nothing",
+   "A Good Year",
+   "Under the Tuscan Sun",
+   "Emma.",
+   "Stealing Beauty",
+   "Letters to Juliet",
+   "Moonrise Kingdom",
+   "Midnight in Paris",
+   "Gregory's Girl",
+   "L'Auberge espagnole",
+   "Overboard",
+   "Defending Your Life",
+   "Only You",
+   "Blast from the Past",
+   "Le Fabuleux Destin d'Amélie Poulain"
+  ],
   [
    "Enchanted",
    "The Young Victoria",
@@ -403,26 +421,26 @@
    "Dirty Dancing",
    "The Hating Game",
    "The Cutting Edge"
-  ],
-  [
-   "No Reservations",
-   "What's Up, Doc?",
-   "Two Weeks Notice",
-   "Mamma Mia!",
-   "The Ugly Truth",
-   "As Good as It Gets",
-   "Sing Street",
-   "Four Weddings and a Funeral",
-   "The Prom",
-   "Burlesque",
-   "It Could Happen to You",
-   "Notting Hill",
-   "Begin Again",
-   "Cinderella",
-   "Love Actually"
   ]
  ],
  "nostalgia": [
+  [
+   "E.T. the Extra-Terrestrial",
+   "Ferris Bueller's Day Off",
+   "Home Alone",
+   "Clueless",
+   "SLC Punk",
+   "The Goonies",
+   "Mean Girls",
+   "EuroTrip",
+   "American Pie",
+   "Back to the Future",
+   "The Mighty Ducks",
+   "Freaky Friday",
+   "Mrs. Doubtfire",
+   "The Parent Trap",
+   "Save the Last Dance"
+  ],
   [
    "While You Were Sleeping",
    "You've Got Mail",
@@ -456,26 +474,26 @@
    "Matilda",
    "Flight of the Navigator",
    "The Princess Bride"
-  ],
-  [
-   "Raiders of the Lost Ark",
-   "Pretty in Pink",
-   "Sixteen Candles",
-   "Dirty Dancing",
-   "The Mummy",
-   "Stargate",
-   "Fast Times at Ridgemont High",
-   "GoldenEye",
-   "Say Anything...",
-   "Heathers",
-   "The Mask of Zorro",
-   "Le Cinquième Élément",
-   "Romancing the Stone",
-   "Better Off Dead...",
-   "Gregory's Girl"
   ]
  ],
  "background": [
+  [
+   "Bob's Burgers",
+   "Futurama",
+   "Archer",
+   "The Office",
+   "American Dad!",
+   "Better Off Ted",
+   "Disenchantment",
+   "The Simpsons",
+   "Brickleberry",
+   "Duncanville",
+   "Paradise PD",
+   "Outsourced",
+   "King of the Hill",
+   "Don't Trust the B---- in Apartment 23",
+   "The Great North"
+  ],
   [
    "Taskmaster",
    "The IT Crowd",
@@ -509,26 +527,26 @@
    "Chocolat",
    "How to Lose a Guy in 10 Days",
    "Overboard"
-  ],
-  [
-   "Malcolm in the Middle",
-   "Chef",
-   "Brooklyn Nine-Nine",
-   "Drop Dead Diva",
-   "Big",
-   "Cool Runnings",
-   "Emma.",
-   "The Proposal",
-   "Penelope",
-   "My Cousin Vinny",
-   "Harry Wild",
-   "You've Got Mail",
-   "Scrubs",
-   "Midnight in Paris",
-   "13 Going on 30"
   ]
  ],
  "thrill-nerves": [
+  [
+   "Apostle",
+   "The Exorcism of Emily Rose",
+   "Possession",
+   "Pyewacket",
+   "The House of the Devil",
+   "Kill List",
+   "Drag Me to Hell",
+   "Midsommar",
+   "Evil Dead II",
+   "A Dark Song",
+   "Prince of Darkness",
+   "Alien Abduction: Incident in Lake County",
+   "The Little Girl Who Lives Down the Lane",
+   "Fallen",
+   "The Dark"
+  ],
   [
    "[REC]",
    "부산행",
@@ -562,26 +580,26 @@
    "The Possession of Michael King",
    "The Ritual",
    "The Brood"
-  ],
-  [
-   "1408",
-   "장화, 홍련",
-   "The Autopsy of Jane Doe",
-   "Picnic at Hanging Rock",
-   "Suspiria",
-   "The Conjuring",
-   "Evil Dead",
-   "Hellraiser",
-   "Triangle",
-   "Sinister",
-   "Insidious",
-   "Crimson Peak",
-   "ハウス",
-   "Le locataire",
-   "The Brood"
   ]
  ],
  "epic": [
+  [
+   "Excalibur",
+   "Gladiator",
+   "Troy",
+   "300",
+   "英雄",
+   "十面埋伏",
+   "Pompeii",
+   "One Night with the King",
+   "The Odyssey",
+   "Rome",
+   "Agora",
+   "Hercules: The Legendary Journeys",
+   "A.D. The Bible Continues",
+   "Sinbad and the Eye of the Tiger",
+   "The Golden Voyage of Sinbad"
+  ],
   [
    "投名狀",
    "The Bounty",
@@ -615,26 +633,26 @@
    "News of the World",
    "Hostiles",
    "Unforgiven"
-  ],
-  [
-   "Once Upon a Time in America",
-   "Cidade de Deus",
-   "The Way Back",
-   "GoodFellas",
-   "Vertical Limit",
-   "The Call of the Wild",
-   "Nordwand",
-   "Iron Will",
-   "K2",
-   "The Lord of the Rings: The Return of the King",
-   "Midway",
-   "Conan the Barbarian",
-   "The Green Knight",
-   "Pirates of the Caribbean: The Curse of the Black Pearl",
-   "Excalibur"
   ]
  ],
  "laugh": [
+  [
+   "The Naked Gun: From the Files of Police Squad!",
+   "Airplane!",
+   "Dirty Rotten Scoundrels",
+   "Monty Python and the Holy Grail",
+   "功夫",
+   "Blazing Saddles",
+   "The Pink Panther Strikes Again",
+   "Ace Ventura: Pet Detective",
+   "Galaxy Quest",
+   "What's Up, Doc?",
+   "Robin Hood: Men in Tights",
+   "The Blues Brothers",
+   "Police Academy",
+   "Austin Powers: International Man of Mystery",
+   "See No Evil, Hear No Evil"
+  ],
   [
    "21 Jump Street",
    "The Nice Guys",
@@ -668,23 +686,6 @@
    "Grabbers",
    "Enchanted",
    "Addams Family Values"
-  ],
-  [
-   "10 Things I Hate About You",
-   "Overboard",
-   "Clueless",
-   "Beetlejuice",
-   "Ghostbusters",
-   "Shaun of the Dead",
-   "Tremors",
-   "The Wedding Singer",
-   "Enchanted",
-   "Addams Family Values",
-   "13 Going on 30",
-   "Zombieland",
-   "You've Got Mail",
-   "Death Becomes Her",
-   "Pretty Woman"
   ]
  ],
  "slow-beauty": [
@@ -707,6 +708,23 @@
   ]
  ],
  "family": [
+  [
+   "Sing",
+   "Coco",
+   "Ratatouille",
+   "The Sandlot",
+   "Cars",
+   "Cool Runnings",
+   "Encanto",
+   "Space Jam",
+   "The Princess and the Frog",
+   "Rio",
+   "Mary Poppins Returns",
+   "Frozen",
+   "Hercules",
+   "Anastasia",
+   "Dreamer: Inspired By a True Story"
+  ],
   [
    "The Incredibles",
    "Megamind",
@@ -740,26 +758,26 @@
    "Belle et Sébastien",
    "Epic",
    "Mr. Peabody & Sherman"
-  ],
-  [
-   "Meet the Robinsons",
-   "Willy Wonka & the Chocolate Factory",
-   "Arthur Christmas",
-   "The Parent Trap",
-   "Robots",
-   "The Goonies",
-   "Elf",
-   "Matilda",
-   "Klaus",
-   "Hugo",
-   "The Christmas Chronicles",
-   "The Muppet Christmas Carol",
-   "Small Soldiers",
-   "Miracle on 34th Street",
-   "The Indian in the Cupboard"
   ]
  ],
  "worlds": [
+  [
+   "Legend",
+   "Dark City",
+   "First Knight",
+   "Dune",
+   "MirrorMask",
+   "Excalibur",
+   "Jonathan Strange & Mr Norrell",
+   "Arn: Tempelriddaren",
+   "Wolfwalkers",
+   "Něco z Alenky",
+   "Valerie a týden divů",
+   "Willow",
+   "The Secret of Kells",
+   "Song of the Sea",
+   "Enemy Mine"
+  ],
   [
    "The Dark Crystal",
    "Die unendliche Geschichte",
@@ -793,26 +811,26 @@
    "Conan the Barbarian",
    "Constantine",
    "The Witcher"
-  ],
-  [
-   "Pandorum",
-   "La Cité des enfants perdus",
-   "Young Sherlock Holmes",
-   "승리호",
-   "The Adventures of Baron Munchausen",
-   "The Imaginarium of Doctor Parnassus",
-   "Time Bandits",
-   "The Aeronauts",
-   "The Fall",
-   "Gandahar",
-   "The Quiet Earth",
-   "District 9",
-   "Renaissance",
-   "Seksmisja",
-   "La Planète sauvage"
   ]
  ],
  "detective": [
+  [
+   "Leverage",
+   "White Collar",
+   "Lupin",
+   "Gambit",
+   "Focus",
+   "Inside Man",
+   "Entrapment",
+   "Matchstick Men",
+   "Now You See Me",
+   "Murdoch Mysteries",
+   "Dalgliesh",
+   "Death in Paradise",
+   "Harry Wild",
+   "Gosford Park",
+   "Foyle's War"
+  ],
   [
    "Murder by Death",
    "Dead Men Don't Wear Plaid",
@@ -846,23 +864,6 @@
    "The Oxford Murders",
    "Searching",
    "Ripper Street"
-  ],
-  [
-   "Red Dragon",
-   "Kiss the Girls",
-   "Along Came a Spider",
-   "Copycat",
-   "Presumed Innocent",
-   "The Frozen Ground",
-   "Searching",
-   "Murder by Numbers",
-   "El secreto de sus ojos",
-   "Changeling",
-   "Ransom",
-   "Manhunter",
-   "Ripper Street",
-   "Picnic at Hanging Rock",
-   "Inside Man"
   ]
  ]
 }
