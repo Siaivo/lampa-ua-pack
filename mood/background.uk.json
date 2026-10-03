@@ -3,182 +3,187 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"32\" d=\"M104 288v-24a152 152 0 0 1 304 0v24\"/><rect x=\"80\" y=\"280\" width=\"72\" height=\"128\" rx=\"28\" fill=\"currentColor\"/><rect x=\"360\" y=\"280\" width=\"72\" height=\"128\" rx=\"28\" fill=\"currentColor\"/></svg>",
   "title": "Фоном",
   "lang": "uk",
-  "updated_at": "2026-10-02T01:24:02Z",
+  "updated_at": "2026-10-03T01:03:19Z",
   "items": [
     {
-      "id": 2122,
+      "id": 61457,
       "media_type": "tv",
-      "title": "Король гори",
-      "original_title": "King of the Hill",
-      "overview": "Байки з життя окремого людського виду — «техасця звичайного». Представники: Хенк Хілл — тупий обиватель і глава сімейства, його дружина Пегі (вчителька), син Боббі (товстун, що саме вступає в період статевого дозрівання), і наша улюблена героїня — племінниця Луан, що постійно розкидає де попало свою нижню білизну.",
-      "poster_path": "/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
-      "backdrop_path": "/g3brCzb5D9hE7StLiA69rt6pUeW.jpg",
+      "title": "Ґранчестер",
+      "original_title": "Grantchester",
+      "overview": "Події серіалу розгортаються 1953 року в мальовничому селі Ґранчестер у Кембриджширі. Головний герой — Сідні Чемберс, харизматичний і чарівний вікарій, який починає власне розслідування, коли один із його парафіян помирає за підозрілих обставин.",
+      "poster_path": "/k8dP5vfjtGKYzCe1JyVxysil9WB.jpg",
+      "backdrop_path": "/gBdiLRV3OZLfpsLHTsYKzPMFe5q.jpg",
       "genre_ids": [
-        16,
+        80,
+        18,
+        9648
+      ],
+      "vote_average": 7.3,
+      "vote_count": 151,
+      "release_date": "2014-10-06"
+    },
+    {
+      "id": 61662,
+      "media_type": "tv",
+      "title": "Шіттс Крік",
+      "original_title": "Schitt's Creek",
+      "overview": "Серіал розповідає про сімейство Роузів: Джонні Роуз — мільярдер, який заробив статок на мережі відеосалонів, його дружина — актриса мильних опер, і двоє дітей — гіпстер Девід та світська левиця Алексіс. Після того, як бізнес Джонні зазнає краху, все сімейство змушене переїхати жити в невелику сільську громаду Шіттс Крік, яку вони придбали кілька років тому заради розваги.",
+      "poster_path": "/3UuaOsE12RIN0IixGRYhh0asao.jpg",
+      "backdrop_path": "/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 7.8,
+      "vote_count": 753,
+      "release_date": "2015-01-13"
+    },
+    {
+      "id": 156993,
+      "media_type": "tv",
+      "title": "Гаррі Вайлд",
+      "original_title": "Harry Wild",
+      "overview": "Професор англійської мови, що нещодавно вийшла на пенсію, виявляє в собі справжній талант до розслідування і не може не втручатися у справи, доручені її синові-поліцейському.",
+      "poster_path": "/esQ4VyGU0hWoSRIAgwgyozbuATK.jpg",
+      "backdrop_path": "/qTtEGZdcShTjgj1wsLvJ0OGGh5e.jpg",
+      "genre_ids": [
+        9648,
+        80,
+        18
+      ],
+      "vote_average": 6.646,
+      "vote_count": 65,
+      "release_date": "2022-04-04"
+    },
+    {
+      "id": 77493,
+      "media_type": "tv",
+      "title": "За справу береться Шекспір",
+      "original_title": "Shakespeare & Hathaway - Private Investigators",
+      "overview": "Незграбний приватний детектив Френк Гетеуей звик проводити розслідування самотужки. Лише у виняткових випадках, щоб здобути необхідну інформацію, він залучає до роботи невдаху актора Себастьяна, який вміє майстерно міняти зовнішність. Одного разу в офісі Гетеуейя з'являється Луелла Шекспір ​​- вона працює перукарем, готується до весілля, але підозрює свого нареченого у зраді. Луелла просить Френка простежити за її майбутнім чоловіком. Інтуїція її не підвела: коханий виявляється шлюбним аферистом. Його вбивають. Підозра падає на Луеллу. І Френк береться довести невинуватість дівчини. За час розслідування вони знаходять спільну мову і розуміють, що вдало один одного доповнюють. До того ж агентство Гетеуейя знаходиться на межі розорення, і жвава блондинка обіцяє погасити всі його борги. Так колишній поліцейський і колишня перукарка стають напарниками.",
+      "poster_path": "/s3NOaMERvhLD88SLKYRUs7HmM1i.jpg",
+      "backdrop_path": "/anx7BeEtPjH38EoNKTXyx0B67WX.jpg",
+      "genre_ids": [
+        35,
+        18,
+        9648
+      ],
+      "vote_average": 7.2,
+      "vote_count": 51,
+      "release_date": "2018-02-26"
+    },
+    {
+      "id": 61511,
+      "media_type": "tv",
+      "title": "Отець Браун",
+      "original_title": "Father Brown",
+      "overview": "Отець Браун - непримітного вигляду священик, який володіє влучним оком, здатним помічати найдрібніші хвилювання в душах людей, які приходять до нього за порадою і підтримкою.",
+      "poster_path": "/p7vhDIkPVySMBGsPnAQXIiC6OsB.jpg",
+      "backdrop_path": "/96v57BttdxvquxnVozkQUsGvawQ.jpg",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "vote_average": 7.661,
+      "vote_count": 146,
+      "release_date": "2013-01-14"
+    },
+    {
+      "id": 91267,
+      "media_type": "tv",
+      "title": "Моє Життя - Вбивство",
+      "original_title": "My Life Is Murder",
+      "overview": "Після смерті чоловіка, Алекса - тямущий і не в міру прямолінійний детектив, покинула ряди австралійської поліції. Однак, час від часу, її друг і колишній колега, Кірнан, консультується у неї у справах, які не по зубах менш досвідченим детективам. І хоча Алекса вдає, що давно відійшла від справ, в глибині душі вона все ще любить таємниці і своє ремесло, якому присвятила все свідоме життя.",
+      "poster_path": "/2DO0hi1Rthl8v3KY6BRTw6LsTCA.jpg",
+      "backdrop_path": "/1wRNBYHomZa4mjzBDu57Eh1vS31.jpg",
+      "genre_ids": [
+        18,
+        80,
+        9648,
+        35
+      ],
+      "vote_average": 7.2,
+      "vote_count": 73,
+      "release_date": "2019-07-17"
+    },
+    {
+      "id": 12786,
+      "media_type": "tv",
+      "title": "Загадки Мердока",
+      "original_title": "Murdoch Mysteries",
+      "overview": "Детективний серіал \"Загадки Мердока\", відзнятий за романами Морін Дженнінгс.\n\nХитромудрі злочини розплутує поліцейський Вільям Мердок. Його характеризують як людину з допитливим розумом, уважну до дрібниць і новинок технічного прогресу. Детективу Мердоку допомагає лікар Джейн Огден, якій ані юний вік, ані гарне виховання леді не заважають професійно виконувати обов'язки патанатома і експерта в новій галузі юриспруденції XIX століття – криміналістиці.",
+      "poster_path": "/gMXlZrd9iuPUdVQg9CTVXtLwnVV.jpg",
+      "backdrop_path": "/hYmHyUlJMQgeazELoHnORrEQ0vE.jpg",
+      "genre_ids": [
+        9648,
+        18
+      ],
+      "vote_average": 7.695,
+      "vote_count": 305,
+      "release_date": "2008-01-24"
+    },
+    {
+      "id": 76148,
+      "media_type": "tv",
+      "title": "Дівчата з Деррі",
+      "original_title": "Derry Girls",
+      "overview": "П’ятеро підлітків: Ерін, її кузина Орла, їхні подруги Клер та Мішель та британський кузен Мішель Джеймс разом відвідують католицьку школу для дівчат у місті Деррі та переживають вічні проблеми усіх підлітків. Усе це на тлі завершення затяжного політичного конфлікту в Північній Ірландії 90-х років, відомого як \"Клопоти\" (The Troubles).",
+      "poster_path": "/uEy7NZHyDO2ggbDwVGElgCJSYBC.jpg",
+      "backdrop_path": "/nQyQ4c8DUvXra1LDWnNfV9QJluD.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 8.144,
+      "vote_count": 440,
+      "release_date": "2018-01-04"
+    },
+    {
+      "id": 66134,
+      "media_type": "tv",
+      "title": "Даррелли",
+      "original_title": "The Durrells",
+      "overview": "Родина Даррелів, після смерті батька переселяються з Англії до Греції у пошуках кращого та дешевшого життя.",
+      "poster_path": "/eoLkAPfki2bqvEniuD9bdN7Nmfk.jpg",
+      "backdrop_path": "/xhNtmyX53yNVpqMtOV2BJd9JuDR.jpg",
+      "genre_ids": [
+        18,
         35,
         10751
       ],
       "vote_average": 7.4,
-      "vote_count": 701,
-      "release_date": "1997-01-12"
+      "vote_count": 127,
+      "release_date": "2016-04-03"
     },
     {
-      "id": 44169,
+      "id": 7777,
       "media_type": "tv",
-      "title": "Бріклбері",
-      "original_title": "Brickleberry",
-      "overview": "Мультсеріал про групу лісників-роздовбаїв, що зіткнулися з закриттям національного парку. На допомогу рейнджерам приходить новенький, чия мета - перетворити й зберегти заповідник.",
-      "poster_path": "/glV4CZOfhrFroQERrj7vQ98nehI.jpg",
-      "backdrop_path": "/ulmOoXIsaTMAD9hMBoF9lXouy8v.jpg",
-      "genre_ids": [
-        35,
-        16
-      ],
-      "vote_average": 7.2,
-      "vote_count": 269,
-      "release_date": "2012-09-25"
-    },
-    {
-      "id": 62649,
-      "media_type": "tv",
-      "title": "Супермаркет",
-      "original_title": "Superstore",
-      "overview": "Серіал про великий різношерстий колектив працівників гіпермаркету, які на своєму робочому місці переживають безліч пригод, незважаючи на те, що територія їх проживання обмежується стінами магазину.",
-      "poster_path": "/tbFz1fWpQWKAu62yMvo2VhYUfmm.jpg",
-      "backdrop_path": "/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
+      "title": "Давай ще, Тед",
+      "original_title": "Better Off Ted",
+      "overview": "Для команди «Verіdіan Dynamіcs» немає недосяжних успіхів. Глава відділу досліджень і розвитку Тед Крісп обожнює свою роботу. Йому все в ній подобається. Подобається його супер-бос, Вероніка. Подобаються його колеги, Лем, Філ і Лінда. Особливо Лінда. Але найбільше йому подобається те, чим вони займаються. Стираючи межі між фантазіями і реальністю, команда дослідників постійно перетворює до смішного неможливе в шикарно можливе.",
+      "poster_path": "/tvmafNGqMFA03fJcbUXxjgzSToX.jpg",
+      "backdrop_path": "/mpUcBHfzKpSo72rwo2EaaGkeSX1.jpg",
       "genre_ids": [
         35
       ],
-      "vote_average": 7.542,
-      "vote_count": 873,
-      "release_date": "2015-11-30"
+      "vote_average": 7.609,
+      "vote_count": 248,
+      "release_date": "2009-03-18"
     },
     {
-      "id": 75967,
+      "id": 39331,
       "media_type": "tv",
-      "title": "Корпорація",
-      "original_title": "Corporate",
-      "overview": "В центрі сюжету – молодші менеджери на стажуванні Метт та Джейк. Вони влаштувались працювати в компанію Hampton DeVille, яка славиться своїм безжальним ставленням як до власних працівників, так і до іноземних контрагентів. Тут не знають що таке піклування про особовий склад, але знають що таке нескінченні наради, цькування, залякування, контроль та дедлайни. Метт та Джейк повні протилежності один одного, але змушені об’єднати зусилля аби вижити у безжальному корпоративному середовищі…",
-      "poster_path": "/b6idV76lHSh05xiH1VjwMvASC6B.jpg",
-      "backdrop_path": "/iFPm31d9snsP1baNGkyv0nxPdoJ.jpg",
+      "title": "Не вірте сучці з 23-ї",
+      "original_title": "Don't Trust the B---- in Apartment 23",
+      "overview": "Комедія розповідає про Джун, щиру, чесну та оптимістичну провінційну дівчину, яка з незалежних від неї причин була змушена з’їхатися з привабливою і вкрай мінливою тусовщицею з Нью-Йорка, погляди якої більше схожі на піратські.",
+      "poster_path": "/3rQAwCijnaHD96Wgt6jBwKxKN4o.jpg",
+      "backdrop_path": "/l3xAsPkZiIMeA9mGMFwMtUYaMbT.jpg",
       "genre_ids": [
         35
       ],
-      "vote_average": 7.3,
-      "vote_count": 62,
-      "release_date": "2018-01-17"
-    },
-    {
-      "id": 615,
-      "media_type": "tv",
-      "title": "Футурама",
-      "original_title": "Futurama",
-      "overview": "Серіал розпочинається з того, що розвізник піци з Нью-Йорка Філіп Джей Фрай випадково був заморожений у кріогенній камері 31 грудня 1999 року і розморожений тисячу років потому, в місті Новий Нью-Йорк. Фрай намагається уникнути примусового призначення на роботу посильним, і це закінчується його влаштуванням на роботу (все ж таки посильним) у невелику компанію Міжпланетний експрес, яка займається міжгалактичними перевезеннями вантажів. Серіал демонструє пригоди Фрая і його колег під час доставки вантажів, а також у повсякденному житті.",
-      "poster_path": "/ihYhOg7t2cPYjFatEhhTXpbbulC.jpg",
-      "backdrop_path": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10765
-      ],
-      "vote_average": 8.365,
-      "vote_count": 3925,
-      "release_date": "1999-03-28"
-    },
-    {
-      "id": 2316,
-      "media_type": "tv",
-      "title": "Офіс",
-      "original_title": "The Office",
-      "overview": "Серіал розповідає про трудові будні невеликого регіонального офісу паперової компанії Dunder Mifflin у Скрентоні, Пенсильванія, працівники якого цілими днями повинні терпіти закидони свого непутящого боса.",
-      "poster_path": "/1j4Jh3MDjf2zMOnXaTHqU3ojQjc.jpg",
-      "backdrop_path": "/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 8.583,
-      "vote_count": 5523,
-      "release_date": "2005-03-24"
-    },
-    {
-      "id": 1433,
-      "media_type": "tv",
-      "title": "Американський тато! ",
-      "original_title": "American Dad!",
-      "overview": "«Американський тато!» Є яскравим представником сатиричного мультиплікаційного серіалу про життя американської родини. Сюжет розгортається навколо сім'ї Смітів, яка складається з чотирьох осіб, одного прибульця і розмовляючої «Золотої рибки». ",
-      "poster_path": "/66PXQsvS4duSBPirbmLWE9eUgNV.jpg",
-      "backdrop_path": "/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
-      "genre_ids": [
-        16,
-        35
-      ],
-      "vote_average": 7.022,
-      "vote_count": 2457,
-      "release_date": "2005-02-06"
-    },
-    {
-      "id": 251,
-      "media_type": "tv",
-      "title": "Aqua Teen Hunger Force",
-      "original_title": "Aqua Teen Hunger Force",
-      "overview": "Спроби розшифрувати назву серіалу швидше за введуть вас в оману, ніж наблизять до розуміння того, про що він. І взагалі, якщо вам доводиться ставити питання про те, що таке АТХФ, це серіал не для вас. Інші можуть просто, не ставлячи зайвих питань, насолоджуватися захоплюючими пригодами Фрая, Шейка і Тефтелі, які, як відомо, відриваються на повну",
-      "poster_path": "/jCWOkfMLsT2sGHadCkmR65MWtJu.jpg",
-      "backdrop_path": "/5QWdGKrPWJQ3WcafuYA2PXL6uQG.jpg",
-      "genre_ids": [
-        16,
-        35
-      ],
-      "vote_average": 7.556,
-      "vote_count": 266,
-      "release_date": "2000-12-30"
-    },
-    {
-      "id": 63522,
-      "media_type": "tv",
-      "title": "«С» означає сім’я",
-      "original_title": "F is for Family",
-      "overview": "Поверніться разом із сім’єю Мерфі в 1970-ті роки, коли діти були самі собі хазяями, пиво текло рікою і ніщо не могло відірвати чоловіка від телевізора.",
-      "poster_path": "/3gkdyR58Hm0gMkItqvyNz7zSTWH.jpg",
-      "backdrop_path": "/bdntcURJ4dSr7zoLeyB6ZGrMynD.jpg",
-      "genre_ids": [
-        35,
-        16
-      ],
-      "vote_average": 7.4,
-      "vote_count": 464,
-      "release_date": "2015-12-18"
-    },
-    {
-      "id": 2798,
-      "media_type": "tv",
-      "title": "Шоу Космічного привида",
-      "original_title": "Space Ghost Coast to Coast",
-      "overview": "Колишній супергерой веде ток-шоу, запрошуючи різних відомих гостей для інтерв’ю. Під час ефіру виникають абсурдні та комедійні ситуації через дивну поведінку ведучого і його помічників. Кожен епізод — це низка хаотичних та несподіваних подій у форматі інтерв’ю, без чіткої сюжетної лінії",
-      "poster_path": "/pxoYF6XKKRE6jY0U4xaVVhneIh0.jpg",
-      "backdrop_path": "/okJecNEHxfxAkf36sfeWu0AJC7M.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10767
-      ],
-      "vote_average": 7.8,
-      "vote_count": 121,
-      "release_date": "1994-04-15"
-    },
-    {
-      "id": 51345,
-      "media_type": "tv",
-      "title": "Непридатні до побачень",
-      "original_title": "Undateable",
-      "overview": "Денні — 30-річний безтурботний чоловік, від якого повтікали усі друзі. Коли його останній, друг Шенон вирішив одружитися, Денні довелося шукати собі нових друзів...",
-      "poster_path": "/cG25wXoLGdL2WSBi1eQfzCY0Lrz.jpg",
-      "backdrop_path": "/e9UiAUMrhjZ9wh4lxzvXCBFzar6.jpg",
-      "genre_ids": [
-        35
-      ],
-      "vote_average": 6.6,
-      "vote_count": 71,
-      "release_date": "2014-05-29"
+      "vote_average": 6.771,
+      "vote_count": 349,
+      "release_date": "2012-04-11"
     },
     {
       "id": 93221,
@@ -197,35 +202,35 @@
       "release_date": "2021-01-03"
     },
     {
-      "id": 39331,
+      "id": 1433,
       "media_type": "tv",
-      "title": "Не вірте сучці з 23-ї",
-      "original_title": "Don't Trust the B---- in Apartment 23",
-      "overview": "Комедія розповідає про Джун, щиру, чесну та оптимістичну провінційну дівчину, яка з незалежних від неї причин була змушена з’їхатися з привабливою і вкрай мінливою тусовщицею з Нью-Йорка, погляди якої більше схожі на піратські.",
-      "poster_path": "/3rQAwCijnaHD96Wgt6jBwKxKN4o.jpg",
-      "backdrop_path": "/l3xAsPkZiIMeA9mGMFwMtUYaMbT.jpg",
+      "title": "Американський тато! ",
+      "original_title": "American Dad!",
+      "overview": "«Американський тато!» Є яскравим представником сатиричного мультиплікаційного серіалу про життя американської родини. Сюжет розгортається навколо сім'ї Смітів, яка складається з чотирьох осіб, одного прибульця і розмовляючої «Золотої рибки». ",
+      "poster_path": "/66PXQsvS4duSBPirbmLWE9eUgNV.jpg",
+      "backdrop_path": "/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "vote_average": 7.022,
+      "vote_count": 2458,
+      "release_date": "2005-02-06"
+    },
+    {
+      "id": 51345,
+      "media_type": "tv",
+      "title": "Непридатні до побачень",
+      "original_title": "Undateable",
+      "overview": "Денні — 30-річний безтурботний чоловік, від якого повтікали усі друзі. Коли його останній, друг Шенон вирішив одружитися, Денні довелося шукати собі нових друзів...",
+      "poster_path": "/cG25wXoLGdL2WSBi1eQfzCY0Lrz.jpg",
+      "backdrop_path": "/e9UiAUMrhjZ9wh4lxzvXCBFzar6.jpg",
       "genre_ids": [
         35
       ],
-      "vote_average": 6.771,
-      "vote_count": 349,
-      "release_date": "2012-04-11"
-    },
-    {
-      "id": 81983,
-      "media_type": "tv",
-      "title": "Поліція Парадайз",
-      "original_title": "Paradise PD",
-      "overview": "Нетерплячий новобранець вливається в різношерстий колектив поліційного відділку, яким командує його батько. Вони байдикують, сваряться і розслідують справу про наркотики.",
-      "poster_path": "/ynwpe5e543tNj3XdpJcoPXoO5nN.jpg",
-      "backdrop_path": "/xq4CjUKiz5EPKeTiOsb7r1Q7kwN.jpg",
-      "genre_ids": [
-        35,
-        16
-      ],
-      "vote_average": 7.137,
-      "vote_count": 423,
-      "release_date": "2018-08-31"
+      "vote_average": 6.6,
+      "vote_count": 71,
+      "release_date": "2014-05-29"
     },
     {
       "id": 93292,
