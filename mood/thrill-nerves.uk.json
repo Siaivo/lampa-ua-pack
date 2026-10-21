@@ -3,262 +3,255 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"32\" stroke-linejoin=\"round\" d=\"M256 56c-92 0-164 74-164 166v226l46-38 46 38 36-38 36 38 36-38 36 38 46-38 46 38V222c0-92-72-166-164-166z\"/><ellipse cx=\"208\" cy=\"222\" rx=\"26\" ry=\"36\" fill=\"currentColor\"/><ellipse cx=\"304\" cy=\"222\" rx=\"26\" ry=\"36\" fill=\"currentColor\"/><ellipse cx=\"256\" cy=\"310\" rx=\"22\" ry=\"30\" fill=\"currentColor\"/></svg>",
   "title": "Страшно",
   "lang": "uk",
-  "updated_at": "2026-10-20T01:00:17Z",
+  "updated_at": "2026-10-21T00:30:42Z",
   "items": [
     {
-      "id": 913290,
+      "id": 837,
       "media_type": "movie",
-      "title": "Варвар",
-      "original_title": "Barbarian",
-      "overview": "Дівчина приїжджає на співбесіду до невеликого міста. Вона винаймає житло і з подивом дізнається, що в нього вже заїхав інший постоялець. Через відсутність альтернатив героїня вирішує все одно залишитися і переночувати, проте невдовзі розуміє, що її вимушений сусід і сам будинок зберігають чимало жахливих секретів.",
-      "poster_path": "/cO3LDj6LzbaWDdOuCLrODHV1WwV.jpg",
-      "backdrop_path": "/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
-      "genre_ids": [
-        27,
-        9648,
-        53
-      ],
-      "vote_average": 6.888,
-      "vote_count": 3629,
-      "release_date": "2022-08-29"
-    },
-    {
-      "id": 536554,
-      "media_type": "movie",
-      "title": "М3ҐАН",
-      "original_title": "M3GAN",
-      "overview": "За допомогою штучного інтелекту високотехнологічна ігрова компанія створює ляльку нового покоління М3ҐАН. Унікальна іграшка відразу стає невідʼємною частиною життя осиротілої дівчинки. Розроблена, щоб захистити свою власницю, М3ҐАН швидко еволюціонує від безневинної ляльки до неконтрольованої вбивчої машини.",
-      "poster_path": "/ccTo6uvlEpWPcUwRTGaRHWyKK0T.jpg",
-      "backdrop_path": "/qd4EKTuudkws9lW76Dn9C0tnuVA.jpg",
-      "genre_ids": [
-        878,
-        27
-      ],
-      "vote_average": 7.003,
-      "vote_count": 5067,
-      "release_date": "2022-12-28"
-    },
-    {
-      "id": 11015,
-      "media_type": "movie",
-      "title": "Релікт",
-      "original_title": "The Relic",
-      "overview": "Вчений Чиказького національного історичного музею повертається з експедиції до Південної Америки з великим вантажем археологічних експонатів. Але, коли ящики потрапляють в сховище музею, вчений безслідно зникає. В самому музеї також починають зникати люди. Поліція Чикаго відправляє розслідувати справу офіцера Вінсента Д’Агоста, якому допомогає доктор історичних наук Марго Грін ...",
-      "poster_path": "/2cISMSBYmi8mbfYyOLDr2GSAQ9T.jpg",
-      "backdrop_path": "/A21CdNF0nsnTPPreSkTsjmGmHQU.jpg",
-      "genre_ids": [
-        27,
-        9648,
-        53,
-        878
-      ],
-      "vote_average": 6.16,
-      "vote_count": 670,
-      "release_date": "1997-01-10"
-    },
-    {
-      "id": 22970,
-      "media_type": "movie",
-      "title": "Хижа в лісі",
-      "original_title": "The Cabin in the Woods",
-      "overview": "Галаслива компанія з п'яти друзів тікає на вік-енд побешкетувати в ізольовану від усього світу сільську хижу. Звучить знайомо? Ну так ви й не уявляєте, що вас чекає насправді.",
-      "poster_path": "/oz9dTq23HaQAKCVGaHQeyHz91bN.jpg",
-      "backdrop_path": "/wJffMiCnrszaNclKggGixYWB7D7.jpg",
-      "genre_ids": [
-        27,
-        9648,
-        35
-      ],
-      "vote_average": 6.664,
-      "vote_count": 8894,
-      "release_date": "2012-04-12"
-    },
-    {
-      "id": 578,
-      "media_type": "movie",
-      "title": "Щелепи",
-      "original_title": "Jaws",
-      "overview": "Події картини відбуваються протягом п'яти днів - на острові Еміті, де розташоване невелике курортне містечко. У цьому тихому й сонячному місці відбулися жахливі трагічні події, початок яким було покладено рано вранці, коли шеф місцевої поліції Мартін Броуді та його помічник знаходять на березі залишки тіла дівчини. Вона стала першою жертвою величезної великої білої акули, яка з'явилася біля берегів Еміті ...",
-      "poster_path": "/p5je1kYM26HlJhN5vDMvk50nAPe.jpg",
-      "backdrop_path": "/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
-      "genre_ids": [
-        27,
-        53,
-        12
-      ],
-      "vote_average": 7.688,
-      "vote_count": 11948,
-      "release_date": "1975-06-20"
-    },
-    {
-      "id": 75174,
-      "media_type": "movie",
-      "title": "Сірий",
-      "original_title": "The Grey",
-      "overview": "На Алясці зазнав аварії літак, і пасажири, що вижили опинилися в полоні безлюдної сніжної пустелі, де компанію скалдає лише зграя вовків. Люди хочуть вижити будь-якою ціною і тепер їх чекає смертельна сутичка...",
-      "poster_path": "/ccPeJG6azRsT3IcJdIOrymKEqBB.jpg",
-      "backdrop_path": "/g8ArhdKmms7TKGX1SgvXf5d1RXG.jpg",
-      "genre_ids": [
-        28,
-        12,
-        53
-      ],
-      "vote_average": 6.6,
-      "vote_count": 4281,
-      "release_date": "2012-01-26"
-    },
-    {
-      "id": 500664,
-      "media_type": "movie",
-      "title": "Апгрейд",
-      "original_title": "Upgrade",
-      "overview": "Мільйонер-розробник пропонує герою позбутися паралічу за допомогою імплантації експериментального чіпа під назвою Stem. Цей чіп має власний розум.",
-      "poster_path": "/s0CDJMbhh6jpxOlzQsUCaoa9yBV.jpg",
-      "backdrop_path": "/oiPUcD1IIZrYGTSIpvTmd3dRmPo.jpg",
-      "genre_ids": [
-        28,
-        53,
-        878
-      ],
-      "vote_average": 7.516,
-      "vote_count": 5322,
-      "release_date": "2018-05-31"
-    },
-    {
-      "id": 766507,
-      "media_type": "movie",
-      "title": "Здобич",
-      "original_title": "Prey",
-      "overview": "Події фільму розгортаються на землях індіанського племені команчів. Головна героїня Нару всупереч традиціям свого народу хоче стати мисливцем. Її суперником стає Хижак, небезпечний інопланетний воїн, який прибув на Землю з однією метою — вбивати.",
-      "poster_path": "/vYdH9p51JbzR3Vt89uFK9LE1u9l.jpg",
-      "backdrop_path": "/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg",
-      "genre_ids": [
-        53,
-        28,
-        878
-      ],
-      "vote_average": 7.643,
-      "vote_count": 8065,
-      "release_date": "2022-08-05"
-    },
-    {
-      "id": 333371,
-      "media_type": "movie",
-      "title": "Вулиця Монстро, 10",
-      "original_title": "10 Cloverfield Lane",
-      "overview": "Після автомобільної аварії молода жінка приходить до тями в підвалі незнайомця, котрий переконує, що врятував її життя. Вона не знає, як і чому опинилася тут, але чоловік запевняє, що світ нагорі уражений невідомою хімічною атакою й вийти означає приректи себе на загибель. Але де насправді смертельна небезпека: назовні чи в моторошному підвалі?",
-      "poster_path": "/r6tWbAHOiJ8b1d1iM4h3SAyOdLj.jpg",
-      "backdrop_path": "/dMERTVrObB7TkRVIFmcndR2sZFH.jpg",
-      "genre_ids": [
-        53,
-        878,
-        18,
-        27
-      ],
-      "vote_average": 7.01,
-      "vote_count": 9007,
-      "release_date": "2016-03-10"
-    },
-    {
-      "id": 9682,
-      "media_type": "movie",
-      "title": "Пульс",
-      "original_title": "Pulse",
-      "overview": "Після загадкової смерті свого друга, комп’ютерного хакера, група студентів коледжу виявляє, що він випадково відкрив канал для жахаючого зла, що проникнуло в їхній світ.",
-      "poster_path": "/oXOjvrXYRXkqg4QaEpseuExbLe.jpg",
-      "backdrop_path": "/dTDETgmTPeEbnI3cwfQhTETgygv.jpg",
+      "title": "Відеодром",
+      "original_title": "Videodrome",
+      "overview": "Макс — телевізійний продюсер, який намагається знайти незвичайні відеоматеріали 18+ для свого кабельного телеканалу. В процесі пошуку він випадково ловить сигнал каналу, де показують реальні сексуальні тортури і вбивства. Макс вирішує добути будь-яку інформацію про джерело дивного сигналу. Незабаром він дізнається, що програма під назвою Відеодром змушує тіла глядачів і психіку розкладатися.",
+      "poster_path": "/norQ6Tx91kzxIq8bmCdt0J58Ptu.jpg",
+      "backdrop_path": "/eBS1nvaQ7BMdsSlkoLyKapf0FEY.jpg",
       "genre_ids": [
         27,
         878,
-        9648,
-        18
+        9648
       ],
-      "vote_average": 5.071,
-      "vote_count": 611,
-      "release_date": "2006-08-11"
+      "vote_average": 7.25,
+      "vote_count": 2605,
+      "release_date": "1983-02-04"
     },
     {
-      "id": 14138,
+      "id": 41428,
       "media_type": "movie",
-      "title": "Хижі води",
-      "original_title": "Black Water",
-      "overview": "Ґрейс, Адам і Лі вирішують провести вихідні на риболовлі на мальовничій річці, серед непрохідних джунглів. На місці вони винаймають провідника — кращого знавця місцевості. Чудова погода, неперевершені місця, гарний улов — все вказує на те, що подорож буде легкою та цікавою. Але навіть такий досвідчений професіонал, як їхній провідник, не підозрює, яка небезпека прихована в тихій і на вигляд безпечній воді...",
-      "poster_path": "/4TJHWPN7L5QexJ07mMywz08l8Hi.jpg",
-      "backdrop_path": "/zKciMUA5pn4mDJTKiSkhjq3s3hm.jpg",
-      "genre_ids": [
-        12,
-        18,
-        27
-      ],
-      "vote_average": 5.927,
-      "vote_count": 402,
-      "release_date": "2008-02-22"
-    },
-    {
-      "id": 1062215,
-      "media_type": "movie",
-      "title": "Вона слухає",
-      "original_title": "Afraid",
-      "overview": "Кертіс Пайк і його родина вибираються для тестування нового домашнього пристрою: цифрового помічника під назвою AIA. AIA спостерігає за поведінкою сім'ї та починає передбачати їхні потреби. І вона може – і буде – подбати про те, щоб ніщо і ніхто не ставало на шляху її сім’ї.",
-      "poster_path": "/e0dOy6U26ZcBuI15F92S9RKYjFi.jpg",
-      "backdrop_path": "/zu4m80pS1EBqDd000xD6exSyHp4.jpg",
+      "title": "Тецуо: Людина-залізо",
+      "original_title": "鉄男",
+      "overview": "Бізнесмен випадково вбиває Фетишиста, який мстить, повільно перетворюючи його на гротескний гібрид плоті та іржі.",
+      "poster_path": "/1rN8MtmKunrFzYJuemZyE4ElwDH.jpg",
+      "backdrop_path": "/xt75NSIlfzwPwuBsuarB3i1mBxj.jpg",
       "genre_ids": [
         27,
-        878,
-        53
-      ],
-      "vote_average": 5.9,
-      "vote_count": 554,
-      "release_date": "2024-08-28"
-    },
-    {
-      "id": 16307,
-      "media_type": "movie",
-      "title": "Плетена людина",
-      "original_title": "The Wicker Man",
-      "overview": "На невеликий острів Саммерайленд, розташований біля берегів Шотландії, припливає поліцейський інспектор сержант Гові, щоб розслідувати зникнення місцевої дівчинки-підлітка. На острові, однак, він стикається з холодною ворожістю місцевих жителів. Крім того, сержант з'ясовує, що абсолютно всі жителі острова на чолі зі своїм лідером, лордом Саммерайлом, практикують ритуали стародавнього кельтського язичництва...",
-      "poster_path": "/bDOZjeeQP5CoRBZMVRo0tX0Pf3e.jpg",
-      "backdrop_path": "/qhPuXbHCIbE94doMxYsY2W3wMry.jpg",
-      "genre_ids": [
-        27
-      ],
-      "vote_average": 7.329,
-      "vote_count": 1756,
-      "release_date": "1973-12-06"
-    },
-    {
-      "id": 1255,
-      "media_type": "movie",
-      "title": "Вторгнення динозавра",
-      "original_title": "괴물",
-      "overview": "Під час утилізації формальдегіду з американської військової бази в річку Хан виливається величезна кількість токсичних речовин. Через деякий час в річці заводиться страшне чудовисько.",
-      "poster_path": "/i4WN54nsdNMSaIyOxKqX0m0itj9.jpg",
-      "backdrop_path": "/m0wczZyNfWpu5q9wNuhFUGGiLxG.jpg",
-      "genre_ids": [
-        27,
-        18,
         878
       ],
       "vote_average": 7.0,
-      "vote_count": 3273,
-      "release_date": "2006-07-27"
+      "vote_count": 744,
+      "release_date": "1989-07-01"
     },
     {
-      "id": 10226,
+      "id": 151368,
       "media_type": "movie",
-      "title": "Криваві жнива",
-      "original_title": "Haute Tension",
-      "overview": "Дві кращі подруги і кровожерний вбивця. Героїням фільму за одну ніч доведеться пережити найстрашніший кошмар, який тільки вони могли собі уявити. Вони зіткнуться зі страхом невідомого, зі страхом темноти і тваринним страхом невідворотності смерті.",
-      "poster_path": "/hZxQVZIgEmDfMNaV2FbBdx8iI79.jpg",
-      "backdrop_path": "/ecn4qv1SzQaZ8jMyPPs307UqKxa.jpg",
+      "title": "Відкриті вікна",
+      "original_title": "Open Windows",
+      "overview": "Нік без розуму від актриси Джилл Годдард і з задоволенням приймає участь в конкурсі, приз якого — вечеря із зіркою. Однак, надії героя зазнають краху, коли Джилл відмовляється з ним зустрітися. Вечір за ноутбуком приносить хлопцеві дзвінок в чаті. Людина на іншому кінці представляється Акордом, одним з агентів актриси і повідомляє, що у нього є вельми приваблива для Ніка пропозиція. Абияк погодившись на презент Акорда, головний герой і уявити не міг, в грі якого масштабу він стане пішаком.",
+      "poster_path": "/dHA9jV7xKWjOvv2lYWxDwAmZjhk.jpg",
+      "backdrop_path": "/6YZnVLBpXdIleygcyh75NKrV9I5.jpg",
       "genre_ids": [
-        27,
         53,
+        28,
+        80
+      ],
+      "vote_average": 5.1,
+      "vote_count": 497,
+      "release_date": "2014-07-04"
+    },
+    {
+      "id": 11020,
+      "media_type": "movie",
+      "title": "Пікнік біля Висячої скелі",
+      "original_title": "Picnic at Hanging Rock",
+      "overview": "14-го лютого 1900-го року студентки жіночого коледжу Епл Ярд відправилися на пікнік до підніжжя Висячої скелі. Четверо дівчат відпросилися прогулятися по скелях, а назад повернулася тільки одна. Пізніше серед каміння загубилася їх вчителька. Зникнення це так і залишилося загадкою...",
+      "poster_path": "/aaabJwiuFToTwMDGS8J8YYTy1xM.jpg",
+      "backdrop_path": "/41Mlaj6wfjlF4wQaVH0tjfDXvMi.jpg",
+      "genre_ids": [
+        18,
         9648
       ],
-      "vote_average": 6.783,
-      "vote_count": 1533,
-      "release_date": "2003-06-18"
+      "vote_average": 7.22,
+      "vote_count": 925,
+      "release_date": "1975-09-02"
+    },
+    {
+      "id": 660942,
+      "media_type": "movie",
+      "title": "Безневинні",
+      "original_title": "De uskyldige",
+      "overview": "Молода сім'я з двома дітьми дівчатками, одна з яких страждає аутизмом, переїзджає в новий район. На дитячому майданчику діти швидко собі заводять друзів. Граючись вони дізнаються, що мають надзвичайні сили....",
+      "poster_path": "/liYG8qCohGlFzCHrJT8SY4jEJWR.jpg",
+      "backdrop_path": "/4hAhZ66n5iasGtSYHTFg6oGdJk0.jpg",
+      "genre_ids": [
+        27,
+        18,
+        14
+      ],
+      "vote_average": 6.919,
+      "vote_count": 800,
+      "release_date": "2021-09-03"
+    },
+    {
+      "id": 471498,
+      "media_type": "movie",
+      "title": "Кисень",
+      "original_title": "Oxygène",
+      "overview": "Прокинувшись в кріогенній камері, Ліз щосили намагається вижити і згадати, хто вона, поки не скінчився кисень.",
+      "poster_path": "/yl3Dz7mMZw9UuOmu4zokEVOt3wN.jpg",
+      "backdrop_path": "/jedggylU3FyIN7XRAl9WY8mrT6H.jpg",
+      "genre_ids": [
+        878,
+        53,
+        27
+      ],
+      "vote_average": 6.608,
+      "vote_count": 1624,
+      "release_date": "2021-05-12"
+    },
+    {
+      "id": 297608,
+      "media_type": "movie",
+      "title": "Демони Дебори Логан",
+      "original_title": "The Taking of Deborah Logan",
+      "overview": "Знімальна група починає спостереження за Деборою Логан, встановлюючи камери в її будинку. Хроніка божевілля обертається одержимістю, що має страшні і непередбачувані причини.",
+      "poster_path": "/8R2szYzydlR2d4bilMvjIVSFgnj.jpg",
+      "backdrop_path": "/xqhTXB86dkKe4jalwUFIjiFgaYB.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "vote_average": 6.557,
+      "vote_count": 1564,
+      "release_date": "2014-10-21"
+    },
+    {
+      "id": 575776,
+      "media_type": "movie",
+      "title": "Свята Мод",
+      "original_title": "Saint Maud",
+      "overview": "Віруюча дівчина Мод працює доглядальницею в смертельно хворої Аманди, яка раніше була успішною танцівницею. Остання проживає у величезному будинку й одного разу називає героїню своєю рятівницею. Після цього дівчина вирішує, що тільки вона здатна позбавити її від вічних мук.",
+      "poster_path": "/4Op6690jhgl4IHXWz1iqP1lD64d.jpg",
+      "backdrop_path": "/1WKxsnrhLoKPHcTyph7lhZnAMjR.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "vote_average": 6.547,
+      "vote_count": 954,
+      "release_date": "2020-10-09"
+    },
+    {
+      "id": 530385,
+      "media_type": "movie",
+      "title": "Сонцестояння",
+      "original_title": "Midsommar",
+      "overview": "Молода пара відправляється відпочити влітку в Швецію. Попутно вони відвідують старого приятеля в невеликому селі, де якраз проходить місцевий фестиваль. Однак незабаром з’ясовується, що за святом сонцестояння Мідсоммар ховається загадковий язичницький культ.",
+      "poster_path": "/A68EGr4WVlQdZcXAfyqFzzWP0Ua.jpg",
+      "backdrop_path": "/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg",
+      "genre_ids": [
+        27,
+        18,
+        9648
+      ],
+      "vote_average": 7.142,
+      "vote_count": 8534,
+      "release_date": "2019-07-03"
+    },
+    {
+      "id": 790,
+      "media_type": "movie",
+      "title": "Туман",
+      "original_title": "The Fog",
+      "overview": "У маленькому рибальському містечку живуть духи загиблих моряків. Рівно сто років тому біля скель розбилось судно з рибалками, і ось тепер місто огортає щільний туман, який розривають буйні привиди минулого.",
+      "poster_path": "/xD76hhyzcfWcUPdXvYgH7QJwfcJ.jpg",
+      "backdrop_path": "/pAOLiapALC7Q5pcCPDTA6P9pRuv.jpg",
+      "genre_ids": [
+        27
+      ],
+      "vote_average": 6.743,
+      "vote_count": 1839,
+      "release_date": "1980-02-01"
+    },
+    {
+      "id": 565,
+      "media_type": "movie",
+      "title": "Дзвінок",
+      "original_title": "The Ring",
+      "overview": "Є одна таємнича відео-касета. Кожен, хто її подивиться - вмирає. Неминуча смерть наступає рівно за тиждень після перегляду. Головна героїня, журналістка Рейчел, розслідує ці страшні події. Випадково касета потрапляє до її сина, над яким тепер теж нависає смертельна загроза. Рейчел доведеться бігти наввипередки зі смертю, щоб хоч щось змінити та знайти пояснення тому, що відбувається.",
+      "poster_path": "/AgczIAqcGkqgMTPvUEakAFPwHLN.jpg",
+      "backdrop_path": "/6tuNQ16hC4Qp7wjTweKzUnnLBkI.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "vote_average": 6.711,
+      "vote_count": 6936,
+      "release_date": "2002-10-18"
+    },
+    {
+      "id": 9392,
+      "media_type": "movie",
+      "title": "Спуск",
+      "original_title": "The Descent",
+      "overview": "Компанія відчайдушних подруг вирушає у відпустку для вивчення віддалених гірських печер. Таємниці підземного світу примушують їх забути про обережність і спуститися у загадковий грот. Темрява, холод, відчай і жах — далеко не єдині їх попутники у цих мандрах...",
+      "poster_path": "/76buonT9VOacq8fI6Zmx8LMpc72.jpg",
+      "backdrop_path": "/9T5D5RGuCsC6CeqYZJTv4rT4RPy.jpg",
+      "genre_ids": [
+        12,
+        27
+      ],
+      "vote_average": 6.988,
+      "vote_count": 4634,
+      "release_date": "2005-07-08"
+    },
+    {
+      "id": 503919,
+      "media_type": "movie",
+      "title": "Маяк",
+      "original_title": "The Lighthouse",
+      "overview": "Маяк оповідає про пригоди двох доглядачів маяка, коли вони стикаються з самотністю, дружбою та своїми найгіршими страхами.",
+      "poster_path": "/mNg5YHO5cmXEigDuua1ZoXKB6DH.jpg",
+      "backdrop_path": "/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
+      "genre_ids": [
+        18,
+        14,
+        53
+      ],
+      "vote_average": 7.5,
+      "vote_count": 5855,
+      "release_date": "2019-10-18"
+    },
+    {
+      "id": 36095,
+      "media_type": "movie",
+      "title": "Зцілення",
+      "original_title": "キュア",
+      "overview": "Детектив розслідує серію жахливих вбивств, у яких на шиї кожної жертви висічено X, а вбивцю знаходять поруч із жертвою кожного випадку та нічого не пам’ятає про злочин. Фільм вважають прабатьком вибуху японських медіа жахів наприкінці 1990-х і на початку 2000-х років, передуючи іншим релізам, таким як «Кільце» Хідео Накати та «Джу-Он: Невдоволення» Такаші Шимізу.",
+      "poster_path": "/g0ZvBoMYD7LXCU3Nap1F5EdRP5l.jpg",
+      "backdrop_path": "/xxIRKSd9LmHojUD5grvMuGypwVC.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        80
+      ],
+      "vote_average": 7.614,
+      "vote_count": 916,
+      "release_date": "1997-12-27"
+    },
+    {
+      "id": 424121,
+      "media_type": "movie",
+      "title": "Апостол",
+      "original_title": "Apostle",
+      "overview": "1905 год. Томас Річардсон відправляється на віддалений острів, щоб врятувати сестру, викрадену таємною релігійною громадою. На місці герой зіткнеться з секретами і брехнею, на яких будується громада, і її члени гірко пошкодують про те, що перейшли дорогу цій людині.",
+      "poster_path": "/julUy7JsAf0bpmY1sXY2nPCtGPc.jpg",
+      "backdrop_path": "/tvGTSdLjKJgFHTcF4x9HSxoTIgW.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "vote_average": 6.157,
+      "vote_count": 1670,
+      "release_date": "2018-09-21"
     }
   ]
 }
