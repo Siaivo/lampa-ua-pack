@@ -3,43 +3,221 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"104\" y=\"176\" width=\"216\" height=\"208\" rx=\"28\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"28\" d=\"M320 224h28a52 52 0 0 1 0 104h-28\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"20\" stroke-linecap=\"round\" d=\"M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60\"/></svg>",
   "title": "Затишок",
   "lang": "uk",
-  "updated_at": "2026-10-20T01:02:40Z",
+  "updated_at": "2026-10-22T00:34:22Z",
   "items": [
     {
-      "id": 126319,
+      "id": 10758,
       "media_type": "movie",
-      "title": "Ернест і Селестіна",
-      "original_title": "Ernest et Célestine",
-      "overview": "Зворушлива історія про дружбу ведмедя Ернеста та мишки Селєстіни. Їхні світи зовсім різні, але в чомусь дуже схожі. Як от в упередженому ставленні двох народів одне до одного. Але справжня дружба здолає будь-які перепони.",
-      "poster_path": "/a15e4wuYLjjUtDZPYrKkqDT7buX.jpg",
-      "backdrop_path": "/1yQpY4UCaGEirYq9EqTrDvZ24KQ.jpg",
+      "title": "Офіціантка",
+      "original_title": "Waitress",
+      "overview": "Черрі працює в забігайлівці одного з провінційних містечок на півдні США. Коли вона дізнається, що вагітна, то вирішує кардинально змінити своє життя. Відносини з інфантильним чоловіком Ерлом вона продовжувати більше не збирається. Черрі вважає, що всім її надіям на краще життя не судилося збутися, але тут в містечку з'являється красень-доктор.",
+      "poster_path": "/rb3rN1oegQtuZBm3DXL1HWlC7v8.jpg",
+      "backdrop_path": "/cmdaPEbxLhty4cvxXhJx8KFe5Bh.jpg",
       "genre_ids": [
-        16,
-        10751,
-        80,
         18,
-        35
+        35,
+        10749
       ],
-      "vote_average": 7.757,
-      "vote_count": 721,
-      "release_date": "2012-12-12"
+      "vote_average": 6.712,
+      "vote_count": 588,
+      "release_date": "2007-05-25"
     },
     {
-      "id": 531,
+      "id": 5139,
       "media_type": "movie",
-      "title": "Воллес і Громіт: Небезпечні штани",
-      "original_title": "The Wrong Trousers",
-      "overview": "Злодій-пінгвін знімає кімнату в будинку Воллеса. Щоб здійснити пограбування, пінгвін вирішив поцупити технічні штани, винайдені Воллесом, але Громіт стає на шляху у грабіжника.",
-      "poster_path": "/xAPh7fIOUMS9KaCGqWr6hWgTnaP.jpg",
-      "backdrop_path": "/9AbessEz2YKjmPtYKATDeYRW3Px.jpg",
+      "title": "Лисиця і Дитина",
+      "original_title": "Le Renard et l'Enfant",
+      "overview": "Мати захопливо повідає власному малюкові незабутній «казковий» епізод свого дитинства. Одного осіннього ранку, прямуючи лісовою стежкою до школи, коли вона була дівчинкою з 10 рочків віку, то випадково бачить лисицю. Відразу зачарована цією твариною, вона забуває ввесь свій страх і підходить до неї. Так починається найдивовижніша історія їхньої дружби. Завдяки своєму новому другові, на дитину чекає неймовірна пригода, яка змінить її життя та ставлення до природи.",
+      "poster_path": "/4iQHh6rz4IbkjCezzMQnD16Eiu7.jpg",
+      "backdrop_path": "/3Ndz1LOb8Y3X34GM9nx0kp61sXG.jpg",
+      "genre_ids": [
+        12,
+        10751
+      ],
+      "vote_average": 6.56,
+      "vote_count": 368,
+      "release_date": "2007-12-27"
+    },
+    {
+      "id": 9726,
+      "media_type": "movie",
+      "title": "Хороший рік",
+      "original_title": "A Good Year",
+      "overview": "Макс Скіннер – справжня акула лондонської фінансової біржі, який не гребує заради прибутку ніякими забороненими прийомами. Але він не завжди був таким. Давним-давно, Макс був чарівним маленьким хлопцем, який проводив час на прованському винограднику свого дядечка Генрі, грав у шахи, пірнав з трампліну в басейн і вивчав виноробні премудрості, які часто оберталися законами життя в цілому…",
+      "poster_path": "/oQzbHcmG8YMOjsugX6NxgKN7Rqg.jpg",
+      "backdrop_path": "/dV5AKLfihrUTfAqh7dj9MG3OUWl.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "vote_average": 6.698,
+      "vote_count": 1704,
+      "release_date": "2006-09-09"
+    },
+    {
+      "id": 10612,
+      "media_type": "movie",
+      "title": "Англієць, який піднявся на пагорб, а спустився з гори",
+      "original_title": "The Englishman Who Went Up a Hill But Came Down a Mountain",
+      "overview": "Двоє англійців приїжджають в 1917-му році в Уельське село як картографи і наштовхуються на місцевий пагорб Фінан-Гару, якому не вистачає всього 16 футів, щоб стати горою на карті. Незадоволені і ексцентричні жителі села вимагають переміряти гору, але уперті картографи цього робити не бажають. Тоді місцеві пускаються на хитрість, вирішуючи наростити пагорб землею з місцевих полів...",
+      "poster_path": "/s96XNz6eBsYDK3A9nVyEuHdv7BG.jpg",
+      "backdrop_path": "/wY1Rn2DnmDt7QKnGSH5be3JM7u7.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "vote_average": 6.351,
+      "vote_count": 329,
+      "release_date": "1995-05-12"
+    },
+    {
+      "id": 9662,
+      "media_type": "movie",
+      "title": "Тріо з Бельвіля",
+      "original_title": "Les Triplettes de Belleville",
+      "overview": "Чемпіон – маленький хлопчик, усиновлений своєю бабусею – мадам Сузою. Одного разу вона помічає, що її онук - дуже щасливий, коли катається на велосипеді. І тому згодом наполягає на тому, щоб він наполегливо тренувався. Минають роки і, нарешті, Чемпіон стає гідним свого імені. Він бере участь у всесвітньо відомій велогонці Тур де Франс. Але під час змагань двоє невідомих у чорному викрадають Чемпіона. Мадам Суза і її вірний пес Бруно вирушають на пошуки Чемпіона…",
+      "poster_path": "/2rksSB0mbgWc79uW6N5M0MRW2rN.jpg",
+      "backdrop_path": "/yciM9fhJ3er1eBXj4U32bjKb5R3.jpg",
       "genre_ids": [
         16,
         35,
+        18,
+        12
+      ],
+      "vote_average": 7.393,
+      "vote_count": 1086,
+      "release_date": "2003-06-11"
+    },
+    {
+      "id": 15677,
+      "media_type": "movie",
+      "title": "Черінґ Кросс Роуд, 84",
+      "original_title": "84 Charing Cross Road",
+      "overview": "Енергійна нью-йоркська письменниця Гелен починає зворушливу, але повну гумору переписку зі стриманим Френком, адміністратором невеличкого книжкового магазину в Лондоні.",
+      "poster_path": "/sbImaHsRP9TpCNIi4xMizaphZhk.jpg",
+      "backdrop_path": "/pW5TdAIHk8sIgYRmDOCOxgqgSrv.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 7.2,
+      "vote_count": 233,
+      "release_date": "1987-02-13"
+    },
+    {
+      "id": 147773,
+      "media_type": "movie",
+      "title": "Дорога, дорога додому",
+      "original_title": "The Way Way Back",
+      "overview": "Історія підлітка, який знайшов у собі сили протистояти жорстокому вітчиму і знову знайшов контакт з матір'ю. І все це завдяки дружбі, що зав'язалася у героя одного разу влітку.",
+      "poster_path": "/kd8SrKUEAWsRDemoVk5vglLLvSN.jpg",
+      "backdrop_path": "/bPm5kQLlc2KypdYkUxGbrGfLJ82.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 7.127,
+      "vote_count": 2025,
+      "release_date": "2013-06-06"
+    },
+    {
+      "id": 883,
+      "media_type": "movie",
+      "title": "Кава і цигарки",
+      "original_title": "Coffee and Cigarettes",
+      "overview": "Колекція з 11 фільмів Джима Джармуша. Кожен фільм представляє якусь іншу зірку з яскравою індивідуальністю, але всі вони проводять час за розмовою з кавою та цигарками.",
+      "poster_path": "/pfG02QCsutx3PIxFS8UY4iM9AsS.jpg",
+      "backdrop_path": "/AtPCvNJVrngHxpoogQsQkIZBs3D.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 6.9,
+      "vote_count": 1099,
+      "release_date": "2004-03-12"
+    },
+    {
+      "id": 61511,
+      "media_type": "tv",
+      "title": "Отець Браун",
+      "original_title": "Father Brown",
+      "overview": "Отець Браун - непримітного вигляду священик, який володіє влучним оком, здатним помічати найдрібніші хвилювання в душах людей, які приходять до нього за порадою і підтримкою.",
+      "poster_path": "/p7vhDIkPVySMBGsPnAQXIiC6OsB.jpg",
+      "backdrop_path": "/96v57BttdxvquxnVozkQUsGvawQ.jpg",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "vote_average": 7.674,
+      "vote_count": 149,
+      "release_date": "2013-01-14"
+    },
+    {
+      "id": 4500,
+      "media_type": "tv",
+      "title": "Чудові роки",
+      "original_title": "The Wonder Years",
+      "overview": "Кевін Арнольд згадує, як соціальні зміни в 60-і роки робили дорослішання надзвичайно цікавим.",
+      "poster_path": "/tkaduqdhFrF1vp8L55OJfB5jw8Z.jpg",
+      "backdrop_path": "/XuJi5lKkYLCFpJprfSUZveRof7.jpg",
+      "genre_ids": [
+        35,
+        18,
         10751
       ],
-      "vote_average": 7.841,
-      "vote_count": 1212,
-      "release_date": "1993-12-17"
+      "vote_average": 8.351,
+      "vote_count": 1125,
+      "release_date": "1988-01-31"
+    },
+    {
+      "id": 66134,
+      "media_type": "tv",
+      "title": "Даррелли",
+      "original_title": "The Durrells",
+      "overview": "Родина Даррелів, після смерті батька переселяються з Англії до Греції у пошуках кращого та дешевшого життя.",
+      "poster_path": "/eoLkAPfki2bqvEniuD9bdN7Nmfk.jpg",
+      "backdrop_path": "/xhNtmyX53yNVpqMtOV2BJd9JuDR.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10751
+      ],
+      "vote_average": 7.449,
+      "vote_count": 127,
+      "release_date": "2016-04-03"
+    },
+    {
+      "id": 1400,
+      "media_type": "tv",
+      "title": "Сайнфелд",
+      "original_title": "Seinfeld",
+      "overview": "Поневіряння міського невротика, стенд-ап коміка Джеррі Сайнфелда та його настільки ж неврастенічних нью-йоркських друзів.",
+      "poster_path": "/2roqp3NfMeJhO5XnpjOMHcy6njF.jpg",
+      "backdrop_path": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+      "genre_ids": [
+        35
+      ],
+      "vote_average": 8.251,
+      "vote_count": 2485,
+      "release_date": "1989-07-05"
+    },
+    {
+      "id": 62391,
+      "media_type": "tv",
+      "title": "Секрети від шефа",
+      "original_title": "Chef's Table",
+      "overview": "У цьому серіалі, номінованому на «Еммі», кулінарні зірки з різних куточків світу перевертають уявлення про вишукану їжу своїми новаторськими й неперевершеними стравами.",
+      "poster_path": "/2aTdai1vsWr2NjdYEBDxA2hffXb.jpg",
+      "backdrop_path": "/6ISnUuFeHLW72AOvJhLEO7VQG1g.jpg",
+      "genre_ids": [
+        99
+      ],
+      "vote_average": 7.691,
+      "vote_count": 136,
+      "release_date": "2015-04-26"
     },
     {
       "id": 453191,
@@ -54,189 +232,9 @@
         16,
         35
       ],
-      "vote_average": 7.718,
+      "vote_average": 7.727,
       "vote_count": 328,
       "release_date": "2017-06-21"
-    },
-    {
-      "id": 10315,
-      "media_type": "movie",
-      "title": "Незрівнянний містер Фокс",
-      "original_title": "Fantastic Mr. Fox",
-      "overview": "Розлючені фермери, втомлені від постійних нападів \"хитрого лиса\" на курники, готуються знищити свого ворога та його \"хитру\" родину. Що вийде з цього протистояння?",
-      "poster_path": "/kduzG33eOgzXyG8WB2jEGVZsYh4.jpg",
-      "backdrop_path": "/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
-      "genre_ids": [
-        12,
-        16,
-        35,
-        10751
-      ],
-      "vote_average": 7.828,
-      "vote_count": 6392,
-      "release_date": "2009-10-14"
-    },
-    {
-      "id": 532,
-      "media_type": "movie",
-      "title": "Воллес і Громіт: Стрижка під нуль",
-      "original_title": "A Close Shave",
-      "overview": "Історія, в якій Воллес захоплюється власницею крамниці з продажу вовни, а місто приголомшує масове зникнення овець. Хто ж був визнаний винним у всіх злочинах? — Бідолашний малюк Громіт! Тепер Воллесу потрібно будь-що врятувати свого друга. Групова еквілібристика овець на швидкісному мотоциклі, стрижка «під нуль» собаки-кіборга і дебют Громіта, як аса авіації...",
-      "poster_path": "/nbQiDgCxdBUIKasKn3Hn3373Vz0.jpg",
-      "backdrop_path": "/aD8ZhhrlJ6PXDiyyIvaMltxfbSz.jpg",
-      "genre_ids": [
-        10751,
-        16,
-        35
-      ],
-      "vote_average": 7.597,
-      "vote_count": 982,
-      "release_date": "1996-03-07"
-    },
-    {
-      "id": 404,
-      "media_type": "movie",
-      "title": "Проста історія",
-      "original_title": "The Straight Story",
-      "overview": "Елвін Стрейт, старий, що пройшов Другу Світову Війну, живе в Айові разом з дочкою Розою. Одного разу він дізнається, що у його рідного брата Лайла, що живе за 317 миль у Вісконсині, трапився інсульт. Намагаючись забути про давню ворожнечу, Елвін хоче навідати до нього. Однак через поганий зір Елвін не має водійських прав, а автобуси не ходять до місця проживання брата. Тому він вирушає в дорогу на старій газонокосарці 1966 року, купленій перед поїздкою...",
-      "poster_path": "/fgV0xzb2maGImL2SCSjZmFZobg3.jpg",
-      "backdrop_path": "/1S81PpyGwS8eVx4W75uSKzMw4B0.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.735,
-      "vote_count": 1899,
-      "release_date": "1999-10-15"
-    },
-    {
-      "id": 559713,
-      "media_type": "movie",
-      "title": "Друзі рибалки",
-      "original_title": "Fisherman's Friends",
-      "overview": "Денні — злегка пошарпаний солодким життям музичний продюсер з Лондона — відправляється на вихідні в Корнуолл, прихопивши з собою за компанію колег-піарників. Він жартує, що не проти укласти контракт з місцевим аматорським хором: і на дозвіллі, і за роботою суворі рибалки люблять поспівати. Але Джим не представляє, до чого призведе розіграш довірливих колег: сільські мешканці опиняться справжніми самородками, а сам Джим закохається в дочку одного з них.",
-      "poster_path": "/wst1gKloyAL9usrFL0vgmiYY66E.jpg",
-      "backdrop_path": "/xxjFyF0onOaH1MvTrOsuA47v74R.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10402
-      ],
-      "vote_average": 6.753,
-      "vote_count": 200,
-      "release_date": "2019-03-15"
-    },
-    {
-      "id": 11076,
-      "media_type": "movie",
-      "title": "Летіть додому",
-      "original_title": "Fly Away Home",
-      "overview": "Перед маленькою Енні постає складне завдання - виховати зграйку гусенят, які, як і вона, залишилися без мами. Наближається зима, і якщо її нові підопічні не зможуть відлетіти на південь, то загинуть через холоднечу у суворій Канаді. Тільки завзятість, сміливість та любов можуть допомогти Енні та її батькові - вони вирішують побудувати власний літак, на якому Енні повинна пролетіти через увесь американський континент, щоб відвести своїх пташенят туди, де тепло, де сонце, додому...",
-      "poster_path": "/jLhfCQxCwc3Zyh9zgmyMcAPDNFB.jpg",
-      "backdrop_path": "/gJeF1Pn9nsSsexqaQpS0G840nI2.jpg",
-      "genre_ids": [
-        12,
-        18,
-        10751
-      ],
-      "vote_average": 6.975,
-      "vote_count": 531,
-      "release_date": "1996-09-13"
-    },
-    {
-      "id": 448491,
-      "media_type": "movie",
-      "title": "Маленький ліс",
-      "original_title": "리틀 포레스트",
-      "overview": "Хе Вон залишила свій будинок у сільській місцевості, щоб поїхати у велике місто та чогось добитися. Але вона не може знайти роботу, розриває стосунки, і тому, прагнучи втекти від міської суєти, повертається до рідного села. Відновлюючи зв’язки зі своїми друзями Дже Ха та Ин Сук, Хе Вон також знаходить маленькі радості в їжі та красі життя в тісній гармонії з природою.",
-      "poster_path": "/6sC1tAub31ng54ZeTg48GPifJYI.jpg",
-      "backdrop_path": "/vTw1MjLJfCFzFdq5iElKpjI0LIV.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.632,
-      "vote_count": 190,
-      "release_date": "2018-02-28"
-    },
-    {
-      "id": 62391,
-      "media_type": "tv",
-      "title": "Секрети від шефа",
-      "original_title": "Chef's Table",
-      "overview": "У цьому серіалі, номінованому на «Еммі», кулінарні зірки з різних куточків світу перевертають уявлення про вишукану їжу своїми новаторськими й неперевершеними стравами.",
-      "poster_path": "/2aTdai1vsWr2NjdYEBDxA2hffXb.jpg",
-      "backdrop_path": "/6ISnUuFeHLW72AOvJhLEO7VQG1g.jpg",
-      "genre_ids": [
-        99
-      ],
-      "vote_average": 7.681,
-      "vote_count": 135,
-      "release_date": "2015-04-26"
-    },
-    {
-      "id": 5639,
-      "media_type": "tv",
-      "title": "Живий за викликом",
-      "original_title": "Pushing Daisies",
-      "overview": "Хлопчик виявляє, що може оживляти одним дотиком. Однак, цей дар як дарує, так і забирає життя. Якщо протягом хвилини не доторкнутися до живого знову, гине хтось інший. Якщо ж доторкнутися... цей живий знову повертається у світ мертвих уже назавжди.  Хлопчик дорослішає та, користуючись своїм даром, розкриває вбивства: оживляє жертву на хвилину, з'ясовує ім'я винного та все повертає назад. Але одного разу він повинен з'ясувати, хто вбив дівчину, що була його дитячим коханням...",
-      "poster_path": "/oSRO8cGvve0pggPK9gHGItfl4j5.jpg",
-      "backdrop_path": "/pOL55kV8xkd6nGZ52s7nQyRov2B.jpg",
-      "genre_ids": [
-        18,
-        10765,
-        80
-      ],
-      "vote_average": 7.866,
-      "vote_count": 496,
-      "release_date": "2007-10-03"
-    },
-    {
-      "id": 13156,
-      "media_type": "movie",
-      "title": "Старі леви",
-      "original_title": "Secondhand Lions",
-      "overview": "Малого і невпевненого в собі хлопця Волтера мати Мей (жіночка вертлявої натури) привозить до двох старих дядьків. Вони не дуже раді цьому візиту, оскільки живуть майже як відлюдники. Ходять чутки, що старі ветерани приховують величезні статки (купу грошей). Мей дає Волтеру завдання дізнатися, де вони їх ховають, очевидно, щоб потім привласнити. Але події розгортаються в іншому руслі...",
-      "poster_path": "/rUCKOoeg70vBKlAGLNfLHEtikVI.jpg",
-      "backdrop_path": "/ithoU8bcAj5dIaKkhN4ybiiWhyK.jpg",
-      "genre_ids": [
-        10751,
-        35,
-        18
-      ],
-      "vote_average": 7.24,
-      "vote_count": 867,
-      "release_date": "2003-09-19"
-    },
-    {
-      "id": 392011,
-      "media_type": "movie",
-      "title": "Королівство котів",
-      "original_title": "Kedi",
-      "overview": "Вулиці Стамбула належать тим, хто гуляє по ним сам по собі: тисячам котів і кішок. «Кеді» — історія красивого міста  очима семи чарівних і дуже незалежних гультяй героїв — кішок, а також людей, які піклуються про них.",
-      "poster_path": "/8jukiwoXZRo7oBsxAwFk1tA5HUq.jpg",
-      "backdrop_path": "/x4yZrzpiVhdWV6Q5KURqiezChbV.jpg",
-      "genre_ids": [
-        99
-      ],
-      "vote_average": 7.508,
-      "vote_count": 382,
-      "release_date": "2017-01-08"
-    },
-    {
-      "id": 370755,
-      "media_type": "movie",
-      "title": "Патерсон",
-      "original_title": "Paterson",
-      "overview": "Патерсон – звичайний водій автобусу в містечку Патерсон, штат Нью-Джерсі. У нього відмінне життя, де є місце щастю. У вільний від роботи час цей хлопець перетворюється в поета і пише вірші для своєї дружини Лори. Патерсон навіть не збирається заробляти цим на життя, так як для нього це всього лише хобі. Але він цим живе. Дружина часто просить його показати свої творіння світу. Адже скільки краси приховано він наших очей...",
-      "poster_path": "/e7Wgkq3PT3DoOTAD18eMG7B6yLi.jpg",
-      "backdrop_path": "/5Bk7kYSKAuNrxI5BXpDqlsln2P0.jpg",
-      "genre_ids": [
-        18,
-        35,
-        10749
-      ],
-      "vote_average": 7.119,
-      "vote_count": 2139,
-      "release_date": "2016-11-17"
     },
     {
       "id": 44379,
@@ -249,8 +247,8 @@
       "genre_ids": [
         99
       ],
-      "vote_average": 7.652,
-      "vote_count": 233,
+      "vote_average": 7.65,
+      "vote_count": 234,
       "release_date": "2000-07-07"
     }
   ]
