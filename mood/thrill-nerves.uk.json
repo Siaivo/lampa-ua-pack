@@ -3,251 +3,253 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"32\" stroke-linejoin=\"round\" d=\"M256 56c-92 0-164 74-164 166v226l46-38 46 38 36-38 36 38 36-38 36 38 46-38 46 38V222c0-92-72-166-164-166z\"/><ellipse cx=\"208\" cy=\"222\" rx=\"26\" ry=\"36\" fill=\"currentColor\"/><ellipse cx=\"304\" cy=\"222\" rx=\"26\" ry=\"36\" fill=\"currentColor\"/><ellipse cx=\"256\" cy=\"310\" rx=\"22\" ry=\"30\" fill=\"currentColor\"/></svg>",
   "title": "Страшно",
   "lang": "uk",
-  "updated_at": "2026-10-25T00:08:45Z",
+  "updated_at": "2026-10-25T23:57:14Z",
   "items": [
     {
-      "id": 433808,
+      "id": 409297,
       "media_type": "movie",
-      "title": "Ритуал",
-      "original_title": "The Ritual",
-      "overview": "Четверо колишніх однокласників відправляються в похід по горах і лісах, щоб вшанувати пам’ять загиблого друга. Спочатку вони дотримуються загальноприйнятого маршруту, але потім вирішують трохи прогулятися в бік від натоптаноъї стежки і знаходять в лісі дивний будинок.",
-      "poster_path": "/9022CYEGqYETCeXN1oE3uwYJWub.jpg",
-      "backdrop_path": "/vaArQHq1lHFNppoJlMlv30Gs2fQ.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "vote_average": 6.31,
-      "vote_count": 3635,
-      "release_date": "2017-10-11"
-    },
-    {
-      "id": 16307,
-      "media_type": "movie",
-      "title": "Плетена людина",
-      "original_title": "The Wicker Man",
-      "overview": "На невеликий острів Саммерайленд, розташований біля берегів Шотландії, припливає поліцейський інспектор сержант Гові, щоб розслідувати зникнення місцевої дівчинки-підлітка. На острові, однак, він стикається з холодною ворожістю місцевих жителів. Крім того, сержант з'ясовує, що абсолютно всі жителі острова на чолі зі своїм лідером, лордом Саммерайлом, практикують ритуали стародавнього кельтського язичництва...",
-      "poster_path": "/bDOZjeeQP5CoRBZMVRo0tX0Pf3e.jpg",
-      "backdrop_path": "/qhPuXbHCIbE94doMxYsY2W3wMry.jpg",
-      "genre_ids": [
-        27
-      ],
-      "vote_average": 7.332,
-      "vote_count": 1762,
-      "release_date": "1973-12-06"
-    },
-    {
-      "id": 74725,
-      "media_type": "movie",
-      "title": "Список смертників",
-      "original_title": "Kill List",
-      "overview": "Катастрофа, що сталася в столиці України, залишила на тілі і в душі колишнього солдата британської армії Джея найважчі шрами. Жорстокість і безжалісність стає новою якістю його особистості. Він, зразковий сім’янин і люблячий батько, стає найманим вбивцею і разом зі своїм новим партнером Галлом відправляється на перше завдання. Поступово страх і параноя занурюють його в самі глибини темряви.",
-      "poster_path": "/3L2hgj5oXQvFDAEsdaPT4g57FAc.jpg",
-      "backdrop_path": "/ptZypdOBofmADX9JCtgi5E38cnC.jpg",
-      "genre_ids": [
-        27,
-        53,
-        80
-      ],
-      "vote_average": 6.189,
-      "vote_count": 927,
-      "release_date": "2011-09-02"
-    },
-    {
-      "id": 10665,
-      "media_type": "movie",
-      "title": "Незнайомці",
-      "original_title": "The Strangers",
-      "overview": "Досі не відомо, що саме трапилося 11 лютого 2005 року в літньому будиночку сім’ї Гойт. Було шампанське, пелюстки троянд і свічки. Крістен Маккей і Джеймс Гойт повернулися з весільної вечірки в романтичному настрої. О 4-й ранку в двері будинку постукали. Потім пролунав голос, від якого холоне душа. Далі з’явилися люди в страшних масках. Крістен і Джеймсу нікого було покликати на допомогу. Вони просто намагалися вижити…",
-      "poster_path": "/8RGlg2W7ie7tuB3V2LhqNqDNals.jpg",
-      "backdrop_path": "/y27M2hIwZRRvMAVEadFPP5hCPg1.jpg",
-      "genre_ids": [
-        27
-      ],
-      "vote_average": 6.113,
-      "vote_count": 2777,
-      "release_date": "2008-05-29"
-    },
-    {
-      "id": 310131,
-      "media_type": "movie",
-      "title": "Відьма: Нова англійська казка",
-      "original_title": "The Witch",
-      "overview": "Нова Англія, 1630-ті роки. Вільям і Кетрін з п'ятьма дітьми живуть на самотній фермі на узліссі стародавнього лісу. Сім'я починає руйнуватися від невідомого зла, коли їх новонароджений син таємничо зникає, врожай гине, а їхня донька підозрюється в чаклунстві.",
-      "poster_path": "/wOaw1cIdf5zhioOEOX9BvRbb9f6.jpg",
-      "backdrop_path": "/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+      "title": "Пісня диявола",
+      "original_title": "A Dark Song",
+      "overview": "Софія орендує заміський особняк в глушині і запрошує туди для якогось темного обряду окультиста Джозефа. Спочатку той відмовляється проводити обряд, але дізнавшись, що жінка втратила сина і хоче таким чином з ним поспілкуватися, погоджується. Софія закуповується їжею на півроку, окультист запечатує соляним кругом будинок, і тепер дороги назад немає — що б не сталося, вони повинні довести розпочате до кінця, перш ніж вийти назовні.",
+      "poster_path": "/8eJe6SEvTlkXVzyHhUc3vAmAJPl.jpg",
+      "backdrop_path": "/cgOwcK8H9cYiPWKhGxAy7EBLaKU.jpg",
       "genre_ids": [
         27,
         14,
         9648
       ],
-      "vote_average": 7.006,
-      "vote_count": 7969,
-      "release_date": "2016-02-19"
+      "vote_average": 6.33,
+      "vote_count": 611,
+      "release_date": "2016-07-08"
     },
     {
-      "id": 680593,
+      "id": 541560,
       "media_type": "movie",
-      "title": "Темні і злі",
-      "original_title": "The Dark and the Wicked",
-      "overview": "Брат з сестрою Майкл і Луїз приїжджають на віддалену батьківську ферму побачитися з тяжкохворим літнім батьком, але мати не дуже-то рада їх бачити. Вона каже дітям, що дарма вони приїхали, і на наступний день вішається в сараї. Майклу обставини її смерті здаються дивними, а Луїз знаходить щоденник матері, де та описує якусь злісну сутність, що підбирається все ближче.",
-      "poster_path": "/4DB9VFVTp0IQEWFEIf9f3f2z3t5.jpg",
-      "backdrop_path": "/7uEioqlOZrjmUQSX9jYVM00E7hk.jpg",
-      "genre_ids": [
-        27
-      ],
-      "vote_average": 6.124,
-      "vote_count": 587,
-      "release_date": "2020-04-16"
-    },
-    {
-      "id": 13312,
-      "media_type": "movie",
-      "title": "Помста немовляті",
-      "original_title": "À l'intérieur",
-      "overview": "Ставши винуватицею автомобільної аварії, Сара втратила чоловіка. Відтепер все її життя присвячено дитині, яку вона скоро має народити. Проте, щоразу засинаючи, жінка поринає в кошмар, який незабаром стане для неї реальністю, але значно страшнішою...",
-      "poster_path": "/wYTKKGnUiMUJzPIKtJFoF6tiCLj.jpg",
-      "backdrop_path": "/iumvooyF68waPmQUJ5gfxAurEWi.jpg",
-      "genre_ids": [
-        27
-      ],
-      "vote_average": 6.749,
-      "vote_count": 985,
-      "release_date": "2007-06-13"
-    },
-    {
-      "id": 10226,
-      "media_type": "movie",
-      "title": "Криваві жнива",
-      "original_title": "Haute Tension",
-      "overview": "Дві кращі подруги і кровожерний вбивця. Героїням фільму за одну ніч доведеться пережити найстрашніший кошмар, який тільки вони могли собі уявити. Вони зіткнуться зі страхом невідомого, зі страхом темноти і тваринним страхом невідворотності смерті.",
-      "poster_path": "/hZxQVZIgEmDfMNaV2FbBdx8iI79.jpg",
-      "backdrop_path": "/ecn4qv1SzQaZ8jMyPPs307UqKxa.jpg",
+      "title": "Вітер",
+      "original_title": "The Wind",
+      "overview": "Дикий Захід, кінець XIX століття. Десь в безкрайніх преріях живе молода пара. Чоловік часто відлучається на заробітки в місто і залишає Ліззі саму, тому вона дуже зраділа, коли поруч оселилася ще одна сімейна пара. Тепер жінці є з ким поговорити і провести час. Але завагітнівши, нова подруга починає дивно поводитися і стверджувати, що десь поблизу бродить щось потойбічне.",
+      "poster_path": "/hbkrWhJ4SMI5Hlu9TSDyCOmEgm4.jpg",
+      "backdrop_path": "/cy70DnmcGf1Vo9XKYrz2t8NUzMS.jpg",
       "genre_ids": [
         27,
-        53,
-        9648
-      ],
-      "vote_average": 6.78,
-      "vote_count": 1540,
-      "release_date": "2003-06-18"
-    },
-    {
-      "id": 547565,
-      "media_type": "movie",
-      "title": "Нічний будинок",
-      "original_title": "The Night House",
-      "overview": "Шокована неочікуваною смертю чоловіка, Бет проводить час на самоті в будиночку біля озера, який він побудував для неї. Жінка намагається тримати себе в руках, але ситуація погіршується, коли вона починає бачити жахіття. Страхітливі видіння кличуть і зачаровують її. Бет починає шукати відповіді на свої запитання в речах покійного чоловіка, хоча її друзі радять цього не робити. Те, що вона знаходить, є водночас дивним і тривожним — це таємниця, яку вона мусить розкрити.",
-      "poster_path": "/7A55AMgZ0tRHod8KONQXtIbRuCZ.jpg",
-      "backdrop_path": "/qbQ219gsHpdx33WSfdCgG9I2Xg5.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "vote_average": 6.549,
-      "vote_count": 1430,
-      "release_date": "2021-07-15"
-    },
-    {
-      "id": 622,
-      "media_type": "movie",
-      "title": "Дев’ята брама",
-      "original_title": "The Ninth Gate",
-      "overview": "У пошуках рідкісної книги безпринципний літературний експерт занурюється у світ убивць, шахраїв і сатаністів.",
-      "poster_path": "/cZFQdAP5o3s2hdJJ3Qep4NHqEsT.jpg",
-      "backdrop_path": "/qVyN9czTgRJ2SAA2BLXESzQEVgz.jpg",
-      "genre_ids": [
         9648,
-        53,
+        37
+      ],
+      "vote_average": 5.7,
+      "vote_count": 376,
+      "release_date": "2018-05-05"
+    },
+    {
+      "id": 371560,
+      "media_type": "movie",
+      "title": "Очі моєї матері",
+      "original_title": "The Eyes of My Mother",
+      "overview": "Маленька Франциска жила з мамою і татом у відокремленому будинку в сільській місцевості. Все було добре і спокійно, поки одного разу з їх родиною не відбулася трагедія, після чого дівчина виросла трохи дивною.",
+      "poster_path": "/hoR1TAxIkO1rRHu3F7cWzKZqxq.jpg",
+      "backdrop_path": "/dUgO9cVENWQpDmZVzkWq2wXN5Od.jpg",
+      "genre_ids": [
+        18,
         27
       ],
-      "vote_average": 6.5,
-      "vote_count": 3511,
-      "release_date": "1999-08-25"
+      "vote_average": 6.2,
+      "vote_count": 375,
+      "release_date": "2016-12-02"
     },
     {
-      "id": 474764,
+      "id": 448194,
       "media_type": "movie",
-      "title": "Будиночок",
-      "original_title": "The Lodge",
-      "overview": "Дівчина Ґрейс і двоє її пасинків виявляються заблокованими у віддаленому сімейному зимовому будиночку через снігову бурю. Там їх починають тероризувати темні сили та демони минулого...",
-      "poster_path": "/knSs5Z0S3hNScEe26a84o0MlNSX.jpg",
-      "backdrop_path": "/2hV2clTCW55dwTLCZcOvvidjjrV.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "vote_average": 6.094,
-      "vote_count": 1499,
-      "release_date": "2020-01-16"
-    },
-    {
-      "id": 467938,
-      "media_type": "movie",
-      "title": "Помста",
-      "original_title": "Revenge",
-      "overview": "Молода американка Дженіфер проводить вихідні з одруженим французьким бойфрендом у відокремленому комфортабельному будинку з басейном. Раптом завчасно туди приїжджають двоє його друзів, з якими він домовився пополювати у вихідні. Дівчині варто було б вести себе скромніше в присутності незнайомих чоловіків, але бажаючи розпалити пристрасть коханця, Дженіфер трохи заграє з його другом...",
-      "poster_path": "/qVVkKRznUjsG14NiFNoH6GQbiIG.jpg",
-      "backdrop_path": "/31HKH7MpovHT4bTvMpnwbWl1d1G.jpg",
-      "genre_ids": [
-        28,
-        27,
-        53,
-        18
-      ],
-      "vote_average": 6.5,
-      "vote_count": 2206,
-      "release_date": "2017-11-18"
-    },
-    {
-      "id": 883083,
-      "media_type": "movie",
-      "title": "Ти не будеш на самоті",
-      "original_title": "You Won't Be Alone",
-      "overview": "Дія відбувається в ізольованому гірському селі в Македонії XIX століття. У центрі сюжету — молода відьма, яка живе у лісі. Цікавлячись життям людей, вона випадково вбиває селянку, а потім набуває її вигляду, щоб зрозуміти, на що схоже життя в її тілі. Це пробуджує у ній цікавість випробувати життя у подобі інших людей.",
-      "poster_path": "/AoyBh09WYxhIIFsqLSpbs2uFwYK.jpg",
-      "backdrop_path": "/qEYcteWFxQjfyjMrZCWcaLfHSe1.jpg",
-      "genre_ids": [
-        27,
-        18
-      ],
-      "vote_average": 6.6,
-      "vote_count": 376,
-      "release_date": "2022-04-01"
-    },
-    {
-      "id": 376570,
-      "media_type": "movie",
-      "title": "Тиша",
-      "original_title": "Hush",
-      "overview": "Глуха жінка стає об'єктом переслідування вбивці-психопата в своєму будинку у лісі.",
-      "poster_path": "/6DHbXPldNXEYGcwgJ275efJSQBS.jpg",
-      "backdrop_path": "/1r7AVAxdG97mgjR47Zm5YOSnnMW.jpg",
+      "title": "Злий дух",
+      "original_title": "Pyewacket",
+      "overview": "Життя Лії навряд чи можна назвати радісним і повним оптимізму. Нещодавно помер її батько, після чого дівчина зацікавилася окультизмом. Матері Лії явно не подобається таке захоплення дочки. Жінка вирішує переїхати з дівчиною в будиночок у лісі, де навколо нікого немає. Відносини між мамою та дочкою постійно напружені, і після чергової сварки Лія побажала смерті матері. Вона пішла в ліс, де провела ритуал виклику злого духа Пайвокета. Пізніше Лія ще сотню раз пошкодує про те, що зробила...",
+      "poster_path": "/2Hc2ky5PHY8VV4sXJOPsrqQu0jc.jpg",
+      "backdrop_path": "/uVH4JeqPyVHWVwsYce1z8CxVG36.jpg",
       "genre_ids": [
         27,
         53
       ],
-      "vote_average": 6.724,
-      "vote_count": 4999,
-      "release_date": "2016-03-12"
+      "vote_average": 5.914,
+      "vote_count": 365,
+      "release_date": "2017-12-08"
     },
     {
-      "id": 81390,
+      "id": 539181,
       "media_type": "movie",
-      "title": "Викрадена",
-      "original_title": "A Lonely Place to Die",
-      "overview": "П'ятеро альпіністів сходять на одну із шотландських височин. Піднявшись, вони знаходять юну дівчинку, яка незрозуміло як опинилась одна, у наметі, у зовсім дикій місцевості…",
-      "poster_path": "/ou9vKVLEgWFNGbmX3Yt2bWH1f27.jpg",
-      "backdrop_path": "/n4awNSOqUK50QEXizKX2hlVaF9e.jpg",
+      "title": "Реліквія",
+      "original_title": "Relic",
+      "overview": "80-річна Една живе на самоті в старому заміському будинку. Але одного разу вона пропадає, і її дочка Кей і внучка Сем відразу кидаються на її пошуки. Через деякий час вони знаходять її в своєму ж будинку. Але Една нічого не може згадати. Вони підозрюють, що у неї розвивається деменція, але дивні явища в будинку, які вони спостерігають, наштовхують на зовсім інші висновки.",
+      "poster_path": "/3wZ0gxLqsPleneFSTZILmM3BE8Q.jpg",
+      "backdrop_path": "/beNLniUH5DLbLbiqQgAJkiIlgpw.jpg",
       "genre_ids": [
-        12,
-        28,
-        53,
-        80
+        27,
+        9648,
+        18
       ],
-      "vote_average": 6.174,
-      "vote_count": 674,
-      "release_date": "2011-04-09"
+      "vote_average": 6.088,
+      "vote_count": 865,
+      "release_date": "2020-07-03"
+    },
+    {
+      "id": 744857,
+      "media_type": "movie",
+      "title": "Коли зло ховається",
+      "original_title": "Cuando acecha la maldad",
+      "overview": "У глухому селі двоє братів знаходять зараженого демоном чоловіка, який став ідеальною оболонкою для народження зла. Вони вирішують позбутися тіла, але лише поширюють хаос.",
+      "poster_path": "/8DKy9lGG87cgWSW3h6EBkd35UB5.jpg",
+      "backdrop_path": "/cavK9ox37pxDg11RvJINMH63onU.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "vote_average": 7.162,
+      "vote_count": 1602,
+      "release_date": "2023-10-05"
+    },
+    {
+      "id": 575776,
+      "media_type": "movie",
+      "title": "Свята Мод",
+      "original_title": "Saint Maud",
+      "overview": "Віруюча дівчина Мод працює доглядальницею в смертельно хворої Аманди, яка раніше була успішною танцівницею. Остання проживає у величезному будинку й одного разу називає героїню своєю рятівницею. Після цього дівчина вирішує, що тільки вона здатна позбавити її від вічних мук.",
+      "poster_path": "/4Op6690jhgl4IHXWz1iqP1lD64d.jpg",
+      "backdrop_path": "/1WKxsnrhLoKPHcTyph7lhZnAMjR.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "vote_average": 6.541,
+      "vote_count": 957,
+      "release_date": "2020-10-09"
+    },
+    {
+      "id": 293670,
+      "media_type": "movie",
+      "title": "Виття",
+      "original_title": "곡성",
+      "overview": "Незнайомець приїжджає до невеликого села, і незабаром після того починає поширюватися загадкова хвороба. Поліцейський розслідує інцидент і змушений розкрити таємницю, щоб врятувати свою дочку.",
+      "poster_path": "/yjMjnzE8OV1a9eofq8KA3XSAtLk.jpg",
+      "backdrop_path": "/9qxBNfI1QFbiZS62fsgaUd563t2.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "vote_average": 7.394,
+      "vote_count": 2221,
+      "release_date": "2016-05-12"
+    },
+    {
+      "id": 660942,
+      "media_type": "movie",
+      "title": "Безневинні",
+      "original_title": "De uskyldige",
+      "overview": "Молода сім'я з двома дітьми дівчатками, одна з яких страждає аутизмом, переїзджає в новий район. На дитячому майданчику діти швидко собі заводять друзів. Граючись вони дізнаються, що мають надзвичайні сили....",
+      "poster_path": "/liYG8qCohGlFzCHrJT8SY4jEJWR.jpg",
+      "backdrop_path": "/4hAhZ66n5iasGtSYHTFg6oGdJk0.jpg",
+      "genre_ids": [
+        27,
+        18,
+        14
+      ],
+      "vote_average": 6.907,
+      "vote_count": 804,
+      "release_date": "2021-09-03"
+    },
+    {
+      "id": 788929,
+      "media_type": "movie",
+      "title": "Агнець",
+      "original_title": "Dýrið",
+      "overview": "Марія з чоловіком живуть на віддаленій фермі. Одного дня вівця з отари народжує незвичайне ягня. Пара, що раніше втратила доньку, вирішує вдочерити дивну істоту. Це відкриває двері до безодні…",
+      "poster_path": "/e7yLTR6APy0CiWYVP787ChUNIyR.jpg",
+      "backdrop_path": "/96uOMED23ZLBtb0HQQ5Urr3qMRp.jpg",
+      "genre_ids": [
+        18,
+        14,
+        27
+      ],
+      "vote_average": 6.4,
+      "vote_count": 1105,
+      "release_date": "2021-08-12"
+    },
+    {
+      "id": 734353,
+      "media_type": "movie",
+      "title": "Все заради Джексона",
+      "original_title": "Anything for Jackson",
+      "overview": "Літня пара укладає угоду з дияволом і викрадає вагітну дівчину, щоб провести ритуал реінкарнації, помістивши душу свого загиблого онука в ще ненароджену дитину за допомогою древньої книги заклинань. Однак обряд не вдалося завершити, і через відкритий портал в будинок потрапляє могутній демон Сурґат.",
+      "poster_path": "/t7iu8aOAGjrh1tEWyPmtaASHnhs.jpg",
+      "backdrop_path": "/xo0bsMDMKvwxHzI1HWMSW5wXAbP.jpg",
+      "genre_ids": [
+        27
+      ],
+      "vote_average": 6.711,
+      "vote_count": 311,
+      "release_date": "2020-04-04"
+    },
+    {
+      "id": 795853,
+      "media_type": "movie",
+      "title": "Остання з нас",
+      "original_title": "Gaia",
+      "overview": "Доглядачка знаходить на території реліктового лісу чоловіка з сином, які ведуть дикий спосіб життя. У них своя релігія і містичні стосунки з природою. Після того як на їх житло нападає незрозуміла істота, дівчина дізнається, що в лісі живе щось дуже давнє і могутнє.",
+      "poster_path": "/cTogaQfCDmcTxGAJsDVzGPvOzry.jpg",
+      "backdrop_path": "/hm8gTyliPMvcC9ikt0njV18cS3Q.jpg",
+      "genre_ids": [
+        27,
+        14,
+        18
+      ],
+      "vote_average": 5.911,
+      "vote_count": 253,
+      "release_date": "2021-06-18"
+    },
+    {
+      "id": 632357,
+      "media_type": "movie",
+      "title": "Нечестивий",
+      "original_title": "The Unholy",
+      "overview": "Маленьке провінційне містечко у Новій Англії сколихнула низка надприродних подій. Один із журналістів береться за розслідування цих незвичайних явищ з надією врятувати власну кар’єру…",
+      "poster_path": "/dlRTzAzOfOxJD0B2ajLAr8mtAeK.jpg",
+      "backdrop_path": "/jw6ASGRT2gi8EjCImpGtbiJ9NQ9.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "vote_average": 6.539,
+      "vote_count": 2300,
+      "release_date": "2021-03-31"
+    },
+    {
+      "id": 25983,
+      "media_type": "movie",
+      "title": "Будинок диявола",
+      "original_title": "The House of the Devil",
+      "overview": "Студентка Саманта Хьюз влаштовується на підробіток нянею до дуже дивних людей. Незабаром дівчина починає підозрювати, що її роботодавці приховують масу жахливих таємниць.",
+      "poster_path": "/4abKUbc9IbsndbaY1hacN1iPM0Y.jpg",
+      "backdrop_path": "/cHFIGss3Lx429OBZGfdF3noKTDV.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "vote_average": 6.207,
+      "vote_count": 898,
+      "release_date": "2009-10-30"
+    },
+    {
+      "id": 752505,
+      "media_type": "movie",
+      "title": "Старі обряди",
+      "original_title": "The Old Ways",
+      "overview": "Репортерка повертається до рідного міста Веракрус, щоб зняти сюжет про культуру місцевого племені, і потрапляє до рук аборигенів, які вірять в її одержимість демоном.",
+      "poster_path": "/jYnedFgdnN62QXE8HAPVtQKNFFm.jpg",
+      "backdrop_path": "/xX6VABuJOyZQL1ASj5U4GWJspyW.jpg",
+      "genre_ids": [
+        27,
+        14
+      ],
+      "vote_average": 6.664,
+      "vote_count": 388,
+      "release_date": "2021-04-04"
     }
   ]
 }

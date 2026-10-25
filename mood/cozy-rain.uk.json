@@ -3,40 +3,55 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"104\" y=\"176\" width=\"216\" height=\"208\" rx=\"28\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"28\" d=\"M320 224h28a52 52 0 0 1 0 104h-28\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"20\" stroke-linecap=\"round\" d=\"M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60\"/></svg>",
   "title": "Затишок",
   "lang": "uk",
-  "updated_at": "2026-10-25T00:10:55Z",
+  "updated_at": "2026-10-25T23:58:38Z",
   "items": [
     {
-      "id": 194,
+      "id": 392011,
       "media_type": "movie",
-      "title": "Амелі",
-      "original_title": "Le Fabuleux Destin d'Amélie Poulain",
-      "overview": "Чи знаєте ви, що всі події, що відбуваються в нашому світі, навіть найбільш незначні, взаємопов'язані найдивовижнішим і чудернацьким чином?  Як політ крихітної мухи може викликати десь далеко могутній ураган, так і дивні, і на перший погляд, незрозумілі вчинки тихої і самотньої дівчини, що живе в світі своїх фантазій, можуть назавжди змінити життя абсолютно різних людей. Цю дівчину звуть Амелі Пулен.",
-      "poster_path": "/s9KPp95L1YJhmXYth5JRaRsQoqP.jpg",
-      "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+      "title": "Королівство котів",
+      "original_title": "Kedi",
+      "overview": "Вулиці Стамбула належать тим, хто гуляє по ним сам по собі: тисячам котів і кішок. «Кеді» — історія красивого міста  очима семи чарівних і дуже незалежних гультяй героїв — кішок, а також людей, які піклуються про них.",
+      "poster_path": "/8jukiwoXZRo7oBsxAwFk1tA5HUq.jpg",
+      "backdrop_path": "/x4yZrzpiVhdWV6Q5KURqiezChbV.jpg",
       "genre_ids": [
-        35,
-        10749
+        99
       ],
-      "vote_average": 7.92,
-      "vote_count": 12766,
-      "release_date": "2001-04-25"
+      "vote_average": 7.51,
+      "vote_count": 382,
+      "release_date": "2017-01-08"
     },
     {
-      "id": 6878,
+      "id": 15189,
       "media_type": "movie",
-      "title": "Дорога додому: Неймовірна подорож",
-      "original_title": "Homeward Bound: The Incredible Journey",
-      "overview": "Господарі двох собак та чарівної кішки Сессі змушені на деякий час виїхати, тож віддають своїх вихованців на ранчо друга. Через деякий час тварини, які опинилися за сотні миль від улюбленого будинку, починають турбуватися, чи бува не трапились у господарів неприємності. Поміркувавши, весела трійця вирішує самостійно дістатися до дому і пускається в неймовірно небезпечну подорож горами і пустелями.",
-      "poster_path": "/bpHMF5hDZUMd4WcblyefDe6FrWf.jpg",
-      "backdrop_path": "/xDwDhLtQnA7jK4f7DVkdeSvZnAp.jpg",
+      "title": "Готель для собак",
+      "original_title": "Hotel for Dogs",
+      "overview": "Сироти Енді і Брюс не можуть взяти собі безпритульного песика, оскільки їх опікунка категорично проти будь-яких тварин вдома. Тоді хлопці вирішують прилаштувати собаку в добрі руки, але замість цього знаходять стару порожню будівлю, яка ідеально підходить для собачого притулку. Зібравши навколо себе однодумців, Енді і Брюс починають повномасштабну місію з порятунку всіх безпритульних собак в окрузі ...",
+      "poster_path": "/tPyyuf8y7vOlvoqpP5u3IHDnBvw.jpg",
+      "backdrop_path": "/hovfur18TPFABZIuJYvgjLpln8V.jpg",
       "genre_ids": [
-        12,
         35,
         10751
       ],
-      "vote_average": 7.006,
-      "vote_count": 1166,
-      "release_date": "1993-02-03"
+      "vote_average": 6.074,
+      "vote_count": 937,
+      "release_date": "2009-01-16"
+    },
+    {
+      "id": 21765,
+      "media_type": "movie",
+      "title": "Кудлатий спецназ!",
+      "original_title": "Good Boy!",
+      "overview": "Дванадцятирічний Овен Бейкер працював, вигулюючи собак. Нарешті його мрія здійснилася – Овен отримав своє щеня. Але Овен отримав більше, ніж щеня. Він дізнається, що його собака Габбл розвідник з іншої планети – з собачої зірки Сіріус! Тисячі років тому Землю колонізували собаки з Сіріуса. Але по всій галактиці пройшла чутка, що собаки відійшли від виконання своєї місії, й Габбла надіслали перевірити це...",
+      "poster_path": "/kZDXSPfeKNtai6l8yE4J5LwVQMY.jpg",
+      "backdrop_path": "/5unbVMlqYsgNPEzct6UBo2mVD6A.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        878
+      ],
+      "vote_average": 5.622,
+      "vote_count": 152,
+      "release_date": "2003-10-10"
     },
     {
       "id": 404,
@@ -50,8 +65,42 @@
         18
       ],
       "vote_average": 7.733,
-      "vote_count": 1904,
+      "vote_count": 1906,
       "release_date": "1999-10-15"
+    },
+    {
+      "id": 883,
+      "media_type": "movie",
+      "title": "Кава і цигарки",
+      "original_title": "Coffee and Cigarettes",
+      "overview": "Колекція з 11 фільмів Джима Джармуша. Кожен фільм представляє якусь іншу зірку з яскравою індивідуальністю, але всі вони проводять час за розмовою з кавою та цигарками.",
+      "poster_path": "/pfG02QCsutx3PIxFS8UY4iM9AsS.jpg",
+      "backdrop_path": "/AtPCvNJVrngHxpoogQsQkIZBs3D.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 6.91,
+      "vote_count": 1100,
+      "release_date": "2004-03-12"
+    },
+    {
+      "id": 5590,
+      "media_type": "movie",
+      "title": "Віслюча шкіра",
+      "original_title": "Peau d'âne",
+      "overview": "У дивовижній країні король-вдівець оголосив, що одружиться на своїй доньці-принцесі, тому що вона єдина жінка, чию вроду можна співставити з красою колишньої королеви. Щоб уникнути кровозмішення, принцеса за допомоги феї-чарівниці переодягається віслючкою та втікає до сусіднього королівства.",
+      "poster_path": "/fAfkeLQzbJkbNkn9VuNiUJ0wia.jpg",
+      "backdrop_path": "/nUHqf1Oex9R3yD6OjRoufb4EkFl.jpg",
+      "genre_ids": [
+        14,
+        35,
+        10402,
+        10749
+      ],
+      "vote_average": 7.2,
+      "vote_count": 573,
+      "release_date": "1970-12-16"
     },
     {
       "id": 28118,
@@ -88,40 +137,6 @@
       "vote_average": 6.8,
       "vote_count": 166,
       "release_date": "2011-12-25"
-    },
-    {
-      "id": 5590,
-      "media_type": "movie",
-      "title": "Віслюча шкіра",
-      "original_title": "Peau d'âne",
-      "overview": "У дивовижній країні король-вдівець оголосив, що одружиться на своїй доньці-принцесі, тому що вона єдина жінка, чию вроду можна співставити з красою колишньої королеви. Щоб уникнути кровозмішення, принцеса за допомоги феї-чарівниці переодягається віслючкою та втікає до сусіднього королівства.",
-      "poster_path": "/fAfkeLQzbJkbNkn9VuNiUJ0wia.jpg",
-      "backdrop_path": "/nUHqf1Oex9R3yD6OjRoufb4EkFl.jpg",
-      "genre_ids": [
-        14,
-        35,
-        10402,
-        10749
-      ],
-      "vote_average": 7.2,
-      "vote_count": 573,
-      "release_date": "1970-12-16"
-    },
-    {
-      "id": 883,
-      "media_type": "movie",
-      "title": "Кава і цигарки",
-      "original_title": "Coffee and Cigarettes",
-      "overview": "Колекція з 11 фільмів Джима Джармуша. Кожен фільм представляє якусь іншу зірку з яскравою індивідуальністю, але всі вони проводять час за розмовою з кавою та цигарками.",
-      "poster_path": "/pfG02QCsutx3PIxFS8UY4iM9AsS.jpg",
-      "backdrop_path": "/AtPCvNJVrngHxpoogQsQkIZBs3D.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "vote_average": 6.91,
-      "vote_count": 1100,
-      "release_date": "2004-03-12"
     }
   ]
 }
