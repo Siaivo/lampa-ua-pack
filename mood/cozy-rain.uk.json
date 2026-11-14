@@ -3,112 +3,133 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"104\" y=\"176\" width=\"216\" height=\"208\" rx=\"28\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"28\" d=\"M320 224h28a52 52 0 0 1 0 104h-28\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"20\" stroke-linecap=\"round\" d=\"M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60\"/></svg>",
   "title": "Затишок",
   "lang": "uk",
-  "updated_at": "2026-11-13T02:31:31Z",
+  "updated_at": "2026-11-14T02:03:46Z",
   "items": [
     {
-      "id": 51052,
+      "id": 10612,
       "media_type": "movie",
-      "title": "Місія «Різдвяний порятунок»",
-      "original_title": "Arthur Christmas",
-      "overview": "На суперсекретному заводі, що виготовляє іграшки, Санта-Клаус доручає синові Артуру виконати дуже важливу різдвяну місію.",
-      "poster_path": "/sj6brRZmWFGhUN5YMKQCAlIIT0T.jpg",
-      "backdrop_path": "/hwtYE4Gs0IsBnrJ0nTZItOXlz19.jpg",
+      "title": "Англієць, який піднявся на пагорб, а спустився з гори",
+      "original_title": "The Englishman Who Went Up a Hill But Came Down a Mountain",
+      "overview": "Двоє англійців приїжджають в 1917-му році в Уельське село як картографи і наштовхуються на місцевий пагорб Фінан-Гару, якому не вистачає всього 16 футів, щоб стати горою на карті. Незадоволені і ексцентричні жителі села вимагають переміряти гору, але уперті картографи цього робити не бажають. Тоді місцеві пускаються на хитрість, вирішуючи наростити пагорб землею з місцевих полів...",
+      "poster_path": "/s96XNz6eBsYDK3A9nVyEuHdv7BG.jpg",
+      "backdrop_path": "/wY1Rn2DnmDt7QKnGSH5be3JM7u7.jpg",
       "genre_ids": [
         18,
-        16,
-        10751,
-        35
-      ],
-      "vote_average": 6.78,
-      "vote_count": 1702,
-      "release_date": "2011-11-10"
-    },
-    {
-      "id": 10437,
-      "media_type": "movie",
-      "title": "Різдвяна пісня Маппетів",
-      "original_title": "The Muppet Christmas Carol",
-      "overview": "Переказ класичної історії Діккенса про відомого скнару, трохи неординарна, адже тут майже всі ролі грають знамениті персонажі Маппет-шоу.  Одного разу різдвяної ночі до Скруджа завітали Дух Минулих Років, Дух Нинішнього Різдва і Дух Майбутнього Різдва, які змушують його по-іншому поглянути на своє життя.",
-      "poster_path": "/f4L5DOsxqWIp8hr9zqNnqUfqwf4.jpg",
-      "backdrop_path": "/kLVWvnUdqQ07WjbAYGpmiD2ZFQa.jpg",
-      "genre_ids": [
-        10402,
-        35,
-        10751,
-        14,
-        18
-      ],
-      "vote_average": 7.454,
-      "vote_count": 1236,
-      "release_date": "1992-12-11"
-    },
-    {
-      "id": 10315,
-      "media_type": "movie",
-      "title": "Незрівнянний містер Фокс",
-      "original_title": "Fantastic Mr. Fox",
-      "overview": "Розлючені фермери, втомлені від постійних нападів \"хитрого лиса\" на курники, готуються знищити свого ворога та його \"хитру\" родину. Що вийде з цього протистояння?",
-      "poster_path": "/kduzG33eOgzXyG8WB2jEGVZsYh4.jpg",
-      "backdrop_path": "/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
-      "genre_ids": [
-        12,
-        16,
-        35,
-        10751
-      ],
-      "vote_average": 7.829,
-      "vote_count": 6450,
-      "release_date": "2009-10-14"
-    },
-    {
-      "id": 5516,
-      "media_type": "movie",
-      "title": "Замочити бабцю",
-      "original_title": "The Ladykillers",
-      "overview": "Голдтуейт Хіггінсон Дорр, дивний професор з південних штатів, розробляє план пограбування казино, що базується на річковому кораблі. Він збирає команду злодіїв, винаймає для них кімнату в будинку, власницею якого є одна стара дама, місіс Мансон.",
-      "poster_path": "/3ZiXkyMFnLCs53rcCCoRcNEFwDH.jpg",
-      "backdrop_path": "/mdaBC7yEcorGC4uI9U5CEyfWsvK.jpg",
-      "genre_ids": [
-        35,
-        80,
-        53
-      ],
-      "vote_average": 6.114,
-      "vote_count": 1832,
-      "release_date": "2004-03-25"
-    },
-    {
-      "id": 21544,
-      "media_type": "movie",
-      "title": "Пелюстки надії",
-      "original_title": "Hope Springs",
-      "overview": "Любовні катастрофи змушують потерпілих робити дивні вчинки. Отримав раптову відставку від нареченої Віри британський художник Колін, наприклад, не знайшов нічого кращого, ніж виїхати з Англії в глухе американське містечко. Однак доля дає героєві шанс швидко покінчити з серцевою депресією, зводячи його з місцевою медсестрою Менді, чарівною дівчиною з добрим серцем. І дійсно, знайомство з Менді більш ніж благотворно впливає на Коліна. У його серці вже пробиваються паростки нової любові, як раптом на горизонті оголошується ... забута було вітряна Віра! І вона повна рішучості повернути свого хлопця назад — будь-якою ціною!...",
-      "poster_path": "/9ioqmpObBQBHZt62CZXnU8nfjaG.jpg",
-      "backdrop_path": "/hC3rDydNKC4X3FAbxSEKs8Sb90J.jpg",
-      "genre_ids": [
         35,
         10749
       ],
-      "vote_average": 5.32,
-      "vote_count": 183,
-      "release_date": "2003-05-09"
+      "vote_average": 6.4,
+      "vote_count": 330,
+      "release_date": "1995-05-12"
     },
     {
-      "id": 532,
+      "id": 448491,
       "media_type": "movie",
-      "title": "Воллес і Громіт: Стрижка під нуль",
-      "original_title": "A Close Shave",
-      "overview": "Історія, в якій Воллес захоплюється власницею крамниці з продажу вовни, а місто приголомшує масове зникнення овець. Хто ж був визнаний винним у всіх злочинах? — Бідолашний малюк Громіт! Тепер Воллесу потрібно будь-що врятувати свого друга. Групова еквілібристика овець на швидкісному мотоциклі, стрижка «під нуль» собаки-кіборга і дебют Громіта, як аса авіації...",
-      "poster_path": "/nbQiDgCxdBUIKasKn3Hn3373Vz0.jpg",
-      "backdrop_path": "/aD8ZhhrlJ6PXDiyyIvaMltxfbSz.jpg",
+      "title": "Маленький ліс",
+      "original_title": "리틀 포레스트",
+      "overview": "Хе Вон залишила свій будинок у сільській місцевості, щоб поїхати у велике місто та чогось добитися. Але вона не може знайти роботу, розриває стосунки, і тому, прагнучи втекти від міської суєти, повертається до рідного села. Відновлюючи зв’язки зі своїми друзями Дже Ха та Ин Сук, Хе Вон також знаходить маленькі радості в їжі та красі життя в тісній гармонії з природою.",
+      "poster_path": "/6sC1tAub31ng54ZeTg48GPifJYI.jpg",
+      "backdrop_path": "/vTw1MjLJfCFzFdq5iElKpjI0LIV.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.632,
+      "vote_count": 190,
+      "release_date": "2018-02-28"
+    },
+    {
+      "id": 110416,
+      "media_type": "movie",
+      "title": "Пісня моря",
+      "original_title": "Song of the Sea",
+      "overview": "Маленька дівчинка на ім’я Сірша, яка вміє перетворюватися на тюленя, вирушає у подорож разом із братом, аби врятувати світ духів та інших чарівних істот, як і вона.",
+      "poster_path": "/4SGxx2JFftI3FGhJppWNaMXJLNN.jpg",
+      "backdrop_path": "/mVLZvSe1Aa8CFKx0cInTamVZJrW.jpg",
       "genre_ids": [
         10751,
         16,
-        35
+        14
       ],
-      "vote_average": 7.604,
-      "vote_count": 992,
-      "release_date": "1996-03-07"
+      "vote_average": 8.0,
+      "vote_count": 1654,
+      "release_date": "2014-06-23"
+    },
+    {
+      "id": 44379,
+      "media_type": "movie",
+      "title": "Збирачі та збирачка",
+      "original_title": "Les Glaneurs et la Glaneuse",
+      "overview": "Варда зосереджує свій погляд на збирачах: тих, хто прочісує вже зібрані поля в пошуках випадкової картоплини чи ріпи. Її розслідування веде від забутих куточків французької сільської місцевості до неробочих годин на зелених ринках Парижа, слідуючи за тими, хто наполегливо шукає застосування тому, від чого суспільство відмовилося, чи то через необхідність, чи то через активізм.",
+      "poster_path": "/eDwM5Gr5QSZbf7vrCXdxfmZKk9z.jpg",
+      "backdrop_path": "/yvafnYvrxnwD3MrXcc18sUrkHqU.jpg",
+      "genre_ids": [
+        99
+      ],
+      "vote_average": 7.651,
+      "vote_count": 235,
+      "release_date": "2000-07-07"
+    },
+    {
+      "id": 429199,
+      "media_type": "movie",
+      "title": "По той бік надії",
+      "original_title": "Toivon tuolla puolen",
+      "overview": "Чесний і порядний сирійський біженець знаходить притулок у Фінляндії. Місцевий бізнесмен і команда його ексцентричних працівників беруться опікати нового сусіда.",
+      "poster_path": "/hLKGUQB6vuU5zsg0mkOaR1Lyf3r.jpg",
+      "backdrop_path": "/aTF8rfm7Q1nQX0CXNmS4iUk80Kw.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "vote_average": 6.925,
+      "vote_count": 378,
+      "release_date": "2017-02-03"
+    },
+    {
+      "id": 54898,
+      "media_type": "movie",
+      "title": "Зелений промінь",
+      "original_title": "Le Rayon vert",
+      "overview": "Надворі літо, а у Дельфін відпустка. Вона б кудись поїхала, але немає з ким. У неї не виходить контачити з людьми, а лишатися самій надто печально. Чи зустріне вона того самого?",
+      "poster_path": "/cvC5az3i2kIHn3YgeNcRRp1kTXy.jpg",
+      "backdrop_path": "/jfDTQuovn57QIBvoGDom6FNQrkl.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 7.5,
+      "vote_count": 295,
+      "release_date": "1986-08-29"
+    },
+    {
+      "id": 404,
+      "media_type": "movie",
+      "title": "Проста історія",
+      "original_title": "The Straight Story",
+      "overview": "Елвін Стрейт, старий, що пройшов Другу Світову Війну, живе в Айові разом з дочкою Розою. Одного разу він дізнається, що у його рідного брата Лайла, що живе за 317 миль у Вісконсині, трапився інсульт. Намагаючись забути про давню ворожнечу, Елвін хоче навідати до нього. Однак через поганий зір Елвін не має водійських прав, а автобуси не ходять до місця проживання брата. Тому він вирушає в дорогу на старій газонокосарці 1966 року, купленій перед поїздкою...",
+      "poster_path": "/fgV0xzb2maGImL2SCSjZmFZobg3.jpg",
+      "backdrop_path": "/1S81PpyGwS8eVx4W75uSKzMw4B0.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.737,
+      "vote_count": 1924,
+      "release_date": "1999-10-15"
+    },
+    {
+      "id": 89708,
+      "media_type": "movie",
+      "title": "Самсара",
+      "original_title": "Samsara",
+      "overview": "Цей фільм — своєрідна подорож по різних куточках Землі. Глядач пронесеться через всі континенти, побувавши в більш ніж двадцяти країнах. Примхи природи, промислові катастрофи, місця, в яких саме час застиг на століття, яскраві контрасти і вражаюча краса — все це обличчя сучасного світу, таким, як ми його знаємо.",
+      "poster_path": "/jqsbJuZCJX7NC1J9BxDGpVDjODX.jpg",
+      "backdrop_path": "/tbSjemOf1nXPOjWELdaeZ7qj1iX.jpg",
+      "genre_ids": [
+        99
+      ],
+      "vote_average": 8.069,
+      "vote_count": 719,
+      "release_date": "2011-09-16"
     },
     {
       "id": 13396,
@@ -129,6 +150,57 @@
       "release_date": "1982-12-26"
     },
     {
+      "id": 392011,
+      "media_type": "movie",
+      "title": "Королівство котів",
+      "original_title": "Kedi",
+      "overview": "Вулиці Стамбула належать тим, хто гуляє по ним сам по собі: тисячам котів і кішок. «Кеді» — історія красивого міста  очима семи чарівних і дуже незалежних гультяй героїв — кішок, а також людей, які піклуються про них.",
+      "poster_path": "/8jukiwoXZRo7oBsxAwFk1tA5HUq.jpg",
+      "backdrop_path": "/x4yZrzpiVhdWV6Q5KURqiezChbV.jpg",
+      "genre_ids": [
+        99
+      ],
+      "vote_average": 7.5,
+      "vote_count": 383,
+      "release_date": "2017-01-08"
+    },
+    {
+      "id": 51052,
+      "media_type": "movie",
+      "title": "Місія «Різдвяний порятунок»",
+      "original_title": "Arthur Christmas",
+      "overview": "На суперсекретному заводі, що виготовляє іграшки, Санта-Клаус доручає синові Артуру виконати дуже важливу різдвяну місію.",
+      "poster_path": "/sj6brRZmWFGhUN5YMKQCAlIIT0T.jpg",
+      "backdrop_path": "/hwtYE4Gs0IsBnrJ0nTZItOXlz19.jpg",
+      "genre_ids": [
+        18,
+        16,
+        10751,
+        35
+      ],
+      "vote_average": 6.779,
+      "vote_count": 1703,
+      "release_date": "2011-11-10"
+    },
+    {
+      "id": 10315,
+      "media_type": "movie",
+      "title": "Незрівнянний містер Фокс",
+      "original_title": "Fantastic Mr. Fox",
+      "overview": "Розлючені фермери, втомлені від постійних нападів \"хитрого лиса\" на курники, готуються знищити свого ворога та його \"хитру\" родину. Що вийде з цього протистояння?",
+      "poster_path": "/kduzG33eOgzXyG8WB2jEGVZsYh4.jpg",
+      "backdrop_path": "/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751
+      ],
+      "vote_average": 7.828,
+      "vote_count": 6451,
+      "release_date": "2009-10-14"
+    },
+    {
       "id": 77493,
       "media_type": "tv",
       "title": "За справу береться Шекспір",
@@ -144,71 +216,6 @@
       "vote_average": 7.019,
       "vote_count": 53,
       "release_date": "2018-02-26"
-    },
-    {
-      "id": 66134,
-      "media_type": "tv",
-      "title": "Даррелли",
-      "original_title": "The Durrells",
-      "overview": "Родина Даррелів, після смерті батька переселяються з Англії до Греції у пошуках кращого та дешевшого життя.",
-      "poster_path": "/eoLkAPfki2bqvEniuD9bdN7Nmfk.jpg",
-      "backdrop_path": "/xhNtmyX53yNVpqMtOV2BJd9JuDR.jpg",
-      "genre_ids": [
-        18,
-        35,
-        10751
-      ],
-      "vote_average": 7.5,
-      "vote_count": 128,
-      "release_date": "2016-04-03"
-    },
-    {
-      "id": 9026,
-      "media_type": "movie",
-      "title": "Як важливо бути серйозним",
-      "original_title": "The Importance of Being Earnest",
-      "overview": "Що станеться, якщо два блискучих британських джентльмени від нудьги затіють ризиковану й непередбачену гру в псевдоніми? Як, наприклад Джек, турботливий опікун юної Сесилі, що приїжджає в Лондон, щоб під ім’ям Ернест зробити пропозицію аристократці Гвендолін, і невтомний спритник Олгі, що пропонує руку і серце провінціалки Сесилі також під ім’ям Ернест. Подібні забави не проходять безкарно — скоро Гвендолін і Сесилі дізнаються, що до них сватається один і той же чоловік!",
-      "poster_path": "/87r4e4pL4STfpdjtqNZxlyjvcMd.jpg",
-      "backdrop_path": "/zIwsL0bIScIMu4CV0C3DxWxKFSN.jpg",
-      "genre_ids": [
-        35,
-        18,
-        36,
-        10749
-      ],
-      "vote_average": 6.8,
-      "vote_count": 524,
-      "release_date": "2002-05-17"
-    },
-    {
-      "id": 370755,
-      "media_type": "movie",
-      "title": "Патерсон",
-      "original_title": "Paterson",
-      "overview": "Патерсон – звичайний водій автобусу в містечку Патерсон, штат Нью-Джерсі. У нього відмінне життя, де є місце щастю. У вільний від роботи час цей хлопець перетворюється в поета і пише вірші для своєї дружини Лори. Патерсон навіть не збирається заробляти цим на життя, так як для нього це всього лише хобі. Але він цим живе. Дружина часто просить його показати свої творіння світу. Адже скільки краси приховано він наших очей...",
-      "poster_path": "/e7Wgkq3PT3DoOTAD18eMG7B6yLi.jpg",
-      "backdrop_path": "/5Bk7kYSKAuNrxI5BXpDqlsln2P0.jpg",
-      "genre_ids": [
-        18
-      ],
-      "vote_average": 7.113,
-      "vote_count": 2153,
-      "release_date": "2016-11-17"
-    },
-    {
-      "id": 392011,
-      "media_type": "movie",
-      "title": "Королівство котів",
-      "original_title": "Kedi",
-      "overview": "Вулиці Стамбула належать тим, хто гуляє по ним сам по собі: тисячам котів і кішок. «Кеді» — історія красивого міста  очима семи чарівних і дуже незалежних гультяй героїв — кішок, а також людей, які піклуються про них.",
-      "poster_path": "/8jukiwoXZRo7oBsxAwFk1tA5HUq.jpg",
-      "backdrop_path": "/x4yZrzpiVhdWV6Q5KURqiezChbV.jpg",
-      "genre_ids": [
-        99
-      ],
-      "vote_average": 7.5,
-      "vote_count": 383,
-      "release_date": "2017-01-08"
     },
     {
       "id": 995133,
@@ -229,39 +236,23 @@
       "release_date": "2022-12-25"
     },
     {
-      "id": 21764,
+      "id": 10437,
       "media_type": "movie",
-      "title": "Дівчина Грегорі",
-      "original_title": "Gregory's Girl",
-      "overview": "Грегорі - звичайний підліток. Він закохується в свою однокласницю Дороті і усіма силами намагається досягти її прихильності. Ситуацію ускладнює те, що вони грають у одній футбольній команді.",
-      "poster_path": "/jArpi7ZOrPqOSogu1lQrBBWtXSe.jpg",
-      "backdrop_path": "/fEiOrpMvC4IXVWhZPfJd53sclUJ.jpg",
+      "title": "Різдвяна пісня Маппетів",
+      "original_title": "The Muppet Christmas Carol",
+      "overview": "Переказ класичної історії Діккенса про відомого скнару, трохи неординарна, адже тут майже всі ролі грають знамениті персонажі Маппет-шоу.  Одного разу різдвяної ночі до Скруджа завітали Дух Минулих Років, Дух Нинішнього Різдва і Дух Майбутнього Різдва, які змушують його по-іншому поглянути на своє життя.",
+      "poster_path": "/f4L5DOsxqWIp8hr9zqNnqUfqwf4.jpg",
+      "backdrop_path": "/kLVWvnUdqQ07WjbAYGpmiD2ZFQa.jpg",
       "genre_ids": [
+        10402,
         35,
-        10749
-      ],
-      "vote_average": 6.8,
-      "vote_count": 155,
-      "release_date": "1980-11-29"
-    },
-    {
-      "id": 126319,
-      "media_type": "movie",
-      "title": "Ернест і Селестіна",
-      "original_title": "Ernest et Célestine",
-      "overview": "Зворушлива історія про дружбу ведмедя Ернеста та мишки Селєстіни. Їхні світи зовсім різні, але в чомусь дуже схожі. Як от в упередженому ставленні двох народів одне до одного. Але справжня дружба здолає будь-які перепони.",
-      "poster_path": "/a15e4wuYLjjUtDZPYrKkqDT7buX.jpg",
-      "backdrop_path": "/1yQpY4UCaGEirYq9EqTrDvZ24KQ.jpg",
-      "genre_ids": [
-        16,
         10751,
-        80,
-        18,
-        35
+        14,
+        18
       ],
-      "vote_average": 7.757,
-      "vote_count": 727,
-      "release_date": "2012-12-12"
+      "vote_average": 7.454,
+      "vote_count": 1236,
+      "release_date": "1992-12-11"
     }
   ]
 }
