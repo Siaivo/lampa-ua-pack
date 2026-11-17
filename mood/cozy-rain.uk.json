@@ -3,8 +3,70 @@
   "icon": "<svg viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"104\" y=\"176\" width=\"216\" height=\"208\" rx=\"28\" fill=\"currentColor\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"28\" d=\"M320 224h28a52 52 0 0 1 0 104h-28\"/><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"20\" stroke-linecap=\"round\" d=\"M168 92c-18 22 18 40 0 60M248 92c-18 22 18 40 0 60\"/></svg>",
   "title": "Затишок",
   "lang": "uk",
-  "updated_at": "2026-11-16T01:41:57Z",
+  "updated_at": "2026-11-17T04:25:17Z",
   "items": [
+    {
+      "id": 6615,
+      "media_type": "movie",
+      "title": "Ларс і справжня дівчина",
+      "original_title": "Lars and the Real Girl",
+      "overview": "Ларс – милий і дуже сором’язливий хлопець, що живе у маленькому містечку на півночі Америки. Хлопець вважає, що йому надзвичайно поталанило, адже він нарешті знайшов кохання усього свого життя. І все було б чудово, якби не одна проблема: ця дівчина не людина. Вона - лялька кохання, яку Ларс замовив у Інтернеті…",
+      "poster_path": "/tLeWWYqPSUpU1tjyEDjBX1pPlfb.jpg",
+      "backdrop_path": "/2KeicelocjfYzViherowQn69moR.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 7.213,
+      "vote_count": 2226,
+      "release_date": "2007-10-12"
+    },
+    {
+      "id": 44379,
+      "media_type": "movie",
+      "title": "Збирачі та збирачка",
+      "original_title": "Les Glaneurs et la Glaneuse",
+      "overview": "Варда зосереджує свій погляд на збирачах: тих, хто прочісує вже зібрані поля в пошуках випадкової картоплини чи ріпи. Її розслідування веде від забутих куточків французької сільської місцевості до неробочих годин на зелених ринках Парижа, слідуючи за тими, хто наполегливо шукає застосування тому, від чого суспільство відмовилося, чи то через необхідність, чи то через активізм.",
+      "poster_path": "/eDwM5Gr5QSZbf7vrCXdxfmZKk9z.jpg",
+      "backdrop_path": "/yvafnYvrxnwD3MrXcc18sUrkHqU.jpg",
+      "genre_ids": [
+        99
+      ],
+      "vote_average": 7.651,
+      "vote_count": 235,
+      "release_date": "2000-07-07"
+    },
+    {
+      "id": 404,
+      "media_type": "movie",
+      "title": "Проста історія",
+      "original_title": "The Straight Story",
+      "overview": "Елвін Стрейт, старий, що пройшов Другу Світову Війну, живе в Айові разом з дочкою Розою. Одного разу він дізнається, що у його рідного брата Лайла, що живе за 317 миль у Вісконсині, трапився інсульт. Намагаючись забути про давню ворожнечу, Елвін хоче навідати до нього. Однак через поганий зір Елвін не має водійських прав, а автобуси не ходять до місця проживання брата. Тому він вирушає в дорогу на старій газонокосарці 1966 року, купленій перед поїздкою...",
+      "poster_path": "/fgV0xzb2maGImL2SCSjZmFZobg3.jpg",
+      "backdrop_path": "/1S81PpyGwS8eVx4W75uSKzMw4B0.jpg",
+      "genre_ids": [
+        18
+      ],
+      "vote_average": 7.737,
+      "vote_count": 1924,
+      "release_date": "1999-10-15"
+    },
+    {
+      "id": 54898,
+      "media_type": "movie",
+      "title": "Зелений промінь",
+      "original_title": "Le Rayon vert",
+      "overview": "Надворі літо, а у Дельфін відпустка. Вона б кудись поїхала, але немає з ким. У неї не виходить контачити з людьми, а лишатися самій надто печально. Чи зустріне вона того самого?",
+      "poster_path": "/cvC5az3i2kIHn3YgeNcRRp1kTXy.jpg",
+      "backdrop_path": "/jfDTQuovn57QIBvoGDom6FNQrkl.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "vote_average": 7.5,
+      "vote_count": 295,
+      "release_date": "1986-08-29"
+    },
     {
       "id": 995133,
       "media_type": "movie",
@@ -41,24 +103,6 @@
       "release_date": "2006-09-09"
     },
     {
-      "id": 13396,
-      "media_type": "movie",
-      "title": "Сніговик",
-      "original_title": "The Snowman",
-      "overview": "Один з найдобріших мультфільмів знятий за чарівної книгою Реймонда Бріґcа - Сніговик / The Snowman, розповідає про маленького хлопчину і чарівного сніговика, якого він зробив напередодні Різдва, і про їхні дивовижні пригоди у Різдвяну Ніч.",
-      "poster_path": "/b3CMolkeXrPaVvd5vTsssMKfZZo.jpg",
-      "backdrop_path": "/aNCGvBqqrc9L6JKgujYkc2EKbXH.jpg",
-      "genre_ids": [
-        12,
-        16,
-        10751,
-        14
-      ],
-      "vote_average": 7.6,
-      "vote_count": 375,
-      "release_date": "1982-12-26"
-    },
-    {
       "id": 392011,
       "media_type": "movie",
       "title": "Королівство котів",
@@ -72,21 +116,6 @@
       "vote_average": 7.51,
       "vote_count": 384,
       "release_date": "2017-01-08"
-    },
-    {
-      "id": 44379,
-      "media_type": "movie",
-      "title": "Збирачі та збирачка",
-      "original_title": "Les Glaneurs et la Glaneuse",
-      "overview": "Варда зосереджує свій погляд на збирачах: тих, хто прочісує вже зібрані поля в пошуках випадкової картоплини чи ріпи. Її розслідування веде від забутих куточків французької сільської місцевості до неробочих годин на зелених ринках Парижа, слідуючи за тими, хто наполегливо шукає застосування тому, від чого суспільство відмовилося, чи то через необхідність, чи то через активізм.",
-      "poster_path": "/eDwM5Gr5QSZbf7vrCXdxfmZKk9z.jpg",
-      "backdrop_path": "/yvafnYvrxnwD3MrXcc18sUrkHqU.jpg",
-      "genre_ids": [
-        99
-      ],
-      "vote_average": 7.651,
-      "vote_count": 235,
-      "release_date": "2000-07-07"
     },
     {
       "id": 448491,
